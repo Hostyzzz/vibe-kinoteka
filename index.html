@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Вайб-кинотека Хахузы — 1317 фильмов, каждый просмотрен лично. Подбор по настроению.">
+<title>🎬 Вайб-кинотека Хахузы</title>
+<style>
+  :root {
+    --bg: #0d0d0d;
+    --card: #1a1a1a;
+    --accent: #e94560;
+    --gold: #f0a500;
+    --text: #e0e0e0;
+    --muted: #888;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Hero */
+  .hero {
+    text-align: center;
+    padding: 60px 20px 30px;
+    max-width: 700px;
+  }
+  .hero h1 {
+    font-size: 42px;
+    font-weight: 900;
+    letter-spacing: -1px;
+    margin-bottom: 8px;
+  }
+  .hero h1 .emoji { font-size: 38px; }
+  .hero .tagline {
+    color: var(--muted);
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  .hero .tagline em {
+    color: var(--accent);
+    font-style: normal;
+  }
+
+  /* Search */
+  .search-wrap {
+    width: 100%;
+    max-width: 620px;
+    padding: 0 20px;
+    margin-bottom: 10px;
+  }
+  .search-box {
+    display: flex;
+    gap: 10px;
+    background: var(--card);
+    border: 1px solid #333;
+    border-radius: 16px;
+    padding: 6px;
+    transition: border-color 0.2s;
+  }
+  .search-box:focus-within {
+    border-color: var(--accent);
+  }
+  .search-box input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding: 12px 14px;
+    outline: none;
+    font-family: inherit;
+  }
+  .search-box input::placeholder { color: #555; }
+  .search-box button {
+    padding: 12px 24px;
+    background: var(--accent);
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 0.2s;
+    font-family: inherit;
+    white-space: nowrap;
+  }
+  .search-box button:hover { background: #c23152; }
+  .search-box button:disabled { opacity: 0.5; cursor: default; }
+
+  /* Example chips */
+  .examples {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    max-width: 620px;
+    padding: 0 20px;
+    margin-bottom: 30px;
+  }
+  .chip {
+    padding: 6px 14px;
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 20px;
+    font-size: 13px;
+    color: #aaa;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  .chip:hover {
+    border-color: var(--gold);
+    color: var(--gold);
+  }
+
+  /* Result */
+  .result-wrap {
+    width: 100%;
+    max-width: 640px;
+    padding: 0 20px;
+    margin-bottom: 40px;
+  }
+  .movie-card {
+    background: var(--card);
+    border: 1px solid #2a2a2a;
+    border-radius: 18px;
+    overflow: hidden;
+    animation: slideUp 0.4s ease;
+  }
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .movie-header {
+    display: flex;
+    gap: 20px;
+    padding: 24px;
+    align-items: flex-start;
+  }
+  .movie-poster {
+    width: 100px;
+    height: 148px;
+    background: #0f0f0f;
+    border-radius: 10px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+    border: 1px solid #2a2a2a;
+  }
+  .movie-info { flex: 1; min-width: 0; }
+  .movie-info h2 {
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 2px;
+    letter-spacing: -0.5px;
+  }
+  .movie-info .year {
+    color: var(--muted);
+    font-size: 15px;
+    margin-bottom: 2px;
+  }
+  .movie-info .director {
+    color: var(--muted);
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+  .movie-info .director span { color: #ccc; }
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+  .tag {
+    padding: 3px 10px;
+    background: #2a1a20;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 600;
+  }
+  .tag.gold {
+    background: #2a2010;
+    border-color: var(--gold);
+    color: var(--gold);
+  }
+  .why {
+    background: #0f0f0f;
+    padding: 16px 24px;
+    border-top: 1px solid #222;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #bbb;
+  }
+  .why strong { color: var(--gold); }
+  .extra-movies {
+    margin-top: 12px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .extra-chip {
+    padding: 8px 16px;
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 12px;
+    font-size: 13px;
+    color: #aaa;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  .extra-chip:hover {
+    border-color: var(--accent);
+    color: white;
+  }
+
+  /* States */
+  .thinking {
+    text-align: center;
+    padding: 30px;
+    color: var(--muted);
+    font-style: italic;
+  }
+  .thinking .dots::after {
+    content: '';
+    animation: dots 1.5s steps(4, end) infinite;
+  }
+  @keyframes dots {
+    0% { content: ''; }
+    25% { content: '.'; }
+    50% { content: '..'; }
+    75% { content: '...'; }
+  }
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--muted);
+  }
+  .empty-state .big-emoji { font-size: 56px; margin-bottom: 12px; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1><span class="emoji">🎬</span> Вайб-кинотека Хахузы</h1>
+  <p class="tagline">
+    Опиши <em>настроение</em>, <em>состояние</em> или <em>вайб</em> — получи фильм, который попадёт в точку.<br>
+    <span style="color:#4ecca3">✓</span> В базе 1317 фильмов — и каждый я <strong>смотрел лично</strong>. Не алгоритм, не рейтинг — живой вкус.
+  </p>
+</div>
+
+<div class="search-wrap">
+  <div class="search-box">
+    <input
+      type="text"
+      id="searchInput"
+      placeholder="Например: устал от вечной беготни, хочу тишины..."
+      autocomplete="off"
+    />
+    <button id="searchBtn" onclick="findMovie()">🎯 Подобрать</button>
+  </div>
+</div>
+
+<div class="examples" id="vibeChips"></div>
+
+<div class="result-wrap" id="resultWrap">
+  <div class="empty-state">
+    <div class="big-emoji">🎥</div>
+    <p>Напиши что чувствуешь — я подберу кино.</p>
+  </div>
+</div>
+
+<script>
+// movieDB loaded from films-data.js
+</script>
+<script src="films-data.js"></script>
+<script>
+// ===== ПОИСК =====
+function matchScore(movie, query) {
+  const q = query.toLowerCase();
+  let score = 0;
+  const allText = [...movie.vibes, ...movie.tags, ...(movie.location || []), movie.title.toLowerCase(), movie.why || ''].join(' ');
+
+  const stopWords = new Set(['хочу', 'дай', 'покажи', 'нужен', 'нужна', 'нужно', 'надо', 'ищу', 'подбери', 'посоветуй', 'что', 'какой', 'какая', 'какое', 'мне', 'я', 'бы', 'чтоб', 'чтобы', 'просто', 'очень', 'вообще', 'в', 'на', 'с', 'и', 'а', 'но']);
+  const qWords = q.split(/[\s,]+/).filter(w => w.length > 1 && !stopWords.has(w.toLowerCase()));
+  let matchedWords = 0;
+
+  for (const w of qWords) {
+    let matched = false;
+    // Точное совпадение в любом поле
+    if (allText.includes(w)) { score += 3; matched = true; }
+    // Нечёткое в вибсах
+    if (w.length > 3) {
+      for (const vibe of movie.vibes) {
+        if (vibe.includes(w) || w.includes(vibe.slice(0, Math.min(vibe.length, w.length)))) {
+          score += 1; matched = true;
+        }
+      }
+    }
+    if (matched) matchedWords++;
+  }
+
+  // Финальный счёт = базовый × покрытие запроса
+  // Фильм ответивший на 2 из 3 слов всегда лучше ответившего на 1 из 3
+  const coverage = qWords.length > 0 ? matchedWords / qWords.length : 1;
+  score = Math.round(score * coverage);
+
+  // Гео-бонус: прямое совпадение с локацией фильма = +10
+  if (movie.location) {
+    for (const w of qWords) {
+      if (movie.location.some(loc => loc.toLowerCase().includes(w) || w.includes(loc.toLowerCase()))) {
+        score += 10;
+        break;
+      }
+    }
+  }
+
+  // Бонус за ключевые фразы
+  const phrases = [
+    ['устал', 'беготн', 'сует', 'тишин', 'спокойств', 'медлен'],
+    ['ночн', 'дожд', 'одиноч', 'неон', 'город'],
+    ['влюб', 'жизн', 'тепл', 'уют', 'радост', 'добр'],
+    ['тревож', 'трево', 'стресс', 'бездн'],
+    ['красот', 'эстетик', 'стил', 'визуал'],
+    ['азиат', 'япон', 'корей', 'токи'],
+    ['трип', 'психодел', 'сюрреал', 'стран'],
+    ['эпическ', 'масштаб', 'большо'],
+    ['меланхол', 'груст', 'печал', 'хандра'],
+    ['смешн', 'комеди', 'ржа', 'юмор'],
+    ['энерг', 'драйв', 'мотивац', 'пинок'],
+    ['смысл', 'выгоран', 'кризис', 'зачем'],
+  ];
+  for (const group of phrases) {
+    if (group.some(p => q.includes(p))) {
+      for (const vibe of movie.vibes) {
+        if (group.some(p => vibe.includes(p))) score += 5;
+      }
+      for (const tag of movie.tags) {
+        if (group.some(p => tag.toLowerCase().includes(p))) score += 3;
+      }
+    }
+  }
+
+  return score;
+}
+
+function findMovie() {
+  const input = document.getElementById('searchInput');
+  const query = input.value.trim();
+  if (!query) return;
+
+  const btn = document.getElementById('searchBtn');
+  btn.disabled = true;
+  btn.textContent = '⏳';
+
+  // Показать "думаю"
+  const wrap = document.getElementById('resultWrap');
+  wrap.innerHTML = '<div class="thinking">Ищу твой вайб<span class="dots"></span></div>';
+
+  setTimeout(() => {
+    // Считаем очки
+    const scored = movieDB.map(m => ({ movie: m, score: matchScore(m, query) }));
+    scored.sort((a, b) => b.score - a.score);
+
+    // Берём топ-1 и ещё 2 альтернативы
+    const top = scored[0];
+    const alternatives = scored.slice(1, 4).filter(s => s.score > 0).map(s => s.movie);
+
+    if (top.score === 0) {
+      wrap.innerHTML = `
+        <div class="empty-state">
+          <div class="big-emoji">🤔</div>
+          <p>Сложный вайб! Попробуй описать иначе:<br>больше <em>настроения</em>, меньше конкретики.</p>
+        </div>`;
+    } else {
+      const m = top.movie;
+      const altHTML = alternatives.length > 0 ? `
+        <div class="extra-movies">
+          <span style="color:#888;font-size:12px;">Ещё в этот вайб:</span>
+          ${alternatives.map(a => `
+            <span class="extra-chip" onclick="quickPick('${a.title.replace(/'/g, "\\'")}')">
+              ${a.poster} ${a.title} (${a.year})
+            </span>
+          `).join('')}
+        </div>` : '';
+
+      wrap.innerHTML = `
+        <div class="movie-card">
+          <div class="movie-header">
+            <div class="movie-poster">${m.poster}</div>
+            <div class="movie-info">
+              <h2>${m.title}</h2>
+              <div class="year">${m.year}</div>
+              ${m.tags && m.tags.length ? `
+              <div class="tags">
+                ${m.tags.map(t => `<span class="tag${Math.random() > 0.5 ? ' gold' : ''}">${t}</span>`).join('')}
+              </div>` : ''}
+              ${m.location && m.location.length ? `
+              <div class="tags" style="margin-top:4px">
+                ${m.location.map(l => `<span class="tag gold" style="font-size:10px">📍 ${l}</span>`).join('')}
+              </div>` : ''}
+            </div>
+          </div>
+          ${m.why ? `
+          <div class="why">
+            <strong>Почему он:</strong> ${m.why}
+          </div>` : ''}
+          <div class="why" style="border-top:1px solid #222;padding-top:12px;margin-top:8px;font-size:12px;color:#666;">
+            🎬 Из личной коллекции <a href="https://t.me/pokanevkino" target="_blank" style="color:#e94560;text-decoration:none;">@pokanevkino</a> — 1317 фильмов, каждый просмотрен
+          </div>
+          ${altHTML}
+        </div>`;
+    }
+
+    btn.disabled = false;
+    btn.textContent = '🎯 Подобрать';
+  }, 800 + Math.random() * 700);
+}
+
+// Enter = поиск
+document.getElementById('searchInput').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') findMovie();
+});
+
+// Рандомные чипы из базы
+const vibeChipPool = [
+  'устал от беготни, хочу тишины',
+  'ночной город, дождь, одиночество',
+  'хочу влюбиться в жизнь заново',
+  'тревожно, нужен уют и тепло',
+  'всё достало, дайте красоты',
+  'хочу азиатской меланхолии',
+  'эстетика 80-х, синты, неон',
+  'покажите мне трип без наркотиков',
+  'нужен пинок и мотивация',
+  'хочу чтобы мозг взорвался',
+  'одиноко, хочу красивого',
+  'дай мне что-то тёплое и уютное',
+  'хочу эпического размаха',
+  'покажи мне безумие',
+  'нужен фильм под пиво и чипсы',
+  'дай что-то стильное и красивое',
+  'хочу поплакать, но красиво',
+  'нужна сказка для взрослых',
+  'покажи мне что-то странное',
+  'хочу ретро-вайб и неон',
+  'нужен уютный детектив',
+  'космос, тишина, одиночество',
+  'Париж, дождь, меланхолия',
+  'хочу корейского стиля',
+  'нужен фильм-праздник',
+  'всё заебало, хочу в горы',
+  'дай мне Лос-Анджелес и закаты',
+  'хочу японской эстетики',
+  'покажи мне идеальную пару',
+  'нужен нуар и сигаретный дым',
+];
+
+function shuffleChips() {
+  const pool = [...vibeChipPool];
+  for (let i = pool.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pool[i], pool[j]] = [pool[j], pool[i]];
+  }
+  const chips = pool.slice(0, 8);
+  const container = document.getElementById('vibeChips');
+  container.innerHTML = chips.map(v =>
+    `<span class="chip" onclick="chipClick(this)">${v}</span>`
+  ).join('');
+}
+shuffleChips();
+
+// Чипы
+function chipClick(el) {
+  document.getElementById('searchInput').value = el.textContent;
+  findMovie();
+}
+
+function quickPick(title) {
+  document.getElementById('searchInput').value = title;
+  findMovie();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+</script>
+</body>
+</html>
