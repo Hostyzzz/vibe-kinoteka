@@ -287,8 +287,11 @@
 
 <div class="examples" id="vibeChips"></div>
 
-<div style="text-align:center;padding:0 16px 20px;font-size:12px;color:#666;">
-  По вопросам и пожеланиям — <a href="https://t.me/pokanevkino" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:600;">@pokanevkino</a>
+<div style="text-align:center;padding:0 16px 20px;">
+  <div style="font-size:11px;color:#555;margin-bottom:4px;">🎬 Из личной коллекции Хахузы</div>
+  <div style="font-size:12px;" id="ctaLine">
+    <a href="https://t.me/pokanevkino" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:600;">@pokanevkino</a>
+  </div>
 </div>
 
 <div class="result-wrap" id="resultWrap">
@@ -497,6 +500,36 @@ function quickPick(title) {
   findMovie();
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
+
+// Рофло-предлоги подписаться
+const ctaReasons = [
+  'подпишись если любишь маму',
+  'подпишись и котик будет здоров',
+  'подпишись а то бабка проклянёт',
+  'подпишись и пиво всегда холодное',
+  'подпишись и Тарантино тебе позвонит',
+  'подпишись чтоб холодильник не гудел',
+  'подпишись и доширак станет рамёном',
+  'подпишись и Скорсезе лайкнет твой сторис',
+  'подпишись пока индусы не купили канал',
+  'подпишись и спина болеть перестанет',
+  'подпишись или Линч тебе приснится',
+  'подпишись и Netflix купит твой сценарий',
+  'подпишись а то Кубрик перевернётся',
+  'подпишись и в кинотеатре всегда лучшие места',
+  'подпишись и попкорн никогда не подгорит',
+  'подпишись и Хаяо Миядзаки выйдет на пенсию позже',
+  'подпишись чтоб твой кот начал смотреть кино с тобой',
+  'подпишись и больше никогда не наступишь на лего',
+  'подпишись и Гослинг сыграет в твоём фильме',
+  'подпишись и Вильнёв снимет четвёртую Дюну',
+  'подпишись а то Нолан уйдёт в тикток',
+  'подпишись и шаверма всегда с чесночным соусом',
+  'подпишись чтоб Яндекс не вис на маршруте',
+  'подпишись и следующий твой фильм — шедевр',
+];
+document.getElementById('ctaLine').innerHTML =
+  `<a href="https://t.me/pokanevkino" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:600;">@pokanevkino</a> <span style="color:#555;">· ${ctaReasons[Math.floor(Math.random() * ctaReasons.length)]}</span>`;
 
 // Telegram WebApp
 if (window.Telegram && window.Telegram.WebApp) {
