@@ -368,12 +368,14 @@ function matchScore(movie, query) {
     }
   }
 
-  // Director bonus (handles cases like нолана → нолан)
+  // Director bonus (only if word NOT in title — prevent "скотт" matching Ridley Scott over Scott Pilgrim)
   if (movie.director) {
     const dirLow = movie.director.toLowerCase();
+    const titleLow = movie.title.toLowerCase() + ' ' + (movie.title_ru || '').toLowerCase();
     const dirParts = dirLow.split(', ').join(' ').split(' ');
     for (const w of qWords) {
       if (w.length < 3) continue;
+      if (titleLow.includes(w)) continue; // word is in title, don't use for director
       if (dirParts.some(dp => dp.length >= 4 && (w.startsWith(dp) || dp.startsWith(w)))) {
         score += 15; matchedWords++;
       }
