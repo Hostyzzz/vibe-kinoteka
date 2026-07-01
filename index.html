@@ -356,12 +356,15 @@ function matchScore(movie, query) {
   ];
   for (const group of phrases) {
     if (group.some(p => q.includes(p))) {
+      let groupMatched = false;
       for (const vibe of movie.vibes) {
-        if (group.some(p => vibe.includes(p))) score += 5;
+        if (group.some(p => vibe.includes(p))) { score += 5; groupMatched = true; }
       }
       for (const tag of movie.tags) {
-        if (group.some(p => tag.toLowerCase().includes(p))) score += 3;
+        if (group.some(p => tag.toLowerCase().includes(p))) { score += 3; groupMatched = true; }
       }
+      // Penalize if query has this vibe but film doesn't match it
+      if (!groupMatched) score -= 15;
     }
   }
 

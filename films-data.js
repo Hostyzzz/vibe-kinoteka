@@ -29,7 +29,8 @@ var movieDB = [
     "poster_path": "/9xL2PwIOerz8jld06J9cxwuJfoD.jpg",
     "rating": 8.492,
     "votes": 20797,
-    "imdb_id": "tt6751668"
+    "imdb_id": "tt6751668",
+    "director": "Пон Джун Хо"
   },
   {
     "title": "Knives Out",
@@ -58,7 +59,8 @@ var movieDB = [
     "poster_path": "/mGfb75tcFWxuT8esS1isHrNFE90.jpg",
     "rating": 7.8,
     "votes": 14103,
-    "imdb_id": "tt8946378"
+    "imdb_id": "tt8946378",
+    "director": "Райан Джонсон"
   },
   {
     "title": "Pulp Fiction",
@@ -93,7 +95,8 @@ var movieDB = [
     "poster_path": "/dzkW0SKRUaQ46PruMA9lQscgQl4.jpg",
     "rating": 8.482,
     "votes": 30350,
-    "imdb_id": "tt0110912"
+    "imdb_id": "tt0110912",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Inception",
@@ -130,7 +133,8 @@ var movieDB = [
     "poster_path": "/piQXcdOGgv1O9HQ07pI0tnjkGJw.jpg",
     "rating": 8.372,
     "votes": 39441,
-    "imdb_id": "tt1375666"
+    "imdb_id": "tt1375666",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Spider-Man: Into the Spider-Verse",
@@ -158,7 +162,8 @@ var movieDB = [
     "poster_path": "/wmEKJr81CABBU68Qy2wYPwQHn0L.jpg",
     "rating": 8.392,
     "votes": 17344,
-    "imdb_id": "tt4633694"
+    "imdb_id": "tt4633694",
+    "director": "Боб Персичетти, Питер Рэмси, Родни Ротман"
   },
   {
     "title": "Fight Club",
@@ -193,7 +198,8 @@ var movieDB = [
     "poster_path": "/66RvLrRJTm4J8l3uHXWF09AICol.jpg",
     "rating": 8.438,
     "votes": 32244,
-    "imdb_id": "tt0137523"
+    "imdb_id": "tt0137523",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "The Dark Knight",
@@ -229,7 +235,8 @@ var movieDB = [
     "poster_path": "/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
     "rating": 8.531,
     "votes": 35988,
-    "imdb_id": "tt0468569"
+    "imdb_id": "tt0468569",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Once Upon a Time... in Hollywood",
@@ -261,7 +268,8 @@ var movieDB = [
     "poster_path": "/muqDW2S3rkZKAVLv4TE47IYg3O6.jpg",
     "rating": 7.421,
     "votes": 14913,
-    "imdb_id": "tt7131622"
+    "imdb_id": "tt7131622",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "The Grand Budapest Hotel",
@@ -296,7 +304,8 @@ var movieDB = [
     "poster_path": "/5qFxj03eBrkI0bUiGIonb4e0AI4.jpg",
     "rating": 8.027,
     "votes": 16174,
-    "imdb_id": "tt2278388"
+    "imdb_id": "tt2278388",
+    "director": "Уэс Андерсон"
   },
   {
     "title": "La La Land",
@@ -331,7 +340,8 @@ var movieDB = [
     "poster_path": "/g7f8GdnJKS0Z3QJ5G6P9BZrqs36.jpg",
     "rating": 7.9,
     "votes": 18177,
-    "imdb_id": "tt3783958"
+    "imdb_id": "tt3783958",
+    "director": "Дэмьен Шазелл"
   },
   {
     "title": "Interstellar",
@@ -366,7 +376,8 @@ var movieDB = [
     "poster_path": "/vReLRjDV9XPhiOSEW7QWow4DXwf.jpg",
     "rating": 8.479,
     "votes": 40145,
-    "imdb_id": "tt0816692"
+    "imdb_id": "tt0816692",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Avengers: Infinity War",
@@ -397,7 +408,8 @@ var movieDB = [
     "poster_path": "/c6RSGB6O0RaaHG3JGLq8lnUJSBC.jpg",
     "rating": 8.238,
     "votes": 32184,
-    "imdb_id": "tt4154756"
+    "imdb_id": "tt4154756",
+    "director": "Энтони Руссо, Джо Руссо"
   },
   {
     "title": "The Shining",
@@ -433,7 +445,8 @@ var movieDB = [
     "poster_path": "/bu3Qb0fpAFtTLcRAPgj8bK5KrIG.jpg",
     "rating": 8.203,
     "votes": 19012,
-    "imdb_id": "tt0081505"
+    "imdb_id": "tt0081505",
+    "director": "Стэнли Кубрик"
   },
   {
     "title": "The Wolf of Wall Street",
@@ -468,7 +481,8 @@ var movieDB = [
     "poster_path": "/ihlWMaVZVXFzxU5wwZnbHJZ7Zpx.jpg",
     "rating": 8.027,
     "votes": 26036,
-    "imdb_id": "tt0993846"
+    "imdb_id": "tt0993846",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "Baby Driver",
@@ -494,7 +508,8 @@ var movieDB = [
     "poster_path": "/rKfAeHAdN6AswpW1Q1kOD8cZD5.jpg",
     "rating": 7.444,
     "votes": 16893,
-    "imdb_id": "tt3890160"
+    "imdb_id": "tt3890160",
+    "director": "Эдгар Райт"
   },
   {
     "title": "Inglourious Basterds",
@@ -529,7 +544,8 @@ var movieDB = [
     "poster_path": "/cUWnHMRFC1fVQDALtUaGmrJ6MqP.jpg",
     "rating": 8.2,
     "votes": 24302,
-    "imdb_id": "tt0361748"
+    "imdb_id": "tt0361748",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Avengers: Endgame",
@@ -560,7 +576,8 @@ var movieDB = [
     "poster_path": "/dynnf8NGGfHTNMz8Vd3CzFtYjec.jpg",
     "rating": 8.237,
     "votes": 27926,
-    "imdb_id": "tt4154796"
+    "imdb_id": "tt4154796",
+    "director": "Джо Руссо, Энтони Руссо"
   },
   {
     "title": "Black Panther",
@@ -591,7 +608,8 @@ var movieDB = [
     "poster_path": "/ndpwgAANbZSMwgTcxmQ7o4SKDsd.jpg",
     "rating": 7.364,
     "votes": 23561,
-    "imdb_id": "tt1825683"
+    "imdb_id": "tt1825683",
+    "director": "Райан Куглер"
   },
   {
     "title": "Dune",
@@ -624,7 +642,8 @@ var movieDB = [
     "poster_path": "/3hbXNclcHaj5KiF6kK41GBMjyFr.jpg",
     "rating": 7.78,
     "votes": 15012,
-    "imdb_id": "tt1160419"
+    "imdb_id": "tt1160419",
+    "director": "Дени Вильнёв"
   },
   {
     "title": "Whiplash",
@@ -658,7 +677,8 @@ var movieDB = [
     "poster_path": "/nq3mYsTXx6086nFXxzDReQI0J1S.jpg",
     "rating": 8.375,
     "votes": 16717,
-    "imdb_id": "tt2582802"
+    "imdb_id": "tt2582802",
+    "director": "Дэмьен Шазелл"
   },
   {
     "title": "Spirited Away",
@@ -692,7 +712,8 @@ var movieDB = [
     "poster_path": "/5TC0SLHRu19fHdigQnxONjwq1iE.jpg",
     "rating": 8.5,
     "votes": 18461,
-    "imdb_id": "tt0245429"
+    "imdb_id": "tt0245429",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "The Social Network",
@@ -726,7 +747,8 @@ var movieDB = [
     "poster_path": "/mS14zRPoZxR7bmJ9m9JQT72cS3v.jpg",
     "rating": 7.375,
     "votes": 13222,
-    "imdb_id": "tt1285016"
+    "imdb_id": "tt1285016",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "The Matrix",
@@ -756,7 +778,8 @@ var movieDB = [
     "poster_path": "/kEDbym5htJgDQNenjUtSJxAHysB.jpg",
     "rating": 8.25,
     "votes": 28095,
-    "imdb_id": "tt0133093"
+    "imdb_id": "tt0133093",
+    "director": "Ларри Вачовски, Энди Вачовски"
   },
   {
     "title": "Eternal Sunshine of the Spotless Mind",
@@ -787,7 +810,8 @@ var movieDB = [
     "poster_path": "/sigtn1tCMBOcHUB4kAMapb5tO4U.jpg",
     "rating": 8.1,
     "votes": 16412,
-    "imdb_id": "tt0338013"
+    "imdb_id": "tt0338013",
+    "director": "Michel Gondry"
   },
   {
     "title": "Guardians of the Galaxy",
@@ -818,7 +842,8 @@ var movieDB = [
     "poster_path": "/4uVdNj0FWCjtG1jEYASuNzE33LS.jpg",
     "rating": 7.906,
     "votes": 29822,
-    "imdb_id": "tt2015381"
+    "imdb_id": "tt2015381",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "Arrival",
@@ -843,7 +868,8 @@ var movieDB = [
     "poster_path": "/3K1byNV0CfChvJFNbe2ZAkiro4U.jpg",
     "rating": 7.628,
     "votes": 19462,
-    "imdb_id": "tt2543164"
+    "imdb_id": "tt2543164",
+    "director": "Дени Вильнёв"
   },
   {
     "title": "Django Unchained",
@@ -873,7 +899,8 @@ var movieDB = [
     "poster_path": "/9TqgGueg974s9Vw3U1rCYK30QP3.jpg",
     "rating": 8.192,
     "votes": 28145,
-    "imdb_id": "tt1853728"
+    "imdb_id": "tt1853728",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "The Silence of the Lambs",
@@ -904,7 +931,8 @@ var movieDB = [
     "poster_path": "/5vhSSCYd6DIVleZBYDxdgzc6i8w.jpg",
     "rating": 8.3,
     "votes": 18088,
-    "imdb_id": "tt0102926"
+    "imdb_id": "tt0102926",
+    "director": "Джонатан Демми"
   },
   {
     "title": "Mad Max: Fury Road",
@@ -938,7 +966,8 @@ var movieDB = [
     "poster_path": "/8FM6AhLMX3X6OcZjfmH24F4rKMI.jpg",
     "rating": 7.634,
     "votes": 24177,
-    "imdb_id": "tt1392190"
+    "imdb_id": "tt1392190",
+    "director": "Джордж Миллер"
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -964,7 +993,8 @@ var movieDB = [
     "poster_path": "/qad0kyRLHG1Qccp2A0YCCUbvhiD.jpg",
     "rating": 7.933,
     "votes": 22134,
-    "imdb_id": "tt10872600"
+    "imdb_id": "tt10872600",
+    "director": "Джон Уоттс"
   },
   {
     "title": "Kill Bill: Vol. 1",
@@ -995,7 +1025,8 @@ var movieDB = [
     "poster_path": "/1VX7EXBro1ufMfxErlsgMyBc5bQ.jpg",
     "rating": 7.973,
     "votes": 19036,
-    "imdb_id": "tt0266697"
+    "imdb_id": "tt0266697",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Scott Pilgrim vs. the World",
@@ -1026,7 +1057,8 @@ var movieDB = [
     "poster_path": "/8luANhMDPdKxESb5j3nI0BVG149.jpg",
     "rating": 7.5,
     "votes": 8649,
-    "imdb_id": "tt0446029"
+    "imdb_id": "tt0446029",
+    "director": "Эдгар Райт"
   },
   {
     "title": "Spider-Man: Homecoming",
@@ -1057,7 +1089,8 @@ var movieDB = [
     "poster_path": "/gBCq5vt7XXUMjfxi2OguArduUKP.jpg",
     "rating": 7.33,
     "votes": 23260,
-    "imdb_id": "tt2250912"
+    "imdb_id": "tt2250912",
+    "director": "Джон Уоттс"
   },
   {
     "title": "Thor: Ragnarok",
@@ -1085,7 +1118,8 @@ var movieDB = [
     "poster_path": "/7pzUsnFD4T8Syeqaojcb9zheR3H.jpg",
     "rating": 7.581,
     "votes": 22087,
-    "imdb_id": "tt3501632"
+    "imdb_id": "tt3501632",
+    "director": "Тайка Вайтити"
   },
   {
     "title": "Forrest Gump",
@@ -1120,7 +1154,8 @@ var movieDB = [
     "poster_path": "/ejDjdjHHE1T0T7Bo8Ghj2y8gR02.jpg",
     "rating": 8.464,
     "votes": 29894,
-    "imdb_id": "tt0109830"
+    "imdb_id": "tt0109830",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Se7en",
@@ -1156,7 +1191,8 @@ var movieDB = [
     "poster_path": "/1e7WmKXLo6xqibkYBwwGWOcF43E.jpg",
     "rating": 8.381,
     "votes": 23232,
-    "imdb_id": "tt0114369"
+    "imdb_id": "tt0114369",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "Soul",
@@ -1187,7 +1223,8 @@ var movieDB = [
     "poster_path": "/jZkksyMZdTYw7fIVKyA95nFEPnt.jpg",
     "rating": 8.091,
     "votes": 11474,
-    "imdb_id": "tt2948372"
+    "imdb_id": "tt2948372",
+    "director": "Пит Доктер"
   },
   {
     "title": "Moonlight",
@@ -1218,7 +1255,8 @@ var movieDB = [
     "poster_path": "/8DD8b6jcAAWLFM55vM51UhYT42h.jpg",
     "rating": 7.358,
     "votes": 7558,
-    "imdb_id": "tt4975722"
+    "imdb_id": "tt4975722",
+    "director": "Барри Дженкинс"
   },
   {
     "title": "Black Swan",
@@ -1248,7 +1286,8 @@ var movieDB = [
     "poster_path": "/gaNI208wIqL1DD76pg1Mu6EM0hp.jpg",
     "rating": 7.685,
     "votes": 15614,
-    "imdb_id": "tt0947798"
+    "imdb_id": "tt0947798",
+    "director": "Даррен Аронофски"
   },
   {
     "title": "Dunkirk",
@@ -1281,7 +1320,8 @@ var movieDB = [
     "poster_path": "/aWcvjX8wKCqgaz1XwUS39BYWWW1.jpg",
     "rating": 7.452,
     "votes": 17628,
-    "imdb_id": "tt5013056"
+    "imdb_id": "tt5013056",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Coco",
@@ -1315,7 +1355,8 @@ var movieDB = [
     "poster_path": "/jvYsGaUqN8ymH696kRfVJjJ3GIl.jpg",
     "rating": 8.198,
     "votes": 21066,
-    "imdb_id": "tt2380307"
+    "imdb_id": "tt2380307",
+    "director": "Lee Unkrich"
   },
   {
     "title": "American Psycho",
@@ -1350,7 +1391,8 @@ var movieDB = [
     "poster_path": "/rdcBdnHY38yC08dVr5aFPChHwMM.jpg",
     "rating": 7.403,
     "votes": 12371,
-    "imdb_id": "tt0144084"
+    "imdb_id": "tt0144084",
+    "director": "Mary Harron"
   },
   {
     "title": "Us",
@@ -1374,7 +1416,8 @@ var movieDB = [
     "poster_path": "/n1SuhGckPF3KDeZF1xx8QZ0CG2L.jpg",
     "rating": 6.945,
     "votes": 8115,
-    "imdb_id": "tt6857112"
+    "imdb_id": "tt6857112",
+    "director": "Джордан Пил"
   },
   {
     "title": "Blade Runner 2049",
@@ -1408,7 +1451,8 @@ var movieDB = [
     "poster_path": "/fnIJeT9GZvscKm5PbmAvhTYDsLh.jpg",
     "rating": 7.596,
     "votes": 15241,
-    "imdb_id": "tt1856101"
+    "imdb_id": "tt1856101",
+    "director": "Дени Вильнёв"
   },
   {
     "title": "Star Wars",
@@ -1443,7 +1487,8 @@ var movieDB = [
     "poster_path": "/wPlD3Z5x0O92rsB44XKHKQijROM.jpg",
     "rating": 8.205,
     "votes": 22440,
-    "imdb_id": "tt0076759"
+    "imdb_id": "tt0076759",
+    "director": "Джордж Лукас"
   },
   {
     "title": "The Avengers",
@@ -1478,7 +1523,8 @@ var movieDB = [
     "poster_path": "/ztkYgL0zHJLnEPY5VabK9OlmXxx.jpg",
     "rating": 8.05,
     "votes": 38552,
-    "imdb_id": "tt0848228"
+    "imdb_id": "tt0848228",
+    "director": "Джосс Уидон"
   },
   {
     "title": "A Quiet Place",
@@ -1508,7 +1554,8 @@ var movieDB = [
     "poster_path": "/b6MMVZWO7LPITq9XS5a4R22CZjG.jpg",
     "rating": 7.393,
     "votes": 15411,
-    "imdb_id": "tt6644200"
+    "imdb_id": "tt6644200",
+    "director": "Джон Красински"
   },
   {
     "title": "Spider-Man: Far From Home",
@@ -1535,7 +1582,8 @@ var movieDB = [
     "poster_path": "/5OSCB19RavySNpaDGtPIuByDgoa.jpg",
     "rating": 7.4,
     "votes": 17040,
-    "imdb_id": "tt6320628"
+    "imdb_id": "tt6320628",
+    "director": "Джон Уоттс"
   },
   {
     "title": "Deadpool",
@@ -1566,7 +1614,8 @@ var movieDB = [
     "poster_path": "/r5PYZGOiIQuGpaZas9TTplNZ5Ox.jpg",
     "rating": 7.624,
     "votes": 32845,
-    "imdb_id": "tt1431045"
+    "imdb_id": "tt1431045",
+    "director": "Тим Миллер"
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -1593,7 +1642,8 @@ var movieDB = [
     "poster_path": "/mICmkjv3D5HYbp9if9d3WIVNZxL.jpg",
     "rating": 8.436,
     "votes": 27746,
-    "imdb_id": "tt0120737"
+    "imdb_id": "tt0120737",
+    "director": "Питер Джексон"
   },
   {
     "title": "Inside Out",
@@ -1624,7 +1674,8 @@ var movieDB = [
     "poster_path": "/8wukxopBFO2Vrf50jlLpbrfj4OB.jpg",
     "rating": 7.908,
     "votes": 23549,
-    "imdb_id": "tt2096673"
+    "imdb_id": "tt2096673",
+    "director": "Пит Доктер"
   },
   {
     "title": "Shutter Island",
@@ -1655,7 +1706,8 @@ var movieDB = [
     "poster_path": "/3UVMyefkUBiktshtKIEnNXvOFKH.jpg",
     "rating": 8.198,
     "votes": 25960,
-    "imdb_id": "tt1130884"
+    "imdb_id": "tt1130884",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "Star Wars: The Force Awakens",
@@ -1686,7 +1738,8 @@ var movieDB = [
     "poster_path": "/5ltRJxurOTIaMQwcOwSau7l3GME.jpg",
     "rating": 7.2,
     "votes": 20599,
-    "imdb_id": "tt2488496"
+    "imdb_id": "tt2488496",
+    "director": "Джей Джей Абрамс"
   },
   {
     "title": "The Shawshank Redemption",
@@ -1710,7 +1763,8 @@ var movieDB = [
     "poster_path": "/yvmKPlTIi0xdcFQIFcQKQJcI63W.jpg",
     "rating": 8.723,
     "votes": 30655,
-    "imdb_id": "tt0111161"
+    "imdb_id": "tt0111161",
+    "director": "Фрэнк Дарабонт"
   },
   {
     "title": "Tenet",
@@ -1740,7 +1794,8 @@ var movieDB = [
     "poster_path": "/1jU80STrosbPsiNe3oPpwyS5cXg.jpg",
     "rating": 7.2,
     "votes": 11163,
-    "imdb_id": "tt6723592"
+    "imdb_id": "tt6723592",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Back to the Future",
@@ -1769,7 +1824,8 @@ var movieDB = [
     "poster_path": "/eSaVxwfwl2KmcewzCve657ITDXk.jpg",
     "rating": 8.326,
     "votes": 21921,
-    "imdb_id": "tt0088763"
+    "imdb_id": "tt0088763",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Drive",
@@ -1804,7 +1860,8 @@ var movieDB = [
     "poster_path": "/gvMvTNojOtLpLONEogQsHCrqoYH.jpg",
     "rating": 7.583,
     "votes": 13696,
-    "imdb_id": "tt0780504"
+    "imdb_id": "tt0780504",
+    "director": "Николас Виндинг Рефн"
   },
   {
     "title": "Ratatouille",
@@ -1839,7 +1896,8 @@ var movieDB = [
     "poster_path": "/6u4JvZBiw1Uv6BgTlWNsFSSHlMn.jpg",
     "rating": 7.843,
     "votes": 18575,
-    "imdb_id": "tt0382932"
+    "imdb_id": "tt0382932",
+    "director": "Брэд Бёрд"
   },
   {
     "title": "The Empire Strikes Back",
@@ -1862,7 +1920,8 @@ var movieDB = [
     "poster_path": "/4P59R7RIuMX2wiT2AGsUBrKoQBG.jpg",
     "rating": 8.391,
     "votes": 18496,
-    "imdb_id": "tt0080684"
+    "imdb_id": "tt0080684",
+    "director": "Ирвин Кершнер"
   },
   {
     "title": "Guardians of the Galaxy Vol. 2",
@@ -1891,7 +1950,8 @@ var movieDB = [
     "poster_path": "/p9hLW1dQckYuNGomOgqaXFMXcmP.jpg",
     "rating": 7.61,
     "votes": 23008,
-    "imdb_id": "tt3896198"
+    "imdb_id": "tt3896198",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "Captain America: Civil War",
@@ -1922,7 +1982,8 @@ var movieDB = [
     "poster_path": "/7TWq9G7zU0lLG7WpMK6f5EQwwf2.jpg",
     "rating": 7.449,
     "votes": 24111,
-    "imdb_id": "tt3498820"
+    "imdb_id": "tt3498820",
+    "director": "Джо Руссо, Энтони Руссо"
   },
   {
     "title": "It",
@@ -1948,7 +2009,8 @@ var movieDB = [
     "poster_path": "/tM3xcPo8UNuJFCXO0CkmchBjPvd.jpg",
     "rating": 7.2,
     "votes": 20388,
-    "imdb_id": "tt1396484"
+    "imdb_id": "tt1396484",
+    "director": "Энди Мускетти"
   },
   {
     "title": "Doctor Strange",
@@ -1976,7 +2038,8 @@ var movieDB = [
     "poster_path": "/fR4oifDjoGFAyhWyPUl3h9H1xpQ.jpg",
     "rating": 7.422,
     "votes": 23505,
-    "imdb_id": "tt1211837"
+    "imdb_id": "tt1211837",
+    "director": "Скотт Дерриксон"
   },
   {
     "title": "Nightcrawler",
@@ -2007,7 +2070,8 @@ var movieDB = [
     "poster_path": "/be40RjPLLLkcn3AAkfYrJRv30gL.jpg",
     "rating": 7.709,
     "votes": 11784,
-    "imdb_id": "tt2872718"
+    "imdb_id": "tt2872718",
+    "director": "Дэн Гилрой"
   },
   {
     "title": "No Country for Old Men",
@@ -2043,7 +2107,8 @@ var movieDB = [
     "poster_path": "/yxQJriDjr16vj38nhhVqsdsk47L.jpg",
     "rating": 7.95,
     "votes": 13404,
-    "imdb_id": "tt0477348"
+    "imdb_id": "tt0477348",
+    "director": "Джоэл Коэн, Итан Коэн"
   },
   {
     "title": "Iron Man",
@@ -2070,7 +2135,8 @@ var movieDB = [
     "poster_path": "/wAKZudQn0HEXqLvaGN6BEripHbv.jpg",
     "rating": 7.7,
     "votes": 28249,
-    "imdb_id": "tt0371746"
+    "imdb_id": "tt0371746",
+    "director": "Джон Фавро"
   },
   {
     "title": "Star Wars: The Last Jedi",
@@ -2101,7 +2167,8 @@ var movieDB = [
     "poster_path": "/1vwfcOhwZGLfQXVRLfC3jOnU9jq.jpg",
     "rating": 6.749,
     "votes": 16392,
-    "imdb_id": "tt2527336"
+    "imdb_id": "tt2527336",
+    "director": "Райан Джонсон"
   },
   {
     "title": "WALL·E",
@@ -2132,7 +2199,8 @@ var movieDB = [
     "poster_path": "/uR79KoBwDMz1qbxwmuY0bpcDYtf.jpg",
     "rating": 8.114,
     "votes": 20404,
-    "imdb_id": "tt0910970"
+    "imdb_id": "tt0910970",
+    "director": "Эндрю Стэнтон"
   },
   {
     "title": "Captain America: The Winter Soldier",
@@ -2163,7 +2231,8 @@ var movieDB = [
     "poster_path": "/oOmp3YMBnJMa0yDHCbhTcWG4iTm.jpg",
     "rating": 7.7,
     "votes": 20078,
-    "imdb_id": "tt1843866"
+    "imdb_id": "tt1843866",
+    "director": "Джо Руссо, Энтони Руссо"
   },
   {
     "title": "Don't Look Up",
@@ -2192,7 +2261,8 @@ var movieDB = [
     "poster_path": "/nLWRxZYkUVM3gQNyF70jFMvImG3.jpg",
     "rating": 7.064,
     "votes": 9403,
-    "imdb_id": "tt11286314"
+    "imdb_id": "tt11286314",
+    "director": "Адам Маккей"
   },
   {
     "title": "The Shape of Water",
@@ -2222,7 +2292,8 @@ var movieDB = [
     "poster_path": "/1I3ayHlmm6U1DoSy9WW2ATOG7Xk.jpg",
     "rating": 7.236,
     "votes": 12894,
-    "imdb_id": "tt5580390"
+    "imdb_id": "tt5580390",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Blade Runner",
@@ -2253,7 +2324,8 @@ var movieDB = [
     "poster_path": "/dFzA82XdkobzdOjrYLMIfApzCVC.jpg",
     "rating": 7.936,
     "votes": 15065,
-    "imdb_id": "tt0083658"
+    "imdb_id": "tt0083658",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Birdman or (The Unexpected Virtue of Ignorance)",
@@ -2277,7 +2349,8 @@ var movieDB = [
     "poster_path": "/2jcHzgQX2kO6XWC3eLBgrESFqaO.jpg",
     "rating": 7.4,
     "votes": 13619,
-    "imdb_id": "tt2562232"
+    "imdb_id": "tt2562232",
+    "director": "Алехандро Гонсалес Иньярриту"
   },
   {
     "title": "Ex Machina",
@@ -2304,7 +2377,8 @@ var movieDB = [
     "poster_path": "/on9Uukj9GwrzVPYX7APHSZ5W8cc.jpg",
     "rating": 7.572,
     "votes": 14318,
-    "imdb_id": "tt0470752"
+    "imdb_id": "tt0470752",
+    "director": "Алекс Гарленд"
   },
   {
     "title": "Zodiac",
@@ -2339,7 +2413,8 @@ var movieDB = [
     "poster_path": "/1ypQRKw54EC29oPhEQBimxutulI.jpg",
     "rating": 7.531,
     "votes": 11612,
-    "imdb_id": "tt0443706"
+    "imdb_id": "tt0443706",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "Jurassic Park",
@@ -2373,7 +2448,8 @@ var movieDB = [
     "poster_path": "/qoDjoRP7vYmPZ1lZIMTGzoHG1iR.jpg",
     "rating": 7.97,
     "votes": 17949,
-    "imdb_id": "tt0107290"
+    "imdb_id": "tt0107290",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Harry Potter and the Prisoner of Azkaban",
@@ -2401,7 +2477,8 @@ var movieDB = [
     "poster_path": "/mncDize7FLO9RBovXKZ7LefUkbu.jpg",
     "rating": 8.008,
     "votes": 23257,
-    "imdb_id": "tt0304141"
+    "imdb_id": "tt0304141",
+    "director": "Альфонсо Куарон"
   },
   {
     "title": "Captain Marvel",
@@ -2429,7 +2506,8 @@ var movieDB = [
     "poster_path": "/khIspz4hW7RyEJag16UKYxI9fuP.jpg",
     "rating": 6.78,
     "votes": 16807,
-    "imdb_id": "tt4154664"
+    "imdb_id": "tt4154664",
+    "director": "Райан Флек, Анна Боден"
   },
   {
     "title": "Toy Story",
@@ -2460,7 +2538,8 @@ var movieDB = [
     "poster_path": "/gRLk7XpdRyNa697taDKtFx3l6qV.jpg",
     "rating": 7.979,
     "votes": 20055,
-    "imdb_id": "tt0114709"
+    "imdb_id": "tt0114709",
+    "director": "Джон Лассетер"
   },
   {
     "title": "Alien",
@@ -2488,7 +2567,8 @@ var movieDB = [
     "poster_path": "/6EXQpftMDnbEFu75fmRGGF6CuOT.jpg",
     "rating": 8.2,
     "votes": 16470,
-    "imdb_id": "tt0078748"
+    "imdb_id": "tt0078748",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Black Widow",
@@ -2517,7 +2597,8 @@ var movieDB = [
     "poster_path": "/mbtN6V6y5kdawvAkzqN4ohi576a.jpg",
     "rating": 7.166,
     "votes": 11293,
-    "imdb_id": "tt3480822"
+    "imdb_id": "tt3480822",
+    "director": "Кейт Шортланд"
   },
   {
     "title": "A Clockwork Orange",
@@ -2545,7 +2626,8 @@ var movieDB = [
     "poster_path": "/zKt39GtQwwUJV4fuJpmSER1P28e.jpg",
     "rating": 8.176,
     "votes": 13880,
-    "imdb_id": "tt0066921"
+    "imdb_id": "tt0066921",
+    "director": "Стэнли Кубрик"
   },
   {
     "title": "Fantastic Mr. Fox",
@@ -2576,7 +2658,8 @@ var movieDB = [
     "poster_path": "/6AAc0COuscZ3x1IGhlJdCQSLE7K.jpg",
     "rating": 7.823,
     "votes": 6149,
-    "imdb_id": "tt0432283"
+    "imdb_id": "tt0432283",
+    "director": "Уэс Андерсон"
   },
   {
     "title": "The Incredibles",
@@ -2607,7 +2690,8 @@ var movieDB = [
     "poster_path": "/nVJGGWCs8CQ41G4fzJoTttfCgpQ.jpg",
     "rating": 7.726,
     "votes": 18976,
-    "imdb_id": "tt0317705"
+    "imdb_id": "tt0317705",
+    "director": "Брэд Бёрд"
   },
   {
     "title": "Memento",
@@ -2631,7 +2715,8 @@ var movieDB = [
     "poster_path": "/sP3GaLR1kRz0Fj5exKJmYKvIYzz.jpg",
     "rating": 8.176,
     "votes": 16342,
-    "imdb_id": "tt0209144"
+    "imdb_id": "tt0209144",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Titanic",
@@ -2665,7 +2750,8 @@ var movieDB = [
     "poster_path": "/r3sYKBtoNHPyS9vkaA8dJyh8grG.jpg",
     "rating": 7.902,
     "votes": 27273,
-    "imdb_id": "tt0120338"
+    "imdb_id": "tt0120338",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Harry Potter and the Philosopher's Stone",
@@ -2690,7 +2776,8 @@ var movieDB = [
     "poster_path": "/q3LZNzwW7ZWu4kSFIPGcB5CYFE4.jpg",
     "rating": 7.899,
     "votes": 29713,
-    "imdb_id": "tt0241527"
+    "imdb_id": "tt0241527",
+    "director": "Крис Коламбус"
   },
   {
     "title": "The Lord of the Rings: The Return of the King",
@@ -2717,7 +2804,8 @@ var movieDB = [
     "poster_path": "/x6NqCWwU1SrQnvfdmVPAuATyUgD.jpg",
     "rating": 8.5,
     "votes": 26727,
-    "imdb_id": "tt0167260"
+    "imdb_id": "tt0167260",
+    "director": "Питер Джексон"
   },
   {
     "title": "Avengers: Age of Ultron",
@@ -2742,7 +2830,8 @@ var movieDB = [
     "poster_path": "/6rANrpZe3g2PPeF1m3lQUK1ovpW.jpg",
     "rating": 7.3,
     "votes": 24541,
-    "imdb_id": "tt2395427"
+    "imdb_id": "tt2395427",
+    "director": "Джосс Уидон"
   },
   {
     "title": "Spider-Man",
@@ -2772,7 +2861,8 @@ var movieDB = [
     "poster_path": "/uxNYgyfM9zeIQevvLON8zlPLocS.jpg",
     "rating": 7.333,
     "votes": 20775,
-    "imdb_id": "tt0145487"
+    "imdb_id": "tt0145487",
+    "director": "Сэм Рэйми"
   },
   {
     "title": "Logan",
@@ -2798,7 +2888,8 @@ var movieDB = [
     "poster_path": "/6FSoZ8mtEwPAO3k670G3yRaBpTK.jpg",
     "rating": 7.82,
     "votes": 20470,
-    "imdb_id": "tt3315342"
+    "imdb_id": "tt3315342",
+    "director": "Джеймс Мэнголд"
   },
   {
     "title": "The Martian",
@@ -2833,7 +2924,8 @@ var movieDB = [
     "poster_path": "/6U19srkH4wI6taluviXbVaIpsau.jpg",
     "rating": 7.701,
     "votes": 21336,
-    "imdb_id": "tt3659388"
+    "imdb_id": "tt3659388",
+    "director": "Ридли Скотт"
   },
   {
     "title": "The Dark Knight Rises",
@@ -2866,7 +2958,8 @@ var movieDB = [
     "poster_path": "/cAwasqprFijx73Hz9qMBcLyEA5N.jpg",
     "rating": 7.795,
     "votes": 24474,
-    "imdb_id": "tt1345836"
+    "imdb_id": "tt1345836",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Rogue One: A Star Wars Story",
@@ -2897,7 +2990,8 @@ var movieDB = [
     "poster_path": "/agKGn83Y380RKlakyVEIpTuMoA1.jpg",
     "rating": 7.5,
     "votes": 16473,
-    "imdb_id": "tt3748528"
+    "imdb_id": "tt3748528",
+    "director": "Гарет Эдвардс"
   },
   {
     "title": "The Revenant",
@@ -2933,7 +3027,8 @@ var movieDB = [
     "poster_path": "/gvWniVnehAkIAfy40VlcFy3vOef.jpg",
     "rating": 7.54,
     "votes": 19387,
-    "imdb_id": "tt1663202"
+    "imdb_id": "tt1663202",
+    "director": "Алехандро Гонсалес Иньярриту"
   },
   {
     "title": "The Lord of the Rings: The Two Towers",
@@ -2959,7 +3054,8 @@ var movieDB = [
     "poster_path": "/tGoC0XMAHrDm8iZlDWI4uk80kdo.jpg",
     "rating": 8.421,
     "votes": 24043,
-    "imdb_id": "tt0167261"
+    "imdb_id": "tt0167261",
+    "director": "Питер Джексон"
   },
   {
     "title": "Good Will Hunting",
@@ -2991,7 +3087,8 @@ var movieDB = [
     "poster_path": "/oUNOV8pKhvjLR4RzpkiwAH8i2Qh.jpg",
     "rating": 8.163,
     "votes": 13928,
-    "imdb_id": "tt0119217"
+    "imdb_id": "tt0119217",
+    "director": "Гас Ван Сент"
   },
   {
     "title": "Finding Nemo",
@@ -3026,7 +3123,8 @@ var movieDB = [
     "poster_path": "/wwUYKw29xtFLk5PIZV9iDAs6zlW.jpg",
     "rating": 7.819,
     "votes": 20634,
-    "imdb_id": "tt0266543"
+    "imdb_id": "tt0266543",
+    "director": "Эндрю Стэнтон"
   },
   {
     "title": "Star Wars: The Rise of Skywalker",
@@ -3054,7 +3152,8 @@ var movieDB = [
     "poster_path": "/mCD1ugUVWwa1pOmOACQY8sV7eu9.jpg",
     "rating": 6.3,
     "votes": 10890,
-    "imdb_id": "tt2527338"
+    "imdb_id": "tt2527338",
+    "director": "Джей Джей Абрамс"
   },
   {
     "title": "The Big Lebowski",
@@ -3079,7 +3178,8 @@ var movieDB = [
     "poster_path": "/r18wYWEiQxrspk5ogEX4S8HUIvB.jpg",
     "rating": 7.837,
     "votes": 12244,
-    "imdb_id": "tt0118715"
+    "imdb_id": "tt0118715",
+    "director": "Джоэл Коэн, Итан Коэн"
   },
   {
     "title": "Shang-Chi and the Legend of the Ten Rings",
@@ -3106,7 +3206,8 @@ var movieDB = [
     "poster_path": "/rXvU6SZOGyUzy9ZHJNlVMw0OeUR.jpg",
     "rating": 7.495,
     "votes": 10448,
-    "imdb_id": "tt9376612"
+    "imdb_id": "tt9376612",
+    "director": "Дестин Дэниел Креттон"
   },
   {
     "title": "Ant-Man",
@@ -3134,7 +3235,8 @@ var movieDB = [
     "poster_path": "/9cMJSp2LVSzmPzMWPHIHpeBfECr.jpg",
     "rating": 7.066,
     "votes": 20924,
-    "imdb_id": "tt0478970"
+    "imdb_id": "tt0478970",
+    "director": "Пейтон Рид"
   },
   {
     "title": "Spider-Man 2",
@@ -3159,7 +3261,8 @@ var movieDB = [
     "poster_path": "/nx2W6awai0FnzQrS9IaIfCgVia0.jpg",
     "rating": 7.314,
     "votes": 16445,
-    "imdb_id": "tt0316654"
+    "imdb_id": "tt0316654",
+    "director": "Сэм Рэйми"
   },
   {
     "title": "Return of the Jedi",
@@ -3189,7 +3292,8 @@ var movieDB = [
     "poster_path": "/91bG08Mpa4T7YWFMjsiNi2Fh6jc.jpg",
     "rating": 7.908,
     "votes": 17003,
-    "imdb_id": "tt0086190"
+    "imdb_id": "tt0086190",
+    "director": "Ричард Маркуанд"
   },
   {
     "title": "Wonder Woman",
@@ -3214,7 +3318,8 @@ var movieDB = [
     "poster_path": "/fMnMonAyK3nzp1P1odIFzYoSvYe.jpg",
     "rating": 7.208,
     "votes": 20952,
-    "imdb_id": "tt0451279"
+    "imdb_id": "tt0451279",
+    "director": "Пэтти Дженкинс"
   },
   {
     "title": "Captain America: The First Avenger",
@@ -3242,7 +3347,8 @@ var movieDB = [
     "poster_path": "/slr5pTsDIJS9oCfBEBTCYNiq6xs.jpg",
     "rating": 7.008,
     "votes": 22805,
-    "imdb_id": "tt0458339"
+    "imdb_id": "tt0458339",
+    "director": "Джо Джонстон"
   },
   {
     "title": "Joker",
@@ -3276,7 +3382,8 @@ var movieDB = [
     "poster_path": "/5itx9nz3gXWgoD2I1UdaqOrphYm.jpg",
     "rating": 8.123,
     "votes": 27832,
-    "imdb_id": "tt7286456"
+    "imdb_id": "tt7286456",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Gone Girl",
@@ -3304,7 +3411,8 @@ var movieDB = [
     "poster_path": "/4AlxoCnpOIUtRq2U9qxMu6chaQb.jpg",
     "rating": 7.9,
     "votes": 20045,
-    "imdb_id": "tt2267998"
+    "imdb_id": "tt2267998",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "My Neighbor Totoro",
@@ -3339,7 +3447,8 @@ var movieDB = [
     "poster_path": "/hTiDmJh24P7sKVEmtTZQU46f1LB.jpg",
     "rating": 8.063,
     "votes": 8868,
-    "imdb_id": "tt0096283"
+    "imdb_id": "tt0096283",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Monsters, Inc.",
@@ -3370,7 +3479,8 @@ var movieDB = [
     "poster_path": "/zXIusESsQ7ZXP9MFwbvcTTZ3XWF.jpg",
     "rating": 7.852,
     "votes": 19875,
-    "imdb_id": "tt0198781"
+    "imdb_id": "tt0198781",
+    "director": "Пит Доктер"
   },
   {
     "title": "John Wick",
@@ -3405,7 +3515,8 @@ var movieDB = [
     "poster_path": "/2hfeF2566IKZ30c1BAay0N2lxBr.jpg",
     "rating": 7.458,
     "votes": 20937,
-    "imdb_id": "tt2911666"
+    "imdb_id": "tt2911666",
+    "director": "Чад Стахелски, Дэвид Литч"
   },
   {
     "title": "The Lion King",
@@ -3436,7 +3547,8 @@ var movieDB = [
     "poster_path": "/j8tdiuhbF9p5mnAeA1YOUvz82xY.jpg",
     "rating": 8.253,
     "votes": 19776,
-    "imdb_id": "tt0110357"
+    "imdb_id": "tt0110357",
+    "director": "Роджер Аллерс, Роб Минкофф"
   },
   {
     "title": "Batman Begins",
@@ -3471,7 +3583,8 @@ var movieDB = [
     "poster_path": "/wiCotiyukYXWwlL1ZcjyxxhTthi.jpg",
     "rating": 7.727,
     "votes": 22709,
-    "imdb_id": "tt0372784"
+    "imdb_id": "tt0372784",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "The Prestige",
@@ -3502,7 +3615,8 @@ var movieDB = [
     "poster_path": "/cynfEpFBHGkdBIVpdnx8Od2TQNj.jpg",
     "rating": 8.209,
     "votes": 17678,
-    "imdb_id": "tt0482571"
+    "imdb_id": "tt0482571",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Three Billboards Outside Ebbing, Missouri",
@@ -3527,7 +3641,8 @@ var movieDB = [
     "poster_path": "/xnyRGjhSIbM2ZVaolkhmPVNncL2.jpg",
     "rating": 8.054,
     "votes": 10949,
-    "imdb_id": "tt5027774"
+    "imdb_id": "tt5027774",
+    "director": "Мартин Макдонах"
   },
   {
     "title": "Split",
@@ -3558,7 +3673,8 @@ var movieDB = [
     "poster_path": "/8nn3m1wyu3woLg2tW1CAr44q53K.jpg",
     "rating": 5.942,
     "votes": 52,
-    "imdb_id": "tt3315656"
+    "imdb_id": "tt3315656",
+    "director": "Дебора Джейн Каммпмайер"
   },
   {
     "title": "Catch Me If You Can",
@@ -3589,7 +3705,8 @@ var movieDB = [
     "poster_path": "/9Izej6CiwFkptv6aTbRhersjAiT.jpg",
     "rating": 7.978,
     "votes": 17189,
-    "imdb_id": "tt0264464"
+    "imdb_id": "tt0264464",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "The Departed",
@@ -3624,7 +3741,8 @@ var movieDB = [
     "poster_path": "/jT6JJV6t902SN9dJlSRdiPi6hSv.jpg",
     "rating": 8.16,
     "votes": 16284,
-    "imdb_id": "tt0407887"
+    "imdb_id": "tt0407887",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "Requiem for a Dream",
@@ -3653,7 +3771,8 @@ var movieDB = [
     "poster_path": "/cFAjXMPymQYJmrKYd45Z0hi59tY.jpg",
     "rating": 8,
     "votes": 11042,
-    "imdb_id": "tt0180093"
+    "imdb_id": "tt0180093",
+    "director": "Даррен Аронофски"
   },
   {
     "title": "Incredibles 2",
@@ -3682,7 +3801,8 @@ var movieDB = [
     "poster_path": "/vwer36JvbZxeZ6ZRBvzrsUm6tYt.jpg",
     "rating": 7.453,
     "votes": 13734,
-    "imdb_id": "tt3606756"
+    "imdb_id": "tt3606756",
+    "director": "Брэд Бёрд"
   },
   {
     "title": "10 Things I Hate About You",
@@ -3708,7 +3828,8 @@ var movieDB = [
     "poster_path": "/xR6j2HVYZEqQ1nKdSJVYNLAIIcN.jpg",
     "rating": 7.594,
     "votes": 8965,
-    "imdb_id": "tt0147800"
+    "imdb_id": "tt0147800",
+    "director": "Gil Junger"
   },
   {
     "title": "Harry Potter and the Chamber of Secrets",
@@ -3733,7 +3854,8 @@ var movieDB = [
     "poster_path": "/33Wj3LSyoAqtqkeh7YXcVMvTQzc.jpg",
     "rating": 7.705,
     "votes": 23681,
-    "imdb_id": "tt0295297"
+    "imdb_id": "tt0295297",
+    "director": "Крис Коламбус"
   },
   {
     "title": "Jaws",
@@ -3769,7 +3891,8 @@ var movieDB = [
     "poster_path": "/3l62OClEcFWPtkOH9t7XLO5Emx1.jpg",
     "rating": 7.683,
     "votes": 11597,
-    "imdb_id": "tt0073195"
+    "imdb_id": "tt0073195",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Prisoners",
@@ -3794,7 +3917,8 @@ var movieDB = [
     "poster_path": "/iBuJWQEJLOhsN40GiXM6lJyoklW.jpg",
     "rating": 8.106,
     "votes": 13159,
-    "imdb_id": "tt1392214"
+    "imdb_id": "tt1392214",
+    "director": "Дени Вильнёв"
   },
   {
     "title": "Harry Potter and the Goblet of Fire",
@@ -3819,7 +3943,8 @@ var movieDB = [
     "poster_path": "/wWlSRexsjrdTWBYY84s671dYde5.jpg",
     "rating": 7.8,
     "votes": 22262,
-    "imdb_id": "tt0330373"
+    "imdb_id": "tt0330373",
+    "director": "Mike Newell"
   },
   {
     "title": "Harry Potter and the Deathly Hallows: Part 2",
@@ -3848,7 +3973,8 @@ var movieDB = [
     "poster_path": "/cSxvq15AOeJ2jNdVRXJvAoZU8T6.jpg",
     "rating": 8.079,
     "votes": 22069,
-    "imdb_id": "tt1201607"
+    "imdb_id": "tt1201607",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Howl's Moving Castle",
@@ -3883,7 +4009,8 @@ var movieDB = [
     "poster_path": "/oQvAlVSjYsJZPg9raiQRYE0aVrv.jpg",
     "rating": 8.388,
     "votes": 11163,
-    "imdb_id": "tt0347149"
+    "imdb_id": "tt0347149",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Iron Man 3",
@@ -3911,7 +4038,8 @@ var movieDB = [
     "poster_path": "/4AZco6uSdog5NbvJ6ILqnCveV8I.jpg",
     "rating": 6.933,
     "votes": 23499,
-    "imdb_id": "tt1300854"
+    "imdb_id": "tt1300854",
+    "director": "Шейн Блэк"
   },
   {
     "title": "Shrek",
@@ -3942,7 +4070,8 @@ var movieDB = [
     "poster_path": "/5OPCH713UIEeWuvRZpVkkzrZ3Hd.jpg",
     "rating": 7.767,
     "votes": 18862,
-    "imdb_id": "tt0126029"
+    "imdb_id": "tt0126029",
+    "director": "Эндрю Адамсон, Vicky Jenson"
   },
   {
     "title": "Deadpool 2",
@@ -3973,7 +4102,8 @@ var movieDB = [
     "poster_path": "/6ieUmjpY7bMMZqIdFxHKUEwfwSB.jpg",
     "rating": 7.491,
     "votes": 19303,
-    "imdb_id": "tt5463162"
+    "imdb_id": "tt5463162",
+    "director": "Дэвид Литч"
   },
   {
     "title": "Kill Bill: Vol. 2",
@@ -4001,7 +4131,8 @@ var movieDB = [
     "poster_path": "/elRmq22rSh0Yamsft5ULVconhlV.jpg",
     "rating": 7.878,
     "votes": 15141,
-    "imdb_id": "tt0378194"
+    "imdb_id": "tt0378194",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Avatar",
@@ -4033,7 +4164,8 @@ var movieDB = [
     "poster_path": "/lUKcrcO3wEPhNnzGq06JIX7GIEb.jpg",
     "rating": 7.607,
     "votes": 34121,
-    "imdb_id": "tt0499549"
+    "imdb_id": "tt0499549",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Home Alone",
@@ -4057,7 +4189,8 @@ var movieDB = [
     "poster_path": "/e6TQfEJbaFqueq1CIvqfpse4yNF.jpg",
     "rating": 7.466,
     "votes": 12548,
-    "imdb_id": "tt0099785"
+    "imdb_id": "tt0099785",
+    "director": "Крис Коламбус"
   },
   {
     "title": "Isle of Dogs",
@@ -4088,7 +4221,8 @@ var movieDB = [
     "poster_path": "/phspK8CoyEoVWDmxCdU3QzUWf4P.jpg",
     "rating": 7.847,
     "votes": 5447,
-    "imdb_id": "tt5104604"
+    "imdb_id": "tt5104604",
+    "director": "Уэс Андерсон"
   },
   {
     "title": "Pan's Labyrinth",
@@ -4122,7 +4256,8 @@ var movieDB = [
     "poster_path": "/h2oVVLTa2eQmhEfwuVlG1VUEuuz.jpg",
     "rating": 7.765,
     "votes": 11516,
-    "imdb_id": "tt0457430"
+    "imdb_id": "tt0457430",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Suicide Squad",
@@ -4149,7 +4284,8 @@ var movieDB = [
     "poster_path": "/7tJjv7vPBhG2pzcTIMgGBV1mL4w.jpg",
     "rating": 5.917,
     "votes": 22155,
-    "imdb_id": "tt1386697"
+    "imdb_id": "tt1386697",
+    "director": "Дэвид Эйер"
   },
   {
     "title": "Thor",
@@ -4174,7 +4310,8 @@ var movieDB = [
     "poster_path": "/9VnGpd2rXHikIwznL9I5r9i8TQJ.jpg",
     "rating": 6.771,
     "votes": 22407,
-    "imdb_id": "tt0800369"
+    "imdb_id": "tt0800369",
+    "director": "Кеннет Брана"
   },
   {
     "title": "Annihilation",
@@ -4200,7 +4337,8 @@ var movieDB = [
     "poster_path": "/7VnihqNe4XZ48TTWUjf3JYAbRQm.jpg",
     "rating": 6.442,
     "votes": 9408,
-    "imdb_id": "tt2798920"
+    "imdb_id": "tt2798920",
+    "director": "Алекс Гарленд"
   },
   {
     "title": "(500) Days of Summer",
@@ -4229,7 +4367,8 @@ var movieDB = [
     "poster_path": "/oqQdRPEeA2Iah2EtpAu7wsajtGt.jpg",
     "rating": 7.302,
     "votes": 11081,
-    "imdb_id": "tt1022603"
+    "imdb_id": "tt1022603",
+    "director": "Марк Уэбб"
   },
   {
     "title": "Zootopia",
@@ -4256,7 +4395,8 @@ var movieDB = [
     "poster_path": "/5qcww3ZqlpCqPrUessuFkdwsDL2.jpg",
     "rating": 7.764,
     "votes": 18198,
-    "imdb_id": "tt2948356"
+    "imdb_id": "tt2948356",
+    "director": "Байрон Ховард, Рич Мур"
   },
   {
     "title": "Toy Story 3",
@@ -4287,7 +4427,8 @@ var movieDB = [
     "poster_path": "/2IWIk34c9fMv7xJQ5ur4Z3O1Hh9.jpg",
     "rating": 7.811,
     "votes": 15855,
-    "imdb_id": "tt0435761"
+    "imdb_id": "tt0435761",
+    "director": "Lee Unkrich"
   },
   {
     "title": "Star Wars: Episode III – Revenge of the Sith",
@@ -4315,7 +4456,8 @@ var movieDB = [
     "poster_path": "/a1f0xvhIfUlzgWlPYL3XS8n5XuL.jpg",
     "rating": 7.469,
     "votes": 15013,
-    "imdb_id": "tt0121766"
+    "imdb_id": "tt0121766",
+    "director": "Джордж Лукас"
   },
   {
     "title": "Superbad",
@@ -4340,7 +4482,8 @@ var movieDB = [
     "poster_path": "/2jc4Q1ToEsTSoqQNhCzbI0m1uaP.jpg",
     "rating": 7.27,
     "votes": 8146,
-    "imdb_id": "tt0829482"
+    "imdb_id": "tt0829482",
+    "director": "Грег Моттола"
   },
   {
     "title": "Iron Man 2",
@@ -4368,7 +4511,8 @@ var movieDB = [
     "poster_path": "/rT3JszXFT2C3iYJtXSSL4R0DkU7.jpg",
     "rating": 6.854,
     "votes": 22472,
-    "imdb_id": "tt1228705"
+    "imdb_id": "tt1228705",
+    "director": "Джон Фавро"
   },
   {
     "title": "Kingsman: The Secret Service",
@@ -4399,7 +4543,8 @@ var movieDB = [
     "poster_path": "/1br1GunwmrGaD9H3eyRPjLx1HY4.jpg",
     "rating": 7.62,
     "votes": 17881,
-    "imdb_id": "tt2802144"
+    "imdb_id": "tt2802144",
+    "director": "Мэттью Вон"
   },
   {
     "title": "Léon: The Professional",
@@ -4427,7 +4572,8 @@ var movieDB = [
     "poster_path": "/yyjNn3Ly7ChAT2V9yOlx8QyFs82.jpg",
     "rating": 8.294,
     "votes": 16181,
-    "imdb_id": "tt0110413"
+    "imdb_id": "tt0110413",
+    "director": "Люк Бессон"
   },
   {
     "title": "Harry Potter and the Order of the Phoenix",
@@ -4452,7 +4598,8 @@ var movieDB = [
     "poster_path": "/lBuFOlXNY3YYIkXInGqcd7aJoAY.jpg",
     "rating": 7.672,
     "votes": 20884,
-    "imdb_id": "tt0373889"
+    "imdb_id": "tt0373889",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "The Hunger Games",
@@ -4483,7 +4630,8 @@ var movieDB = [
     "poster_path": "/7j6qQ5CVxHRpEbWQpAPxk5EjB3v.jpg",
     "rating": 7.223,
     "votes": 23365,
-    "imdb_id": "tt1392170"
+    "imdb_id": "tt1392170",
+    "director": "Гэри Росс"
   },
   {
     "title": "Apocalypse Now",
@@ -4516,7 +4664,8 @@ var movieDB = [
     "poster_path": "/qD22STmuP6DiBmqIUmFrWSlpwCW.jpg",
     "rating": 8.268,
     "votes": 9148,
-    "imdb_id": "tt0078788"
+    "imdb_id": "tt0078788",
+    "director": "Фрэнсис Форд Коппола"
   },
   {
     "title": "Mean Girls",
@@ -4539,7 +4688,8 @@ var movieDB = [
     "poster_path": "/pXZLGkeiTwTOrETx7twwifzjpTZ.jpg",
     "rating": 7.227,
     "votes": 9497,
-    "imdb_id": "tt0377092"
+    "imdb_id": "tt0377092",
+    "director": "Марк Уотерс"
   },
   {
     "title": "Shaun of the Dead",
@@ -4572,7 +4722,8 @@ var movieDB = [
     "poster_path": "/hACq0LdC5WNjPb1jzTZzuj1R4qx.jpg",
     "rating": 7.545,
     "votes": 9396,
-    "imdb_id": "tt0365748"
+    "imdb_id": "tt0365748",
+    "director": "Эдгар Райт"
   },
   {
     "title": "Princess Mononoke",
@@ -4607,7 +4758,8 @@ var movieDB = [
     "poster_path": "/25hyAp0zRIa6WInNaUfk3BHL5gH.jpg",
     "rating": 8.32,
     "votes": 9060,
-    "imdb_id": "tt0119698"
+    "imdb_id": "tt0119698",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Harry Potter and the Deathly Hallows: Part 1",
@@ -4633,7 +4785,8 @@ var movieDB = [
     "poster_path": "/nUJc0DOO0lh8pjLkmMtPObA2NKf.jpg",
     "rating": 7.734,
     "votes": 20458,
-    "imdb_id": "tt0926084"
+    "imdb_id": "tt0926084",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Ant-Man and the Wasp",
@@ -4658,7 +4811,8 @@ var movieDB = [
     "poster_path": "/5r85N1iOnHFoWkyC0EeOw9aEqOW.jpg",
     "rating": 6.902,
     "votes": 14237,
-    "imdb_id": "tt5095030"
+    "imdb_id": "tt5095030",
+    "director": "Пейтон Рид"
   },
   {
     "title": "Star Wars: Episode I – The Phantom Menace",
@@ -4686,7 +4840,8 @@ var movieDB = [
     "poster_path": "/l1LyrhQwDGur18rxRXKQJQhvx7Y.jpg",
     "rating": 6.578,
     "votes": 15908,
-    "imdb_id": "tt0120915"
+    "imdb_id": "tt0120915",
+    "director": "Джордж Лукас"
   },
   {
     "title": "The Amazing Spider-Man",
@@ -4711,7 +4866,8 @@ var movieDB = [
     "poster_path": "/kby3x8wic9Lx4qEfstLu2vFHTVj.jpg",
     "rating": 6.74,
     "votes": 18601,
-    "imdb_id": "tt0948470"
+    "imdb_id": "tt0948470",
+    "director": "Марк Уэбб"
   },
   {
     "title": "Harry Potter and the Half-Blood Prince",
@@ -4737,7 +4893,8 @@ var movieDB = [
     "poster_path": "/zhMOIXezutmTCeP1AvPZHakGCYs.jpg",
     "rating": 7.7,
     "votes": 20868,
-    "imdb_id": "tt0417741"
+    "imdb_id": "tt0417741",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Raiders of the Lost Ark",
@@ -4760,7 +4917,8 @@ var movieDB = [
     "poster_path": "/u2Pg18N9naAgOFIucYxWm13rkIE.jpg",
     "rating": 7.925,
     "votes": 13705,
-    "imdb_id": "tt0082971"
+    "imdb_id": "tt0082971",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Die Hard",
@@ -4790,7 +4948,8 @@ var movieDB = [
     "poster_path": "/bIDUVu4QTAvNLEZqTml5vka8ElV.jpg",
     "rating": 7.813,
     "votes": 12357,
-    "imdb_id": "tt0095016"
+    "imdb_id": "tt0095016",
+    "director": "Джон МакТирнан"
   },
   {
     "title": "Gravity",
@@ -4818,7 +4977,8 @@ var movieDB = [
     "poster_path": "/u8cZd9KAS0LvLTf2Z4cPflAf0Wz.jpg",
     "rating": 7.169,
     "votes": 16394,
-    "imdb_id": "tt1454468"
+    "imdb_id": "tt1454468",
+    "director": "Альфонсо Куарон"
   },
   {
     "title": "The Nightmare Before Christmas",
@@ -4846,7 +5006,8 @@ var movieDB = [
     "poster_path": "/xvqFn90FxKTJflG4n0spZY7vySu.jpg",
     "rating": 7.833,
     "votes": 10388,
-    "imdb_id": "tt0107688"
+    "imdb_id": "tt0107688",
+    "director": "Генри Селик"
   },
   {
     "title": "Moana",
@@ -4882,7 +5043,8 @@ var movieDB = [
     "poster_path": "/drbVlDdeqRLoxylGpym4dECh5ai.jpg",
     "rating": 7.566,
     "votes": 13774,
-    "imdb_id": "tt3521164"
+    "imdb_id": "tt3521164",
+    "director": "Рон Клементс, Джон Маскер"
   },
   {
     "title": "The Great Gatsby",
@@ -4906,7 +5068,8 @@ var movieDB = [
     "poster_path": "/qPzMxU8ND98jWXVQCirpVtsV36s.jpg",
     "rating": 7.35,
     "votes": 12994,
-    "imdb_id": "tt1343092"
+    "imdb_id": "tt1343092",
+    "director": "Баз Лурман"
   },
   {
     "title": "Edward Scissorhands",
@@ -4934,7 +5097,8 @@ var movieDB = [
     "poster_path": "/8Ddbc2eOV8zXTdR4ywcO9TNIcEj.jpg",
     "rating": 7.72,
     "votes": 13824,
-    "imdb_id": "tt0099487"
+    "imdb_id": "tt0099487",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Toy Story 2",
@@ -4960,7 +5124,8 @@ var movieDB = [
     "poster_path": "/descLErszABnAy79SDTzupmPD7e.jpg",
     "rating": 7.613,
     "votes": 15014,
-    "imdb_id": "tt0120363"
+    "imdb_id": "tt0120363",
+    "director": "Джон Лассетер"
   },
   {
     "title": "Coraline",
@@ -4991,7 +5156,8 @@ var movieDB = [
     "poster_path": "/kwgBclQIcghtYYoJiDTw48bHWUK.jpg",
     "rating": 7.916,
     "votes": 9076,
-    "imdb_id": "tt0327597"
+    "imdb_id": "tt0327597",
+    "director": "Генри Селик"
   },
   {
     "title": "Venom",
@@ -5013,7 +5179,8 @@ var movieDB = [
     "poster_path": "/8Gyl0fknqiZeCLm9XitxCXQmEL9.jpg",
     "rating": 6.826,
     "votes": 17298,
-    "imdb_id": "tt1270797"
+    "imdb_id": "tt1270797",
+    "director": "Рубен Фляйшер"
   },
   {
     "title": "Your Name.",
@@ -5040,7 +5207,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/your-name-2016/",
     "title_ru": "What's Your Name?",
     "tmdb_id": 777507,
-    "poster_path": "/9ts87cPRdxWvXfzsbgOoqj60y0o.jpg"
+    "poster_path": "/9ts87cPRdxWvXfzsbgOoqj60y0o.jpg",
+    "director": "Letibeb Zelleke"
   },
   {
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -5068,7 +5236,8 @@ var movieDB = [
     "poster_path": "/70xRYK8orGWA7NfxvzhtkjpZAD6.jpg",
     "rating": 7.828,
     "votes": 22352,
-    "imdb_id": "tt0325980"
+    "imdb_id": "tt0325980",
+    "director": "Гор Вербински"
   },
   {
     "title": "Star Wars: Episode II – Attack of the Clones",
@@ -5096,7 +5265,8 @@ var movieDB = [
     "poster_path": "/jGiIdLMD5Y16snttJwUcQSDBXUv.jpg",
     "rating": 6.594,
     "votes": 14408,
-    "imdb_id": "tt0121765"
+    "imdb_id": "tt0121765",
+    "director": "Джордж Лукас"
   },
   {
     "title": "Thor: The Dark World",
@@ -5121,7 +5291,8 @@ var movieDB = [
     "poster_path": "/rmII9fsUpfRmuNBhzHtarBOtHnQ.jpg",
     "rating": 6.512,
     "votes": 18387,
-    "imdb_id": "tt1981115"
+    "imdb_id": "tt1981115",
+    "director": "Алан Тейлор"
   },
   {
     "title": "Big Hero 6",
@@ -5151,7 +5322,8 @@ var movieDB = [
     "poster_path": "/vgC58PBGiEKlN7Gks5JFOShPIGH.jpg",
     "rating": 7.725,
     "votes": 16646,
-    "imdb_id": "tt2245084"
+    "imdb_id": "tt2245084",
+    "director": "Кристофер Уильямс, Don Hall"
   },
   {
     "title": "Cruella",
@@ -5177,7 +5349,8 @@ var movieDB = [
     "poster_path": "/hUfyYGP9Xf6cHF9y44JXJV3NxZM.jpg",
     "rating": 7.972,
     "votes": 10107,
-    "imdb_id": "tt3228774"
+    "imdb_id": "tt3228774",
+    "director": "Крэйг Гиллеспи"
   },
   {
     "title": "Ready Player One",
@@ -5201,7 +5374,8 @@ var movieDB = [
     "poster_path": "/eVvMjpcw2lkS1A7hTeOzZDk0Ocf.jpg",
     "rating": 7.588,
     "votes": 17015,
-    "imdb_id": "tt1677720"
+    "imdb_id": "tt1677720",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Hot Fuzz",
@@ -5231,7 +5405,8 @@ var movieDB = [
     "poster_path": "/lzMQlEDjqN0qs46BZS7pqM465ur.jpg",
     "rating": 7.6,
     "votes": 8385,
-    "imdb_id": "tt0425112"
+    "imdb_id": "tt0425112",
+    "director": "Эдгар Райт"
   },
   {
     "title": "E.T. the Extra-Terrestrial",
@@ -5262,7 +5437,8 @@ var movieDB = [
     "poster_path": "/cs0L1kInPiw9m7hsDiw0GagvSeE.jpg",
     "rating": 7.517,
     "votes": 12043,
-    "imdb_id": "tt0083866"
+    "imdb_id": "tt0083866",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Spider-Man 3",
@@ -5290,7 +5466,8 @@ var movieDB = [
     "poster_path": "/ngNCHBZgNdbGisLbi1hImGh2SHl.jpg",
     "rating": 6.462,
     "votes": 15298,
-    "imdb_id": "tt0413300"
+    "imdb_id": "tt0413300",
+    "director": "Сэм Рэйми"
   },
   {
     "title": "The Imitation Game",
@@ -5321,7 +5498,8 @@ var movieDB = [
     "poster_path": "/uJpPm9i2z9tckfxiKFGwGER3l3x.jpg",
     "rating": 7.983,
     "votes": 18140,
-    "imdb_id": "tt2084970"
+    "imdb_id": "tt2084970",
+    "director": "Мортен Тильдум"
   },
   {
     "title": "What We Do in the Shadows",
@@ -5349,7 +5527,8 @@ var movieDB = [
     "poster_path": "/tmUHOe07a84zgwMeWCpwnAqUwU4.jpg",
     "rating": 7.547,
     "votes": 3959,
-    "imdb_id": "tt3416742"
+    "imdb_id": "tt3416742",
+    "director": "Джемейн Клемент, Тайка Вайтити"
   },
   {
     "title": "Frozen",
@@ -5376,7 +5555,8 @@ var movieDB = [
     "poster_path": "/5LYjyQT4IP7oM5ibawHXyDzT2Pp.jpg",
     "rating": 7.249,
     "votes": 17626,
-    "imdb_id": "tt2294629"
+    "imdb_id": "tt2294629",
+    "director": "Дженнифер Ли, Крис Бак"
   },
   {
     "title": "Train to Busan",
@@ -5410,7 +5590,8 @@ var movieDB = [
     "poster_path": "/zrWFD3ZW4VkiX4FpEfjpl7M5mHL.jpg",
     "rating": 7.751,
     "votes": 8441,
-    "imdb_id": "tt5700672"
+    "imdb_id": "tt5700672",
+    "director": "Ён Сан-хо"
   },
   {
     "title": "It Chapter Two",
@@ -5436,7 +5617,8 @@ var movieDB = [
     "poster_path": "/4yKBNPzgPnDndD0th2IrxYkA6rA.jpg",
     "rating": 6.8,
     "votes": 9663,
-    "imdb_id": "tt7349950"
+    "imdb_id": "tt7349950",
+    "director": "Энди Мускетти"
   },
   {
     "title": "The Big Short",
@@ -5460,7 +5642,8 @@ var movieDB = [
     "poster_path": "/i46ouFO2WBqJ1xIoTQgrD8Criol.jpg",
     "rating": 7.367,
     "votes": 9885,
-    "imdb_id": "tt1596363"
+    "imdb_id": "tt1596363",
+    "director": "Адам Маккей"
   },
   {
     "title": "V for Vendetta",
@@ -5495,7 +5678,8 @@ var movieDB = [
     "poster_path": "/2KWF4ch7z78Is0pCXK6BzvJgFDN.jpg",
     "rating": 7.901,
     "votes": 15630,
-    "imdb_id": "tt0434409"
+    "imdb_id": "tt0434409",
+    "director": "Джеймс МакТиг"
   },
   {
     "title": "A Quiet Place Part II",
@@ -5524,7 +5708,8 @@ var movieDB = [
     "poster_path": "/9mLRf87tqKKpOjEx8M1yl1jZa1k.jpg",
     "rating": 7.43,
     "votes": 7446,
-    "imdb_id": "tt8332922"
+    "imdb_id": "tt8332922",
+    "director": "Джон Красински"
   },
   {
     "title": "Tangled",
@@ -5554,7 +5739,8 @@ var movieDB = [
     "poster_path": "/i6hhWWRMglTJR2Oi5xsN0JV6tNq.jpg",
     "rating": 7.613,
     "votes": 12447,
-    "imdb_id": "tt0398286"
+    "imdb_id": "tt0398286",
+    "director": "Байрон Ховард, Нэйтан Грено"
   },
   {
     "title": "Zombieland",
@@ -5579,7 +5765,8 @@ var movieDB = [
     "poster_path": "/8pI7awhYKiyjNX51JErj8Qv7Dso.jpg",
     "rating": 7.259,
     "votes": 13236,
-    "imdb_id": "tt1156398"
+    "imdb_id": "tt1156398",
+    "director": "Рубен Фляйшер"
   },
   {
     "title": "The Devil Wears Prada",
@@ -5603,7 +5790,8 @@ var movieDB = [
     "poster_path": "/eHoW9PJTMbNY1AxBURiwyIzdaCF.jpg",
     "rating": 7.4,
     "votes": 13807,
-    "imdb_id": "tt0458352"
+    "imdb_id": "tt0458352",
+    "director": "Дэвид Фрэнкел"
   },
   {
     "title": "Shrek 2",
@@ -5634,7 +5822,8 @@ var movieDB = [
     "poster_path": "/vALSn7rJEuX742gWKcmCVLquw5J.jpg",
     "rating": 7.3,
     "votes": 13494,
-    "imdb_id": "tt0298148"
+    "imdb_id": "tt0298148",
+    "director": "Конрад Вернон, Келли Эсбёри, Эндрю Адамсон"
   },
   {
     "title": "Full Metal Jacket",
@@ -5667,7 +5856,8 @@ var movieDB = [
     "poster_path": "/qaMwQ0j4A0QGkis4tE6ODUbC4Nz.jpg",
     "rating": 8.116,
     "votes": 11517,
-    "imdb_id": "tt0093058"
+    "imdb_id": "tt0093058",
+    "director": "Стэнли Кубрик"
   },
   {
     "title": "Fantastic Beasts and Where to Find Them",
@@ -5695,7 +5885,8 @@ var movieDB = [
     "poster_path": "/hqpnhHmr9L63d9Hh2Js2xLBeLer.jpg",
     "rating": 7.31,
     "votes": 19752,
-    "imdb_id": "tt3183660"
+    "imdb_id": "tt3183660",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Ocean's Eleven",
@@ -5726,7 +5917,8 @@ var movieDB = [
     "poster_path": "/eBMvJiuav1ofDLdUleuLNXwm1K2.jpg",
     "rating": 7.5,
     "votes": 12624,
-    "imdb_id": "tt0240772"
+    "imdb_id": "tt0240772",
+    "director": "Steven Soderbergh"
   },
   {
     "title": "Jurassic World",
@@ -5752,7 +5944,8 @@ var movieDB = [
     "poster_path": "/nSUyxiLlf9qHDiQH5LmCQQK62WX.jpg",
     "rating": 6.7,
     "votes": 21640,
-    "imdb_id": "tt0369610"
+    "imdb_id": "tt0369610",
+    "director": "Колин Треворроу"
   },
   {
     "title": "Gladiator",
@@ -5783,7 +5976,8 @@ var movieDB = [
     "poster_path": "/1wjNqlfsuHNTXTpCt2ZOV2iPxaf.jpg",
     "rating": 8.226,
     "votes": 21009,
-    "imdb_id": "tt0172495"
+    "imdb_id": "tt0172495",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Solo: A Star Wars Story",
@@ -5814,7 +6008,8 @@ var movieDB = [
     "poster_path": "/syDObMIKfE6MI5w9DAlofSr0QQl.jpg",
     "rating": 6.6,
     "votes": 9307,
-    "imdb_id": "tt3778644"
+    "imdb_id": "tt3778644",
+    "director": "Рон Ховард"
   },
   {
     "title": "Green Book",
@@ -5840,7 +6035,8 @@ var movieDB = [
     "poster_path": "/fYch3e75YFnsJS9wAOOMlzErMqR.jpg",
     "rating": 8.226,
     "votes": 12947,
-    "imdb_id": "tt6966692"
+    "imdb_id": "tt6966692",
+    "director": "Peter Farrelly"
   },
   {
     "title": "The Hunger Games: Catching Fire",
@@ -5870,7 +6066,8 @@ var movieDB = [
     "poster_path": "/lKe3uEQKyc6uTAOlFt9KmxHs5eH.jpg",
     "rating": 7.427,
     "votes": 18495,
-    "imdb_id": "tt1951264"
+    "imdb_id": "tt1951264",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "School of Rock",
@@ -5896,7 +6093,8 @@ var movieDB = [
     "poster_path": "/zTL9lBUFxUhlFdq2amTKMCMXLeM.jpg",
     "rating": 7.1,
     "votes": 6219,
-    "imdb_id": "tt0332379"
+    "imdb_id": "tt0332379",
+    "director": "Ричард Линклейтер"
   },
   {
     "title": "Pride & Prejudice",
@@ -5921,7 +6119,8 @@ var movieDB = [
     "poster_path": "/5j0JrcBCuGceNrwjyHMEoI6v5fQ.jpg",
     "rating": 8.1,
     "votes": 8799,
-    "imdb_id": "tt0414387"
+    "imdb_id": "tt0414387",
+    "director": "Джо Райт"
   },
   {
     "title": "Squid Game",
@@ -5992,7 +6191,8 @@ var movieDB = [
     "poster_path": "/tAQOcxxcZbpM1jEhz7hJC5nmCDi.jpg",
     "rating": 6,
     "votes": 19071,
-    "imdb_id": "tt2975590"
+    "imdb_id": "tt2975590",
+    "director": "Зак Снайдер"
   },
   {
     "title": "Twilight",
@@ -6018,7 +6218,8 @@ var movieDB = [
     "poster_path": "/pWI6GBi4eMQttMtKSWbxIFO2HqC.jpg",
     "rating": 6.281,
     "votes": 14450,
-    "imdb_id": "tt1099212"
+    "imdb_id": "tt1099212",
+    "director": "Кэтрин Хардвик"
   },
   {
     "title": "The Amazing Spider-Man 2",
@@ -6046,7 +6247,8 @@ var movieDB = [
     "poster_path": "/1uxtVgcQHUgD3vBOC56hioofnmU.jpg",
     "rating": 6.545,
     "votes": 14314,
-    "imdb_id": "tt1872181"
+    "imdb_id": "tt1872181",
+    "director": "Марк Уэбб"
   },
   {
     "title": "Bird Box",
@@ -6076,7 +6278,8 @@ var movieDB = [
     "poster_path": "/dWbhNl7ESABUqXfyOKPr5EQaDXP.jpg",
     "rating": 6.823,
     "votes": 10613,
-    "imdb_id": "tt2737304"
+    "imdb_id": "tt2737304",
+    "director": "Сюзанна Бир"
   },
   {
     "title": "John Wick: Chapter 2",
@@ -6103,7 +6306,8 @@ var movieDB = [
     "poster_path": "/60dPOD22s6TS2SfQiiOGOePBg8N.jpg",
     "rating": 7.341,
     "votes": 14330,
-    "imdb_id": "tt4425200"
+    "imdb_id": "tt4425200",
+    "director": "Чад Стахелски"
   },
   {
     "title": "Eternals",
@@ -6127,7 +6331,8 @@ var movieDB = [
     "poster_path": "/r174t1SLtGamhPx3Wwj6f6YSyAi.jpg",
     "rating": 6.77,
     "votes": 9186,
-    "imdb_id": "tt9032400"
+    "imdb_id": "tt9032400",
+    "director": "Хлоя Чжао"
   },
   {
     "title": "Beetlejuice",
@@ -6150,7 +6355,8 @@ var movieDB = [
     "poster_path": "/vV40BJbN1NVYkOXVdkQt4qi1PmQ.jpg",
     "rating": 7.4,
     "votes": 8480,
-    "imdb_id": "tt0094721"
+    "imdb_id": "tt0094721",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Jennifer's Body",
@@ -6173,7 +6379,8 @@ var movieDB = [
     "poster_path": "/2oyxrtjWbgEuWY3sQrxgneREVcb.jpg",
     "rating": 5.992,
     "votes": 4277,
-    "imdb_id": "tt1131734"
+    "imdb_id": "tt1131734",
+    "director": "Карин Кусама"
   },
   {
     "title": "John Wick: Chapter 3 – Parabellum",
@@ -6200,7 +6407,8 @@ var movieDB = [
     "poster_path": "/2RDx4bMYF5TbTdTBoOwDLDgIej.jpg",
     "rating": 7.44,
     "votes": 11804,
-    "imdb_id": "tt6146586"
+    "imdb_id": "tt6146586",
+    "director": "Чад Стахелски"
   },
   {
     "title": "Shazam!",
@@ -6226,7 +6434,8 @@ var movieDB = [
     "poster_path": "/s4byZ8CP7NLfH54FV3QF6l0JLSh.jpg",
     "rating": 6.976,
     "votes": 10239,
-    "imdb_id": "tt0448115"
+    "imdb_id": "tt0448115",
+    "director": "Дэвид Ф. Сандберг"
   },
   {
     "title": "Ghostbusters",
@@ -6255,7 +6464,8 @@ var movieDB = [
     "poster_path": "/q9gSeNEXzwTllZC6Wrjfb7Rcr2X.jpg",
     "rating": 7.5,
     "votes": 9790,
-    "imdb_id": "tt0087332"
+    "imdb_id": "tt0087332",
+    "director": "Ivan Reitman"
   },
   {
     "title": "Casino Royale",
@@ -6292,7 +6502,8 @@ var movieDB = [
     "poster_path": "/kGLOLum7xU95spakBEfxCjEfNn0.jpg",
     "rating": 7.572,
     "votes": 11750,
-    "imdb_id": "tt0381061"
+    "imdb_id": "tt0381061",
+    "director": "Мартин Кэмпбелл"
   },
   {
     "title": "Aquaman",
@@ -6317,7 +6528,8 @@ var movieDB = [
     "poster_path": "/hA5rapmD3Lwv4I981yh6Ct8zvIC.jpg",
     "rating": 6.868,
     "votes": 14958,
-    "imdb_id": "tt1477834"
+    "imdb_id": "tt1477834",
+    "director": "Джеймс Ван"
   },
   {
     "title": "Charlie and the Chocolate Factory",
@@ -6347,7 +6559,8 @@ var movieDB = [
     "poster_path": "/3HyLn6UaWJRY26njQ8CHubo7Aiy.jpg",
     "rating": 7.039,
     "votes": 16167,
-    "imdb_id": "tt0367594"
+    "imdb_id": "tt0367594",
+    "director": "Тим Бёртон"
   },
   {
     "title": "The Lego Movie",
@@ -6378,7 +6591,8 @@ var movieDB = [
     "poster_path": "/qcu4Dto60Idh0mkkeNdaPhyKUzr.jpg",
     "rating": 7.43,
     "votes": 8527,
-    "imdb_id": "tt1490017"
+    "imdb_id": "tt1490017",
+    "director": "Фил Лорд, Крис Миллер"
   },
   {
     "title": "The Curious Case of Benjamin Button",
@@ -6402,7 +6616,8 @@ var movieDB = [
     "poster_path": "/wmVLPh1WFUe8CglklJYpXFMQqiG.jpg",
     "rating": 7.6,
     "votes": 13778,
-    "imdb_id": "tt0421715"
+    "imdb_id": "tt0421715",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "X-Men: Days of Future Past",
@@ -6433,7 +6648,8 @@ var movieDB = [
     "poster_path": "/9IdeGyzRZH66RgNq9zSZDwPPllg.jpg",
     "rating": 7.532,
     "votes": 16322,
-    "imdb_id": "tt1877832"
+    "imdb_id": "tt1877832",
+    "director": "Брайан Сингер"
   },
   {
     "title": "Groundhog Day",
@@ -6462,7 +6678,8 @@ var movieDB = [
     "poster_path": "/yo91LPlSzskGGNo273us7ScuKIH.jpg",
     "rating": 7.632,
     "votes": 8944,
-    "imdb_id": "tt0107048"
+    "imdb_id": "tt0107048",
+    "director": "Гарольд Рамис"
   },
   {
     "title": "Terminator 2: Judgment Day",
@@ -6486,7 +6703,8 @@ var movieDB = [
     "poster_path": "/67MopMcqqke4sJmcOwY5zu3kmYz.jpg",
     "rating": 8.153,
     "votes": 14402,
-    "imdb_id": "tt0103064"
+    "imdb_id": "tt0103064",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Wonder Woman 1984",
@@ -6514,7 +6732,8 @@ var movieDB = [
     "poster_path": "/1B2YJCYyRudISmfSWCRfc95gAtq.jpg",
     "rating": 6.364,
     "votes": 9088,
-    "imdb_id": "tt7126948"
+    "imdb_id": "tt7126948",
+    "director": "Пэтти Дженкинс"
   },
   {
     "title": "Mulan",
@@ -6541,7 +6760,8 @@ var movieDB = [
     "poster_path": "/wLB0VhC2FafMr6QEVH9ReX0Id3j.jpg",
     "rating": 7.904,
     "votes": 10484,
-    "imdb_id": "tt0120762"
+    "imdb_id": "tt0120762",
+    "director": "Tony Bancroft, Barry Cook"
   },
   {
     "title": "Life of Pi",
@@ -6570,7 +6790,8 @@ var movieDB = [
     "poster_path": "/sKfOdwKRDoVROHg9B7suyKM82I9.jpg",
     "rating": 7.41,
     "votes": 13817,
-    "imdb_id": "tt0454876"
+    "imdb_id": "tt0454876",
+    "director": "李安"
   },
   {
     "title": "The Hangover",
@@ -6595,7 +6816,8 @@ var movieDB = [
     "poster_path": "/eqfuqXcv0MlbnzihcfsTaTGMbd.jpg",
     "rating": 7.333,
     "votes": 18166,
-    "imdb_id": "tt1119646"
+    "imdb_id": "tt1119646",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "How to Train Your Dragon",
@@ -6626,7 +6848,8 @@ var movieDB = [
     "poster_path": "/cMUmeDM2QRlSOAK9onB8PhXtdZJ.jpg",
     "rating": 7.861,
     "votes": 14434,
-    "imdb_id": "tt0892769"
+    "imdb_id": "tt0892769",
+    "director": "Крис Сандерс, Дин ДеБлуа"
   },
   {
     "title": "21 Jump Street",
@@ -6652,7 +6875,8 @@ var movieDB = [
     "poster_path": "/xe2Z8wgNzKK9dhHr23B18dCBmie.jpg",
     "rating": 6.887,
     "votes": 11071,
-    "imdb_id": "tt1232829"
+    "imdb_id": "tt1232829",
+    "director": "Фил Лорд, Крис Миллер"
   },
   {
     "title": "Aliens",
@@ -6682,7 +6906,8 @@ var movieDB = [
     "poster_path": "/sSCmIDZ2EO1oLa8QMq6dL8kNFKq.jpg",
     "rating": 8,
     "votes": 10917,
-    "imdb_id": "tt0090605"
+    "imdb_id": "tt0090605",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Enemy",
@@ -6707,7 +6932,8 @@ var movieDB = [
     "poster_path": "/dg4sBS73ULtzTRkiHFEkbEczpD6.jpg",
     "rating": 4.563,
     "votes": 8,
-    "imdb_id": "tt2966728"
+    "imdb_id": "tt2966728",
+    "director": "Michael Ryan Hahn"
   },
   {
     "title": "Back to the Future Part II",
@@ -6732,7 +6958,8 @@ var movieDB = [
     "poster_path": "/7sVoHHyQCxdVuIAeJakFWthfcFg.jpg",
     "rating": 7.782,
     "votes": 13999,
-    "imdb_id": "tt0096874"
+    "imdb_id": "tt0096874",
+    "director": "Роберт Земекис"
   },
   {
     "title": "The Terminator",
@@ -6761,7 +6988,8 @@ var movieDB = [
     "poster_path": "/hcItc8IMO0WKyRWPGkI6xtKVu6X.jpg",
     "rating": 7.684,
     "votes": 14704,
-    "imdb_id": "tt0088247"
+    "imdb_id": "tt0088247",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "The Green Mile",
@@ -6791,7 +7019,8 @@ var movieDB = [
     "poster_path": "/lHxe8t4B0CKv4DO0C0B4rsuiG95.jpg",
     "rating": 8.5,
     "votes": 19375,
-    "imdb_id": "tt0120689"
+    "imdb_id": "tt0120689",
+    "director": "Фрэнк Дарабонт"
   },
   {
     "title": "The Hobbit: An Unexpected Journey",
@@ -6820,7 +7049,8 @@ var movieDB = [
     "poster_path": "/zTnup9V8UJEG4jWULQQpyKB6Tq0.jpg",
     "rating": 7.377,
     "votes": 19713,
-    "imdb_id": "tt0903624"
+    "imdb_id": "tt0903624",
+    "director": "Питер Джексон"
   },
   {
     "title": "Kiki's Delivery Service",
@@ -6847,7 +7077,8 @@ var movieDB = [
     "poster_path": "/iEyJM9NDqjvDDKYUIOnGToCxiTo.jpg",
     "rating": 7.837,
     "votes": 4610,
-    "imdb_id": "tt0097814"
+    "imdb_id": "tt0097814",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "The Girl with the Dragon Tattoo",
@@ -6877,7 +7108,8 @@ var movieDB = [
     "poster_path": "/qMTJRPjORJOFFSaB7f8PWuIhqpI.jpg",
     "rating": 7.387,
     "votes": 7638,
-    "imdb_id": "tt1568346"
+    "imdb_id": "tt1568346",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "Wreck-It Ralph",
@@ -6908,7 +7140,8 @@ var movieDB = [
     "poster_path": "/ajqxACmmCAgNCL598xUTG4cn1iP.jpg",
     "rating": 7.358,
     "votes": 13109,
-    "imdb_id": "tt1772341"
+    "imdb_id": "tt1772341",
+    "director": "Рич Мур"
   },
   {
     "title": "Free Guy",
@@ -6933,7 +7166,8 @@ var movieDB = [
     "poster_path": "/qJZ3UeKAOgz2kFVJPZZFzLtn1Qk.jpg",
     "rating": 7.452,
     "votes": 9886,
-    "imdb_id": "tt6264654"
+    "imdb_id": "tt6264654",
+    "director": "Шон Леви"
   },
   {
     "title": "Easy A",
@@ -6953,7 +7187,8 @@ var movieDB = [
     "poster_path": "/uBXAg9Wo0xc2nGLehNIBl3unNh7.jpg",
     "rating": 6.804,
     "votes": 7409,
-    "imdb_id": "tt1282140"
+    "imdb_id": "tt1282140",
+    "director": "Уилл Глак"
   },
   {
     "title": "Godzilla vs. Kong",
@@ -6981,7 +7216,8 @@ var movieDB = [
     "poster_path": "/wLAxMrIbBMWMm0ibCSGQFgBUDOZ.jpg",
     "rating": 7.534,
     "votes": 10672,
-    "imdb_id": "tt5034838"
+    "imdb_id": "tt5034838",
+    "director": "Адам Вингард"
   },
   {
     "title": "Zack Snyder's Justice League",
@@ -7012,7 +7248,8 @@ var movieDB = [
     "poster_path": "/tpPWUv258JrMSIdkVVV1NDp3aoT.jpg",
     "rating": 8.087,
     "votes": 10892,
-    "imdb_id": "tt12361974"
+    "imdb_id": "tt12361974",
+    "director": "Зак Снайдер"
   },
   {
     "title": "The Greatest Showman",
@@ -7039,7 +7276,8 @@ var movieDB = [
     "poster_path": "/zv1lVnyhl1vNWXKvszN6kaA4clq.jpg",
     "rating": 7.858,
     "votes": 10085,
-    "imdb_id": "tt1485796"
+    "imdb_id": "tt1485796",
+    "director": "Майкл Грейси"
   },
   {
     "title": "Man of Steel",
@@ -7067,7 +7305,8 @@ var movieDB = [
     "poster_path": "/azlOOwkq3FS0unvTBjtQVsz6YIk.jpg",
     "rating": 6.651,
     "votes": 16279,
-    "imdb_id": "tt0770828"
+    "imdb_id": "tt0770828",
+    "director": "Зак Снайдер"
   },
   {
     "title": "The Edge of Seventeen",
@@ -7091,7 +7330,8 @@ var movieDB = [
     "poster_path": "/vRh1Wb9CZmm4dbb341skxnhzM72.jpg",
     "rating": 7.2,
     "votes": 4269,
-    "imdb_id": "tt1878870"
+    "imdb_id": "tt1878870",
+    "director": "Келли Фримон Крейг"
   },
   {
     "title": "WandaVision",
@@ -7136,7 +7376,8 @@ var movieDB = [
     "poster_path": "/2hDzCRhXWm5ry2nFs9HQBIon1DJ.jpg",
     "rating": 7.451,
     "votes": 9175,
-    "imdb_id": "tt4912910"
+    "imdb_id": "tt4912910",
+    "director": "Кристофер МакКуорри"
   },
   {
     "title": "Brave",
@@ -7169,7 +7410,8 @@ var movieDB = [
     "poster_path": "/lCYl7WVZfZ2oJoQCWjEyxPxpxli.jpg",
     "rating": 7.031,
     "votes": 14234,
-    "imdb_id": "tt1217209"
+    "imdb_id": "tt1217209",
+    "director": "Mark Andrews, Brenda Chapman"
   },
   {
     "title": "Dallas Buyers Club",
@@ -7197,7 +7439,8 @@ var movieDB = [
     "poster_path": "/6QQQzXosnQvcmGRc5mAmN0HAS9c.jpg",
     "rating": 7.9,
     "votes": 9113,
-    "imdb_id": "tt0790636"
+    "imdb_id": "tt0790636",
+    "director": "Жан-Марк Валле"
   },
   {
     "title": "Aladdin",
@@ -7228,7 +7471,8 @@ var movieDB = [
     "poster_path": "/92GjkHUHMn9HIZqihuradZNZNLb.jpg",
     "rating": 7.655,
     "votes": 12059,
-    "imdb_id": "tt0103639"
+    "imdb_id": "tt0103639",
+    "director": "Рон Клементс, Джон Маскер"
   },
   {
     "title": "Monty Python and the Holy Grail",
@@ -7254,7 +7498,8 @@ var movieDB = [
     "poster_path": "/lb6rAlJJeO2YACrtWWI471MIp8z.jpg",
     "rating": 7.806,
     "votes": 6449,
-    "imdb_id": "tt0071853"
+    "imdb_id": "tt0071853",
+    "director": "Терри Гиллиам, Terry Jones"
   },
   {
     "title": "Cars",
@@ -7283,7 +7528,8 @@ var movieDB = [
     "poster_path": "/fnM322LJHBPFiwYLHe5KHSdYKfZ.jpg",
     "rating": 7.035,
     "votes": 15190,
-    "imdb_id": "tt0317219"
+    "imdb_id": "tt0317219",
+    "director": "Джон Лассетер"
   },
   {
     "title": "Edge of Tomorrow",
@@ -7307,7 +7553,8 @@ var movieDB = [
     "poster_path": "/98Ll6igWXdjHiKuZtCacTzRGyNX.jpg",
     "rating": 7.64,
     "votes": 15153,
-    "imdb_id": "tt1631867"
+    "imdb_id": "tt1631867",
+    "director": "Даг Лайман"
   },
   {
     "title": "Corpse Bride",
@@ -7333,7 +7580,8 @@ var movieDB = [
     "poster_path": "/sgqR6vsyc3SGGIjlK2HseG0vrQX.jpg",
     "rating": 7.592,
     "votes": 10240,
-    "imdb_id": "tt0121164"
+    "imdb_id": "tt0121164",
+    "director": "Mike Johnson, Тим Бёртон"
   },
   {
     "title": "Jumanji: Welcome to the Jungle",
@@ -7362,7 +7610,8 @@ var movieDB = [
     "poster_path": "/8x54Dct05F1mIGKmmswasHFVumt.jpg",
     "rating": 6.82,
     "votes": 14552,
-    "imdb_id": "tt2283362"
+    "imdb_id": "tt2283362",
+    "director": "Джейк Кэздан"
   },
   {
     "title": "The Theory of Everything",
@@ -7385,7 +7634,8 @@ var movieDB = [
     "poster_path": "/ocIrARiY6ZbEWsYJZmk6avPEc3k.jpg",
     "rating": 7.831,
     "votes": 11152,
-    "imdb_id": "tt2980516"
+    "imdb_id": "tt2980516",
+    "director": "James Marsh"
   },
   {
     "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
@@ -7407,7 +7657,8 @@ var movieDB = [
     "poster_path": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
     "rating": 6.4,
     "votes": 2875,
-    "imdb_id": "tt13143964"
+    "imdb_id": "tt13143964",
+    "director": "Jason Woliner"
   },
   {
     "title": "The Texas Chain Saw Massacre",
@@ -7431,7 +7682,8 @@ var movieDB = [
     "poster_path": "/rEJYj4FyO4d0ivaudmYiq6DYiUw.jpg",
     "rating": 7.286,
     "votes": 3842,
-    "imdb_id": "tt0072271"
+    "imdb_id": "tt0072271",
+    "director": "Тоуб Хупер"
   },
   {
     "title": "Now You See Me",
@@ -7458,7 +7710,8 @@ var movieDB = [
     "poster_path": "/theB79zav0sACXPxMFgKI3nQIr8.jpg",
     "rating": 7.33,
     "votes": 16857,
-    "imdb_id": "tt1670345"
+    "imdb_id": "tt1670345",
+    "director": "Луи Летерье"
   },
   {
     "title": "Indiana Jones and the Last Crusade",
@@ -7484,7 +7737,8 @@ var movieDB = [
     "poster_path": "/8d0JXwZaEDl7xg2Wc973NKzwjW6.jpg",
     "rating": 7.853,
     "votes": 11115,
-    "imdb_id": "tt0097576"
+    "imdb_id": "tt0097576",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
@@ -7506,7 +7760,8 @@ var movieDB = [
     "poster_path": "/bTUFtYSjjvmWTPa9oLzJK5qYVqn.jpg",
     "rating": 6.788,
     "votes": 6012,
-    "imdb_id": "tt0443453"
+    "imdb_id": "tt0443453",
+    "director": "Ларри Чарльз"
   },
   {
     "title": "The Babadook",
@@ -7534,7 +7789,8 @@ var movieDB = [
     "poster_path": "/1tOwKZqS5YQ7EL9QNXjhC7rKHKd.jpg",
     "rating": 6.536,
     "votes": 6447,
-    "imdb_id": "tt2321549"
+    "imdb_id": "tt2321549",
+    "director": "Jennifer Kent"
   },
   {
     "title": "Venom: Let There Be Carnage",
@@ -7559,7 +7815,8 @@ var movieDB = [
     "poster_path": "/pZe4xYwDkmxhf3oA8DNEihOW4pW.jpg",
     "rating": 6.743,
     "votes": 11212,
-    "imdb_id": "tt7097896"
+    "imdb_id": "tt7097896",
+    "director": "Энди Сёркис"
   },
   {
     "title": "Watchmen",
@@ -7583,7 +7840,8 @@ var movieDB = [
     "poster_path": "/vxDpI0PwoXNhkoxEvy8BtZAFoYZ.jpg",
     "rating": 7.356,
     "votes": 10051,
-    "imdb_id": "tt0409459"
+    "imdb_id": "tt0409459",
+    "director": "Зак Снайдер"
   },
   {
     "title": "The Matrix Reloaded",
@@ -7610,7 +7868,8 @@ var movieDB = [
     "poster_path": "/d0xVNNxIYxId2qHkqpgE39soOvD.jpg",
     "rating": 7.078,
     "votes": 12035,
-    "imdb_id": "tt0234215"
+    "imdb_id": "tt0234215",
+    "director": "Энди Вачовски, Ларри Вачовски"
   },
   {
     "title": "Love, Simon",
@@ -7636,7 +7895,8 @@ var movieDB = [
     "poster_path": "/eTrrZ0CnLMDc9DXlRpfC9wVfbkL.jpg",
     "rating": 7.971,
     "votes": 6278,
-    "imdb_id": "tt5164432"
+    "imdb_id": "tt5164432",
+    "director": "Грег Берланти"
   },
   {
     "title": "X-Men: First Class",
@@ -7661,7 +7921,8 @@ var movieDB = [
     "poster_path": "/6vkQtWNHqq3uzcS0PH2mER7Gzjd.jpg",
     "rating": 7.3,
     "votes": 13586,
-    "imdb_id": "tt1270798"
+    "imdb_id": "tt1270798",
+    "director": "Мэттью Вон"
   },
   {
     "title": "Monsters University",
@@ -7690,7 +7951,8 @@ var movieDB = [
     "poster_path": "/3LkX2ZFLbgj07lhdQYzOUHaMoZd.jpg",
     "rating": 7.052,
     "votes": 11366,
-    "imdb_id": "tt1453405"
+    "imdb_id": "tt1453405",
+    "director": "Дэн Скэнлон"
   },
   {
     "title": "Justice League",
@@ -7715,7 +7977,8 @@ var movieDB = [
     "poster_path": "/e2f1GaWLkk5Sj7cZMi38mUPXYdt.jpg",
     "rating": 6.073,
     "votes": 13711,
-    "imdb_id": "tt0974015"
+    "imdb_id": "tt0974015",
+    "director": "Зак Снайдер"
   },
   {
     "title": "American History X",
@@ -7741,7 +8004,8 @@ var movieDB = [
     "poster_path": "/2dIE1KOc7Fa3FIMzph8mBJK17KM.jpg",
     "rating": 8.327,
     "votes": 12643,
-    "imdb_id": "tt0120586"
+    "imdb_id": "tt0120586",
+    "director": "Тони Кэй"
   },
   {
     "title": "Love Actually",
@@ -7767,7 +8031,8 @@ var movieDB = [
     "poster_path": "/bvgazyuurl8il9nYsXMU7aulWGL.jpg",
     "rating": 7.098,
     "votes": 7416,
-    "imdb_id": "tt0314331"
+    "imdb_id": "tt0314331",
+    "director": "Ричард Кёртис"
   },
   {
     "title": "The Hunger Games: Mockingjay – Part 1",
@@ -7795,7 +8060,8 @@ var movieDB = [
     "poster_path": "/kPbFeomPFnnktdwBgCBZ24NhkTj.jpg",
     "rating": 6.817,
     "votes": 16771,
-    "imdb_id": "tt1951265"
+    "imdb_id": "tt1951265",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Hacksaw Ridge",
@@ -7825,7 +8091,8 @@ var movieDB = [
     "poster_path": "/A4Q3CdaQzbPwDI1gnE7WX5585rJ.jpg",
     "rating": 8.19,
     "votes": 14932,
-    "imdb_id": "tt2119532"
+    "imdb_id": "tt2119532",
+    "director": "Мел Гибсон"
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
@@ -7853,7 +8120,8 @@ var movieDB = [
     "poster_path": "/guSoA2bedeYB2xGTBKYLx0biENV.jpg",
     "rating": 7.384,
     "votes": 17255,
-    "imdb_id": "tt0383574"
+    "imdb_id": "tt0383574",
+    "director": "Гор Вербински"
   },
   {
     "title": "Kick-Ass",
@@ -7877,7 +8145,8 @@ var movieDB = [
     "poster_path": "/mLMuZS6rgxBZZstzIwJonG355oI.jpg",
     "rating": 7.124,
     "votes": 12429,
-    "imdb_id": "tt1250777"
+    "imdb_id": "tt1250777",
+    "director": "Мэттью Вон"
   },
   {
     "title": "Frozen II",
@@ -7908,7 +8177,8 @@ var movieDB = [
     "poster_path": "/4NIQcsmtyBOoJKI3c1Rg5sFFaUj.jpg",
     "rating": 7.229,
     "votes": 10322,
-    "imdb_id": "tt4520988"
+    "imdb_id": "tt4520988",
+    "director": "Дженнифер Ли, Крис Бак"
   },
   {
     "title": "Pokémon Detective Pikachu",
@@ -7936,7 +8206,8 @@ var movieDB = [
     "poster_path": "/t9FIOdeU9PU49ieVzG2JsutNy3H.jpg",
     "rating": 6.905,
     "votes": 7380,
-    "imdb_id": "tt5884052"
+    "imdb_id": "tt5884052",
+    "director": "Роб Леттерман"
   },
   {
     "title": "Kung Fu Panda",
@@ -7961,7 +8232,8 @@ var movieDB = [
     "poster_path": "/dWteA8uhU6SWyawy5f4l7BnYQCm.jpg",
     "rating": 7.327,
     "votes": 12710,
-    "imdb_id": "tt0441773"
+    "imdb_id": "tt0441773",
+    "director": "Марк Осборн, John Stevenson"
   },
   {
     "title": "The Incredible Hulk",
@@ -7985,7 +8257,8 @@ var movieDB = [
     "poster_path": "/gSpDY5e5VCohH0PaSEWEI0FdEzC.jpg",
     "rating": 6.244,
     "votes": 12753,
-    "imdb_id": "tt0800080"
+    "imdb_id": "tt0800080",
+    "director": "Луи Летерье"
   },
   {
     "title": "Men in Black",
@@ -8012,7 +8285,8 @@ var movieDB = [
     "poster_path": "/aWdS4UOb4aeoS9xZsxGHhXTA1jp.jpg",
     "rating": 7.225,
     "votes": 14905,
-    "imdb_id": "tt0119654"
+    "imdb_id": "tt0119654",
+    "director": "Барри Зонненфельд"
   },
   {
     "title": "Crazy, Stupid, Love.",
@@ -8038,7 +8312,8 @@ var movieDB = [
     "poster_path": "/ho2mxV5t3ZxsgSNP1JMHfxdxpkW.jpg",
     "rating": 7.273,
     "votes": 9330,
-    "imdb_id": "tt1570728"
+    "imdb_id": "tt1570728",
+    "director": "Гленн Фикарра, Джон Рекуа"
   },
   {
     "title": "The Matrix Resurrections",
@@ -8063,7 +8338,8 @@ var movieDB = [
     "poster_path": "/wUNFs1bTM8O4ZmRNU3Pgi6c68sX.jpg",
     "rating": 6.329,
     "votes": 6523,
-    "imdb_id": "tt10838180"
+    "imdb_id": "tt10838180",
+    "director": "Ларри Вачовски"
   },
   {
     "title": "Rocky",
@@ -8097,7 +8373,8 @@ var movieDB = [
     "poster_path": "/7gtCLTReKHDySOnPduWwu6190pt.jpg",
     "rating": 7.8,
     "votes": 8681,
-    "imdb_id": "tt0075148"
+    "imdb_id": "tt0075148",
+    "director": "John G. Avildsen"
   },
   {
     "title": "The Hobbit: The Desolation of Smaug",
@@ -8122,7 +8399,8 @@ var movieDB = [
     "poster_path": "/ccbf6gnYwB2tMaU9EAgxCi88NEe.jpg",
     "rating": 7.58,
     "votes": 14266,
-    "imdb_id": "tt1170358"
+    "imdb_id": "tt1170358",
+    "director": "Питер Джексон"
   },
   {
     "title": "Legally Blonde",
@@ -8143,7 +8421,8 @@ var movieDB = [
     "poster_path": "/gUvq472g8Wsp6DVNOCWh8OVDcM6.jpg",
     "rating": 6.817,
     "votes": 4583,
-    "imdb_id": "tt0250494"
+    "imdb_id": "tt0250494",
+    "director": "Robert Luketic"
   },
   {
     "title": "Looper",
@@ -8168,7 +8447,8 @@ var movieDB = [
     "poster_path": "/moFUn35rGpj99XasdywgzjgL6Uw.jpg",
     "rating": 6.911,
     "votes": 10956,
-    "imdb_id": "tt1276104"
+    "imdb_id": "tt1276104",
+    "director": "Райан Джонсон"
   },
   {
     "title": "Spectre",
@@ -8199,7 +8479,8 @@ var movieDB = [
     "poster_path": "/kNwjQ4slojsrgkA84PtlRnz6u9j.jpg",
     "rating": 6.569,
     "votes": 11294,
-    "imdb_id": "tt2379713"
+    "imdb_id": "tt2379713",
+    "director": "Sam Mendes"
   },
   {
     "title": "The Iron Giant",
@@ -8230,7 +8511,8 @@ var movieDB = [
     "poster_path": "/wkaIRfdfL8n7QQe3G4dd48KeJix.jpg",
     "rating": 7.958,
     "votes": 6216,
-    "imdb_id": "tt0129167"
+    "imdb_id": "tt0129167",
+    "director": "Брэд Бёрд"
   },
   {
     "title": "Kong: Skull Island",
@@ -8255,7 +8537,8 @@ var movieDB = [
     "poster_path": "/19GS8ERZYAi4O7dVIDDpSLE3ynW.jpg",
     "rating": 6.554,
     "votes": 11179,
-    "imdb_id": "tt3731562"
+    "imdb_id": "tt3731562",
+    "director": "Джордан Вот-Робертс"
   },
   {
     "title": "Indiana Jones and the Temple of Doom",
@@ -8280,7 +8563,8 @@ var movieDB = [
     "poster_path": "/az7v4UfTazPSeiLT1TrMNLdk6YX.jpg",
     "rating": 7.309,
     "votes": 10155,
-    "imdb_id": "tt0087469"
+    "imdb_id": "tt0087469",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "The Emperor's New Groove",
@@ -8310,7 +8594,8 @@ var movieDB = [
     "poster_path": "/xeDg6fbmjjj5H7CsKEWpOEK9n2m.jpg",
     "rating": 7.563,
     "votes": 7334,
-    "imdb_id": "tt0120917"
+    "imdb_id": "tt0120917",
+    "director": "Марк Диндал"
   },
   {
     "title": "Alice in Wonderland",
@@ -8337,7 +8622,8 @@ var movieDB = [
     "poster_path": "/i0jk1oPJN9F5mp2ZKXPAEzUd8qo.jpg",
     "rating": 6.642,
     "votes": 14856,
-    "imdb_id": "tt1014759"
+    "imdb_id": "tt1014759",
+    "director": "Тим Бёртон"
   },
   {
     "title": "World War Z",
@@ -8363,7 +8649,8 @@ var movieDB = [
     "poster_path": "/t25IhiCJ8En3uZP27XLSEk8BQCf.jpg",
     "rating": 6.839,
     "votes": 16666,
-    "imdb_id": "tt0816711"
+    "imdb_id": "tt0816711",
+    "director": "Марк Форстер"
   },
   {
     "title": "Beauty and the Beast",
@@ -8389,7 +8676,8 @@ var movieDB = [
     "poster_path": "/bETMkjKVKXgXn591UZ9pFqAKQ6z.jpg",
     "rating": 6.967,
     "votes": 16032,
-    "imdb_id": "tt2771200"
+    "imdb_id": "tt2771200",
+    "director": "Билл Кондон"
   },
   {
     "title": "Beauty and the Beast",
@@ -8419,7 +8707,8 @@ var movieDB = [
     "poster_path": "/A9AtXMWX0V4IZ2ygBi9Cr85tQD1.jpg",
     "rating": 7.727,
     "votes": 10716,
-    "imdb_id": "tt0101414"
+    "imdb_id": "tt0101414",
+    "director": "Гари Труздейл, Kirk Wise"
   },
   {
     "title": "Swiss Army Man",
@@ -8450,7 +8739,8 @@ var movieDB = [
     "poster_path": "/rxc0V3Ac9SPkmftzDNqsKdGbKmS.jpg",
     "rating": 6.919,
     "votes": 3829,
-    "imdb_id": "tt4034354"
+    "imdb_id": "tt4034354",
+    "director": "Daniel Kwan, Daniel Scheinert"
   },
   {
     "title": "The Hunger Games: Mockingjay – Part 2",
@@ -8478,7 +8768,8 @@ var movieDB = [
     "poster_path": "/iQSeemlBax66PWmUWjuKFVBLBBa.jpg",
     "rating": 6.9,
     "votes": 13383,
-    "imdb_id": "tt1951266"
+    "imdb_id": "tt1951266",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Cast Away",
@@ -8507,7 +8798,8 @@ var movieDB = [
     "poster_path": "/7pt1wFiuCai9BGGwNoQ0vgcfs1T.jpg",
     "rating": 7.664,
     "votes": 12315,
-    "imdb_id": "tt0162222"
+    "imdb_id": "tt0162222",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Moneyball",
@@ -8533,7 +8825,8 @@ var movieDB = [
     "poster_path": "/4HK2P331zld9xB7L8BWLh1fJuUh.jpg",
     "rating": 7.297,
     "votes": 5824,
-    "imdb_id": "tt1210166"
+    "imdb_id": "tt1210166",
+    "director": "Беннетт Миллер"
   },
   {
     "title": "American Hustle",
@@ -8556,7 +8849,8 @@ var movieDB = [
     "poster_path": "/j2qDwmdaQfnQIiyC5dUpVwUOakn.jpg",
     "rating": 6.856,
     "votes": 7772,
-    "imdb_id": "tt1800241"
+    "imdb_id": "tt1800241",
+    "director": "David O. Russell"
   },
   {
     "title": "Kingsman: The Golden Circle",
@@ -8587,7 +8881,8 @@ var movieDB = [
     "poster_path": "/vVQXYV7x6gpk9oVFbzsBxkIxdqT.jpg",
     "rating": 6.946,
     "votes": 11176,
-    "imdb_id": "tt4649466"
+    "imdb_id": "tt4649466",
+    "director": "Мэттью Вон"
   },
   {
     "title": "Snatch",
@@ -8611,7 +8906,8 @@ var movieDB = [
     "poster_path": "/5O4Plo1z21mycLfLyQ2AtPhbmhW.jpg",
     "rating": 7.825,
     "votes": 10037,
-    "imdb_id": "tt0208092"
+    "imdb_id": "tt0208092",
+    "director": "Гай Ричи"
   },
   {
     "title": "The Lion King",
@@ -8637,7 +8933,8 @@ var movieDB = [
     "poster_path": "/lD4Hy3ibzvA9byY2uyUNGeRNzaj.jpg",
     "rating": 7.096,
     "votes": 10775,
-    "imdb_id": "tt6105098"
+    "imdb_id": "tt6105098",
+    "director": "Джон Фавро"
   },
   {
     "title": "X-Men: Apocalypse",
@@ -8666,7 +8963,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/eWMotFv2cbsJLxFGLZPqT7SRk7Z.jpg",
     "rating": 6.526,
     "votes": 13827,
-    "imdb_id": "tt3385516"
+    "imdb_id": "tt3385516",
+    "director": "Брайан Сингер"
   },
   {
     "title": "Pacific Rim",
@@ -8694,7 +8992,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/pacific-rim-2013/",
     "rating": 6.932,
     "votes": 13455,
-    "imdb_id": "tt1663662"
+    "imdb_id": "tt1663662",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Home Alone 2: Lost in New York",
@@ -8721,7 +9020,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/home-alone-2-lost-in-new-york-1992/",
     "rating": 6.788,
     "votes": 10661,
-    "imdb_id": "tt0104431"
+    "imdb_id": "tt0104431",
+    "director": "Крис Коламбус"
   },
   {
     "title": "The Gentlemen",
@@ -8773,7 +9073,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/19fnHQ9g3Sy87rHKtw3wqhkBGOh.jpg",
     "rating": 7.336,
     "votes": 15435,
-    "imdb_id": "tt2310332"
+    "imdb_id": "tt2310332",
+    "director": "Питер Джексон"
   },
   {
     "title": "Jurassic World: Fallen Kingdom",
@@ -8802,7 +9103,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jurassic-world-fallen-kingdom-2018/",
     "rating": 6.53,
     "votes": 12814,
-    "imdb_id": "tt4881806"
+    "imdb_id": "tt4881806",
+    "director": "Хуан Антонио Байона"
   },
   {
     "title": "Chernobyl",
@@ -8828,7 +9130,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/chernobyl-2019/",
     "rating": 7.25,
     "votes": 4,
-    "imdb_id": "tt10472594"
+    "imdb_id": "tt10472594",
+    "director": "Alexander Shuryepov"
   },
   {
     "title": "Lilo & Stitch",
@@ -8855,7 +9158,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/lilo-stitch-2002/",
     "rating": 7.56,
     "votes": 7123,
-    "imdb_id": "tt0275847"
+    "imdb_id": "tt0275847",
+    "director": "Крис Сандерс, Дин ДеБлуа"
   },
   {
     "title": "Halloween",
@@ -8885,7 +9189,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6GN0q5kDTlBe4OE7ftuCvlLlrbM.jpg",
     "rating": 6.564,
     "votes": 5077,
-    "imdb_id": "tt1502407"
+    "imdb_id": "tt1502407",
+    "director": "Дэвид Гордон Грин"
   },
   {
     "title": "Despicable Me",
@@ -8917,7 +9222,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/g6UZ4GqjgERkncrPxIT0AY5Qapi.jpg",
     "rating": 7.259,
     "votes": 16104,
-    "imdb_id": "tt1323594"
+    "imdb_id": "tt1323594",
+    "director": "Крис Рено, Пьер Коффен"
   },
   {
     "title": "A Beautiful Mind",
@@ -8945,7 +9251,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind-2001/",
     "rating": 7.9,
     "votes": 11130,
-    "imdb_id": "tt0268978"
+    "imdb_id": "tt0268978",
+    "director": "Рон Ховард"
   },
   {
     "title": "Saw",
@@ -8975,7 +9282,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/saw-2004/",
     "rating": 7.4,
     "votes": 10115,
-    "imdb_id": "tt0387564"
+    "imdb_id": "tt0387564",
+    "director": "Джеймс Ван"
   },
   {
     "title": "Raya and the Last Dragon",
@@ -9005,7 +9313,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/raya-and-the-last-dragon-2021/",
     "rating": 7.801,
     "votes": 7325,
-    "imdb_id": "tt5109280"
+    "imdb_id": "tt5109280",
+    "director": "Carlos López Estrada, Don Hall"
   },
   {
     "title": "I Am Legend",
@@ -9040,7 +9349,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/i-am-legend-2007/",
     "rating": 7.218,
     "votes": 16923,
-    "imdb_id": "tt0480249"
+    "imdb_id": "tt0480249",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Back to the Future Part III",
@@ -9065,7 +9375,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/hP8IQLoaN2KLFFmDuIdtRrD38O7.jpg",
     "rating": 7.493,
     "votes": 11577,
-    "imdb_id": "tt0099088"
+    "imdb_id": "tt0099088",
+    "director": "Роберт Земекис"
   },
   {
     "title": "A Bug's Life",
@@ -9094,7 +9405,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-bugs-life-1998/",
     "rating": 6.98,
     "votes": 9764,
-    "imdb_id": "tt0120623"
+    "imdb_id": "tt0120623",
+    "director": "Джон Лассетер"
   },
   {
     "title": "The Neon Demon",
@@ -9114,7 +9426,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-neon-demon-2016/",
     "rating": 6.501,
     "votes": 3953,
-    "imdb_id": "tt1974419"
+    "imdb_id": "tt1974419",
+    "director": "Николас Виндинг Рефн"
   },
   {
     "title": "Loki",
@@ -9141,7 +9454,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ibYMcRiSPJShNrVsdaTFyXkPA7o.jpg",
     "rating": 7.224,
     "votes": 693,
-    "imdb_id": "tt14957270"
+    "imdb_id": "tt14957270",
+    "director": "Дэвид Силверман"
   },
   {
     "title": "Prometheus",
@@ -9175,7 +9489,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/prometheus-2012/",
     "rating": 6.598,
     "votes": 13320,
-    "imdb_id": "tt1446714"
+    "imdb_id": "tt1446714",
+    "director": "Ридли Скотт"
   },
   {
     "title": "District 9",
@@ -9205,7 +9520,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/dIsWr91mFfVvQsTgd0I6hfmyS8B.jpg",
     "rating": 7.472,
     "votes": 10398,
-    "imdb_id": "tt1136608"
+    "imdb_id": "tt1136608",
+    "director": "Нил Бломкамп"
   },
   {
     "title": "Unbreakable",
@@ -9231,7 +9547,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/unbreakable-2000/",
     "rating": 7.144,
     "votes": 9962,
-    "imdb_id": "tt0217869"
+    "imdb_id": "tt0217869",
+    "director": "М. Найт Шьямалан"
   },
   {
     "title": "Hercules",
@@ -9262,7 +9579,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hercules-1997/",
     "rating": 7.5,
     "votes": 7966,
-    "imdb_id": "tt0119282"
+    "imdb_id": "tt0119282",
+    "director": "Рон Клементс, Джон Маскер"
   },
   {
     "title": "Sherlock Holmes",
@@ -9297,7 +9615,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sherlock-holmes-2009/",
     "rating": 7.221,
     "votes": 14822,
-    "imdb_id": "tt0988045"
+    "imdb_id": "tt0988045",
+    "director": "Гай Ричи"
   },
   {
     "title": "The Matrix Revolutions",
@@ -9324,7 +9643,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-matrix-revolutions-2003/",
     "rating": 6.753,
     "votes": 10880,
-    "imdb_id": "tt0242653"
+    "imdb_id": "tt0242653",
+    "director": "Ларри Вачовски, Энди Вачовски"
   },
   {
     "title": "This Is the End",
@@ -9348,7 +9668,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/tTFLZsjS6I2V4EVSxF2kVmNCFP1.jpg",
     "rating": 6.235,
     "votes": 6873,
-    "imdb_id": "tt1245492"
+    "imdb_id": "tt1245492",
+    "director": "Эван Голдберг, Сет Роген"
   },
   {
     "title": "Paddington 2",
@@ -9374,7 +9695,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/paddington-2-2017/",
     "rating": 7.478,
     "votes": 2810,
-    "imdb_id": "tt4468740"
+    "imdb_id": "tt4468740",
+    "director": "Пол Кинг"
   },
   {
     "title": "Paddington",
@@ -9400,7 +9722,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/paddington-2014/",
     "rating": 7.121,
     "votes": 4265,
-    "imdb_id": "tt1109624"
+    "imdb_id": "tt1109624",
+    "director": "Пол Кинг"
   },
   {
     "title": "X-Men",
@@ -9424,7 +9747,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/x-men-2000/",
     "rating": 7.037,
     "votes": 241,
-    "imdb_id": "tt0285761"
+    "imdb_id": "tt0285761",
+    "director": "Thomas C. Grane"
   },
   {
     "title": "Batman",
@@ -9455,7 +9779,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/batman-1989/",
     "rating": 7.233,
     "votes": 8612,
-    "imdb_id": "tt0096895"
+    "imdb_id": "tt0096895",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Pirates of the Caribbean: At World's End",
@@ -9486,7 +9811,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/e69Ov9pCwR6OYQLcrvsodrCBWlc.jpg",
     "rating": 7.275,
     "votes": 15538,
-    "imdb_id": "tt0449088"
+    "imdb_id": "tt0449088",
+    "director": "Гор Вербински"
   },
   {
     "title": "Lucy",
@@ -9507,7 +9833,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/lucy-2014/",
     "rating": 6.474,
     "votes": 17126,
-    "imdb_id": "tt2872732"
+    "imdb_id": "tt2872732",
+    "director": "Люк Бессон"
   },
   {
     "title": "The Power of the Dog",
@@ -9530,7 +9857,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-power-of-the-dog-2021/",
     "rating": 6.736,
     "votes": 2971,
-    "imdb_id": "tt10293406"
+    "imdb_id": "tt10293406",
+    "director": "Jane Campion"
   },
   {
     "title": "There Will Be Blood",
@@ -9564,7 +9892,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/there-will-be-blood-2007/",
     "rating": 8.074,
     "votes": 7499,
-    "imdb_id": "tt0469494"
+    "imdb_id": "tt0469494",
+    "director": "Пол Томас Андерсон"
   },
   {
     "title": "Ted",
@@ -9588,7 +9917,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/mqybdAMogDiv6Ew4XM1dPqR2pqg.jpg",
     "rating": 6.454,
     "votes": 13236,
-    "imdb_id": "tt1637725"
+    "imdb_id": "tt1637725",
+    "director": "Сет МакФарлейн"
   },
   {
     "title": "Gremlins",
@@ -9614,7 +9944,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/gremlins-1984/",
     "rating": 7.143,
     "votes": 7013,
-    "imdb_id": "tt0087363"
+    "imdb_id": "tt0087363",
+    "director": "Джо Данте"
   },
   {
     "title": "Tropic Thunder",
@@ -9644,7 +9975,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tropic-thunder-2008/",
     "rating": 6.719,
     "votes": 7009,
-    "imdb_id": "tt0942385"
+    "imdb_id": "tt0942385",
+    "director": "Бен Стиллер"
   },
   {
     "title": "The Intouchables",
@@ -9678,7 +10010,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-intouchables-2011/",
     "rating": 8.272,
     "votes": 18501,
-    "imdb_id": "tt1675434"
+    "imdb_id": "tt1675434",
+    "director": "Éric Toledano, Olivier Nakache"
   },
   {
     "title": "Rise of the Planet of the Apes",
@@ -9709,7 +10042,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/rise-of-the-planet-of-the-apes-2011/",
     "rating": 7.3,
     "votes": 12802,
-    "imdb_id": "tt1318514"
+    "imdb_id": "tt1318514",
+    "director": "Руперт Уайатт"
   },
   {
     "title": "Madagascar",
@@ -9740,7 +10074,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/vwPFZT7tS8b9zDSN0PdvOzeGlfW.jpg",
     "rating": 6.923,
     "votes": 11775,
-    "imdb_id": "tt0351283"
+    "imdb_id": "tt0351283",
+    "director": "Эрик Дарнелл, Том МакГрат"
   },
   {
     "title": "Zombieland: Double Tap",
@@ -9764,7 +10099,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/zombieland-double-tap-2019/",
     "rating": 6.894,
     "votes": 6298,
-    "imdb_id": "tt1560220"
+    "imdb_id": "tt1560220",
+    "director": "Рубен Фляйшер"
   },
   {
     "title": "Searching",
@@ -9791,7 +10127,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/5k74u8F6GRhzNHisT6DcKXb6qd9.jpg",
     "rating": 7.572,
     "votes": 4261,
-    "imdb_id": "tt7668870"
+    "imdb_id": "tt7668870",
+    "director": "Aneesh Chaganty"
   },
   {
     "title": "Notting Hill",
@@ -9815,7 +10152,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/c7ycN6iADYhHrbF0kYCfkBlnRIV.jpg",
     "rating": 7.3,
     "votes": 6743,
-    "imdb_id": "tt0125439"
+    "imdb_id": "tt0125439",
+    "director": "Roger Michell"
   },
   {
     "title": "The 40 Year Old Virgin",
@@ -9838,7 +10176,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-40-year-old-virgin-2005/",
     "rating": 6.426,
     "votes": 7264,
-    "imdb_id": "tt0405422"
+    "imdb_id": "tt0405422",
+    "director": "Джадд Апатоу"
   },
   {
     "title": "The Lego Batman Movie",
@@ -9869,7 +10208,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-lego-batman-movie-2017/",
     "rating": 7.247,
     "votes": 5439,
-    "imdb_id": "tt4116284"
+    "imdb_id": "tt4116284",
+    "director": "Крис МакКей"
   },
   {
     "title": "The Maze Runner",
@@ -9899,7 +10239,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-maze-runner-2014/",
     "rating": 7.189,
     "votes": 18173,
-    "imdb_id": "tt1790864"
+    "imdb_id": "tt1790864",
+    "director": "Уэс Болл"
   },
   {
     "title": "Megamind",
@@ -9929,7 +10270,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/megamind-2010/",
     "rating": 7,
     "votes": 7510,
-    "imdb_id": "tt1001526"
+    "imdb_id": "tt1001526",
+    "director": "Том МакГрат"
   },
   {
     "title": "The Secret Life of Walter Mitty",
@@ -9955,7 +10297,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-secret-life-of-walter-mitty-2013/",
     "rating": 7.225,
     "votes": 8303,
-    "imdb_id": "tt0359950"
+    "imdb_id": "tt0359950",
+    "director": "Бен Стиллер"
   },
   {
     "title": "Bad Times at the El Royale",
@@ -9981,7 +10324,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bad-times-at-the-el-royale-2018/",
     "rating": 6.842,
     "votes": 3891,
-    "imdb_id": "tt6628394"
+    "imdb_id": "tt6628394",
+    "director": "Дрю Годдард"
   },
   {
     "title": "The Fifth Element",
@@ -10012,7 +10356,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-fifth-element-1997/",
     "rating": 7.584,
     "votes": 11824,
-    "imdb_id": "tt0119116"
+    "imdb_id": "tt0119116",
+    "director": "Люк Бессон"
   },
   {
     "title": "300",
@@ -10034,7 +10379,8 @@ var movieDB = [
     "title_ru": "Home Movies 300-1",
     "tmdb_id": 719963,
     "poster_path": "/oBaPBPcoIFieYhl9osinxZ3abfp.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/300-2006/"
+    "letterboxd_url": "https://letterboxd.com/film/300-2006/",
+    "director": "Jim Campbell"
   },
   {
     "title": "Maleficent",
@@ -10064,7 +10410,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/maleficent-2014/",
     "rating": 7.1,
     "votes": 13774,
-    "imdb_id": "tt1587310"
+    "imdb_id": "tt1587310",
+    "director": "Robert Stromberg"
   },
   {
     "title": "The Pursuit of Happyness",
@@ -10084,7 +10431,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-pursuit-of-happyness-2006/",
     "rating": 7.887,
     "votes": 10644,
-    "imdb_id": "tt0454921"
+    "imdb_id": "tt0454921",
+    "director": "Gabriele Muccino"
   },
   {
     "title": "Spring Breakers",
@@ -10107,7 +10455,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/spring-breakers-2012/",
     "rating": 5.256,
     "votes": 4044,
-    "imdb_id": "tt2101441"
+    "imdb_id": "tt2101441",
+    "director": "Harmony Korine"
   },
   {
     "title": "Dirty Dancing",
@@ -10134,7 +10483,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/soMxltCDbfvEVZzYTHMd00G14kb.jpg",
     "rating": 7.325,
     "votes": 6535,
-    "imdb_id": "tt0092890"
+    "imdb_id": "tt0092890",
+    "director": "Emile Ardolino"
   },
   {
     "title": "The Polar Express",
@@ -10163,7 +10513,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-polar-express-2004/",
     "rating": 6.722,
     "votes": 6910,
-    "imdb_id": "tt0338348"
+    "imdb_id": "tt0338348",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Godzilla: King of the Monsters",
@@ -10189,7 +10540,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/4PkioPObln2XGKjsjgZ3Ar1rvW9.jpg",
     "rating": 6.691,
     "votes": 6754,
-    "imdb_id": "tt3741700"
+    "imdb_id": "tt3741700",
+    "director": "Майкл Догерти"
   },
   {
     "title": "Batman Returns",
@@ -10218,7 +10570,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/batman-returns-1992/",
     "rating": 6.948,
     "votes": 7125,
-    "imdb_id": "tt0103776"
+    "imdb_id": "tt0103776",
+    "director": "Тим Бёртон"
   },
   {
     "title": "The Princess Diaries",
@@ -10244,7 +10597,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-princess-diaries-2001/",
     "rating": 6.962,
     "votes": 5286,
-    "imdb_id": "tt0247638"
+    "imdb_id": "tt0247638",
+    "director": "Garry Marshall"
   },
   {
     "title": "The Twilight Saga: New Moon",
@@ -10275,7 +10629,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-twilight-saga-new-moon-2009/",
     "rating": 5.989,
     "votes": 9772,
-    "imdb_id": "tt1259571"
+    "imdb_id": "tt1259571",
+    "director": "Крис Вайц"
   },
   {
     "title": "Mr. & Mrs. Smith",
@@ -10304,7 +10659,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mr-mrs-smith-2005/",
     "rating": 6.695,
     "votes": 11277,
-    "imdb_id": "tt0356910"
+    "imdb_id": "tt0356910",
+    "director": "Даг Лайман"
   },
   {
     "title": "Sweeney Todd: The Demon Barber of Fleet Street",
@@ -10328,7 +10684,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/pJk1g2UDiE9TtgkKLiQE8bkUnDd.jpg",
     "rating": 7.18,
     "votes": 6374,
-    "imdb_id": "tt0408236"
+    "imdb_id": "tt0408236",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Mission: Impossible",
@@ -10363,7 +10720,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mission-impossible-1996/",
     "rating": 7,
     "votes": 10025,
-    "imdb_id": "tt0117060"
+    "imdb_id": "tt0117060",
+    "director": "Брайан Де Пальма"
   },
   {
     "title": "The Place Beyond the Pines",
@@ -10386,7 +10744,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-place-beyond-the-pines-2012/",
     "rating": 6.979,
     "votes": 5224,
-    "imdb_id": "tt1817273"
+    "imdb_id": "tt1817273",
+    "director": "Derek Cianfrance"
   },
   {
     "title": "War for the Planet of the Apes",
@@ -10417,7 +10776,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/war-for-the-planet-of-the-apes-2017/",
     "rating": 7.219,
     "votes": 9758,
-    "imdb_id": "tt3450958"
+    "imdb_id": "tt3450958",
+    "director": "Мэтт Ривз"
   },
   {
     "title": "Space Jam",
@@ -10447,7 +10807,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/space-jam-1996/",
     "rating": 6.811,
     "votes": 6441,
-    "imdb_id": "tt0117705"
+    "imdb_id": "tt0117705",
+    "director": "Joe Pytka"
   },
   {
     "title": "X2",
@@ -10508,7 +10869,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/braveheart-1995/",
     "rating": 7.944,
     "votes": 11169,
-    "imdb_id": "tt0112573"
+    "imdb_id": "tt0112573",
+    "director": "Мел Гибсон"
   },
   {
     "title": "Alita: Battle Angel",
@@ -10533,7 +10895,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/alita-battle-angel-2019/",
     "rating": 7.259,
     "votes": 10086,
-    "imdb_id": "tt0437086"
+    "imdb_id": "tt0437086",
+    "director": "Роберт Родригес"
   },
   {
     "title": "The Mummy",
@@ -10559,7 +10922,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-mummy-1999/",
     "rating": 6.983,
     "votes": 10100,
-    "imdb_id": "tt0120616"
+    "imdb_id": "tt0120616",
+    "director": "Стивен Соммерс"
   },
   {
     "title": "Fury",
@@ -10591,7 +10955,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/r5OOBgK3eDTjmNDzRN6flNenTCE.jpg",
     "rating": 7.5,
     "votes": 12967,
-    "imdb_id": "tt2713180"
+    "imdb_id": "tt2713180",
+    "director": "Дэвид Эйер"
   },
   {
     "title": "The Parent Trap",
@@ -10617,7 +10982,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-parent-trap-1998/",
     "rating": 7.217,
     "votes": 4554,
-    "imdb_id": "tt0120783"
+    "imdb_id": "tt0120783",
+    "director": "Нэнси Мейерс"
   },
   {
     "title": "The Falcon and the Winter Soldier",
@@ -10661,7 +11027,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/fTZcCAdMtMQllBRabszq6tZwhxS.jpg",
     "rating": 7.225,
     "votes": 9752,
-    "imdb_id": "tt2381249"
+    "imdb_id": "tt2381249",
+    "director": "Кристофер МакКуорри"
   },
   {
     "title": "The Aviator",
@@ -10681,7 +11048,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-aviator-2004/",
     "rating": 7.218,
     "votes": 5875,
-    "imdb_id": "tt0338751"
+    "imdb_id": "tt0338751",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "We're the Millers",
@@ -10704,7 +11072,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/were-the-millers-2013/",
     "rating": 6.843,
     "votes": 9495,
-    "imdb_id": "tt1723121"
+    "imdb_id": "tt1723121",
+    "director": "Роусон Маршалл Тёрбер"
   },
   {
     "title": "Alien: Covenant",
@@ -10731,7 +11100,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/alien-covenant-2017/",
     "rating": 6.177,
     "votes": 9473,
-    "imdb_id": "tt2316204"
+    "imdb_id": "tt2316204",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Passengers",
@@ -10755,7 +11125,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/passengers-2016/",
     "rating": 6.954,
     "votes": 14285,
-    "imdb_id": "tt1355644"
+    "imdb_id": "tt1355644",
+    "director": "Мортен Тильдум"
   },
   {
     "title": "Sin City",
@@ -10784,7 +11155,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sin-city-2005/",
     "rating": 7.464,
     "votes": 8875,
-    "imdb_id": "tt0401792"
+    "imdb_id": "tt0401792",
+    "director": "Роберт Родригес, Фрэнк Миллер"
   },
   {
     "title": "Indiana Jones and the Kingdom of the Crystal Skull",
@@ -10812,7 +11184,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/2zfLunFcnuJAGcW19tWNYwPVKbi.jpg",
     "rating": 6.026,
     "votes": 9057,
-    "imdb_id": "tt0367882"
+    "imdb_id": "tt0367882",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Rain Man",
@@ -10832,7 +11205,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/rain-man-1988/",
     "rating": 7.752,
     "votes": 7133,
-    "imdb_id": "tt0095953"
+    "imdb_id": "tt0095953",
+    "director": "Барри Левинсон"
   },
   {
     "title": "Million Dollar Baby",
@@ -10858,7 +11232,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/hjj9IfLAgzoShOhDr7AXJBxwneB.jpg",
     "rating": 7.953,
     "votes": 10403,
-    "imdb_id": "tt0405159"
+    "imdb_id": "tt0405159",
+    "director": "Клинт Иствуд"
   },
   {
     "title": "The Wolverine",
@@ -10886,7 +11261,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-wolverine-2013/",
     "rating": 6.435,
     "votes": 10334,
-    "imdb_id": "tt1430132"
+    "imdb_id": "tt1430132",
+    "director": "Джеймс Мэнголд"
   },
   {
     "title": "Shrek the Third",
@@ -10917,7 +11293,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shrek-the-third-2007/",
     "rating": 6.311,
     "votes": 9819,
-    "imdb_id": "tt0413267"
+    "imdb_id": "tt0413267",
+    "director": "Крис Миллер"
   },
   {
     "title": "How to Train Your Dragon 2",
@@ -10948,7 +11325,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/how-to-train-your-dragon-2-2014/",
     "rating": 7.683,
     "votes": 10483,
-    "imdb_id": "tt1646971"
+    "imdb_id": "tt1646971",
+    "director": "Дин ДеБлуа"
   },
   {
     "title": "The Wind Rises",
@@ -10977,7 +11355,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-wind-rises-2013/",
     "rating": 7.785,
     "votes": 3390,
-    "imdb_id": "tt2013293"
+    "imdb_id": "tt2013293",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Who Framed Roger Rabbit",
@@ -11006,7 +11385,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/who-framed-roger-rabbit-1988/",
     "rating": 7.54,
     "votes": 6206,
-    "imdb_id": "tt0096438"
+    "imdb_id": "tt0096438",
+    "director": "Роберт Земекис"
   },
   {
     "title": "The Princess and the Frog",
@@ -11035,7 +11415,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-princess-and-the-frog-2009/",
     "rating": 7.227,
     "votes": 6151,
-    "imdb_id": "tt0780521"
+    "imdb_id": "tt0780521",
+    "director": "Рон Клементс, Джон Маскер"
   },
   {
     "title": "RoboCop",
@@ -11060,7 +11441,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/93K1Zf6SpcC7k6SU2Rx5IFWFqQp.jpg",
     "rating": 7.361,
     "votes": 5771,
-    "imdb_id": "tt0093870"
+    "imdb_id": "tt0093870",
+    "director": "Пол Верховен"
   },
   {
     "title": "The Bourne Identity",
@@ -11095,7 +11477,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-bourne-identity-2002/",
     "rating": 7.48,
     "votes": 10144,
-    "imdb_id": "tt0258463"
+    "imdb_id": "tt0258463",
+    "director": "Даг Лайман"
   },
   {
     "title": "Predator",
@@ -11123,7 +11506,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/9mXkVw1BxmjagxjdIK3sbVQU841.jpg",
     "rating": 7.566,
     "votes": 9210,
-    "imdb_id": "tt0093773"
+    "imdb_id": "tt0093773",
+    "director": "Джон МакТирнан"
   },
   {
     "title": "The Jungle Book",
@@ -11150,7 +11534,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/3EmgbHCEPxBKGJxzGNpUAV7eX1I.jpg",
     "rating": 6.875,
     "votes": 8525,
-    "imdb_id": "tt3040964"
+    "imdb_id": "tt3040964",
+    "director": "Джон Фавро"
   },
   {
     "title": "Top Gun",
@@ -11177,7 +11562,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8khU38Bv9ovTAP9M7lHqFA5ezAU.jpg",
     "rating": 7.068,
     "votes": 9634,
-    "imdb_id": "tt0092099"
+    "imdb_id": "tt0092099",
+    "director": "Тони Скотт"
   },
   {
     "title": "Transformers",
@@ -11206,7 +11592,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/eYFRGx7qk4JGOqUvjSWIpgToHLi.jpg",
     "rating": 6.8,
     "votes": 12290,
-    "imdb_id": "tt0418279"
+    "imdb_id": "tt0418279",
+    "director": "Майкл Бэй"
   },
   {
     "title": "Sonic the Hedgehog",
@@ -11233,7 +11620,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sonic-the-hedgehog-2020/",
     "rating": 7.281,
     "votes": 10424,
-    "imdb_id": "tt3794354"
+    "imdb_id": "tt3794354",
+    "director": "Джефф Фаулер"
   },
   {
     "title": "Mission: Impossible – Ghost Protocol",
@@ -11262,7 +11650,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mission-impossible-ghost-protocol-2011/",
     "rating": 7.114,
     "votes": 10811,
-    "imdb_id": "tt1229238"
+    "imdb_id": "tt1229238",
+    "director": "Брэд Бёрд"
   },
   {
     "title": "The Purge",
@@ -11286,7 +11675,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-purge-2013/",
     "rating": 6.25,
     "votes": 8879,
-    "imdb_id": "tt2184339"
+    "imdb_id": "tt2184339",
+    "director": "Джеймс ДеМонако"
   },
   {
     "title": "Sausage Party",
@@ -11315,7 +11705,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sausage-party-2016/",
     "rating": 5.754,
     "votes": 7738,
-    "imdb_id": "tt1700841"
+    "imdb_id": "tt1700841",
+    "director": "Greg Tiernan, Конрад Вернон"
   },
   {
     "title": "The Lost World: Jurassic Park",
@@ -11344,7 +11735,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/cyOYIkBXPDsr2WPs0F0gNkhktG1.jpg",
     "rating": 6.567,
     "votes": 9278,
-    "imdb_id": "tt0119567"
+    "imdb_id": "tt0119567",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "The Man from U.N.C.L.E.",
@@ -11370,7 +11762,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-man-from-uncle-2015/",
     "rating": 7.079,
     "votes": 6896,
-    "imdb_id": "tt1638355"
+    "imdb_id": "tt1638355",
+    "director": "Гай Ричи"
   },
   {
     "title": "Insidious",
@@ -11394,7 +11787,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/insidious-2010/",
     "rating": 5.364,
     "votes": 22,
-    "imdb_id": "tt26349732"
+    "imdb_id": "tt26349732",
+    "director": "Calvin Morie McCarthy"
   },
   {
     "title": "Upgrade",
@@ -11418,7 +11812,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/upgrade-2018/",
     "rating": 7.507,
     "votes": 5057,
-    "imdb_id": "tt6499752"
+    "imdb_id": "tt6499752",
+    "director": "Ли Уоннелл"
   },
   {
     "title": "Star Trek",
@@ -11442,7 +11837,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/star-trek-2009/",
     "rating": 7.4,
     "votes": 10534,
-    "imdb_id": "tt0796366"
+    "imdb_id": "tt0796366",
+    "director": "Джей Джей Абрамс"
   },
   {
     "title": "Cloverfield",
@@ -11467,7 +11863,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cloverfield-2008/",
     "rating": 6.713,
     "votes": 7845,
-    "imdb_id": "tt1060277"
+    "imdb_id": "tt1060277",
+    "director": "Мэтт Ривз"
   },
   {
     "title": "Steve Jobs",
@@ -11490,7 +11887,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/steve-jobs-2015/",
     "rating": 6.8,
     "votes": 4387,
-    "imdb_id": "tt2080374"
+    "imdb_id": "tt2080374",
+    "director": "Дэнни Бойл"
   },
   {
     "title": "The Twilight Saga: Eclipse",
@@ -11521,7 +11919,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-twilight-saga-eclipse-2010/",
     "rating": 6.193,
     "votes": 9270,
-    "imdb_id": "tt1325004"
+    "imdb_id": "tt1325004",
+    "director": "Дэвид Слейд"
   },
   {
     "title": "Scream 2",
@@ -11548,7 +11947,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/scream-2-1997/",
     "rating": 6.52,
     "votes": 4774,
-    "imdb_id": "tt0120082"
+    "imdb_id": "tt0120082",
+    "director": "Уэс Крэйвен"
   },
   {
     "title": "Ocean's Twelve",
@@ -11577,7 +11977,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/dJHOfPGtRrbjYE8AGxFVWr3Dk2a.jpg",
     "rating": 6.566,
     "votes": 7944,
-    "imdb_id": "tt0349903"
+    "imdb_id": "tt0349903",
+    "director": "Steven Soderbergh"
   },
   {
     "title": "The Fast and the Furious",
@@ -11606,7 +12007,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-fast-and-the-furious-2001/",
     "rating": 7.008,
     "votes": 10886,
-    "imdb_id": "tt0232500"
+    "imdb_id": "tt0232500",
+    "director": "Роб Коэн"
   },
   {
     "title": "Scooby-Doo",
@@ -11632,7 +12034,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/scooby-doo-2002/",
     "rating": 6.1,
     "votes": 4804,
-    "imdb_id": "tt0267913"
+    "imdb_id": "tt0267913",
+    "director": "Раджа Госнелл"
   },
   {
     "title": "Dark Phoenix",
@@ -11656,7 +12059,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dark-phoenix-2019/",
     "rating": 5.967,
     "votes": 7111,
-    "imdb_id": "tt6565702"
+    "imdb_id": "tt6565702",
+    "director": "Саймон Кинберг"
   },
   {
     "title": "The Skin I Live In",
@@ -11689,7 +12093,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-skin-i-live-in-2011/",
     "rating": 7.487,
     "votes": 4644,
-    "imdb_id": "tt1189073"
+    "imdb_id": "tt1189073",
+    "director": "Педро Альмодовар"
   },
   {
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -11720,7 +12125,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nMUmhDhouHf76MQE1sS5eCSCRzb.jpg",
     "rating": 6.661,
     "votes": 12860,
-    "imdb_id": "tt1790809"
+    "imdb_id": "tt1790809",
+    "director": "Эспен Сандберг, Йоахим Реннинг"
   },
   {
     "title": "50 First Dates",
@@ -11743,7 +12149,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/50-first-dates-2004/",
     "rating": 6.874,
     "votes": 7767,
-    "imdb_id": "tt0343660"
+    "imdb_id": "tt0343660",
+    "director": "Питер Сигал"
   },
   {
     "title": "X-Men: The Last Stand",
@@ -11771,7 +12178,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/x-men-the-last-stand-2006/",
     "rating": 6.4,
     "votes": 10426,
-    "imdb_id": "tt0376994"
+    "imdb_id": "tt0376994",
+    "director": "Бретт Ратнер"
   },
   {
     "title": "Tarzan",
@@ -11797,7 +12205,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tarzan-1999/",
     "rating": 7.407,
     "votes": 7369,
-    "imdb_id": "tt0120855"
+    "imdb_id": "tt0120855",
+    "director": "Крис Бак, Кевин Лима"
   },
   {
     "title": "Jumanji: The Next Level",
@@ -11823,7 +12232,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jumanji-the-next-level-2019/",
     "rating": 6.874,
     "votes": 9415,
-    "imdb_id": "tt7975244"
+    "imdb_id": "tt7975244",
+    "director": "Джейк Кэздан"
   },
   {
     "title": "The Twilight Saga: Breaking Dawn – Part 2",
@@ -11855,7 +12265,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/hnJ5U57LWu6xHp8w0z3o0ZdgFTf.jpg",
     "rating": 6.5,
     "votes": 9394,
-    "imdb_id": "tt1673434"
+    "imdb_id": "tt1673434",
+    "director": "Билл Кондон"
   },
   {
     "title": "Pirates of the Caribbean: On Stranger Tides",
@@ -11886,7 +12297,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/mPWUHDeVulOQfpcNzLpzm7VfIsm.jpg",
     "rating": 6.57,
     "votes": 15008,
-    "imdb_id": "tt1298650"
+    "imdb_id": "tt1298650",
+    "director": "Роб Маршалл"
   },
   {
     "title": "Snow White and the Seven Dwarfs",
@@ -11913,7 +12325,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/snow-white-and-the-seven-dwarfs-1937/",
     "rating": 7.1,
     "votes": 8001,
-    "imdb_id": "tt0029583"
+    "imdb_id": "tt0029583",
+    "director": "Дэвид Хэнд, Ben Sharpsteen, Уильям Коттрелл, Larry Morey, Perce Pearce, Уилфред Джексон"
   },
   {
     "title": "Interview with the Vampire",
@@ -11940,7 +12353,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/interview-with-the-vampire-1994/",
     "rating": 7.389,
     "votes": 6464,
-    "imdb_id": "tt0110148"
+    "imdb_id": "tt0110148",
+    "director": "Нил Джордан"
   },
   {
     "title": "Step Brothers",
@@ -11965,7 +12379,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/step-brothers-2008/",
     "rating": 6.557,
     "votes": 3427,
-    "imdb_id": "tt0838283"
+    "imdb_id": "tt0838283",
+    "director": "Адам Маккей"
   },
   {
     "title": "X-Men Origins: Wolverine",
@@ -11993,7 +12408,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/x-men-origins-wolverine-2009/",
     "rating": 6.292,
     "votes": 11290,
-    "imdb_id": "tt0458525"
+    "imdb_id": "tt0458525",
+    "director": "Гэвин Худ"
   },
   {
     "title": "The Twilight Saga: Breaking Dawn – Part 1",
@@ -12025,7 +12441,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/hnJ5U57LWu6xHp8w0z3o0ZdgFTf.jpg",
     "rating": 6.2,
     "votes": 9289,
-    "imdb_id": "tt1324999"
+    "imdb_id": "tt1324999",
+    "director": "Билл Кондон"
   },
   {
     "title": "King Kong",
@@ -12056,7 +12473,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/l69qjj148czI5ZejUm8xhb3EdKX.jpg",
     "rating": 6.893,
     "votes": 8542,
-    "imdb_id": "tt0360717"
+    "imdb_id": "tt0360717",
+    "director": "Питер Джексон"
   },
   {
     "title": "Cloudy with a Chance of Meatballs",
@@ -12082,7 +12500,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs-2009/",
     "rating": 6.7,
     "votes": 6482,
-    "imdb_id": "tt0844471"
+    "imdb_id": "tt0844471",
+    "director": "Фил Лорд, Крис Миллер"
   },
   {
     "title": "Now You See Me 2",
@@ -12105,7 +12524,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/now-you-see-me-2-2016/",
     "rating": 6.827,
     "votes": 11625,
-    "imdb_id": "tt3110958"
+    "imdb_id": "tt3110958",
+    "director": "Джон М. Чу"
   },
   {
     "title": "Bee Movie",
@@ -12134,7 +12554,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bee-movie-2007/",
     "rating": 6.047,
     "votes": 5308,
-    "imdb_id": "tt0389790"
+    "imdb_id": "tt0389790",
+    "director": "Стив Хикнер, Саймон Дж. Смит"
   },
   {
     "title": "Sleepy Hollow",
@@ -12163,7 +12584,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sleepy-hollow-1999/",
     "rating": 7.2,
     "votes": 7404,
-    "imdb_id": "tt0162661"
+    "imdb_id": "tt0162661",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Star Trek Into Darkness",
@@ -12187,7 +12609,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/star-trek-into-darkness-2013/",
     "rating": 7.323,
     "votes": 9703,
-    "imdb_id": "tt1408101"
+    "imdb_id": "tt1408101",
+    "director": "Джей Джей Абрамс"
   },
   {
     "title": "Divergent",
@@ -12217,7 +12640,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/4GxZw9ADsIPAcpebbrm053DPa18.jpg",
     "rating": 6.904,
     "votes": 13521,
-    "imdb_id": "tt1840309"
+    "imdb_id": "tt1840309",
+    "director": "Нил Бёргер"
   },
   {
     "title": "The Woman in the Window",
@@ -12243,7 +12667,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-woman-in-the-window-2021/",
     "rating": 5.973,
     "votes": 2153,
-    "imdb_id": "tt6111574"
+    "imdb_id": "tt6111574",
+    "director": "Джо Райт"
   },
   {
     "title": "Point Break",
@@ -12269,7 +12694,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/point-break-1991/",
     "rating": 7.154,
     "votes": 4010,
-    "imdb_id": "tt0102685"
+    "imdb_id": "tt0102685",
+    "director": "Кэтрин Бигелоу"
   },
   {
     "title": "The Addams Family",
@@ -12293,7 +12719,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-addams-family-1991/",
     "rating": 7.07,
     "votes": 5062,
-    "imdb_id": "tt0101272"
+    "imdb_id": "tt0101272",
+    "director": "Барри Зонненфельд"
   },
   {
     "title": "Click",
@@ -12319,7 +12746,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/click-2006/",
     "rating": 6.3,
     "votes": 7601,
-    "imdb_id": "tt0389860"
+    "imdb_id": "tt0389860",
+    "director": "Frank Coraci"
   },
   {
     "title": "Alice in Wonderland",
@@ -12348,7 +12776,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/alice-in-wonderland-1951/",
     "rating": 7.2,
     "votes": 6299,
-    "imdb_id": "tt0043274"
+    "imdb_id": "tt0043274",
+    "director": "Clyde Geronimi, Уилфред Джексон, Hamilton Luske"
   },
   {
     "title": "Bruce Almighty",
@@ -12371,7 +12800,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bruce-almighty-2003/",
     "rating": 6.728,
     "votes": 11540,
-    "imdb_id": "tt0315327"
+    "imdb_id": "tt0315327",
+    "director": "Tom Shadyac"
   },
   {
     "title": "Pocahontas",
@@ -12400,7 +12830,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/pocahontas-1995/",
     "rating": 6.915,
     "votes": 6092,
-    "imdb_id": "tt0114148"
+    "imdb_id": "tt0114148",
+    "director": "Mike Gabriel, Eric Goldberg"
   },
   {
     "title": "Sherlock Holmes: A Game of Shadows",
@@ -12431,7 +12862,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sherlock-holmes-a-game-of-shadows-2011/",
     "rating": 7.145,
     "votes": 10974,
-    "imdb_id": "tt1515091"
+    "imdb_id": "tt1515091",
+    "director": "Гай Ричи"
   },
   {
     "title": "Wonder",
@@ -12456,7 +12888,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/hRClAuV3PVW2ybSaM8AsOMK77pI.jpg",
     "rating": 8.105,
     "votes": 8282,
-    "imdb_id": "tt2543472"
+    "imdb_id": "tt2543472",
+    "director": "Стивен Чбоски"
   },
   {
     "title": "Scary Movie",
@@ -12478,7 +12911,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ib66R8D34o2Bffmp0dk5UUB6WHA.jpg",
     "rating": 6.418,
     "votes": 7898,
-    "imdb_id": "tt0175142"
+    "imdb_id": "tt0175142",
+    "director": "Кинен Айвори Уэйанс"
   },
   {
     "title": "Hellraiser",
@@ -12501,7 +12935,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hellraiser-1987/",
     "rating": 6.879,
     "votes": 2888,
-    "imdb_id": "tt0093177"
+    "imdb_id": "tt0093177",
+    "director": "Клайв Баркер"
   },
   {
     "title": "Natural Born Killers",
@@ -12528,7 +12963,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/natural-born-killers-1994/",
     "rating": 7.056,
     "votes": 3825,
-    "imdb_id": "tt0110632"
+    "imdb_id": "tt0110632",
+    "director": "Оливер Стоун"
   },
   {
     "title": "The Ring",
@@ -12552,7 +12988,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/17get0BiuzGr2Dy0118syzHFhVm.jpg",
     "rating": 6.704,
     "votes": 6711,
-    "imdb_id": "tt0298130"
+    "imdb_id": "tt0298130",
+    "director": "Гор Вербински"
   },
   {
     "title": "Straight Outta Compton",
@@ -12578,7 +13015,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/straight-outta-compton-2015/",
     "rating": 7.773,
     "votes": 4210,
-    "imdb_id": "tt1398426"
+    "imdb_id": "tt1398426",
+    "director": "Ф. Гэри Грей"
   },
   {
     "title": "Despicable Me 2",
@@ -12608,7 +13046,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/onACDW8RBbHhhuLCasaeK0sLKT0.jpg",
     "rating": 6.945,
     "votes": 12029,
-    "imdb_id": "tt1690953"
+    "imdb_id": "tt1690953",
+    "director": "Пьер Коффен, Крис Рено"
   },
   {
     "title": "How to Train Your Dragon: The Hidden World",
@@ -12638,7 +13077,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/AdIhqttutOdkKUttw8ofld870Dx.jpg",
     "rating": 7.753,
     "votes": 7144,
-    "imdb_id": "tt2386490"
+    "imdb_id": "tt2386490",
+    "director": "Дин ДеБлуа"
   },
   {
     "title": "Cars 2",
@@ -12667,7 +13107,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cars-2-2011/",
     "rating": 6.183,
     "votes": 8516,
-    "imdb_id": "tt1216475"
+    "imdb_id": "tt1216475",
+    "director": "Джон Лассетер"
   },
   {
     "title": "Bridge of Spies",
@@ -12690,7 +13131,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bridge-of-spies-2015/",
     "rating": 7.241,
     "votes": 7297,
-    "imdb_id": "tt3682448"
+    "imdb_id": "tt3682448",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "The Da Vinci Code",
@@ -12714,7 +13156,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/xkJ77A8Fs9dQGUCr90PYtXPiZt.jpg",
     "rating": 6.7,
     "votes": 10112,
-    "imdb_id": "tt0382625"
+    "imdb_id": "tt0382625",
+    "director": "Рон Ховард"
   },
   {
     "title": "Irreversible",
@@ -12740,7 +13183,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/irreversible-2002/",
     "rating": 7.182,
     "votes": 3329,
-    "imdb_id": "tt0290673"
+    "imdb_id": "tt0290673",
+    "director": "Гаспар Ноэ"
   },
   {
     "title": "Furious 7",
@@ -12770,7 +13214,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/i5A0OCxcinzkcxvesvefFu9vX3K.jpg",
     "rating": 7.217,
     "votes": 11327,
-    "imdb_id": "tt2820852"
+    "imdb_id": "tt2820852",
+    "director": "Джеймс Ван"
   },
   {
     "title": "Chicken Run",
@@ -12796,7 +13241,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/chicken-run-2000/",
     "rating": 6.8,
     "votes": 5430,
-    "imdb_id": "tt0120630"
+    "imdb_id": "tt0120630",
+    "director": "Ник Парк, Peter Lord"
   },
   {
     "title": "Fantasia",
@@ -12822,7 +13268,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/fantasia-1940/",
     "rating": 7.344,
     "votes": 3326,
-    "imdb_id": "tt0032455"
+    "imdb_id": "tt0032455",
+    "director": "Уилфред Джексон, Bill Roberts, Paul Satterfield, Samuel Armstrong, Jim Handley, T. Hee, Hamilton Luske, Ben Sharpsteen, James Algar, Norman Ferguson, Дэвид Хэнд, Ford Beebe Jr."
   },
   {
     "title": "Neighbors",
@@ -12842,7 +13289,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/neighbors-2014/",
     "rating": 6.2,
     "votes": 7318,
-    "imdb_id": "tt2004420"
+    "imdb_id": "tt2004420",
+    "director": "Николас Столлер"
   },
   {
     "title": "The Butterfly Effect",
@@ -12863,7 +13311,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-butterfly-effect-2004/",
     "rating": 7.579,
     "votes": 8287,
-    "imdb_id": "tt0289879"
+    "imdb_id": "tt0289879",
+    "director": "Эрик Бресс, Дж. Макки Грубер"
   },
   {
     "title": "Seven Psychopaths",
@@ -12891,7 +13340,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/seven-psychopaths-2012/",
     "rating": 6.822,
     "votes": 4302,
-    "imdb_id": "tt1931533"
+    "imdb_id": "tt1931533",
+    "director": "Мартин Макдонах"
   },
   {
     "title": "The Danish Girl",
@@ -12912,7 +13362,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/i2Vg8IOKKM7OaJgwP3t4Q26Sy9j.jpg",
     "rating": 7.544,
     "votes": 5961,
-    "imdb_id": "tt0810819"
+    "imdb_id": "tt0810819",
+    "director": "Tom Hooper"
   },
   {
     "title": "Monster House",
@@ -12941,7 +13392,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/monster-house-2006/",
     "rating": 6.71,
     "votes": 4353,
-    "imdb_id": "tt0385880"
+    "imdb_id": "tt0385880",
+    "director": "Гил Кинан"
   },
   {
     "title": "National Treasure",
@@ -12967,7 +13419,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/national-treasure-2004/",
     "rating": 6.654,
     "votes": 6907,
-    "imdb_id": "tt0368891"
+    "imdb_id": "tt0368891",
+    "director": "Джон Тёртелтауб"
   },
   {
     "title": "Cloud Atlas",
@@ -12989,7 +13442,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/4XwJAaallBSwQjWmY8XJMVSkRxT.jpg",
     "rating": 6.895,
     "votes": 7541,
-    "imdb_id": "tt1371111"
+    "imdb_id": "tt1371111",
+    "director": "Энди Вачовски, Ларри Вачовски, Том Тыквер"
   },
   {
     "title": "Pinocchio",
@@ -13016,7 +13470,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nEhznkzzn0gSfW6yli9wfCvPyHg.jpg",
     "rating": 7.111,
     "votes": 6270,
-    "imdb_id": "tt0032910"
+    "imdb_id": "tt0032910",
+    "director": "Hamilton Luske, Ben Sharpsteen, T. Hee, Уилфред Джексон, Norman Ferguson, Jack Kinney, Bill Roberts"
   },
   {
     "title": "The Hangover Part II",
@@ -13036,7 +13491,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hangover-part-ii-2011/",
     "rating": 6.509,
     "votes": 11326,
-    "imdb_id": "tt1411697"
+    "imdb_id": "tt1411697",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Over the Garden Wall",
@@ -13067,7 +13523,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/over-the-garden-wall-2014/",
     "rating": 8,
     "votes": 3,
-    "imdb_id": "tt0025616"
+    "imdb_id": "tt0025616",
+    "director": "John Daumery"
   },
   {
     "title": "First Cow",
@@ -13090,7 +13547,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/first-cow-2019/",
     "rating": 7.05,
     "votes": 538,
-    "imdb_id": "tt9231040"
+    "imdb_id": "tt9231040",
+    "director": "Kelly Reichardt"
   },
   {
     "title": "8 Mile",
@@ -13113,7 +13571,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/8-mile-2002/",
     "rating": 7.145,
     "votes": 7855,
-    "imdb_id": "tt0298203"
+    "imdb_id": "tt0298203",
+    "director": "Curtis Hanson"
   },
   {
     "title": "Dumb and Dumber",
@@ -13133,7 +13592,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dumb-and-dumber-1994/",
     "rating": 6.659,
     "votes": 6760,
-    "imdb_id": "tt0109686"
+    "imdb_id": "tt0109686",
+    "director": "Peter Farrelly"
   },
   {
     "title": "Fantastic Four",
@@ -13157,7 +13617,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/fantastic-four-2005/",
     "rating": 5.808,
     "votes": 10029,
-    "imdb_id": "tt0120667"
+    "imdb_id": "tt0120667",
+    "director": "Тим Стори"
   },
   {
     "title": "Bumblebee",
@@ -13182,7 +13643,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/2k9nXxST186qGgvs7CO0yrPI3Yf.jpg",
     "rating": 6.72,
     "votes": 6657,
-    "imdb_id": "tt4701182"
+    "imdb_id": "tt4701182",
+    "director": "Трэвис Найт"
   },
   {
     "title": "The SpongeBob SquarePants Movie",
@@ -13212,7 +13674,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-spongebob-squarepants-movie-2004/",
     "rating": 7.089,
     "votes": 3220,
-    "imdb_id": "tt0345950"
+    "imdb_id": "tt0345950",
+    "director": "Стивен Хилленбург"
   },
   {
     "title": "Shark Tale",
@@ -13241,7 +13704,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shark-tale-2004/",
     "rating": 6.043,
     "votes": 6735,
-    "imdb_id": "tt0307453"
+    "imdb_id": "tt0307453",
+    "director": "Vicky Jenson, Bibo Bergeron, Роб Леттерман"
   },
   {
     "title": "Kung Fu Panda 2",
@@ -13271,7 +13735,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/kung-fu-panda-2-2011/",
     "rating": 7.07,
     "votes": 7940,
-    "imdb_id": "tt1302011"
+    "imdb_id": "tt1302011",
+    "director": "Jennifer Yuh Nelson"
   },
   {
     "title": "Limitless",
@@ -13295,7 +13760,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/limitless-2011/",
     "rating": 7.202,
     "votes": 11524,
-    "imdb_id": "tt1219289"
+    "imdb_id": "tt1219289",
+    "director": "Нил Бёргер"
   },
   {
     "title": "Source Code",
@@ -13320,7 +13786,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/dE4IM48fgZBzr96y7gjwpbab4hJ.jpg",
     "rating": 7.314,
     "votes": 9170,
-    "imdb_id": "tt0945513"
+    "imdb_id": "tt0945513",
+    "director": "Данкан Джонс"
   },
   {
     "title": "American Pie",
@@ -13346,7 +13813,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/american-pie-1999/",
     "rating": 6.609,
     "votes": 8352,
-    "imdb_id": "tt0163651"
+    "imdb_id": "tt0163651",
+    "director": "Пол Вайц"
   },
   {
     "title": "Hotel Transylvania",
@@ -13375,7 +13843,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hotel-transylvania-2012/",
     "rating": 6.965,
     "votes": 9203,
-    "imdb_id": "tt0837562"
+    "imdb_id": "tt0837562",
+    "director": "Геннди Тартаковски"
   },
   {
     "title": "Bambi",
@@ -13401,7 +13870,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bambi-1942/",
     "rating": 7,
     "votes": 6046,
-    "imdb_id": "tt0034492"
+    "imdb_id": "tt0034492",
+    "director": "Дэвид Хэнд"
   },
   {
     "title": "Rush",
@@ -13432,7 +13902,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/wxBgb4jGV5lR1IsOsbvB3CR5Mhw.jpg",
     "rating": 7.742,
     "votes": 7870,
-    "imdb_id": "tt1979320"
+    "imdb_id": "tt1979320",
+    "director": "Рон Ховард"
   },
   {
     "title": "The Proposal",
@@ -13458,7 +13929,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-proposal-2009/",
     "rating": 7.17,
     "votes": 7585,
-    "imdb_id": "tt1041829"
+    "imdb_id": "tt1041829",
+    "director": "Anne Fletcher"
   },
   {
     "title": "The Bourne Ultimatum",
@@ -13490,7 +13962,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/xfYU1RxtvktWObEEHObGBiWGXqy.jpg",
     "rating": 7.439,
     "votes": 8404,
-    "imdb_id": "tt0440963"
+    "imdb_id": "tt0440963",
+    "director": "Пол Гринграсс"
   },
   {
     "title": "Starship Troopers",
@@ -13521,7 +13994,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/starship-troopers-1997/",
     "rating": 7.109,
     "votes": 5532,
-    "imdb_id": "tt0120201"
+    "imdb_id": "tt0120201",
+    "director": "Пол Верховен"
   },
   {
     "title": "2012",
@@ -13546,7 +14020,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/9ix7Gzcl5I839FAmynpJIAmQIw8.jpg",
     "rating": 5.883,
     "votes": 12790,
-    "imdb_id": "tt1190080"
+    "imdb_id": "tt1190080",
+    "director": "Роланд Эммерих"
   },
   {
     "title": "Star Trek Beyond",
@@ -13570,7 +14045,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/star-trek-beyond-2016/",
     "rating": 6.79,
     "votes": 7134,
-    "imdb_id": "tt2660888"
+    "imdb_id": "tt2660888",
+    "director": "Джастин Лин"
   },
   {
     "title": "Life",
@@ -13595,7 +14071,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6Tt1avaIPZCaEhGmiZuhdQJ2up6.jpg",
     "rating": 6.456,
     "votes": 7963,
-    "imdb_id": "tt5442430"
+    "imdb_id": "tt5442430",
+    "director": "Даниэль Эспиноса"
   },
   {
     "title": "Ocean's Thirteen",
@@ -13623,7 +14100,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/oceans-thirteen-2007/",
     "rating": 6.725,
     "votes": 6926,
-    "imdb_id": "tt0496806"
+    "imdb_id": "tt0496806",
+    "director": "Steven Soderbergh"
   },
   {
     "title": "The New Mutants",
@@ -13644,7 +14122,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-new-mutants-2020/",
     "rating": 6.1,
     "votes": 3732,
-    "imdb_id": "tt4682266"
+    "imdb_id": "tt4682266",
+    "director": "Джош Бун"
   },
   {
     "title": "TRON: Legacy",
@@ -13668,7 +14147,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tron-legacy-2010/",
     "rating": 6.5,
     "votes": 7978,
-    "imdb_id": "tt1104001"
+    "imdb_id": "tt1104001",
+    "director": "Джозеф Косински"
   },
   {
     "title": "The Artist",
@@ -13694,7 +14174,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-artist-2011/",
     "rating": 7.442,
     "votes": 3535,
-    "imdb_id": "tt1655442"
+    "imdb_id": "tt1655442",
+    "director": "Мишель Хазанавичус"
   },
   {
     "title": "The Blind Side",
@@ -13714,7 +14195,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-blind-side-2009/",
     "rating": 7.666,
     "votes": 6870,
-    "imdb_id": "tt0878804"
+    "imdb_id": "tt0878804",
+    "director": "Джон Ли Хэнкок"
   },
   {
     "title": "I, Robot",
@@ -13735,7 +14217,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/i-robot-2004/",
     "rating": 6.965,
     "votes": 12720,
-    "imdb_id": "tt0343818"
+    "imdb_id": "tt0343818",
+    "director": "Алекс Пройас"
   },
   {
     "title": "Alien³",
@@ -13768,7 +14251,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/alien-1992/",
     "rating": 6.4,
     "votes": 6407,
-    "imdb_id": "tt0103644"
+    "imdb_id": "tt0103644",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "Shrek Forever After",
@@ -13799,7 +14283,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shrek-forever-after-2010/",
     "rating": 6.404,
     "votes": 7983,
-    "imdb_id": "tt0892791"
+    "imdb_id": "tt0892791",
+    "director": "Майк Митчелл"
   },
   {
     "title": "One Hundred and One Dalmatians",
@@ -13828,7 +14313,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/one-hundred-and-one-dalmatians-1961/",
     "rating": 7.175,
     "votes": 6685,
-    "imdb_id": "tt0055254"
+    "imdb_id": "tt0055254",
+    "director": "Wolfgang Reitherman, Clyde Geronimi, Hamilton Luske"
   },
   {
     "title": "Dredd",
@@ -13849,7 +14335,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dredd-2012/",
     "rating": 6.9,
     "votes": 5564,
-    "imdb_id": "tt1343727"
+    "imdb_id": "tt1343727",
+    "director": "Pete Travis"
   },
   {
     "title": "Men in Black 3",
@@ -13873,7 +14360,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/men-in-black-3-2012/",
     "rating": 6.5,
     "votes": 11027,
-    "imdb_id": "tt1409024"
+    "imdb_id": "tt1409024",
+    "director": "Барри Зонненфельд"
   },
   {
     "title": "Begin Again",
@@ -13903,7 +14391,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/b2Vmzd3jr8Ao80OqYhI0qp5wpGh.jpg",
     "rating": 7.233,
     "votes": 4016,
-    "imdb_id": "tt1980929"
+    "imdb_id": "tt1980929",
+    "director": "Джон Карни"
   },
   {
     "title": "Mission: Impossible III",
@@ -13932,7 +14421,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mission-impossible-iii-2006/",
     "rating": 6.766,
     "votes": 7657,
-    "imdb_id": "tt0317919"
+    "imdb_id": "tt0317919",
+    "director": "Джей Джей Абрамс"
   },
   {
     "title": "Austin Powers: International Man of Mystery",
@@ -13957,7 +14447,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/pn64wZWhS7hvNgzKmZ4GMFZuYTV.jpg",
     "rating": 6.599,
     "votes": 3815,
-    "imdb_id": "tt0118655"
+    "imdb_id": "tt0118655",
+    "director": "Джей Роуч"
   },
   {
     "title": "The Wrestler",
@@ -13980,7 +14471,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-wrestler-2008/",
     "rating": 7.539,
     "votes": 4039,
-    "imdb_id": "tt1125849"
+    "imdb_id": "tt1125849",
+    "director": "Даррен Аронофски"
   },
   {
     "title": "Nerve",
@@ -14007,7 +14499,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/oFqGLAsxzicl1SC3Zfmxq4BTevc.jpg",
     "rating": 6.998,
     "votes": 7043,
-    "imdb_id": "tt3531824"
+    "imdb_id": "tt3531824",
+    "director": "Henry Joost, Ariel Schulman"
   },
   {
     "title": "Face/Off",
@@ -14031,7 +14524,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/faceoff-1997/",
     "rating": 7.057,
     "votes": 5936,
-    "imdb_id": "tt0119094"
+    "imdb_id": "tt0119094",
+    "director": "Джон Ву"
   },
   {
     "title": "Men in Black II",
@@ -14055,7 +14549,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/men-in-black-ii-2002/",
     "rating": 6.388,
     "votes": 10700,
-    "imdb_id": "tt0120912"
+    "imdb_id": "tt0120912",
+    "director": "Барри Зонненфельд"
   },
   {
     "title": "Constantine",
@@ -14081,7 +14576,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/constantine-2005/",
     "rating": 7.179,
     "votes": 8236,
-    "imdb_id": "tt0360486"
+    "imdb_id": "tt0360486",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Bolt",
@@ -14110,7 +14606,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bolt-2008/",
     "rating": 6.545,
     "votes": 6524,
-    "imdb_id": "tt0397892"
+    "imdb_id": "tt0397892",
+    "director": "Кристофер Уильямс, Байрон Ховард"
   },
   {
     "title": "The Hunchback of Notre Dame",
@@ -14136,7 +14633,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hunchback-of-notre-dame-1996/",
     "rating": 7.1,
     "votes": 5384,
-    "imdb_id": "tt0116583"
+    "imdb_id": "tt0116583",
+    "director": "Гари Труздейл, Kirk Wise"
   },
   {
     "title": "The Jungle Book",
@@ -14162,7 +14660,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-jungle-book-1967/",
     "rating": 7.283,
     "votes": 6692,
-    "imdb_id": "tt0061852"
+    "imdb_id": "tt0061852",
+    "director": "Wolfgang Reitherman"
   },
   {
     "title": "The Day After Tomorrow",
@@ -14186,7 +14685,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-day-after-tomorrow-2004/",
     "rating": 6.558,
     "votes": 8914,
-    "imdb_id": "tt0319262"
+    "imdb_id": "tt0319262",
+    "director": "Роланд Эммерих"
   },
   {
     "title": "Final Destination",
@@ -14210,7 +14710,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/final-destination-2000/",
     "rating": 6.637,
     "votes": 6727,
-    "imdb_id": "tt0195714"
+    "imdb_id": "tt0195714",
+    "director": "Джеймс Вон"
   },
   {
     "title": "Hellboy",
@@ -14233,7 +14734,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hellboy-2004/",
     "rating": 6.678,
     "votes": 7467,
-    "imdb_id": "tt0167190"
+    "imdb_id": "tt0167190",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Jurassic Park III",
@@ -14262,7 +14764,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/chwq36DwrmmuQUx2qMgNS5NnkXD.jpg",
     "rating": 6.176,
     "votes": 7892,
-    "imdb_id": "tt0163025"
+    "imdb_id": "tt0163025",
+    "director": "Джо Джонстон"
   },
   {
     "title": "Paranormal Activity",
@@ -14289,7 +14792,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/paranormal-activity-2007/",
     "rating": 6.051,
     "votes": 5465,
-    "imdb_id": "tt1179904"
+    "imdb_id": "tt1179904",
+    "director": "Oren Peli"
   },
   {
     "title": "Hancock",
@@ -14312,7 +14816,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hancock-2008/",
     "rating": 6.357,
     "votes": 10299,
-    "imdb_id": "tt0448157"
+    "imdb_id": "tt0448157",
+    "director": "Питер Берг"
   },
   {
     "title": "The Fast and the Furious: Tokyo Drift",
@@ -14343,7 +14848,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-fast-and-the-furious-tokyo-drift-2006/",
     "rating": 6.545,
     "votes": 7667,
-    "imdb_id": "tt0463985"
+    "imdb_id": "tt0463985",
+    "director": "Джастин Лин"
   },
   {
     "title": "Friends with Benefits",
@@ -14367,7 +14873,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/friends-with-benefits-2011/",
     "rating": 6.644,
     "votes": 8423,
-    "imdb_id": "tt1632708"
+    "imdb_id": "tt1632708",
+    "director": "Уилл Глак"
   },
   {
     "title": "Batman & Robin",
@@ -14398,7 +14905,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/eP4xdBTyLySFVoXyrbZ4btJeH3n.jpg",
     "rating": 4.394,
     "votes": 5441,
-    "imdb_id": "tt0118688"
+    "imdb_id": "tt0118688",
+    "director": "Джоэл Шумахер"
   },
   {
     "title": "Ace Ventura: Pet Detective",
@@ -14426,7 +14934,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ace-ventura-pet-detective-1994/",
     "rating": 6.582,
     "votes": 6421,
-    "imdb_id": "tt0109040"
+    "imdb_id": "tt0109040",
+    "director": "Tom Shadyac"
   },
   {
     "title": "Lock, Stock and Two Smoking Barrels",
@@ -14451,7 +14960,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/tVpCSFRSRddK5Ma9D4Kgdsjt0cD.jpg",
     "rating": 8.096,
     "votes": 7240,
-    "imdb_id": "tt0120735"
+    "imdb_id": "tt0120735",
+    "director": "Гай Ричи"
   },
   {
     "title": "Mary Poppins Returns",
@@ -14478,7 +14988,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mary-poppins-returns-2018/",
     "rating": 6.506,
     "votes": 3475,
-    "imdb_id": "tt5028340"
+    "imdb_id": "tt5028340",
+    "director": "Роб Маршалл"
   },
   {
     "title": "Yes Man",
@@ -14502,7 +15013,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/oIkuOFFs6MIdPcIbLLefwFtq9yD.jpg",
     "rating": 6.7,
     "votes": 7425,
-    "imdb_id": "tt1068680"
+    "imdb_id": "tt1068680",
+    "director": "Пейтон Рид"
   },
   {
     "title": "Blade",
@@ -14525,7 +15037,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/blade-1998/",
     "rating": 6.84,
     "votes": 6749,
-    "imdb_id": "tt0120611"
+    "imdb_id": "tt0120611",
+    "director": "Стивен Норрингтон"
   },
   {
     "title": "Long Shot",
@@ -14548,7 +15061,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/long-shot-2019/",
     "rating": 6.701,
     "votes": 2900,
-    "imdb_id": "tt2139881"
+    "imdb_id": "tt2139881",
+    "director": "Jonathan Levine"
   },
   {
     "title": "Peter Pan",
@@ -14577,7 +15091,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/peter-pan-1953/",
     "rating": 7.192,
     "votes": 5765,
-    "imdb_id": "tt0046183"
+    "imdb_id": "tt0046183",
+    "director": "Clyde Geronimi, Уилфред Джексон, Hamilton Luske"
   },
   {
     "title": "The Girl on the Train",
@@ -14604,7 +15119,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/cAeByv8sdrce1LvOxnc820Ufqbs.jpg",
     "rating": 6.44,
     "votes": 6057,
-    "imdb_id": "tt3631112"
+    "imdb_id": "tt3631112",
+    "director": "Tate Taylor"
   },
   {
     "title": "The Prince of Egypt",
@@ -14634,7 +15150,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/wY8kCEgMhhxDTmVh8OUfVNeS6hN.jpg",
     "rating": 7.3,
     "votes": 4330,
-    "imdb_id": "tt0120794"
+    "imdb_id": "tt0120794",
+    "director": "Brenda Chapman, Стив Хикнер, Simon Wells"
   },
   {
     "title": "National Lampoon's Christmas Vacation",
@@ -14655,7 +15172,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/national-lampoons-christmas-vacation-1989/",
     "rating": 7.232,
     "votes": 2720,
-    "imdb_id": "tt0097958"
+    "imdb_id": "tt0097958",
+    "director": "Jeremiah S. Chechik"
   },
   {
     "title": "The Mist",
@@ -14680,7 +15198,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/pCoraG5JrOtHujzbTy78zcCJKsJ.jpg",
     "rating": 6.945,
     "votes": 5887,
-    "imdb_id": "tt0884328"
+    "imdb_id": "tt0884328",
+    "director": "Фрэнк Дарабонт"
   },
   {
     "title": "2 Fast 2 Furious",
@@ -14710,7 +15229,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8Rr94aL7VPnkf9HGqIozpbg2sb2.jpg",
     "rating": 6.524,
     "votes": 8192,
-    "imdb_id": "tt0322259"
+    "imdb_id": "tt0322259",
+    "director": "Джон Синглтон"
   },
   {
     "title": "Mission: Impossible II",
@@ -14739,7 +15259,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mission-impossible-ii-2000/",
     "rating": 6.1,
     "votes": 7611,
-    "imdb_id": "tt0120755"
+    "imdb_id": "tt0120755",
+    "director": "Джон Ву"
   },
   {
     "title": "Extraction",
@@ -14763,7 +15284,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/zD9fW1g5gB6mirfX8Wk3FhdlzBn.jpg",
     "rating": 7.292,
     "votes": 6641,
-    "imdb_id": "tt8936646"
+    "imdb_id": "tt8936646",
+    "director": "Сэм Харгрейв"
   },
   {
     "title": "Tomb Raider",
@@ -14790,7 +15312,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/7glwwEgA0uivcjINQG95gnPsIyD.jpg",
     "rating": 6.365,
     "votes": 8392,
-    "imdb_id": "tt1365519"
+    "imdb_id": "tt1365519",
+    "director": "Роар Утхауг"
   },
   {
     "title": "Treasure Planet",
@@ -14820,7 +15343,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/treasure-planet-2002/",
     "rating": 7.6,
     "votes": 4645,
-    "imdb_id": "tt0133240"
+    "imdb_id": "tt0133240",
+    "director": "Рон Клементс, Джон Маскер"
   },
   {
     "title": "The Other Guys",
@@ -14843,7 +15367,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-other-guys-2010/",
     "rating": 6.332,
     "votes": 4600,
-    "imdb_id": "tt1386588"
+    "imdb_id": "tt1386588",
+    "director": "Адам Маккей"
   },
   {
     "title": "Happy Feet",
@@ -14869,7 +15394,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/happy-feet-2006/",
     "rating": 6.23,
     "votes": 5484,
-    "imdb_id": "tt0366548"
+    "imdb_id": "tt0366548",
+    "director": "Джордж Миллер"
   },
   {
     "title": "Dumbo",
@@ -14892,7 +15418,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dumbo-1941/",
     "rating": 6.992,
     "votes": 5307,
-    "imdb_id": "tt0033563"
+    "imdb_id": "tt0033563",
+    "director": "Ben Sharpsteen, Bill Roberts, Samuel Armstrong, Уилфред Джексон, Jack Kinney, Norman Ferguson"
   },
   {
     "title": "War Dogs",
@@ -14919,7 +15446,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/war-dogs-2016/",
     "rating": 6.944,
     "votes": 5514,
-    "imdb_id": "tt2005151"
+    "imdb_id": "tt2005151",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Troy",
@@ -14949,7 +15477,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/troy-2004/",
     "rating": 7.176,
     "votes": 11115,
-    "imdb_id": "tt0332452"
+    "imdb_id": "tt0332452",
+    "director": "Вольфганг Петерсен"
   },
   {
     "title": "The Secret Life of Pets",
@@ -14978,7 +15507,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-secret-life-of-pets-2016/",
     "rating": 6.322,
     "votes": 8539,
-    "imdb_id": "tt2709768"
+    "imdb_id": "tt2709768",
+    "director": "Крис Рено"
   },
   {
     "title": "The Nun",
@@ -15003,7 +15533,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/rheiph1J5YIAKhXaShVRYZGII8y.jpg",
     "rating": 5.905,
     "votes": 7192,
-    "imdb_id": "tt5814060"
+    "imdb_id": "tt5814060",
+    "director": "Корин Харди"
   },
   {
     "title": "The Intern",
@@ -15023,7 +15554,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-intern-2015/",
     "rating": 7.23,
     "votes": 7359,
-    "imdb_id": "tt2361509"
+    "imdb_id": "tt2361509",
+    "director": "Нэнси Мейерс"
   },
   {
     "title": "City Lights",
@@ -15050,7 +15582,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/city-lights-1931/",
     "rating": 8.247,
     "votes": 2472,
-    "imdb_id": "tt0021749"
+    "imdb_id": "tt0021749",
+    "director": "Чарли Чаплин"
   },
   {
     "title": "Chicken Little",
@@ -15076,7 +15609,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/chicken-little-2005/",
     "rating": 5.916,
     "votes": 4180,
-    "imdb_id": "tt0371606"
+    "imdb_id": "tt0371606",
+    "director": "Марк Диндал"
   },
   {
     "title": "Minions",
@@ -15106,7 +15640,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/minions-2015/",
     "rating": 6.419,
     "votes": 11130,
-    "imdb_id": "tt2293640"
+    "imdb_id": "tt2293640",
+    "director": "Кайл Балда, Пьер Коффен"
   },
   {
     "title": "Batman Forever",
@@ -15138,7 +15673,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/yQumBMAuJOhr3xJ34qqoUAoOxGi.jpg",
     "rating": 5.457,
     "votes": 5616,
-    "imdb_id": "tt0112462"
+    "imdb_id": "tt0112462",
+    "director": "Джоэл Шумахер"
   },
   {
     "title": "The Bourne Supremacy",
@@ -15168,7 +15704,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/7s3z2rWg6J3HTwepQODWUghitjl.jpg",
     "rating": 7.332,
     "votes": 8197,
-    "imdb_id": "tt0372183"
+    "imdb_id": "tt0372183",
+    "director": "Пол Гринграсс"
   },
   {
     "title": "Miss Peregrine's Home for Peculiar Children",
@@ -15192,7 +15729,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/dnEoeRcpMVfcEBkGL2i4xm1CPv4.jpg",
     "rating": 6.839,
     "votes": 10504,
-    "imdb_id": "tt1935859"
+    "imdb_id": "tt1935859",
+    "director": "Тим Бёртон"
   },
   {
     "title": "White Chicks",
@@ -15215,7 +15753,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/white-chicks-2004/",
     "rating": 6.949,
     "votes": 4581,
-    "imdb_id": "tt0381707"
+    "imdb_id": "tt0381707",
+    "director": "Кинен Айвори Уэйанс"
   },
   {
     "title": "Sing",
@@ -15244,7 +15783,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sing-2016/",
     "rating": 7.125,
     "votes": 8451,
-    "imdb_id": "tt3470600"
+    "imdb_id": "tt3470600",
+    "director": "Garth Jennings"
   },
   {
     "title": "Child's Play",
@@ -15264,7 +15804,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/childs-play-1988/",
     "rating": 6.756,
     "votes": 3373,
-    "imdb_id": "tt0094862"
+    "imdb_id": "tt0094862",
+    "director": "Tom Holland"
   },
   {
     "title": "Mr. Nobody",
@@ -15288,7 +15829,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mr-nobody-2009/",
     "rating": 7.795,
     "votes": 6242,
-    "imdb_id": "tt0485947"
+    "imdb_id": "tt0485947",
+    "director": "Jaco Van Dormael"
   },
   {
     "title": "Lemony Snicket's A Series of Unfortunate Events",
@@ -15315,7 +15857,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/5Z05EExtGfzavnIDtJk3YmULwDA.jpg",
     "rating": 6.823,
     "votes": 5316,
-    "imdb_id": "tt0339291"
+    "imdb_id": "tt0339291",
+    "director": "Brad Silberling"
   },
   {
     "title": "Mars Attacks!",
@@ -15340,7 +15883,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mars-attacks-1996/",
     "rating": 6.423,
     "votes": 5901,
-    "imdb_id": "tt0116996"
+    "imdb_id": "tt0116996",
+    "director": "Тим Бёртон"
   },
   {
     "title": "How to Lose a Guy in 10 Days",
@@ -15363,7 +15907,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/how-to-lose-a-guy-in-10-days-2003/",
     "rating": 6.869,
     "votes": 4503,
-    "imdb_id": "tt0251127"
+    "imdb_id": "tt0251127",
+    "director": "Donald Petrie"
   },
   {
     "title": "In Time",
@@ -15388,7 +15933,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/fPObHLd4oUiS7fpceuUkTTr2dAa.jpg",
     "rating": 6.971,
     "votes": 12202,
-    "imdb_id": "tt1637688"
+    "imdb_id": "tt1637688",
+    "director": "Эндрю Никкол"
   },
   {
     "title": "Charlie's Angels",
@@ -15414,7 +15960,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/charlies-angels-2000/",
     "rating": 5.854,
     "votes": 4532,
-    "imdb_id": "tt0160127"
+    "imdb_id": "tt0160127",
+    "director": "МакДжи"
   },
   {
     "title": "Ghost in the Shell",
@@ -15438,7 +15985,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ghost-in-the-shell-2017/",
     "rating": 6.108,
     "votes": 8598,
-    "imdb_id": "tt1219827"
+    "imdb_id": "tt1219827",
+    "director": "Руперт Сандерс"
   },
   {
     "title": "Oblivion",
@@ -15466,7 +16014,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/56xLv14jx6qvKWMCrF6C96Hs0cl.jpg",
     "rating": 6.682,
     "votes": 11566,
-    "imdb_id": "tt1483013"
+    "imdb_id": "tt1483013",
+    "director": "Джозеф Косински"
   },
   {
     "title": "Tag",
@@ -15489,7 +16038,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tag-2018/",
     "rating": 6.706,
     "votes": 3463,
-    "imdb_id": "tt2854926"
+    "imdb_id": "tt2854926",
+    "director": "Джефф Томсич"
   },
   {
     "title": "Robots",
@@ -15516,7 +16066,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/robots-2005/",
     "rating": 6.487,
     "votes": 4941,
-    "imdb_id": "tt0358082"
+    "imdb_id": "tt0358082",
+    "director": "Крис Уэдж"
   },
   {
     "title": "Christopher Robin",
@@ -15545,7 +16096,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/christopher-robin-2018/",
     "rating": 7.3,
     "votes": 2923,
-    "imdb_id": "tt4575576"
+    "imdb_id": "tt4575576",
+    "director": "Марк Форстер"
   },
   {
     "title": "Project X",
@@ -15565,7 +16117,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/project-x-2012/",
     "rating": 6.909,
     "votes": 6879,
-    "imdb_id": "tt1636826"
+    "imdb_id": "tt1636826",
+    "director": "Нима Нуризаде"
   },
   {
     "title": "Brother Bear",
@@ -15591,7 +16144,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/brother-bear-2003/",
     "rating": 7.277,
     "votes": 5782,
-    "imdb_id": "tt0328880"
+    "imdb_id": "tt0328880",
+    "director": "Aaron Blaise, Robert Walker"
   },
   {
     "title": "Elysium",
@@ -15618,7 +16172,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/elysium-2013/",
     "rating": 6.523,
     "votes": 9618,
-    "imdb_id": "tt1535108"
+    "imdb_id": "tt1535108",
+    "director": "Нил Бломкамп"
   },
   {
     "title": "Dark Shadows",
@@ -15641,7 +16196,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dark-shadows-2012/",
     "rating": 6.1,
     "votes": 7633,
-    "imdb_id": "tt1077368"
+    "imdb_id": "tt1077368",
+    "director": "Тим Бёртон"
   },
   {
     "title": "The Little Things",
@@ -15668,7 +16224,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/sdjeUisE7waxhvGiaQGcNONMGqi.jpg",
     "rating": 6.353,
     "votes": 2852,
-    "imdb_id": "tt10016180"
+    "imdb_id": "tt10016180",
+    "director": "Джон Ли Хэнкок"
   },
   {
     "title": "Ice Age: The Meltdown",
@@ -15697,7 +16254,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ice-age-the-meltdown-2006/",
     "rating": 6.722,
     "votes": 10384,
-    "imdb_id": "tt0438097"
+    "imdb_id": "tt0438097",
+    "director": "Carlos Saldanha"
   },
   {
     "title": "Hannibal",
@@ -15723,7 +16281,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hannibal-2001/",
     "rating": 6.777,
     "votes": 5218,
-    "imdb_id": "tt0212985"
+    "imdb_id": "tt0212985",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Liar Liar",
@@ -15746,7 +16305,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/liar-liar-1997/",
     "rating": 6.715,
     "votes": 6259,
-    "imdb_id": "tt0119528"
+    "imdb_id": "tt0119528",
+    "director": "Tom Shadyac"
   },
   {
     "title": "The Lego Movie 2: The Second Part",
@@ -15777,7 +16337,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-lego-movie-2-the-second-part-2019/",
     "rating": 6.656,
     "votes": 2442,
-    "imdb_id": "tt3513498"
+    "imdb_id": "tt3513498",
+    "director": "Майк Митчелл"
   },
   {
     "title": "Lady and the Tramp",
@@ -15807,7 +16368,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/lady-and-the-tramp-1955/",
     "rating": 7.126,
     "votes": 5663,
-    "imdb_id": "tt0048280"
+    "imdb_id": "tt0048280",
+    "director": "Hamilton Luske, Clyde Geronimi, Уилфред Джексон"
   },
   {
     "title": "Warm Bodies",
@@ -15834,7 +16396,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/warm-bodies-2013/",
     "rating": 6.473,
     "votes": 6402,
-    "imdb_id": "tt1588173"
+    "imdb_id": "tt1588173",
+    "director": "Jonathan Levine"
   },
   {
     "title": "Madagascar: Escape 2 Africa",
@@ -15865,7 +16428,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/rfwloSBRAZCrWwsJcXd1iveI59n.jpg",
     "rating": 6.5,
     "votes": 7463,
-    "imdb_id": "tt0479952"
+    "imdb_id": "tt0479952",
+    "director": "Эрик Дарнелл, Том МакГрат"
   },
   {
     "title": "Chronicle",
@@ -15889,7 +16453,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/chronicle-2012/",
     "rating": 6.856,
     "votes": 5759,
-    "imdb_id": "tt1706593"
+    "imdb_id": "tt1706593",
+    "director": "Josh Trank"
   },
   {
     "title": "Coming to America",
@@ -15912,7 +16477,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/coming-to-america-1988/",
     "rating": 6.883,
     "votes": 4768,
-    "imdb_id": "tt0094898"
+    "imdb_id": "tt0094898",
+    "director": "Джон Лэндис"
   },
   {
     "title": "Percy Jackson & the Olympians: The Lightning Thief",
@@ -15939,7 +16505,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/xQazS5kqxp9Wpsll3KYs5z4Prqh.jpg",
     "rating": 6.213,
     "votes": 7845,
-    "imdb_id": "tt0814255"
+    "imdb_id": "tt0814255",
+    "director": "Крис Коламбус"
   },
   {
     "title": "The Fountain",
@@ -15966,7 +16533,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-fountain-2006/",
     "rating": 6.905,
     "votes": 3119,
-    "imdb_id": "tt0414993"
+    "imdb_id": "tt0414993",
+    "director": "Даррен Аронофски"
   },
   {
     "title": "Atlantis: The Lost Empire",
@@ -15988,7 +16556,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/atlantis-the-lost-empire-2001/",
     "rating": 7,
     "votes": 5164,
-    "imdb_id": "tt0230011"
+    "imdb_id": "tt0230011",
+    "director": "Гари Труздейл, Kirk Wise"
   },
   {
     "title": "First Blood",
@@ -16008,7 +16577,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6J0PejIiR8d4CGsRbWBHMisgjOf.jpg",
     "rating": 7.5,
     "votes": 6928,
-    "imdb_id": "tt0083944"
+    "imdb_id": "tt0083944",
+    "director": "Ted Kotcheff"
   },
   {
     "title": "Red Sparrow",
@@ -16026,7 +16596,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/red-sparrow-2018/",
     "rating": 6.534,
     "votes": 6378,
-    "imdb_id": "tt2873282"
+    "imdb_id": "tt2873282",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Grown Ups",
@@ -16043,7 +16614,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/grown-ups-2010/",
     "rating": 6.424,
     "votes": 6731,
-    "imdb_id": "tt1375670"
+    "imdb_id": "tt1375670",
+    "director": "Деннис Дуган"
   },
   {
     "title": "Rush Hour",
@@ -16069,7 +16641,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/rush-hour-1998/",
     "rating": 7.08,
     "votes": 5717,
-    "imdb_id": "tt0120812"
+    "imdb_id": "tt0120812",
+    "director": "Бретт Ратнер"
   },
   {
     "title": "Cars 3",
@@ -16096,7 +16669,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cars-3-2017/",
     "rating": 6.862,
     "votes": 6426,
-    "imdb_id": "tt3606752"
+    "imdb_id": "tt3606752",
+    "director": "Brian Fee"
   },
   {
     "title": "A Cure for Wellness",
@@ -16114,7 +16688,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-cure-for-wellness-2016/",
     "rating": 6.349,
     "votes": 4206,
-    "imdb_id": "tt4731136"
+    "imdb_id": "tt4731136",
+    "director": "Гор Вербински"
   },
   {
     "title": "Spy Kids",
@@ -16144,7 +16719,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/spy-kids-2001/",
     "rating": 5.817,
     "votes": 3737,
-    "imdb_id": "tt0227538"
+    "imdb_id": "tt0227538",
+    "director": "Роберт Родригес"
   },
   {
     "title": "Stuart Little",
@@ -16164,7 +16740,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/stuart-little-1999/",
     "rating": 6.079,
     "votes": 4679,
-    "imdb_id": "tt0164912"
+    "imdb_id": "tt0164912",
+    "director": "Роб Минкофф"
   },
   {
     "title": "Kick-Ass 2",
@@ -16184,7 +16761,8 @@ var movieDB = [
     "title_ru": "Пипец 2",
     "rating": 6.405,
     "votes": 6610,
-    "imdb_id": "tt1650554"
+    "imdb_id": "tt1650554",
+    "director": "Джефф Уодлоу"
   },
   {
     "title": "Anastasia",
@@ -16203,7 +16781,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/anastasia-1997/",
     "rating": 7.6,
     "votes": 5637,
-    "imdb_id": "tt0118617"
+    "imdb_id": "tt0118617",
+    "director": "Don Bluth, Gary Goldman"
   },
   {
     "title": "Happy Gilmore",
@@ -16223,7 +16802,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/happy-gilmore-1996/",
     "rating": 6.681,
     "votes": 3362,
-    "imdb_id": "tt0116483"
+    "imdb_id": "tt0116483",
+    "director": "Деннис Дуган"
   },
   {
     "title": "Armageddon",
@@ -16247,7 +16827,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/armageddon-1998/",
     "rating": 6.835,
     "votes": 8623,
-    "imdb_id": "tt0120591"
+    "imdb_id": "tt0120591",
+    "director": "Майкл Бэй"
   },
   {
     "title": "The Dictator",
@@ -16267,7 +16848,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-dictator-2012/",
     "rating": 6.236,
     "votes": 6482,
-    "imdb_id": "tt1645170"
+    "imdb_id": "tt1645170",
+    "director": "Ларри Чарльз"
   },
   {
     "title": "Sucker Punch",
@@ -16293,7 +16875,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sucker-punch-2011/",
     "rating": 6.201,
     "votes": 5107,
-    "imdb_id": "tt0978764"
+    "imdb_id": "tt0978764",
+    "director": "Зак Снайдер"
   },
   {
     "title": "Fifty Shades of Grey",
@@ -16312,7 +16895,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/fifty-shades-of-grey-2015/",
     "rating": 5.9,
     "votes": 12426,
-    "imdb_id": "tt2322441"
+    "imdb_id": "tt2322441",
+    "director": "Sam Taylor-Johnson"
   },
   {
     "title": "Murder Mystery",
@@ -16338,7 +16922,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/7GfIYH4FB42dI2yqMNX3zVsXZPu.jpg",
     "rating": 6.257,
     "votes": 4818,
-    "imdb_id": "tt1618434"
+    "imdb_id": "tt1618434",
+    "director": "Кайл Ньюачек"
   },
   {
     "title": "Valerian and the City of a Thousand Planets",
@@ -16364,7 +16949,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/oDRX8zwhNJt3ae4aENkhBxj2IMN.jpg",
     "rating": 6.64,
     "votes": 8038,
-    "imdb_id": "tt2239822"
+    "imdb_id": "tt2239822",
+    "director": "Люк Бессон"
   },
   {
     "title": "DodgeBall: A True Underdog Story",
@@ -16384,7 +16970,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dodgeball-a-true-underdog-story-2004/",
     "rating": 6.368,
     "votes": 3858,
-    "imdb_id": "tt0364725"
+    "imdb_id": "tt0364725",
+    "director": "Роусон Маршалл Тёрбер"
   },
   {
     "title": "Knocked Up",
@@ -16410,7 +16997,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/knocked-up-2007/",
     "rating": 6.304,
     "votes": 4308,
-    "imdb_id": "tt0478311"
+    "imdb_id": "tt0478311",
+    "director": "Джадд Апатоу"
   },
   {
     "title": "Wayne's World",
@@ -16433,7 +17021,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/waynes-world-1992/",
     "rating": 6.7,
     "votes": 2483,
-    "imdb_id": "tt0105793"
+    "imdb_id": "tt0105793",
+    "director": "Penelope Spheeris"
   },
   {
     "title": "Night at the Museum: Battle of the Smithsonian",
@@ -16464,7 +17053,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8tBcC6WUEpL5yOfc2GUE2nQ8Qnt.jpg",
     "rating": 6.157,
     "votes": 7317,
-    "imdb_id": "tt1078912"
+    "imdb_id": "tt1078912",
+    "director": "Шон Леви"
   },
   {
     "title": "Transformers: Revenge of the Fallen",
@@ -16493,7 +17083,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/faLkNsOPqiw2ijqDOfEy2GUscw2.jpg",
     "rating": 6.22,
     "votes": 9227,
-    "imdb_id": "tt1055369"
+    "imdb_id": "tt1055369",
+    "director": "Майкл Бэй"
   },
   {
     "title": "17 Again",
@@ -16516,7 +17107,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/17-again-2009/",
     "rating": 6.321,
     "votes": 5444,
-    "imdb_id": "tt0974661"
+    "imdb_id": "tt0974661",
+    "director": "Бёрр Стирс"
   },
   {
     "title": "Fast & Furious",
@@ -16546,7 +17138,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/A0HOGMFp4mphOCqwt5YNWbuSMJe.jpg",
     "rating": 6.69,
     "votes": 7844,
-    "imdb_id": "tt1013752"
+    "imdb_id": "tt1013752",
+    "director": "Джастин Лин"
   },
   {
     "title": "Bridge to Terabithia",
@@ -16572,7 +17165,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bridge-to-terabithia-2007/",
     "rating": 7.339,
     "votes": 5308,
-    "imdb_id": "tt0398808"
+    "imdb_id": "tt0398808",
+    "director": "Gábor Csupó"
   },
   {
     "title": "The Naked Gun: From the Files of Police Squad!",
@@ -16598,7 +17192,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nJ8R3BrbFd8xnlS7GgYrHtp6GU4.jpg",
     "rating": 7.283,
     "votes": 4534,
-    "imdb_id": "tt0095705"
+    "imdb_id": "tt0095705",
+    "director": "Дэвид Цукер"
   },
   {
     "title": "The Last Samurai",
@@ -16626,7 +17221,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nSHIbNiJrFpmFPzlff3sAy94kjE.jpg",
     "rating": 7.607,
     "votes": 7577,
-    "imdb_id": "tt0325710"
+    "imdb_id": "tt0325710",
+    "director": "Эдвард Цвик"
   },
   {
     "title": "She's the Man",
@@ -16649,7 +17245,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shes-the-man-2006/",
     "rating": 6.8,
     "votes": 3305,
-    "imdb_id": "tt0454945"
+    "imdb_id": "tt0454945",
+    "director": "Andy Fickman"
   },
   {
     "title": "Fantastic Four: Rise of the Silver Surfer",
@@ -16674,7 +17271,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/vYvuKMkUWVW4UuPAE5vSmm5orBB.jpg",
     "rating": 5.633,
     "votes": 8437,
-    "imdb_id": "tt0486576"
+    "imdb_id": "tt0486576",
+    "director": "Тим Стори"
   },
   {
     "title": "Big Little Lies",
@@ -16694,7 +17292,8 @@ var movieDB = [
     "why": "Риз Уизерспун, Николь Кидман и Шейлин Вудли. Монтерей, океан и убийство на благотворительном вечере.",
     "title_ru": "Confession of a Florist",
     "tmdb_id": 501189,
-    "letterboxd_url": "https://letterboxd.com/film/big-little-lies-2017/"
+    "letterboxd_url": "https://letterboxd.com/film/big-little-lies-2017/",
+    "director": "Frank Patterson"
   },
   {
     "title": "The Muppets",
@@ -16720,7 +17319,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-muppets-2011/",
     "rating": 6.7,
     "votes": 1702,
-    "imdb_id": "tt1204342"
+    "imdb_id": "tt1204342",
+    "director": "Джеймс Бобин"
   },
   {
     "title": "Warrior",
@@ -16745,7 +17345,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6Aqyl0QfYksaR2z6tR3ohnZwQBO.jpg",
     "rating": 7.842,
     "votes": 5044,
-    "imdb_id": "tt1291584"
+    "imdb_id": "tt1291584",
+    "director": "Гэвин О'Коннор"
   },
   {
     "title": "Men in Black: International",
@@ -16773,7 +17374,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/zSpaTBgxiP2HXq34OMwjxm3lp9D.jpg",
     "rating": 5.895,
     "votes": 5386,
-    "imdb_id": "tt2283336"
+    "imdb_id": "tt2283336",
+    "director": "Ф. Гэри Грей"
   },
   {
     "title": "Weathering with You",
@@ -16803,7 +17405,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/koEIzx6yaqrLkmmScO68s5oDAyc.jpg",
     "rating": 8,
     "votes": 2642,
-    "imdb_id": "tt9426210"
+    "imdb_id": "tt9426210",
+    "director": "Макото Синкай"
   },
   {
     "title": "ParaNorman",
@@ -16832,7 +17435,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/paranorman-2012/",
     "rating": 7.041,
     "votes": 2794,
-    "imdb_id": "tt1623288"
+    "imdb_id": "tt1623288",
+    "director": "Сэм Фелл, Крис Батлер"
   },
   {
     "title": "Adventureland",
@@ -16858,7 +17462,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/adventureland-2009/",
     "rating": 6.397,
     "votes": 2369,
-    "imdb_id": "tt1091722"
+    "imdb_id": "tt1091722",
+    "director": "Грег Моттола"
   },
   {
     "title": "Frankenstein",
@@ -16882,7 +17487,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/frankenstein-1931/",
     "rating": 7.468,
     "votes": 1808,
-    "imdb_id": "tt0021884"
+    "imdb_id": "tt0021884",
+    "director": "James Whale"
   },
   {
     "title": "The Karate Kid",
@@ -16911,7 +17517,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-karate-kid-2010/",
     "rating": 6.569,
     "votes": 6593,
-    "imdb_id": "tt1155076"
+    "imdb_id": "tt1155076",
+    "director": "Харольд Цварт"
   },
   {
     "title": "Don Jon",
@@ -16937,7 +17544,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/don-jon-2013/",
     "rating": 6.013,
     "votes": 4598,
-    "imdb_id": "tt2229499"
+    "imdb_id": "tt2229499",
+    "director": "Джозеф Гордон-Левитт"
   },
   {
     "title": "Austin Powers: The Spy Who Shagged Me",
@@ -16963,7 +17571,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/austin-powers-the-spy-who-shagged-me-1999/",
     "rating": 6.3,
     "votes": 3693,
-    "imdb_id": "tt0145660"
+    "imdb_id": "tt0145660",
+    "director": "Джей Роуч"
   },
   {
     "title": "Love & Other Drugs",
@@ -16990,7 +17599,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/love-other-drugs-2010/",
     "rating": 7.044,
     "votes": 5633,
-    "imdb_id": "tt0758752"
+    "imdb_id": "tt0758752",
+    "director": "Эдвард Цвик"
   },
   {
     "title": "Frankenweenie",
@@ -17016,7 +17626,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/frankenweenie-2012/",
     "rating": 7.006,
     "votes": 3637,
-    "imdb_id": "tt1142977"
+    "imdb_id": "tt1142977",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Lethal Weapon",
@@ -17042,7 +17653,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/lethal-weapon-1987/",
     "rating": 7.3,
     "votes": 5072,
-    "imdb_id": "tt0093409"
+    "imdb_id": "tt0093409",
+    "director": "Richard Donner"
   },
   {
     "title": "Terminator: Dark Fate",
@@ -17071,7 +17683,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ffULB4SNiMuTbEl8dGPnU185hfe.jpg",
     "rating": 6.422,
     "votes": 5710,
-    "imdb_id": "tt6450804"
+    "imdb_id": "tt6450804",
+    "director": "Тим Миллер"
   },
   {
     "title": "When Marnie Was There",
@@ -17097,7 +17710,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/when-marnie-was-there-2014/",
     "rating": 7.9,
     "votes": 1978,
-    "imdb_id": "tt3398268"
+    "imdb_id": "tt3398268",
+    "director": "Хиромаса Ёнэбаяси"
   },
   {
     "title": "Rise of the Guardians",
@@ -17128,7 +17742,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/rise-of-the-guardians-2012/",
     "rating": 7.378,
     "votes": 7176,
-    "imdb_id": "tt1446192"
+    "imdb_id": "tt1446192",
+    "director": "Питер Рэмси"
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -17159,7 +17774,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-muppet-christmas-carol-1992/",
     "rating": 7.445,
     "votes": 1167,
-    "imdb_id": "tt0104940"
+    "imdb_id": "tt0104940",
+    "director": "Брайан Хенсон"
   },
   {
     "title": "The Hangover Part III",
@@ -17179,7 +17795,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hangover-part-iii-2013/",
     "rating": 6.211,
     "votes": 9276,
-    "imdb_id": "tt1951261"
+    "imdb_id": "tt1951261",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Maze Runner: The Scorch Trials",
@@ -17207,7 +17824,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/maze-runner-the-scorch-trials-2015/",
     "rating": 6.73,
     "votes": 11072,
-    "imdb_id": "tt4046784"
+    "imdb_id": "tt4046784",
+    "director": "Уэс Болл"
   },
   {
     "title": "Vanilla Sky",
@@ -17231,7 +17849,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/vanilla-sky-2001/",
     "rating": 6.824,
     "votes": 4689,
-    "imdb_id": "tt0259711"
+    "imdb_id": "tt0259711",
+    "director": "Кэмерон Кроу"
   },
   {
     "title": "Bad Education",
@@ -17257,7 +17876,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bad-education-2019/",
     "rating": 6.736,
     "votes": 774,
-    "imdb_id": "tt8206668"
+    "imdb_id": "tt8206668",
+    "director": "Cory Finley"
   },
   {
     "title": "Transformers: Dark of the Moon",
@@ -17287,7 +17907,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/9wamNeMspa2wLWyZW1af6PMhfCa.jpg",
     "rating": 6.235,
     "votes": 8996,
-    "imdb_id": "tt1399103"
+    "imdb_id": "tt1399103",
+    "director": "Майкл Бэй"
   },
   {
     "title": "Chappie",
@@ -17311,7 +17932,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/chappie-2015/",
     "rating": 6.79,
     "votes": 8513,
-    "imdb_id": "tt1823672"
+    "imdb_id": "tt1823672",
+    "director": "Нил Бломкамп"
   },
   {
     "title": "Die Hard With a Vengeance",
@@ -17334,7 +17956,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/die-hard-with-a-vengeance-1995/",
     "rating": 7.282,
     "votes": 6699,
-    "imdb_id": "tt0112864"
+    "imdb_id": "tt0112864",
+    "director": "Джон МакТирнан"
   },
   {
     "title": "Death Becomes Her",
@@ -17360,7 +17983,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/death-becomes-her-1992/",
     "rating": 6.8,
     "votes": 2983,
-    "imdb_id": "tt0104070"
+    "imdb_id": "tt0104070",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Green Lantern",
@@ -17384,7 +18008,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/green-lantern-2011/",
     "rating": 5.186,
     "votes": 7683,
-    "imdb_id": "tt1133985"
+    "imdb_id": "tt1133985",
+    "director": "Мартин Кэмпбелл"
   },
   {
     "title": "Ghost",
@@ -17411,7 +18036,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/7D8FfO2a4MgzKF9uQRiUV6KBqKi.jpg",
     "rating": 7.24,
     "votes": 6060,
-    "imdb_id": "tt0099653"
+    "imdb_id": "tt0099653",
+    "director": "Джерри Цукер"
   },
   {
     "title": "The Accountant",
@@ -17437,7 +18063,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-accountant-2016/",
     "rating": 7.137,
     "votes": 7396,
-    "imdb_id": "tt2140479"
+    "imdb_id": "tt2140479",
+    "director": "Гэвин О'Коннор"
   },
   {
     "title": "It",
@@ -17465,7 +18092,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/it-1990/",
     "rating": 6.5,
     "votes": 2,
-    "imdb_id": "tt0100708"
+    "imdb_id": "tt0100708",
+    "director": "James Scott"
   },
   {
     "title": "Dope",
@@ -17491,7 +18119,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dope-2015/",
     "rating": 7.049,
     "votes": 1592,
-    "imdb_id": "tt3850214"
+    "imdb_id": "tt3850214",
+    "director": "Рик Фамуйива"
   },
   {
     "title": "As Good as It Gets",
@@ -17517,7 +18146,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/as-good-as-it-gets-1997/",
     "rating": 7.4,
     "votes": 4158,
-    "imdb_id": "tt0119822"
+    "imdb_id": "tt0119822",
+    "director": "Джеймс Брукс"
   },
   {
     "title": "Bad Boys",
@@ -17547,7 +18177,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/d1lvBUrF0EVwSZKnm5bagPQZFUu.jpg",
     "rating": 6.83,
     "votes": 6990,
-    "imdb_id": "tt0112442"
+    "imdb_id": "tt0112442",
+    "director": "Майкл Бэй"
   },
   {
     "title": "There's Something About Mary",
@@ -17570,7 +18201,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/theres-something-about-mary-1998/",
     "rating": 6.63,
     "votes": 5384,
-    "imdb_id": "tt0129387"
+    "imdb_id": "tt0129387",
+    "director": "Bobby Farrelly, Peter Farrelly"
   },
   {
     "title": "I Know What You Did Last Summer",
@@ -17596,7 +18228,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/i-know-what-you-did-last-summer-1997/",
     "rating": 6,
     "votes": 3286,
-    "imdb_id": "tt0119345"
+    "imdb_id": "tt0119345",
+    "director": "Jim Gillespie"
   },
   {
     "title": "Die Hard 2",
@@ -17619,7 +18252,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/die-hard-2-1990/",
     "rating": 6.973,
     "votes": 6437,
-    "imdb_id": "tt0099423"
+    "imdb_id": "tt0099423",
+    "director": "Ренни Харлин"
   },
   {
     "title": "Ghostbusters II",
@@ -17643,7 +18277,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/sNVd1heRFJFlwgOZEvQpLOsNusG.jpg",
     "rating": 6.6,
     "votes": 4875,
-    "imdb_id": "tt0097428"
+    "imdb_id": "tt0097428",
+    "director": "Ivan Reitman"
   },
   {
     "title": "Over the Hedge",
@@ -17673,7 +18308,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/5nKlGj40vB0GufKvnD687blTN0d.jpg",
     "rating": 6.599,
     "votes": 4880,
-    "imdb_id": "tt0327084"
+    "imdb_id": "tt0327084",
+    "director": "Кэри Киркпатрик, Тимоти Джонсон"
   },
   {
     "title": "Annabelle",
@@ -17698,7 +18334,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/i12HsW8jXnCoy5IieQEpFLush7O.jpg",
     "rating": 5.79,
     "votes": 6567,
-    "imdb_id": "tt3322940"
+    "imdb_id": "tt3322940",
+    "director": "Джон Р. Леонетти"
   },
   {
     "title": "Wedding Crashers",
@@ -17721,7 +18358,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/wedding-crashers-2005/",
     "rating": 6.503,
     "votes": 4731,
-    "imdb_id": "tt0396269"
+    "imdb_id": "tt0396269",
+    "director": "Дэвид Добкин"
   },
   {
     "title": "The Fog",
@@ -17741,7 +18379,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-fog-1980/",
     "rating": 6.737,
     "votes": 1765,
-    "imdb_id": "tt0080749"
+    "imdb_id": "tt0080749",
+    "director": "Джон Карпентер"
   },
   {
     "title": "Robin Hood",
@@ -17767,7 +18406,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/robin-hood-1973/",
     "rating": 7.31,
     "votes": 4666,
-    "imdb_id": "tt0070608"
+    "imdb_id": "tt0070608",
+    "director": "Wolfgang Reitherman"
   },
   {
     "title": "Baywatch",
@@ -17793,7 +18433,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/baywatch-2017/",
     "rating": 6.081,
     "votes": 8518,
-    "imdb_id": "tt1469304"
+    "imdb_id": "tt1469304",
+    "director": "Сет Гордон"
   },
   {
     "title": "The Hitman's Bodyguard",
@@ -17823,7 +18464,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/i8WMBQtoyug6Twa1RP8QHLCxVdH.jpg",
     "rating": 6.894,
     "votes": 6694,
-    "imdb_id": "tt1959563"
+    "imdb_id": "tt1959563",
+    "director": "Патрик Хьюз"
   },
   {
     "title": "Wanted",
@@ -17850,7 +18492,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/eo6hotRYa1T7H3pXJaO1INLiyei.jpg",
     "rating": 6.532,
     "votes": 7631,
-    "imdb_id": "tt0493464"
+    "imdb_id": "tt0493464",
+    "director": "Тимур Бекмамбетов"
   },
   {
     "title": "The Lorax",
@@ -17874,7 +18517,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/pCq2zMcfyC0METerLKJahBmlR0v.jpg",
     "rating": 6.532,
     "votes": 3900,
-    "imdb_id": "tt1482459"
+    "imdb_id": "tt1482459",
+    "director": "Крис Рено"
   },
   {
     "title": "Mud",
@@ -17901,7 +18545,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mud-2012/",
     "rating": 6,
     "votes": 6,
-    "imdb_id": "tt2538784"
+    "imdb_id": "tt2538784",
+    "director": "David Hewitt"
   },
   {
     "title": "Tucker and Dale vs. Evil",
@@ -17924,7 +18569,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tucker-and-dale-vs-evil-2010/",
     "rating": 7.397,
     "votes": 3184,
-    "imdb_id": "tt1465522"
+    "imdb_id": "tt1465522",
+    "director": "Eli Craig"
   },
   {
     "title": "Manhunter",
@@ -17950,7 +18596,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/manhunter-1986/",
     "rating": 7.009,
     "votes": 1532,
-    "imdb_id": "tt0091474"
+    "imdb_id": "tt0091474",
+    "director": "Michael Mann"
   },
   {
     "title": "Annabelle: Creation",
@@ -17975,7 +18622,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/5Omlys7hQXOKFDdueBq63roIhVE.jpg",
     "rating": 6.609,
     "votes": 6009,
-    "imdb_id": "tt5140878"
+    "imdb_id": "tt5140878",
+    "director": "Дэвид Ф. Сандберг"
   },
   {
     "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
@@ -18005,7 +18653,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/cBplUaSSl7lJYca9dZzzXZS9ZG5.jpg",
     "rating": 7.13,
     "votes": 3107,
-    "imdb_id": "tt0312004"
+    "imdb_id": "tt0312004",
+    "director": "Steve Box, Ник Парк"
   },
   {
     "title": "Southpaw",
@@ -18034,7 +18683,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/jsPdRIpDwHbmrTUZuEM9fHzLtDT.jpg",
     "rating": 7.364,
     "votes": 5840,
-    "imdb_id": "tt1798684"
+    "imdb_id": "tt1798684",
+    "director": "Антуан Фукуа"
   },
   {
     "title": "The Mummy Returns",
@@ -18060,7 +18710,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-mummy-returns-2001/",
     "rating": 6.407,
     "votes": 7727,
-    "imdb_id": "tt0209163"
+    "imdb_id": "tt0209163",
+    "director": "Стивен Соммерс"
   },
   {
     "title": "Kung Fu Panda 3",
@@ -18091,7 +18742,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/kung-fu-panda-3-2016/",
     "rating": 6.929,
     "votes": 6626,
-    "imdb_id": "tt2267968"
+    "imdb_id": "tt2267968",
+    "director": "Jennifer Yuh Nelson, Alessandro Carloni"
   },
   {
     "title": "The Sisters Brothers",
@@ -18117,7 +18769,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-sisters-brothers-2018/",
     "rating": 6.83,
     "votes": 2094,
-    "imdb_id": "tt4971344"
+    "imdb_id": "tt4971344",
+    "director": "Жак Одиар"
   },
   {
     "title": "Maze Runner: The Death Cure",
@@ -18146,7 +18799,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/maze-runner-the-death-cure-2018/",
     "rating": 7.1,
     "votes": 8431,
-    "imdb_id": "tt4500922"
+    "imdb_id": "tt4500922",
+    "director": "Уэс Болл"
   },
   {
     "title": "Resident Evil",
@@ -18175,7 +18829,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/resident-evil-2002/",
     "rating": 6.663,
     "votes": 6982,
-    "imdb_id": "tt0120804"
+    "imdb_id": "tt0120804",
+    "director": "Пол У. С. Андерсон"
   },
   {
     "title": "The Princess Diaries 2: Royal Engagement",
@@ -18205,7 +18860,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/msY07eRTUbkHD8o21JLda3ae202.jpg",
     "rating": 6.714,
     "votes": 3417,
-    "imdb_id": "tt0368933"
+    "imdb_id": "tt0368933",
+    "director": "Garry Marshall"
   },
   {
     "title": "Rio",
@@ -18235,7 +18891,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/5szMvzcASzBr76VnOB9peeYjdKb.jpg",
     "rating": 6.766,
     "votes": 7206,
-    "imdb_id": "tt1436562"
+    "imdb_id": "tt1436562",
+    "director": "Carlos Saldanha"
   },
   {
     "title": "Ice Age: Dawn of the Dinosaurs",
@@ -18266,7 +18923,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ice-age-dawn-of-the-dinosaurs-2009/",
     "rating": 6.8,
     "votes": 8910,
-    "imdb_id": "tt1080016"
+    "imdb_id": "tt1080016",
+    "director": "Carlos Saldanha"
   },
   {
     "title": "The Cat in the Hat",
@@ -18295,7 +18953,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-cat-in-the-hat-2003/",
     "rating": 5.316,
     "votes": 1813,
-    "imdb_id": "tt0312528"
+    "imdb_id": "tt0312528",
+    "director": "Bo Welch"
   },
   {
     "title": "Alien Resurrection",
@@ -18321,7 +18980,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/alien-resurrection-1997/",
     "rating": 6.2,
     "votes": 5591,
-    "imdb_id": "tt0118583"
+    "imdb_id": "tt0118583",
+    "director": "Жан-Пьер Жёне"
   },
   {
     "title": "Addams Family Values",
@@ -18347,7 +19007,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/addams-family-values-1993/",
     "rating": 7,
     "votes": 3324,
-    "imdb_id": "tt0106220"
+    "imdb_id": "tt0106220",
+    "director": "Барри Зонненфельд"
   },
   {
     "title": "A Knight's Tale",
@@ -18376,7 +19037,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-knights-tale-2001/",
     "rating": 6.879,
     "votes": 3403,
-    "imdb_id": "tt0183790"
+    "imdb_id": "tt0183790",
+    "director": "Брайан Хелгеленд"
   },
   {
     "title": "Paul",
@@ -18400,7 +19062,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/paul-2011/",
     "rating": 6.744,
     "votes": 6320,
-    "imdb_id": "tt1092026"
+    "imdb_id": "tt1092026",
+    "director": "Грег Моттола"
   },
   {
     "title": "Flushed Away",
@@ -18429,7 +19092,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/flushed-away-2006/",
     "rating": 6.331,
     "votes": 4118,
-    "imdb_id": "tt0424095"
+    "imdb_id": "tt0424095",
+    "director": "David Bowers, Сэм Фелл"
   },
   {
     "title": "Speed Racer",
@@ -18458,7 +19122,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/speed-racer-2008/",
     "rating": 6.4,
     "votes": 1789,
-    "imdb_id": "tt0811080"
+    "imdb_id": "tt0811080",
+    "director": "Ларри Вачовски, Энди Вачовски"
   },
   {
     "title": "The Santa Clause",
@@ -18487,7 +19152,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-santa-clause-1994/",
     "rating": 6.525,
     "votes": 2313,
-    "imdb_id": "tt0111070"
+    "imdb_id": "tt0111070",
+    "director": "John Pasquin"
   },
   {
     "title": "Austin Powers in Goldmember",
@@ -18510,7 +19176,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/austin-powers-in-goldmember-2002/",
     "rating": 6.022,
     "votes": 3453,
-    "imdb_id": "tt0295178"
+    "imdb_id": "tt0295178",
+    "director": "Джей Роуч"
   },
   {
     "title": "Hellboy II: The Golden Army",
@@ -18533,7 +19200,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hellboy-ii-the-golden-army-2008/",
     "rating": 6.771,
     "votes": 5634,
-    "imdb_id": "tt0411477"
+    "imdb_id": "tt0411477",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Superman",
@@ -18558,7 +19226,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/superman-1978/",
     "rating": 7.166,
     "votes": 4307,
-    "imdb_id": "tt0078346"
+    "imdb_id": "tt0078346",
+    "director": "Richard Donner"
   },
   {
     "title": "Bad Boys for Life",
@@ -18581,7 +19250,8 @@ var movieDB = [
     "title_ru": "Плохие парни навсегда",
     "tmdb_id": 38700,
     "poster_path": "/s9Ooa2ZkZ0sccg295no1FR89Hfo.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/bad-boys-for-life-2020/"
+    "letterboxd_url": "https://letterboxd.com/film/bad-boys-for-life-2020/",
+    "director": "Адиль Эль Арби, Билал Фалла"
   },
   {
     "title": "The Chronicles of Narnia: Prince Caspian",
@@ -18608,7 +19278,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/n43CryBQ330tXklFURAjh7iwtn1.jpg",
     "rating": 6.6,
     "votes": 6805,
-    "imdb_id": "tt0499448"
+    "imdb_id": "tt0499448",
+    "director": "Эндрю Адамсон"
   },
   {
     "title": "Monsters vs Aliens",
@@ -18637,7 +19308,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/monsters-vs-aliens-2009/",
     "rating": 6.255,
     "votes": 4993,
-    "imdb_id": "tt0892782"
+    "imdb_id": "tt0892782",
+    "director": "Роб Леттерман, Конрад Вернон"
   },
   {
     "title": "The Boss Baby",
@@ -18663,7 +19335,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-boss-baby-2017/",
     "rating": 6.452,
     "votes": 7480,
-    "imdb_id": "tt3874544"
+    "imdb_id": "tt3874544",
+    "director": "Том МакГрат"
   },
   {
     "title": "Noah",
@@ -18686,7 +19359,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/noah-2014/",
     "rating": 5.677,
     "votes": 6629,
-    "imdb_id": "tt1959490"
+    "imdb_id": "tt1959490",
+    "director": "Даррен Аронофски"
   },
   {
     "title": "The Croods",
@@ -18715,7 +19389,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-croods-2013/",
     "rating": 6.942,
     "votes": 7560,
-    "imdb_id": "tt0481499"
+    "imdb_id": "tt0481499",
+    "director": "Крис Сандерс, Kirk DeMicco"
   },
   {
     "title": "The Equalizer",
@@ -18741,7 +19416,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-equalizer-2014/",
     "rating": 7.29,
     "votes": 9991,
-    "imdb_id": "tt0455944"
+    "imdb_id": "tt0455944",
+    "director": "Антуан Фукуа"
   },
   {
     "title": "The Road to El Dorado",
@@ -18771,7 +19447,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-road-to-el-dorado-2000/",
     "rating": 7.296,
     "votes": 4131,
-    "imdb_id": "tt0138749"
+    "imdb_id": "tt0138749",
+    "director": "Bibo Bergeron, Don Paul"
   },
   {
     "title": "Hulk",
@@ -18795,7 +19472,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hulk-2003/",
     "rating": 5.584,
     "votes": 6303,
-    "imdb_id": "tt0286716"
+    "imdb_id": "tt0286716",
+    "director": "李安"
   },
   {
     "title": "Maleficent: Mistress of Evil",
@@ -18822,7 +19500,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/maleficent-mistress-of-evil-2019/",
     "rating": 7.3,
     "votes": 6518,
-    "imdb_id": "tt4777008"
+    "imdb_id": "tt4777008",
+    "director": "Йоахим Реннинг"
   },
   {
     "title": "Amy",
@@ -18846,7 +19525,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/3FtSffkJMPgwnqzL6J5nQYut5hz.jpg",
     "rating": 7.6,
     "votes": 1319,
-    "imdb_id": "tt2870648"
+    "imdb_id": "tt2870648",
+    "director": "Асиф Кападиa"
   },
   {
     "title": "Scooby-Doo 2: Monsters Unleashed",
@@ -18872,7 +19552,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/scooby-doo-2-monsters-unleashed-2004/",
     "rating": 6.1,
     "votes": 2935,
-    "imdb_id": "tt0331632"
+    "imdb_id": "tt0331632",
+    "director": "Раджа Госнелл"
   },
   {
     "title": "Public Enemies",
@@ -18899,7 +19580,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/qoy7q0ZYCvQcjZNlw23ur7Piy30.jpg",
     "rating": 6.7,
     "votes": 4862,
-    "imdb_id": "tt1152836"
+    "imdb_id": "tt1152836",
+    "director": "Michael Mann"
   },
   {
     "title": "Mary Queen of Scots",
@@ -18919,7 +19601,8 @@ var movieDB = [
     "title_ru": "Две королевы",
     "tmdb_id": 457136,
     "poster_path": "/qZ1OKjBIPsz1iFYEb9Suj14wEgZ.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/mary-queen-of-scots-2018/"
+    "letterboxd_url": "https://letterboxd.com/film/mary-queen-of-scots-2018/",
+    "director": "Josie Rourke"
   },
   {
     "title": "Wrath of Man",
@@ -18943,7 +19626,8 @@ var movieDB = [
     "tmdb_id": 637649,
     "poster_path": "/nRE9zOfzdp4uQMeDOgCvMf6izNh.jpg",
     "letterboxd_url": "https://letterboxd.com/film/wrath-of-man-2021/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/nRE9zOfzdp4uQMeDOgCvMf6izNh.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/nRE9zOfzdp4uQMeDOgCvMf6izNh.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "The Last Airbender",
@@ -18966,7 +19650,8 @@ var movieDB = [
     "title_ru": "Повелитель стихий",
     "tmdb_id": 10196,
     "poster_path": "/izK8ajqcwa2zyaxJqNOR6MO3g5u.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/the-last-airbender-2010/"
+    "letterboxd_url": "https://letterboxd.com/film/the-last-airbender-2010/",
+    "director": "М. Найт Шьямалан"
   },
   {
     "title": "Talladega Nights: The Ballad of Ricky Bobby",
@@ -18984,7 +19669,8 @@ var movieDB = [
     "tmdb_id": 9718,
     "poster_path": "/11XYJcgsfx2D68qs9s5m6O03Rw7.jpg",
     "letterboxd_url": "https://letterboxd.com/film/talladega-nights-the-ballad-of-ricky-bobby-2006/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/11XYJcgsfx2D68qs9s5m6O03Rw7.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/11XYJcgsfx2D68qs9s5m6O03Rw7.jpg",
+    "director": "Адам Маккей"
   },
   {
     "title": "Focus",
@@ -19010,7 +19696,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/focus-2015/",
     "rating": 6.87,
     "votes": 8307,
-    "imdb_id": "tt2381941"
+    "imdb_id": "tt2381941",
+    "director": "Джон Рекуа, Гленн Фикарра"
   },
   {
     "title": "Bright",
@@ -19033,7 +19720,8 @@ var movieDB = [
     "title_ru": "Яркость",
     "tmdb_id": 400106,
     "poster_path": "/3rqaO3CkcMqejUkXZqzpIEo56fl.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/bright-2017/"
+    "letterboxd_url": "https://letterboxd.com/film/bright-2017/",
+    "director": "Дэвид Эйер"
   },
   {
     "title": "Anna Karenina",
@@ -19059,7 +19747,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/anna-karenina-2012/",
     "rating": 6.701,
     "votes": 2408,
-    "imdb_id": "tt1781769"
+    "imdb_id": "tt1781769",
+    "director": "Джо Райт"
   },
   {
     "title": "Sky High",
@@ -19085,7 +19774,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sky-high-2005/",
     "rating": 6.3,
     "votes": 2484,
-    "imdb_id": "tt0405325"
+    "imdb_id": "tt0405325",
+    "director": "Майк Митчелл"
   },
   {
     "title": "Bring It On",
@@ -19102,7 +19792,8 @@ var movieDB = [
     "title_ru": "Добейся успеха",
     "tmdb_id": 1588,
     "poster_path": "/gFFbQhORZa79rPJqwJPBoKElPEt.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/bring-it-on-2000/"
+    "letterboxd_url": "https://letterboxd.com/film/bring-it-on-2000/",
+    "director": "Пейтон Рид"
   },
   {
     "title": "Alvin and the Chipmunks",
@@ -19128,7 +19819,8 @@ var movieDB = [
     "title_ru": "Элвин и бурундуки",
     "tmdb_id": 6477,
     "poster_path": "/wA7ElNFCZZ95UDQi3d40s6whpnn.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/alvin-and-the-chipmunks-2007/"
+    "letterboxd_url": "https://letterboxd.com/film/alvin-and-the-chipmunks-2007/",
+    "director": "Тим Хилл"
   },
   {
     "title": "Big Daddy",
@@ -19151,7 +19843,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/big-daddy-1999/",
     "rating": 6.494,
     "votes": 3565,
-    "imdb_id": "tt0142342"
+    "imdb_id": "tt0142342",
+    "director": "Деннис Дуган"
   },
   {
     "title": "The King's Man",
@@ -19178,7 +19871,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/9NyzS42sc9mvNLyPJtYqTqpkEoY.jpg",
     "rating": 6.713,
     "votes": 5088,
-    "imdb_id": "tt6856242"
+    "imdb_id": "tt6856242",
+    "director": "Мэттью Вон"
   },
   {
     "title": "Casper",
@@ -19202,7 +19896,8 @@ var movieDB = [
     "tmdb_id": 8839,
     "poster_path": "/382GzaBBdJBLYJQgdi9k9fg0QID.jpg",
     "letterboxd_url": "https://letterboxd.com/film/casper-1995/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/382GzaBBdJBLYJQgdi9k9fg0QID.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/382GzaBBdJBLYJQgdi9k9fg0QID.jpg",
+    "director": "Brad Silberling"
   },
   {
     "title": "Hitch",
@@ -19228,7 +19923,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hitch-2005/",
     "rating": 6.583,
     "votes": 6261,
-    "imdb_id": "tt0386588"
+    "imdb_id": "tt0386588",
+    "director": "Энди Теннант"
   },
   {
     "title": "South Park: Bigger, Longer & Uncut",
@@ -19248,7 +19944,8 @@ var movieDB = [
     "title_ru": "Южный Парк: Большой, длинный и необрезанный",
     "tmdb_id": 9473,
     "poster_path": "/pXIvqiOqcZ9vvDWPDpZJuOXTvqb.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/south-park-bigger-longer-uncut-1999/"
+    "letterboxd_url": "https://letterboxd.com/film/south-park-bigger-longer-uncut-1999/",
+    "director": "Трей Паркер"
   },
   {
     "title": "Just Go with It",
@@ -19268,7 +19965,8 @@ var movieDB = [
     "title_ru": "Притворись моей женой",
     "tmdb_id": 50546,
     "poster_path": "/sn085yZBrbQdbYo1LDAwsQ4P6ba.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/just-go-with-it-2011/"
+    "letterboxd_url": "https://letterboxd.com/film/just-go-with-it-2011/",
+    "director": "Деннис Дуган"
   },
   {
     "title": "Charlie's Angels",
@@ -19291,7 +19989,8 @@ var movieDB = [
     "title_ru": "Ангелы Чарли",
     "tmdb_id": 458897,
     "poster_path": "/fFvHx6DazV8wbYcZ2oJCHeuSuAM.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/charlies-angels-2019/"
+    "letterboxd_url": "https://letterboxd.com/film/charlies-angels-2019/",
+    "director": "Элизабет Бэнкс"
   },
   {
     "title": "Babe",
@@ -19318,7 +20017,8 @@ var movieDB = [
     "tmdb_id": 9598,
     "poster_path": "/f3Cezs17GNNC1HyGeseJ74slPNx.jpg",
     "letterboxd_url": "https://letterboxd.com/film/babe-1995/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/f3Cezs17GNNC1HyGeseJ74slPNx.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/f3Cezs17GNNC1HyGeseJ74slPNx.jpg",
+    "director": "Chris Noonan"
   },
   {
     "title": "The Predator",
@@ -19340,7 +20040,8 @@ var movieDB = [
     "tmdb_id": 346910,
     "poster_path": "/iFPCByJjLivNpfHWcF8M7aPNd62.jpg",
     "letterboxd_url": "https://letterboxd.com/film/the-predator-2018/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/asNFexcb3uMVUMANN0fRkj9VwLo.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/asNFexcb3uMVUMANN0fRkj9VwLo.jpg",
+    "director": "Шейн Блэк"
   },
   {
     "title": "Madagascar 3: Europe's Most Wanted",
@@ -19367,7 +20068,8 @@ var movieDB = [
     "title_ru": "Мадагаскар 3",
     "tmdb_id": 80321,
     "poster_path": "/aOKn2A1Ve0rKd6u8nTS1kXYSR65.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/madagascar-3-europes-most-wanted-2012/"
+    "letterboxd_url": "https://letterboxd.com/film/madagascar-3-europes-most-wanted-2012/",
+    "director": "Эрик Дарнелл, Том МакГрат, Конрад Вернон"
   },
   {
     "title": "Isn't It Romantic",
@@ -19390,7 +20092,8 @@ var movieDB = [
     "title_ru": "Ну разве не романтично?",
     "tmdb_id": 449563,
     "poster_path": "/cRjn0B4M9Idrax8ZoUjsL6Oacqa.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/isnt-it-romantic-2019/"
+    "letterboxd_url": "https://letterboxd.com/film/isnt-it-romantic-2019/",
+    "director": "Todd Strauss-Schulson"
   },
   {
     "title": "Battleship Potemkin",
@@ -19413,7 +20116,8 @@ var movieDB = [
     "title_ru": "Броненосец Потёмкин",
     "tmdb_id": 643,
     "poster_path": "/zP52DTxAVgdc3q7pURqiNrvBfWK.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/battleship-potemkin-1925/"
+    "letterboxd_url": "https://letterboxd.com/film/battleship-potemkin-1925/",
+    "director": "Сергей Эйзенштейн"
   },
   {
     "title": "Ghost Rider",
@@ -19439,7 +20143,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ghost-rider-2007/",
     "rating": 5.6,
     "votes": 6504,
-    "imdb_id": "tt0259324"
+    "imdb_id": "tt0259324",
+    "director": "Mark Steven Johnson"
   },
   {
     "title": "Christine",
@@ -19456,7 +20161,8 @@ var movieDB = [
     "title_ru": "Кристина",
     "tmdb_id": 8769,
     "poster_path": "/y9Q0jDpPp71efgbYfivKNnEKzUK.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/christine-1983/"
+    "letterboxd_url": "https://letterboxd.com/film/christine-1983/",
+    "director": "Джон Карпентер"
   },
   {
     "title": "The Cat Returns",
@@ -19479,7 +20185,8 @@ var movieDB = [
     "title_ru": "猫の恩返し- 誕生物語",
     "tmdb_id": 729191,
     "poster_path": "/iWuacy2b0Cn4GPGEwLpbwl9rl7S.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/the-cat-returns-2002/"
+    "letterboxd_url": "https://letterboxd.com/film/the-cat-returns-2002/",
+    "director": "Хироюки Морита"
   },
   {
     "title": "Transformers: Age of Extinction",
@@ -19508,7 +20215,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/egU3gts1IFjixpQGHZ9g7fmgBiR.jpg",
     "rating": 5.968,
     "votes": 8799,
-    "imdb_id": "tt2109248"
+    "imdb_id": "tt2109248",
+    "director": "Майкл Бэй"
   },
   {
     "title": "King Arthur: Legend of the Sword",
@@ -19535,7 +20243,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/pR5liuSzUesiYhe80yTpigUce73.jpg",
     "rating": 6.6,
     "votes": 6078,
-    "imdb_id": "tt1972591"
+    "imdb_id": "tt1972591",
+    "director": "Гай Ричи"
   },
   {
     "title": "Rocky IV",
@@ -19559,7 +20268,8 @@ var movieDB = [
     "title_ru": "Рокки 4",
     "tmdb_id": 1374,
     "poster_path": "/9HJvXMX2NqE8qrwvdFbC0ocy6u5.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/rocky-iv-1985/"
+    "letterboxd_url": "https://letterboxd.com/film/rocky-iv-1985/",
+    "director": "Сильвестр Сталлоне"
   },
   {
     "title": "Jason Bourne",
@@ -19590,7 +20300,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8L7HBQXZQVW2V0GnlBKnZGCnosO.jpg",
     "rating": 6.381,
     "votes": 6241,
-    "imdb_id": "tt4196776"
+    "imdb_id": "tt4196776",
+    "director": "Пол Гринграсс"
   },
   {
     "title": "Insurgent",
@@ -19612,7 +20323,8 @@ var movieDB = [
     "tmdb_id": 262500,
     "poster_path": "/i3v2kcuvjoT35rnddLu7dl5B81o.jpg",
     "letterboxd_url": "https://letterboxd.com/film/insurgent-2015/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/i3v2kcuvjoT35rnddLu7dl5B81o.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/i3v2kcuvjoT35rnddLu7dl5B81o.jpg",
+    "director": "Роберт Швентке"
   },
   {
     "title": "Jack Reacher",
@@ -19639,7 +20351,8 @@ var movieDB = [
     "tmdb_id": 75780,
     "poster_path": "/qw1RGKZDasgyJIA4yUbaQxAgxD8.jpg",
     "letterboxd_url": "https://letterboxd.com/film/jack-reacher-2012/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/qw1RGKZDasgyJIA4yUbaQxAgxD8.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/qw1RGKZDasgyJIA4yUbaQxAgxD8.jpg",
+    "director": "Кристофер МакКуорри"
   },
   {
     "title": "Jingle All the Way",
@@ -19662,7 +20375,8 @@ var movieDB = [
     "title_ru": "Подарок на Рождество",
     "tmdb_id": 9279,
     "poster_path": "/pvtBqCJTfrAgGk6GY1InurtsUiX.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/jingle-all-the-way-1996/"
+    "letterboxd_url": "https://letterboxd.com/film/jingle-all-the-way-1996/",
+    "director": "Brian Levant"
   },
   {
     "title": "Rampage",
@@ -19684,7 +20398,8 @@ var movieDB = [
     "tmdb_id": 427641,
     "poster_path": "/tZays7crj8VTskXUMwE6N7jeulx.jpg",
     "letterboxd_url": "https://letterboxd.com/film/rampage-2018/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/tU2eoj0VM1sSfjZxXCkDrOes6xr.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/tU2eoj0VM1sSfjZxXCkDrOes6xr.jpg",
+    "director": "Брэд Пейтон"
   },
   {
     "title": "Holidate",
@@ -19708,7 +20423,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/aCdJsARgdVj2URgoXlpvjibSuv7.jpg",
     "rating": 6.969,
     "votes": 2372,
-    "imdb_id": "tt9866072"
+    "imdb_id": "tt9866072",
+    "director": "John Whitesell"
   },
   {
     "title": "True Lies",
@@ -19728,7 +20444,8 @@ var movieDB = [
     "title_ru": "Правдивая ложь",
     "tmdb_id": 36955,
     "poster_path": "/ef1W30VcCkN94UIzMfJNts0spE.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/true-lies-1994/"
+    "letterboxd_url": "https://letterboxd.com/film/true-lies-1994/",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Despicable Me 3",
@@ -19757,7 +20474,8 @@ var movieDB = [
     "tmdb_id": 324852,
     "poster_path": "/wlSfRcfo2mkHwegiXCoeiQnQ874.jpg",
     "letterboxd_url": "https://letterboxd.com/film/despicable-me-3-2017/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/wlSfRcfo2mkHwegiXCoeiQnQ874.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/wlSfRcfo2mkHwegiXCoeiQnQ874.jpg",
+    "director": "Кайл Балда, Пьер Коффен"
   },
   {
     "title": "Rocky II",
@@ -19782,7 +20500,8 @@ var movieDB = [
     "tmdb_id": 1367,
     "poster_path": "/dhfJVIcQwuTK0DQXmaxEeCjJCnH.jpg",
     "letterboxd_url": "https://letterboxd.com/film/rocky-ii-1979/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/dhfJVIcQwuTK0DQXmaxEeCjJCnH.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/dhfJVIcQwuTK0DQXmaxEeCjJCnH.jpg",
+    "director": "Сильвестр Сталлоне"
   },
   {
     "title": "Annabelle Comes Home",
@@ -19807,7 +20526,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/jLqJCkyepldyxQhp28Kr6zsKcF3.jpg",
     "rating": 6.41,
     "votes": 3865,
-    "imdb_id": "tt8350360"
+    "imdb_id": "tt8350360",
+    "director": "Гэри Доберман"
   },
   {
     "title": "Blade II",
@@ -19836,7 +20556,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/blade-ii-2002/",
     "rating": 6.568,
     "votes": 5243,
-    "imdb_id": "tt0187738"
+    "imdb_id": "tt0187738",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "The Mummy",
@@ -19866,7 +20587,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-mummy-2017/",
     "rating": 5.52,
     "votes": 7672,
-    "imdb_id": "tt2345759"
+    "imdb_id": "tt2345759",
+    "director": "Алекс Курцман"
   },
   {
     "title": "Terminator 3: Rise of the Machines",
@@ -19888,7 +20610,8 @@ var movieDB = [
     "title_ru": "Терминатор 3: Восстание машин",
     "tmdb_id": 296,
     "poster_path": "/nnZlp31UgvkRuIzSmCTHO1SkvQ.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/terminator-3-rise-of-the-machines-2003/"
+    "letterboxd_url": "https://letterboxd.com/film/terminator-3-rise-of-the-machines-2003/",
+    "director": "Джонатан Мостоу"
   },
   {
     "title": "The Grinch",
@@ -19914,7 +20637,8 @@ var movieDB = [
     "title_ru": "Гринч",
     "tmdb_id": 360920,
     "poster_path": "/t1f5cF0QHTxT4I9PZmjCUF8EPSs.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/the-grinch-2018/"
+    "letterboxd_url": "https://letterboxd.com/film/the-grinch-2018/",
+    "director": "Yarrow Cheney, Scott Mosier"
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -19937,7 +20661,8 @@ var movieDB = [
     "title_ru": "Сокровище нации 2: Книга тайн",
     "tmdb_id": 6637,
     "poster_path": "/hSSFO2sbZ8WfdgjunwzCh9s0dt1.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/national-treasure-book-of-secrets-2007/"
+    "letterboxd_url": "https://letterboxd.com/film/national-treasure-book-of-secrets-2007/",
+    "director": "Джон Тёртелтауб"
   },
   {
     "title": "The Beach",
@@ -19973,7 +20698,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ogC3YL1SZ0pexHcDFUUVLAo336x.jpg",
     "rating": 6.484,
     "votes": 4728,
-    "imdb_id": "tt0163978"
+    "imdb_id": "tt0163978",
+    "director": "Дэнни Бойл"
   },
   {
     "title": "Hero",
@@ -20005,7 +20731,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/bH1RIcz1o1QsgywLQfKiFuLR4Na.jpg",
     "rating": 3.625,
     "votes": 9,
-    "imdb_id": "tt0282695"
+    "imdb_id": "tt0282695",
+    "director": "Ken Sanzel"
   },
   {
     "title": "Pet Sematary",
@@ -20022,7 +20749,8 @@ var movieDB = [
     "title_ru": "Кладбище домашних животных",
     "tmdb_id": 8913,
     "poster_path": "/6Xa3dKMx5CmKcJjx0IHijEkKCxW.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/pet-sematary-1989/"
+    "letterboxd_url": "https://letterboxd.com/film/pet-sematary-1989/",
+    "director": "Mary Lambert"
   },
   {
     "title": "Snowden",
@@ -20048,7 +20776,8 @@ var movieDB = [
     "title_ru": "Сноуден",
     "tmdb_id": 302401,
     "poster_path": "/lZmcl9RT3EphrvR0AdQ06sGL7mL.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/snowden-2016/"
+    "letterboxd_url": "https://letterboxd.com/film/snowden-2016/",
+    "director": "Оливер Стоун"
   },
   {
     "title": "Gemini Man",
@@ -20079,7 +20808,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/675Byk1w1KV0k0G0Vg57iM2T1ya.jpg",
     "rating": 6.262,
     "votes": 5485,
-    "imdb_id": "tt1025100"
+    "imdb_id": "tt1025100",
+    "director": "李安"
   },
   {
     "title": "A Goofy Movie",
@@ -20109,7 +20839,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-goofy-movie-1995/",
     "rating": 7.034,
     "votes": 1930,
-    "imdb_id": "tt0113198"
+    "imdb_id": "tt0113198",
+    "director": "Кевин Лима"
   },
   {
     "title": "Song of the Sea",
@@ -20136,7 +20867,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/song-of-the-sea-2014/",
     "rating": 7.991,
     "votes": 1592,
-    "imdb_id": "tt1865505"
+    "imdb_id": "tt1865505",
+    "director": "Tomm Moore"
   },
   {
     "title": "Pixels",
@@ -20160,7 +20892,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/pixels-2015/",
     "rating": 5.784,
     "votes": 8079,
-    "imdb_id": "tt2120120"
+    "imdb_id": "tt2120120",
+    "director": "Крис Коламбус"
   },
   {
     "title": "Enter the Dragon",
@@ -20181,7 +20914,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/yH44DECOqDWR8iPoZWxHAcBz8W4.jpg",
     "rating": 7.4,
     "votes": 2104,
-    "imdb_id": "tt0070034"
+    "imdb_id": "tt0070034",
+    "director": "Robert Clouse"
   },
   {
     "title": "Marley & Me",
@@ -20204,7 +20938,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/marley-me-2008/",
     "rating": 7.179,
     "votes": 4809,
-    "imdb_id": "tt0822832"
+    "imdb_id": "tt0822832",
+    "director": "Дэвид Фрэнкел"
   },
   {
     "title": "Surf's Up",
@@ -20230,7 +20965,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/surfs-up-2007/",
     "rating": 6.509,
     "votes": 2769,
-    "imdb_id": "tt0423294"
+    "imdb_id": "tt0423294",
+    "director": "Ash Brannon, Крис Бак"
   },
   {
     "title": "101 Dalmatians",
@@ -20253,7 +20989,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/101-dalmatians-1996/",
     "rating": 5.943,
     "votes": 3656,
-    "imdb_id": "tt0115433"
+    "imdb_id": "tt0115433",
+    "director": "Stephen Herek"
   },
   {
     "title": "Pacific Rim: Uprising",
@@ -20285,7 +21022,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/hAR6AdEKMVQXrcTt1hnaEU7YvSX.jpg",
     "rating": 6.126,
     "votes": 5374,
-    "imdb_id": "tt2557478"
+    "imdb_id": "tt2557478",
+    "director": "Стивен С. ДеНайт"
   },
   {
     "title": "Carrie",
@@ -20309,7 +21047,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/carrie-2013/",
     "rating": 6.051,
     "votes": 4744,
-    "imdb_id": "tt1939659"
+    "imdb_id": "tt1939659",
+    "director": "Кимберли Пирс"
   },
   {
     "title": "Daredevil",
@@ -20334,7 +21073,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ArqASwh1zcP1XlDuQiWjwVoKg88.jpg",
     "rating": 5.299,
     "votes": 5492,
-    "imdb_id": "tt0287978"
+    "imdb_id": "tt0287978",
+    "director": "Mark Steven Johnson"
   },
   {
     "title": "The Wedding Singer",
@@ -20357,7 +21097,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-wedding-singer-1998/",
     "rating": 6.774,
     "votes": 1932,
-    "imdb_id": "tt0120888"
+    "imdb_id": "tt0120888",
+    "director": "Frank Coraci"
   },
   {
     "title": "The Purge: Election Year",
@@ -20383,7 +21124,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-purge-election-year-2016/",
     "rating": 6.38,
     "votes": 5520,
-    "imdb_id": "tt4094724"
+    "imdb_id": "tt4094724",
+    "director": "Джеймс ДеМонако"
   },
   {
     "title": "San Andreas",
@@ -20410,7 +21152,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/y6QnREbCTPmI4TvkqIsfydDjrns.jpg",
     "rating": 6.246,
     "votes": 9054,
-    "imdb_id": "tt2126355"
+    "imdb_id": "tt2126355",
+    "director": "Брэд Пейтон"
   },
   {
     "title": "American Made",
@@ -20437,7 +21180,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/uq91WJ0q9G2ai1rpTbDxEnhKmt1.jpg",
     "rating": 6.899,
     "votes": 5005,
-    "imdb_id": "tt3532216"
+    "imdb_id": "tt3532216",
+    "director": "Даг Лайман"
   },
   {
     "title": "Meet the Fockers",
@@ -20460,7 +21204,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/meet-the-fockers-2004/",
     "rating": 6.3,
     "votes": 5193,
-    "imdb_id": "tt0290002"
+    "imdb_id": "tt0290002",
+    "director": "Джей Роуч"
   },
   {
     "title": "25th Hour",
@@ -20483,7 +21228,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/25th-hour-2002/",
     "rating": 7.316,
     "votes": 2586,
-    "imdb_id": "tt0307901"
+    "imdb_id": "tt0307901",
+    "director": "Спайк Ли"
   },
   {
     "title": "Ted 2",
@@ -20507,7 +21253,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/AqBPjVypcAsuuktWqPm6SyIb1PG.jpg",
     "rating": 6.325,
     "votes": 8032,
-    "imdb_id": "tt2637276"
+    "imdb_id": "tt2637276",
+    "director": "Сет МакФарлейн"
   },
   {
     "title": "Gremlins 2: The New Batch",
@@ -20534,7 +21281,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/twjM36ThHItIbQUhX48JgHgFOEe.jpg",
     "rating": 6.525,
     "votes": 2923,
-    "imdb_id": "tt0099700"
+    "imdb_id": "tt0099700",
+    "director": "Джо Данте"
   },
   {
     "title": "Assassin's Creed",
@@ -20564,7 +21312,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/assassins-creed-2016/",
     "rating": 5.438,
     "votes": 8137,
-    "imdb_id": "tt2094766"
+    "imdb_id": "tt2094766",
+    "director": "Джастин Курзель"
   },
   {
     "title": "The Book of Eli",
@@ -20589,7 +21338,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/yvSuA19vWHK1Hi4fgtSCWAUG9pQ.jpg",
     "rating": 6.804,
     "votes": 6719,
-    "imdb_id": "tt1037705"
+    "imdb_id": "tt1037705",
+    "director": "Аллен Хьюз, Альберт Хьюз"
   },
   {
     "title": "Real Steel",
@@ -20613,7 +21363,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/real-steel-2011/",
     "rating": 7.115,
     "votes": 9269,
-    "imdb_id": "tt0433035"
+    "imdb_id": "tt0433035",
+    "director": "Шон Леви"
   },
   {
     "title": "Scary Movie 2",
@@ -20631,7 +21382,8 @@ var movieDB = [
     "title_ru": "Очень страшное кино 2",
     "tmdb_id": 4248,
     "poster_path": "/rra2vGpmqa7MpJAiQwxI084noxz.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/scary-movie-2-2001/"
+    "letterboxd_url": "https://letterboxd.com/film/scary-movie-2-2001/",
+    "director": "Кинен Айвори Уэйанс"
   },
   {
     "title": "The Expendables",
@@ -20657,7 +21409,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-expendables-2010/",
     "rating": 6.253,
     "votes": 8326,
-    "imdb_id": "tt1320253"
+    "imdb_id": "tt1320253",
+    "director": "Сильвестр Сталлоне"
   },
   {
     "title": "Legend",
@@ -20681,7 +21434,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/3ETalJEUXiH1nsb1X1xDcQpz6Eo.jpg",
     "rating": 7.056,
     "votes": 4308,
-    "imdb_id": "tt3569230"
+    "imdb_id": "tt3569230",
+    "director": "Брайан Хелгеленд"
   },
   {
     "title": "Terminator Genisys",
@@ -20707,7 +21461,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/eMUscX52jUbNC1xn4WJthJDUQNq.jpg",
     "rating": 5.957,
     "votes": 9011,
-    "imdb_id": "tt1340138"
+    "imdb_id": "tt1340138",
+    "director": "Алан Тейлор"
   },
   {
     "title": "She's All That",
@@ -20730,7 +21485,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shes-all-that-1999/",
     "rating": 6.325,
     "votes": 2256,
-    "imdb_id": "tt0160862"
+    "imdb_id": "tt0160862",
+    "director": "Robert Iscove"
   },
   {
     "title": "Neighbors 2: Sorority Rising",
@@ -20750,7 +21506,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/neighbors-2-sorority-rising-2016/",
     "rating": 5.816,
     "votes": 4636,
-    "imdb_id": "tt4438848"
+    "imdb_id": "tt4438848",
+    "director": "Николас Столлер"
   },
   {
     "title": "Bad Boys II",
@@ -20776,7 +21533,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bad-boys-ii-2003/",
     "rating": 6.656,
     "votes": 5982,
-    "imdb_id": "tt0172156"
+    "imdb_id": "tt0172156",
+    "director": "Майкл Бэй"
   },
   {
     "title": "Hotel Transylvania 2",
@@ -20805,7 +21563,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hotel-transylvania-2-2015/",
     "rating": 6.764,
     "votes": 6146,
-    "imdb_id": "tt2510894"
+    "imdb_id": "tt2510894",
+    "director": "Геннди Тартаковски"
   },
   {
     "title": "Team America: World Police",
@@ -20831,7 +21590,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/team-america-world-police-2004/",
     "rating": 6.725,
     "votes": 2061,
-    "imdb_id": "tt0372588"
+    "imdb_id": "tt0372588",
+    "director": "Трей Паркер"
   },
   {
     "title": "Van Helsing",
@@ -20850,7 +21610,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/van-helsing-2004/",
     "rating": 6.42,
     "votes": 6703,
-    "imdb_id": "tt0338526"
+    "imdb_id": "tt0338526",
+    "director": "Стивен Соммерс"
   },
   {
     "title": "Rocky III",
@@ -20876,7 +21637,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/4hG7pSchVxwahNT0fmv4qEMET4O.jpg",
     "rating": 6.905,
     "votes": 4521,
-    "imdb_id": "tt0084602"
+    "imdb_id": "tt0084602",
+    "director": "Сильвестр Сталлоне"
   },
   {
     "title": "Friends: The Reunion",
@@ -20895,7 +21657,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/friends-the-reunion-2021/",
     "rating": 7.827,
     "votes": 1338,
-    "imdb_id": "tt11337862"
+    "imdb_id": "tt11337862",
+    "director": "Бен Уинстон"
   },
   {
     "title": "The Fox and the Hound",
@@ -20925,7 +21688,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/1Dl0VS4ExlFm4ZwrcWs3zuO4m18.jpg",
     "rating": 7.159,
     "votes": 3517,
-    "imdb_id": "tt0082406"
+    "imdb_id": "tt0082406",
+    "director": "Ted Berman, Art Stevens, Ричард Рич"
   },
   {
     "title": "Police Story",
@@ -20941,7 +21705,8 @@ var movieDB = [
     "title_ru": "Police Story",
     "tmdb_id": 9056,
     "poster_path": "/pxlGuppVcXz89z1IIBA5YJKLoQ3.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/police-story-1985/"
+    "letterboxd_url": "https://letterboxd.com/film/police-story-1985/",
+    "director": "Джеки Чан"
   },
   {
     "title": "Pain & Gain",
@@ -20959,7 +21724,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/pain-gain-2013/",
     "rating": 6.292,
     "votes": 4832,
-    "imdb_id": "tt1980209"
+    "imdb_id": "tt1980209",
+    "director": "Майкл Бэй"
   },
   {
     "title": "No Strings Attached",
@@ -20978,7 +21744,8 @@ var movieDB = [
     "title_ru": "Больше, чем секс",
     "rating": 6.3,
     "votes": 5010,
-    "imdb_id": "tt1411238"
+    "imdb_id": "tt1411238",
+    "director": "Ivan Reitman"
   },
   {
     "title": "Mama",
@@ -20994,7 +21761,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mama-2013/",
     "rating": 6.296,
     "votes": 4439,
-    "imdb_id": "tt2023587"
+    "imdb_id": "tt2023587",
+    "director": "Энди Мускетти"
   },
   {
     "title": "Brief Encounter",
@@ -21017,7 +21785,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/brief-encounter-1945/",
     "rating": 7.693,
     "votes": 708,
-    "imdb_id": "tt0037558"
+    "imdb_id": "tt0037558",
+    "director": "David Lean"
   },
   {
     "title": "RED",
@@ -21045,7 +21814,8 @@ var movieDB = [
     "tmdb_id": 39514,
     "poster_path": "/nya7bMu8E55r5NqaJyW9JG9hIjq.jpg",
     "letterboxd_url": "https://letterboxd.com/film/red-2010/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/7sLTLJIYwYItsaA5d3jEOc3vI4x.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/7sLTLJIYwYItsaA5d3jEOc3vI4x.jpg",
+    "director": "Роберт Швентке"
   },
   {
     "title": "Alice Through the Looking Glass",
@@ -21063,7 +21833,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/alice-through-the-looking-glass-2016/",
     "rating": 6.565,
     "votes": 6801,
-    "imdb_id": "tt2567026"
+    "imdb_id": "tt2567026",
+    "director": "Джеймс Бобин"
   },
   {
     "title": "Salt",
@@ -21089,7 +21860,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/salt-2010/",
     "rating": 6.419,
     "votes": 5958,
-    "imdb_id": "tt0944835"
+    "imdb_id": "tt0944835",
+    "director": "Phillip Noyce"
   },
   {
     "title": "Watchmen",
@@ -21116,7 +21888,8 @@ var movieDB = [
     "title_ru": "Хранители",
     "tmdb_id": 684453,
     "poster_path": "/lLFA42mBVpQ0NZDg8ONv9a0onKm.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/watchmen-2019/"
+    "letterboxd_url": "https://letterboxd.com/film/watchmen-2019/",
+    "director": "Madeleine Leroyer"
   },
   {
     "title": "Honey, I Shrunk the Kids",
@@ -21135,7 +21908,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/honey-i-shrunk-the-kids-1989/",
     "rating": 6.325,
     "votes": 3353,
-    "imdb_id": "tt0097523"
+    "imdb_id": "tt0097523",
+    "director": "Джо Джонстон"
   },
   {
     "title": "Ender's Game",
@@ -21159,7 +21933,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/enders-game-2013/",
     "rating": 6.593,
     "votes": 6279,
-    "imdb_id": "tt1731141"
+    "imdb_id": "tt1731141",
+    "director": "Гэвин Худ"
   },
   {
     "title": "It's Kind of a Funny Story",
@@ -21180,7 +21955,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/its-kind-of-a-funny-story-2010/",
     "rating": 6.949,
     "votes": 2470,
-    "imdb_id": "tt0804497"
+    "imdb_id": "tt0804497",
+    "director": "Анна Боден, Райан Флек"
   },
   {
     "title": "Spirit: Stallion of the Cimarron",
@@ -21210,7 +21986,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/spirit-stallion-of-the-cimarron-2002/",
     "rating": 7.702,
     "votes": 4940,
-    "imdb_id": "tt0166813"
+    "imdb_id": "tt0166813",
+    "director": "Келли Эсбёри, Lorna Cook"
   },
   {
     "title": "Ice Age: Continental Drift",
@@ -21239,7 +22016,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ice-age-continental-drift-2012/",
     "rating": 6.388,
     "votes": 8137,
-    "imdb_id": "tt1667889"
+    "imdb_id": "tt1667889",
+    "director": "Steve Martino, Michael Thurmeier"
   },
   {
     "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
@@ -21267,7 +22045,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8uYxx23KyDnbDkA3eQSNECVeOiS.jpg",
     "rating": 8.219,
     "votes": 4559,
-    "imdb_id": "tt11032374"
+    "imdb_id": "tt11032374",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Terminator Salvation",
@@ -21292,7 +22071,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/terminator-salvation-2009/",
     "rating": 6.09,
     "votes": 7075,
-    "imdb_id": "tt0438488"
+    "imdb_id": "tt0438488",
+    "director": "МакДжи"
   },
   {
     "title": "9",
@@ -21309,7 +22089,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/9-2009/",
     "rating": 7.472,
     "votes": 10398,
-    "imdb_id": "tt1136608"
+    "imdb_id": "tt1136608",
+    "director": "Нил Бломкамп"
   },
   {
     "title": "Lara Croft: Tomb Raider",
@@ -21328,7 +22109,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/lara-croft-tomb-raider-2001/",
     "rating": 5.914,
     "votes": 6547,
-    "imdb_id": "tt0146316"
+    "imdb_id": "tt0146316",
+    "director": "Саймон Уэст"
   },
   {
     "title": "Wet Hot American Summer",
@@ -21345,7 +22127,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/wet-hot-american-summer-2001/",
     "rating": 6.249,
     "votes": 889,
-    "imdb_id": "tt0243655"
+    "imdb_id": "tt0243655",
+    "director": "David Wain"
   },
   {
     "title": "Superman Returns",
@@ -21364,7 +22147,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/superman-returns-2006/",
     "rating": 5.82,
     "votes": 4600,
-    "imdb_id": "tt0348150"
+    "imdb_id": "tt0348150",
+    "director": "Брайан Сингер"
   },
   {
     "title": "I Origins",
@@ -21382,7 +22166,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/i-origins-2014/",
     "rating": 7.566,
     "votes": 3480,
-    "imdb_id": "tt2884206"
+    "imdb_id": "tt2884206",
+    "director": "Mike Cahill"
   },
   {
     "title": "1408",
@@ -21405,7 +22190,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/1408-2007/",
     "rating": 6.697,
     "votes": 4916,
-    "imdb_id": "tt0450385"
+    "imdb_id": "tt0450385",
+    "director": "Микаэль Хофстрём"
   },
   {
     "title": "The Lone Ranger",
@@ -21431,7 +22217,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-lone-ranger-2013/",
     "rating": 6.125,
     "votes": 6179,
-    "imdb_id": "tt1210819"
+    "imdb_id": "tt1210819",
+    "director": "Гор Вербински"
   },
   {
     "title": "The First Purge",
@@ -21457,7 +22244,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-first-purge-2018/",
     "rating": 6.001,
     "votes": 4247,
-    "imdb_id": "tt6133466"
+    "imdb_id": "tt6133466",
+    "director": "Джерард МакМюррей"
   },
   {
     "title": "The Adventures of Sharkboy and Lavagirl",
@@ -21482,7 +22270,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/xxCTOo3hA9cE5Kgq4Sn1ecYfyh0.jpg",
     "rating": 5.204,
     "votes": 1617,
-    "imdb_id": "tt0424774"
+    "imdb_id": "tt0424774",
+    "director": "Роберт Родригес"
   },
   {
     "title": "The Illusionist",
@@ -21511,7 +22300,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-illusionist-2006/",
     "rating": 7.298,
     "votes": 5346,
-    "imdb_id": "tt0443543"
+    "imdb_id": "tt0443543",
+    "director": "Нил Бёргер"
   },
   {
     "title": "Night at the Museum: Secret of the Tomb",
@@ -21532,7 +22322,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/p7okGJ64qJWhyV7a8lYxrqcbFNT.jpg",
     "rating": 6.224,
     "votes": 6245,
-    "imdb_id": "tt2692250"
+    "imdb_id": "tt2692250",
+    "director": "Шон Леви"
   },
   {
     "title": "Bad Teacher",
@@ -21549,7 +22340,8 @@ var movieDB = [
     "title_ru": "Очень плохая училка",
     "tmdb_id": 52449,
     "poster_path": "/nMocqDobbX16n6VuzJWPIPuQ0sE.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/bad-teacher-2011/"
+    "letterboxd_url": "https://letterboxd.com/film/bad-teacher-2011/",
+    "director": "Джейк Кэздан"
   },
   {
     "title": "Hellboy",
@@ -21575,7 +22367,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/unkaLpGMMyy2BjWKbSNEKtnF8pw.jpg",
     "rating": 5.58,
     "votes": 3730,
-    "imdb_id": "tt2274648"
+    "imdb_id": "tt2274648",
+    "director": "Нил Маршалл"
   },
   {
     "title": "The Heat",
@@ -21601,7 +22394,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-heat-2013/",
     "rating": 6.59,
     "votes": 4188,
-    "imdb_id": "tt2404463"
+    "imdb_id": "tt2404463",
+    "director": "Пол Фиг"
   },
   {
     "title": "Die Another Day",
@@ -21627,7 +22421,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/die-another-day-2002/",
     "rating": 5.997,
     "votes": 3909,
-    "imdb_id": "tt0246460"
+    "imdb_id": "tt0246460",
+    "director": "Ли Тамахори"
   },
   {
     "title": "Rush Hour 2",
@@ -21650,7 +22445,8 @@ var movieDB = [
     "title_ru": "Час пик 2",
     "tmdb_id": 5175,
     "poster_path": "/sLtnTxXYxkuTxXfTDngpWsVKhrH.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/rush-hour-2-2001/"
+    "letterboxd_url": "https://letterboxd.com/film/rush-hour-2-2001/",
+    "director": "Бретт Ратнер"
   },
   {
     "title": "Prince of Persia: The Sands of Time",
@@ -21676,7 +22472,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/prince-of-persia-the-sands-of-time-2010/",
     "rating": 6.304,
     "votes": 7203,
-    "imdb_id": "tt0473075"
+    "imdb_id": "tt0473075",
+    "director": "Mike Newell"
   },
   {
     "title": "Not Another Teen Movie",
@@ -21693,7 +22490,8 @@ var movieDB = [
     "title_ru": "Недетское кино",
     "tmdb_id": 11397,
     "poster_path": "/mu2s1Qjkfu5VnoisVmr7iBQ9Num.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/not-another-teen-movie-2001/"
+    "letterboxd_url": "https://letterboxd.com/film/not-another-teen-movie-2001/",
+    "director": "Joel Gallen"
   },
   {
     "title": "Hostiles",
@@ -21722,7 +22520,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hostiles-2017/",
     "rating": 6.942,
     "votes": 2515,
-    "imdb_id": "tt5478478"
+    "imdb_id": "tt5478478",
+    "director": "Scott Cooper"
   },
   {
     "title": "Roald Dahl's The Witches",
@@ -21751,7 +22550,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/roald-dahls-the-witches-2020/",
     "rating": 6.333,
     "votes": 2998,
-    "imdb_id": "tt0805647"
+    "imdb_id": "tt0805647",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Paul Blart: Mall Cop",
@@ -21780,7 +22580,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/paul-blart-mall-cop-2009/",
     "rating": 5.452,
     "votes": 2735,
-    "imdb_id": "tt1114740"
+    "imdb_id": "tt1114740",
+    "director": "Стив Карр"
   },
   {
     "title": "Ella Enchanted",
@@ -21806,7 +22607,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ella-enchanted-2004/",
     "rating": 6.479,
     "votes": 1981,
-    "imdb_id": "tt0327679"
+    "imdb_id": "tt0327679",
+    "director": "Tommy O'Haver"
   },
   {
     "title": "Billy Madison",
@@ -21827,7 +22629,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/billy-madison-1995/",
     "rating": 6.191,
     "votes": 1819,
-    "imdb_id": "tt0112508"
+    "imdb_id": "tt0112508",
+    "director": "Tamra Davis"
   },
   {
     "title": "Black Mass",
@@ -21854,7 +22657,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8mv6nd1XaJtpiC7xdhPHty0RiN5.jpg",
     "rating": 6.528,
     "votes": 3612,
-    "imdb_id": "tt1355683"
+    "imdb_id": "tt1355683",
+    "director": "Scott Cooper"
   },
   {
     "title": "Cry-Baby",
@@ -21878,7 +22682,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cry-baby-1990/",
     "rating": 6.536,
     "votes": 1574,
-    "imdb_id": "tt0099329"
+    "imdb_id": "tt0099329",
+    "director": "Джон С. Уотерс"
   },
   {
     "title": "Grown Ups 2",
@@ -21898,7 +22703,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/grown-ups-2-2013/",
     "rating": 6.179,
     "votes": 4724,
-    "imdb_id": "tt2191701"
+    "imdb_id": "tt2191701",
+    "director": "Деннис Дуган"
   },
   {
     "title": "Warcraft",
@@ -21926,7 +22732,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/gPFQZIbWk5VukScCCfMPbGZ80g8.jpg",
     "rating": 6.409,
     "votes": 7298,
-    "imdb_id": "tt0803096"
+    "imdb_id": "tt0803096",
+    "director": "Данкан Джонс"
   },
   {
     "title": "Live Free or Die Hard",
@@ -21949,7 +22756,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/live-free-or-die-hard-2007/",
     "rating": 6.645,
     "votes": 6375,
-    "imdb_id": "tt0337978"
+    "imdb_id": "tt0337978",
+    "director": "Лен Уайзман"
   },
   {
     "title": "The Way Back",
@@ -21969,7 +22777,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-way-back-2020/",
     "rating": 6.625,
     "votes": 1335,
-    "imdb_id": "tt8544498"
+    "imdb_id": "tt8544498",
+    "director": "Гэвин О'Коннор"
   },
   {
     "title": "AVP: Alien vs. Predator",
@@ -21998,7 +22807,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/avp-alien-vs-predator-2004/",
     "rating": 5.95,
     "votes": 4995,
-    "imdb_id": "tt0370263"
+    "imdb_id": "tt0370263",
+    "director": "Пол У. С. Андерсон"
   },
   {
     "title": "Transformers: The Last Knight",
@@ -22027,7 +22837,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ne5PH0nU3tiCjEG5sogaOztr86k.jpg",
     "rating": 6.057,
     "votes": 6759,
-    "imdb_id": "tt3371366"
+    "imdb_id": "tt3371366",
+    "director": "Майкл Бэй"
   },
   {
     "title": "Garfield",
@@ -22050,7 +22861,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/garfield-2004/",
     "rating": 5.733,
     "votes": 4262,
-    "imdb_id": "tt0356634"
+    "imdb_id": "tt0356634",
+    "director": "Peter Hewitt"
   },
   {
     "title": "American Pie 2",
@@ -22076,7 +22888,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/american-pie-2-2001/",
     "rating": 6.259,
     "votes": 5337,
-    "imdb_id": "tt0252866"
+    "imdb_id": "tt0252866",
+    "director": "J.B. Rogers"
   },
   {
     "title": "Puss in Boots",
@@ -22106,7 +22919,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/puss-in-boots-2011/",
     "rating": 6.602,
     "votes": 4604,
-    "imdb_id": "tt0448694"
+    "imdb_id": "tt0448694",
+    "director": "Крис Миллер"
   },
   {
     "title": "Hachi: A Dog's Tale",
@@ -22130,7 +22944,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hachi-a-dogs-tale-2009/",
     "rating": 8.008,
     "votes": 7211,
-    "imdb_id": "tt1028532"
+    "imdb_id": "tt1028532",
+    "director": "Lasse Hallström"
   },
   {
     "title": "You Don't Mess with the Zohan",
@@ -22153,7 +22968,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/you-dont-mess-with-the-zohan-2008/",
     "rating": 5.717,
     "votes": 4086,
-    "imdb_id": "tt0960144"
+    "imdb_id": "tt0960144",
+    "director": "Деннис Дуган"
   },
   {
     "title": "Scary Movie 3",
@@ -22175,7 +22991,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/viF6jgzIJyKRucdPOkdloK95ntj.jpg",
     "rating": 5.976,
     "votes": 4537,
-    "imdb_id": "tt0306047"
+    "imdb_id": "tt0306047",
+    "director": "Дэвид Цукер"
   },
   {
     "title": "Cowboys & Aliens",
@@ -22204,7 +23021,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cowboys-aliens-2011/",
     "rating": 5.686,
     "votes": 5473,
-    "imdb_id": "tt0409847"
+    "imdb_id": "tt0409847",
+    "director": "Джон Фавро"
   },
   {
     "title": "Scoob!",
@@ -22233,7 +23051,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/scoob-2020/",
     "rating": 6.991,
     "votes": 1815,
-    "imdb_id": "tt3152592"
+    "imdb_id": "tt3152592",
+    "director": "Тони Червоне"
   },
   {
     "title": "Inferno",
@@ -22260,7 +23079,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/cEy0Kydt8t2F5yAeJ558NApETYo.jpg",
     "rating": 6.098,
     "votes": 6679,
-    "imdb_id": "tt3062096"
+    "imdb_id": "tt3062096",
+    "director": "Рон Ховард"
   },
   {
     "title": "The Mask of Zorro",
@@ -22283,7 +23103,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-mask-of-zorro-1998/",
     "rating": 6.585,
     "votes": 4354,
-    "imdb_id": "tt0120746"
+    "imdb_id": "tt0120746",
+    "director": "Мартин Кэмпбелл"
   },
   {
     "title": "Ace Ventura: When Nature Calls",
@@ -22310,7 +23131,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ace-ventura-when-nature-calls-1995/",
     "rating": 6.3,
     "votes": 4590,
-    "imdb_id": "tt0112281"
+    "imdb_id": "tt0112281",
+    "director": "Steve Oedekerk"
   },
   {
     "title": "Skyscraper",
@@ -22337,7 +23159,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/gYkFq7xUy4sRuuADQjB6vEnVzJ1.jpg",
     "rating": 6.309,
     "votes": 5367,
-    "imdb_id": "tt5758778"
+    "imdb_id": "tt5758778",
+    "director": "Роусон Маршалл Тёрбер"
   },
   {
     "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
@@ -22364,7 +23187,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/u3dV7HsWEEYNcjZVJ4JJdhBLsSE.jpg",
     "rating": 6.4,
     "votes": 5921,
-    "imdb_id": "tt0980970"
+    "imdb_id": "tt0980970",
+    "director": "Майкл Эптед"
   },
   {
     "title": "The Bourne Legacy",
@@ -22390,7 +23214,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-bourne-legacy-2012/",
     "rating": 6.25,
     "votes": 6158,
-    "imdb_id": "tt1194173"
+    "imdb_id": "tt1194173",
+    "director": "Тони Гилрой"
   },
   {
     "title": "Equilibrium",
@@ -22415,7 +23240,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/3L8uAS38M7sgehBoZ7ao2FooG2j.jpg",
     "rating": 7.053,
     "votes": 5054,
-    "imdb_id": "tt0238380"
+    "imdb_id": "tt0238380",
+    "director": "Курт Уиммер"
   },
   {
     "title": "Blades of Glory",
@@ -22435,7 +23261,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/blades-of-glory-2007/",
     "rating": 6.123,
     "votes": 1927,
-    "imdb_id": "tt0445934"
+    "imdb_id": "tt0445934",
+    "director": "Уилл Спек, Джош Гордон"
   },
   {
     "title": "Spy Kids 3-D: Game Over",
@@ -22465,7 +23292,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/spy-kids-3-d-game-over-2003/",
     "rating": 5.132,
     "votes": 2386,
-    "imdb_id": "tt0338459"
+    "imdb_id": "tt0338459",
+    "director": "Роберт Родригес"
   },
   {
     "title": "GoodFellas",
@@ -22500,7 +23328,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/goodfellas-1990/",
     "rating": 8.5,
     "votes": 14453,
-    "imdb_id": "tt0099685"
+    "imdb_id": "tt0099685",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "The Irishman",
@@ -22528,7 +23357,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-irishman-2019/",
     "rating": 7.576,
     "votes": 7546,
-    "imdb_id": "tt1302006"
+    "imdb_id": "tt1302006",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "Red Notice",
@@ -22554,7 +23384,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/red-notice-2021/",
     "rating": 6.732,
     "votes": 6473,
-    "imdb_id": "tt7991608"
+    "imdb_id": "tt7991608",
+    "director": "Роусон Маршалл Тёрбер"
   },
   {
     "title": "The Highwaymen",
@@ -22581,7 +23412,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/2gDAPDgWmiW2riBtMJu3UBTh0S2.jpg",
     "rating": 6.765,
     "votes": 2241,
-    "imdb_id": "tt1860242"
+    "imdb_id": "tt1860242",
+    "director": "Джон Ли Хэнкок"
   },
   {
     "title": "tick, tick... BOOM!",
@@ -22604,7 +23436,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tick-tick-boom-2021/",
     "rating": 7.595,
     "votes": 2314,
-    "imdb_id": "tt8721424"
+    "imdb_id": "tt8721424",
+    "director": "Лин-Мануэль Миранда"
   },
   {
     "title": "The Guilty",
@@ -22627,7 +23460,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-guilty-2021/",
     "rating": 6.424,
     "votes": 3151,
-    "imdb_id": "tt9421570"
+    "imdb_id": "tt9421570",
+    "director": "Антуан Фукуа"
   },
   {
     "title": "Home",
@@ -22658,7 +23492,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ic9QzX7VPKanpuODXfE4w7vK88O.jpg",
     "rating": 6.789,
     "votes": 4245,
-    "imdb_id": "tt2224026"
+    "imdb_id": "tt2224026",
+    "director": "Тимоти Джонсон"
   },
   {
     "title": "Uncharted",
@@ -22684,7 +23519,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/uncharted-2022/",
     "rating": 6.883,
     "votes": 6927,
-    "imdb_id": "tt1464335"
+    "imdb_id": "tt1464335",
+    "director": "Рубен Фляйшер"
   },
   {
     "title": "The King",
@@ -22713,7 +23549,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-king-2019/",
     "rating": 7.096,
     "votes": 10775,
-    "imdb_id": "tt6105098"
+    "imdb_id": "tt6105098",
+    "director": "Джон Фавро"
   },
   {
     "title": "The Adam Project",
@@ -22738,7 +23575,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/2we1SegemOvGnJ27bhspny4kX04.jpg",
     "rating": 6.988,
     "votes": 4976,
-    "imdb_id": "tt2463208"
+    "imdb_id": "tt2463208",
+    "director": "Шон Леви"
   },
   {
     "title": "The Tomorrow War",
@@ -22763,7 +23601,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-tomorrow-war-2021/",
     "rating": 7.51,
     "votes": 4234,
-    "imdb_id": "tt9777666"
+    "imdb_id": "tt9777666",
+    "director": "Крис МакКей"
   },
   {
     "title": "BlacKkKlansman",
@@ -22792,7 +23631,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/blackkklansman-2018/",
     "rating": 7.5,
     "votes": 8125,
-    "imdb_id": "tt7349662"
+    "imdb_id": "tt7349662",
+    "director": "Спайк Ли"
   },
   {
     "title": "The Founder",
@@ -22816,7 +23656,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ru0cmaiUSnlKkqLSg4ugV0iu9nN.jpg",
     "rating": 7.147,
     "votes": 5416,
-    "imdb_id": "tt4276820"
+    "imdb_id": "tt4276820",
+    "director": "Джон Ли Хэнкок"
   },
   {
     "title": "The Usual Suspects",
@@ -22843,7 +23684,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-usual-suspects-1995/",
     "rating": 8.168,
     "votes": 11473,
-    "imdb_id": "tt0114814"
+    "imdb_id": "tt0114814",
+    "director": "Брайан Сингер"
   },
   {
     "title": "The King's Speech",
@@ -22876,7 +23718,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-kings-speech-2010/",
     "rating": 7.734,
     "votes": 9343,
-    "imdb_id": "tt1504320"
+    "imdb_id": "tt1504320",
+    "director": "Tom Hooper"
   },
   {
     "title": "The Suicide Squad",
@@ -22903,7 +23746,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-suicide-squad-2021/",
     "rating": 7.5,
     "votes": 9641,
-    "imdb_id": "tt6334354"
+    "imdb_id": "tt6334354",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "Castle in the Sky",
@@ -22934,7 +23778,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/xuwx6CQxGxjDSKGF3RCqeU2wPd.jpg",
     "rating": 7.969,
     "votes": 4706,
-    "imdb_id": "tt0092067"
+    "imdb_id": "tt0092067",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Jojo Rabbit",
@@ -22965,7 +23810,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/cXJLP7ArBs9AKliXMDYaFTg4YNf.jpg",
     "rating": 7.981,
     "votes": 10459,
-    "imdb_id": "tt2584384"
+    "imdb_id": "tt2584384",
+    "director": "Тайка Вайтити"
   },
   {
     "title": "The Tinder Swindler",
@@ -22988,7 +23834,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-tinder-swindler-2022/",
     "rating": 6.971,
     "votes": 1117,
-    "imdb_id": "tt14992922"
+    "imdb_id": "tt14992922",
+    "director": "Felicity Morris"
   },
   {
     "title": "The Green Knight",
@@ -23014,7 +23861,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-green-knight-2021/",
     "rating": 6.6,
     "votes": 2220,
-    "imdb_id": "tt9243804"
+    "imdb_id": "tt9243804",
+    "director": "David Lowery"
   },
   {
     "title": "Death on the Nile",
@@ -23041,7 +23889,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/death-on-the-nile-2022/",
     "rating": 6.41,
     "votes": 4211,
-    "imdb_id": "tt7657566"
+    "imdb_id": "tt7657566",
+    "director": "Кеннет Брана"
   },
   {
     "title": "The Batman",
@@ -23076,7 +23925,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/3EXgl14Wmr5NcbYnBy1kavGHnvh.jpg",
     "rating": 7.662,
     "votes": 12061,
-    "imdb_id": "tt1877830"
+    "imdb_id": "tt1877830",
+    "director": "Мэтт Ривз"
   },
   {
     "title": "Fallen Angels",
@@ -23099,7 +23949,8 @@ var movieDB = [
     "title_ru": "Red Wind",
     "tmdb_id": 1325180,
     "poster_path": "/nIeKgFXOcIhzXCj15aAIL7t89Kh.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/fallen-angels-1995/"
+    "letterboxd_url": "https://letterboxd.com/film/fallen-angels-1995/",
+    "director": "Agnieszka Holland"
   },
   {
     "title": "Good Time",
@@ -23125,7 +23976,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/good-time-2017/",
     "rating": 7.2,
     "votes": 3136,
-    "imdb_id": "tt4846232"
+    "imdb_id": "tt4846232",
+    "director": "Бенни Сафди, Джош Сафди"
   },
   {
     "title": "99 Francs",
@@ -23148,7 +24000,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/99-francs-2007/",
     "rating": 6.666,
     "votes": 809,
-    "imdb_id": "tt0875113"
+    "imdb_id": "tt0875113",
+    "director": "Jan Kounen"
   },
   {
     "title": "Hot Summer Nights",
@@ -23171,7 +24024,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hot-summer-nights-2017/",
     "rating": 6.598,
     "votes": 815,
-    "imdb_id": "tt3416536"
+    "imdb_id": "tt3416536",
+    "director": "Elijah Bynum"
   },
   {
     "title": "After Earth",
@@ -23195,7 +24049,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/after-earth-2013/",
     "rating": 5.18,
     "votes": 6889,
-    "imdb_id": "tt1815862"
+    "imdb_id": "tt1815862",
+    "director": "М. Найт Шьямалан"
   },
   {
     "title": "Morbius",
@@ -23219,7 +24074,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/morbius-2022/",
     "rating": 5.9,
     "votes": 4848,
-    "imdb_id": "tt5108870"
+    "imdb_id": "tt5108870",
+    "director": "Даниэль Эспиноса"
   },
   {
     "title": "The Trial of the Chicago 7",
@@ -23242,7 +24098,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-trial-of-the-chicago-7-2020/",
     "rating": 7.658,
     "votes": 3371,
-    "imdb_id": "tt1070874"
+    "imdb_id": "tt1070874",
+    "director": "Aaron Sorkin"
   },
   {
     "title": "The World's End",
@@ -23274,7 +24131,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-worlds-end-2013/",
     "rating": 6.8,
     "votes": 5915,
-    "imdb_id": "tt1213663"
+    "imdb_id": "tt1213663",
+    "director": "Эдгар Райт"
   },
   {
     "title": "The Adventures of Tintin",
@@ -23300,7 +24158,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-adventures-of-tintin-2011/",
     "rating": 6.924,
     "votes": 5851,
-    "imdb_id": "tt0983193"
+    "imdb_id": "tt0983193",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Last Night in Soho",
@@ -23324,7 +24183,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nlrLkzJFh3i4BkHJRn5qVuSMmgv.jpg",
     "rating": 7.271,
     "votes": 3899,
-    "imdb_id": "tt9639470"
+    "imdb_id": "tt9639470",
+    "director": "Эдгар Райт"
   },
   {
     "title": "Fantastic Beasts: The Secrets of Dumbledore",
@@ -23351,7 +24211,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8LIpVm3uvoGrHYrtmIzxlRt31zn.jpg",
     "rating": 6.627,
     "votes": 5128,
-    "imdb_id": "tt4123432"
+    "imdb_id": "tt4123432",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Fantastic Beasts: The Crimes of Grindelwald",
@@ -23379,7 +24240,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/st03eTWNNcVTX5je7mRxjbgEDAq.jpg",
     "rating": 6.834,
     "votes": 11504,
-    "imdb_id": "tt4123430"
+    "imdb_id": "tt4123430",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Moon Knight",
@@ -23400,7 +24262,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/moon-knight-2022/",
     "rating": 6.734,
     "votes": 47,
-    "imdb_id": "tt19766896"
+    "imdb_id": "tt19766896",
+    "director": "Brad Baruh"
   },
   {
     "title": "Tombstone",
@@ -23423,7 +24286,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tombstone-1993/",
     "rating": 7.585,
     "votes": 2467,
-    "imdb_id": "tt0108358"
+    "imdb_id": "tt0108358",
+    "director": "George P. Cosmatos"
   },
   {
     "title": "Due Date",
@@ -23447,7 +24311,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/due-date-2010/",
     "rating": 6.397,
     "votes": 5849,
-    "imdb_id": "tt1231583"
+    "imdb_id": "tt1231583",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "The Professor",
@@ -23472,7 +24337,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/q09g1QTouHIWUZLa4tyXmNokRJF.jpg",
     "rating": 6.8,
     "votes": 16,
-    "imdb_id": "tt8415152"
+    "imdb_id": "tt8415152",
+    "director": "Francesco Miccichè"
   },
   {
     "title": "The Hummingbird Project",
@@ -23495,7 +24361,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hummingbird-project-2018/",
     "rating": 6.2,
     "votes": 405,
-    "imdb_id": "tt6866224"
+    "imdb_id": "tt6866224",
+    "director": "Kim Nguyen"
   },
   {
     "title": "Guns Akimbo",
@@ -23521,7 +24388,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/guns-akimbo-2019/",
     "rating": 6.433,
     "votes": 2584,
-    "imdb_id": "tt6902676"
+    "imdb_id": "tt6902676",
+    "director": "Jason Lei Howden"
   },
   {
     "title": "Official Competition",
@@ -23544,7 +24412,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/official-competition-2021/",
     "rating": 6.636,
     "votes": 447,
-    "imdb_id": "tt11700260"
+    "imdb_id": "tt11700260",
+    "director": "Гастон Дюпра, Мариано Кон"
   },
   {
     "title": "Doctor Strange in the Multiverse of Madness",
@@ -23575,7 +24444,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/sfeDNbQgEgzgM81cbPnRss6Acs4.jpg",
     "rating": 7.231,
     "votes": 10412,
-    "imdb_id": "tt9419884"
+    "imdb_id": "tt9419884",
+    "director": "Сэм Рэйми"
   },
   {
     "title": "Everything Everywhere All at Once",
@@ -23605,7 +24475,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/everything-everywhere-all-at-once-2022/",
     "rating": 7.717,
     "votes": 8051,
-    "imdb_id": "tt6710474"
+    "imdb_id": "tt6710474",
+    "director": "Daniel Scheinert, Daniel Kwan"
   },
   {
     "title": "The Gray Man",
@@ -23629,7 +24500,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/28qaUGkPKDPRlGwHVuy88cu8QgY.jpg",
     "rating": 6.911,
     "votes": 4292,
-    "imdb_id": "tt1649418"
+    "imdb_id": "tt1649418",
+    "director": "Джо Руссо, Энтони Руссо"
   },
   {
     "title": "Thor: Love and Thunder",
@@ -23659,7 +24531,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/thor-love-and-thunder-2022/",
     "rating": 6.367,
     "votes": 8611,
-    "imdb_id": "tt10648342"
+    "imdb_id": "tt10648342",
+    "director": "Тайка Вайтити"
   },
   {
     "title": "She-Hulk: Attorney at Law",
@@ -23685,7 +24558,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/she-hulk-attorney-at-law-2022/",
     "rating": 6.579,
     "votes": 57,
-    "imdb_id": "tt22852968"
+    "imdb_id": "tt22852968",
+    "director": "Brad Baruh"
   },
   {
     "title": "No Time to Die",
@@ -23711,7 +24585,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/no-time-to-die-2021/",
     "rating": 7.338,
     "votes": 7165,
-    "imdb_id": "tt2382320"
+    "imdb_id": "tt2382320",
+    "director": "Кэри Фукунага"
   },
   {
     "title": "Skyfall",
@@ -23748,7 +24623,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/skyfall-2012/",
     "rating": 7.3,
     "votes": 16172,
-    "imdb_id": "tt1074638"
+    "imdb_id": "tt1074638",
+    "director": "Sam Mendes"
   },
   {
     "title": "Quantum of Solace",
@@ -23774,7 +24650,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/quantum-of-solace-2008/",
     "rating": 6.336,
     "votes": 8586,
-    "imdb_id": "tt0830515"
+    "imdb_id": "tt0830515",
+    "director": "Марк Форстер"
   },
   {
     "title": "Hawkeye",
@@ -23800,7 +24677,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hawkeye-2021/",
     "rating": 5.364,
     "votes": 11,
-    "imdb_id": "tt0187131"
+    "imdb_id": "tt0187131",
+    "director": "George Chung, Leo Fong"
   },
   {
     "title": "The Ides of March",
@@ -23821,7 +24699,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/32zu0exr5Q8glQxwV2GZATgP8xl.jpg",
     "rating": 6.677,
     "votes": 2721,
-    "imdb_id": "tt1124035"
+    "imdb_id": "tt1124035",
+    "director": "Джордж Клуни"
   },
   {
     "title": "The Last Duel",
@@ -23847,7 +24726,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-last-duel-2021/",
     "rating": 7.402,
     "votes": 3875,
-    "imdb_id": "tt4244994"
+    "imdb_id": "tt4244994",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Postal",
@@ -23873,7 +24753,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/postal-2007/",
     "rating": 4.639,
     "votes": 396,
-    "imdb_id": "tt0486640"
+    "imdb_id": "tt0486640",
+    "director": "Уве Болл"
   },
   {
     "title": "Alone in the Dark",
@@ -23900,7 +24781,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/alone-in-the-dark-2005/",
     "rating": 3.322,
     "votes": 673,
-    "imdb_id": "tt0369226"
+    "imdb_id": "tt0369226",
+    "director": "Уве Болл"
   },
   {
     "title": "BloodRayne",
@@ -23926,7 +24808,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bloodrayne-2005/",
     "rating": 4.128,
     "votes": 627,
-    "imdb_id": "tt0383222"
+    "imdb_id": "tt0383222",
+    "director": "Уве Болл"
   },
   {
     "title": "Far Cry",
@@ -23951,7 +24834,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/far-cry-2008/",
     "rating": 3.702,
     "votes": 329,
-    "imdb_id": "tt0400426"
+    "imdb_id": "tt0400426",
+    "director": "Уве Болл"
   },
   {
     "title": "BloodRayne: The Third Reich",
@@ -23980,7 +24864,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bloodrayne-the-third-reich-2010/",
     "rating": 3.8,
     "votes": 246,
-    "imdb_id": "tt1153546"
+    "imdb_id": "tt1153546",
+    "director": "Уве Болл"
   },
   {
     "title": "BloodRayne II: Deliverance",
@@ -24006,7 +24891,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bloodrayne-ii-deliverance-2007/",
     "rating": 4.01,
     "votes": 262,
-    "imdb_id": "tt0896036"
+    "imdb_id": "tt0896036",
+    "director": "Уве Болл"
   },
   {
     "title": "Jumper",
@@ -24030,7 +24916,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jumper-2008/",
     "rating": 6.165,
     "votes": 6265,
-    "imdb_id": "tt0489099"
+    "imdb_id": "tt0489099",
+    "director": "Даг Лайман"
   },
   {
     "title": "22 Jump Street",
@@ -24056,7 +24943,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/22-jump-street-2014/",
     "rating": 6.828,
     "votes": 8561,
-    "imdb_id": "tt2294449"
+    "imdb_id": "tt2294449",
+    "director": "Фил Лорд, Крис Миллер"
   },
   {
     "title": "Jack and Jill",
@@ -24079,7 +24967,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jack-and-jill-2011/",
     "rating": 4.397,
     "votes": 2230,
-    "imdb_id": "tt0810913"
+    "imdb_id": "tt0810913",
+    "director": "Деннис Дуган"
   },
   {
     "title": "The Longest Yard",
@@ -24105,7 +24994,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-longest-yard-2005/",
     "rating": 6.7,
     "votes": 3707,
-    "imdb_id": "tt0398165"
+    "imdb_id": "tt0398165",
+    "director": "Питер Сигал"
   },
   {
     "title": "Anger Management",
@@ -24125,7 +25015,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/anger-management-2003/",
     "rating": 6.163,
     "votes": 3469,
-    "imdb_id": "tt0305224"
+    "imdb_id": "tt0305224",
+    "director": "Питер Сигал"
   },
   {
     "title": "Little Nicky",
@@ -24148,7 +25039,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/little-nicky-2000/",
     "rating": 5.847,
     "votes": 1993,
-    "imdb_id": "tt0185431"
+    "imdb_id": "tt0185431",
+    "director": "Steven Brill"
   },
   {
     "title": "Underworld",
@@ -24174,7 +25066,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/underworld-2003/",
     "rating": 6.855,
     "votes": 6624,
-    "imdb_id": "tt0320691"
+    "imdb_id": "tt0320691",
+    "director": "Лен Уайзман"
   },
   {
     "title": "Aliens vs Predator: Requiem",
@@ -24203,7 +25096,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/aliens-vs-predator-requiem-2007/",
     "rating": 5.173,
     "votes": 3347,
-    "imdb_id": "tt0758730"
+    "imdb_id": "tt0758730",
+    "director": "Колин Штраус, Грег Штраус"
   },
   {
     "title": "Night at the Museum",
@@ -24229,7 +25123,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/night-at-the-museum-2006/",
     "rating": 6.6,
     "votes": 11003,
-    "imdb_id": "tt0477347"
+    "imdb_id": "tt0477347",
+    "director": "Шон Леви"
   },
   {
     "title": "Anchorman: The Legend of Ron Burgundy",
@@ -24250,7 +25145,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/anchorman-the-legend-of-ron-burgundy-2004/",
     "rating": 6.704,
     "votes": 4621,
-    "imdb_id": "tt0357413"
+    "imdb_id": "tt0357413",
+    "director": "Адам Маккей"
   },
   {
     "title": "Zoolander",
@@ -24270,7 +25166,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/zoolander-2001/",
     "rating": 6.228,
     "votes": 4953,
-    "imdb_id": "tt0196229"
+    "imdb_id": "tt0196229",
+    "director": "Бен Стиллер"
   },
   {
     "title": "Meet the Parents",
@@ -24294,7 +25191,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/meet-the-parents-2000/",
     "rating": 6.696,
     "votes": 6427,
-    "imdb_id": "tt0212338"
+    "imdb_id": "tt0212338",
+    "director": "Джей Роуч"
   },
   {
     "title": "Starsky & Hutch",
@@ -24317,7 +25215,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/starsky-hutch-2004/",
     "rating": 5.824,
     "votes": 2533,
-    "imdb_id": "tt0335438"
+    "imdb_id": "tt0335438",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Zoolander 2",
@@ -24343,7 +25242,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/zoolander-2-2016/",
     "rating": 4.929,
     "votes": 2395,
-    "imdb_id": "tt1608290"
+    "imdb_id": "tt1608290",
+    "director": "Бен Стиллер"
   },
   {
     "title": "Little Fockers",
@@ -24366,7 +25266,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/little-fockers-2010/",
     "rating": 5.658,
     "votes": 3465,
-    "imdb_id": "tt0970866"
+    "imdb_id": "tt0970866",
+    "director": "Пол Вайц"
   },
   {
     "title": "The Watch",
@@ -24390,7 +25291,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-watch-2012/",
     "rating": 5.599,
     "votes": 2490,
-    "imdb_id": "tt1298649"
+    "imdb_id": "tt1298649",
+    "director": "Акива Шаффер"
   },
   {
     "title": "Duplex",
@@ -24410,7 +25312,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/duplex-2003/",
     "rating": 6.11,
     "votes": 1813,
-    "imdb_id": "tt0266489"
+    "imdb_id": "tt0266489",
+    "director": "Дэнни Де Вито"
   },
   {
     "title": "Anaconda",
@@ -24436,7 +25339,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/anaconda-1997/",
     "rating": 5.278,
     "votes": 2829,
-    "imdb_id": "tt0118615"
+    "imdb_id": "tt0118615",
+    "director": "Luis Llosa"
   },
   {
     "title": "Shanghai Noon",
@@ -24465,7 +25369,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shanghai-noon-2000/",
     "rating": 6.419,
     "votes": 2787,
-    "imdb_id": "tt0184894"
+    "imdb_id": "tt0184894",
+    "director": "Tom Dey"
   },
   {
     "title": "Shanghai Knights",
@@ -24494,7 +25399,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shanghai-knights-2003/",
     "rating": 6.138,
     "votes": 2460,
-    "imdb_id": "tt0300471"
+    "imdb_id": "tt0300471",
+    "director": "Дэвид Добкин"
   },
   {
     "title": "The Mask",
@@ -24523,7 +25429,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-mask-1994/",
     "rating": 6.992,
     "votes": 11323,
-    "imdb_id": "tt0110475"
+    "imdb_id": "tt0110475",
+    "director": "Чак Рассел"
   },
   {
     "title": "Fear and Loathing in Las Vegas",
@@ -24549,7 +25456,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/fear-and-loathing-in-las-vegas-1998/",
     "rating": 7.203,
     "votes": 5053,
-    "imdb_id": "tt0120669"
+    "imdb_id": "tt0120669",
+    "director": "Терри Гиллиам"
   },
   {
     "title": "Gangs of New York",
@@ -24584,7 +25492,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/gangs-of-new-york-2002/",
     "rating": 7.319,
     "votes": 7270,
-    "imdb_id": "tt0217505"
+    "imdb_id": "tt0217505",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "Charlie's Angels: Full Throttle",
@@ -24610,7 +25519,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/charlies-angels-full-throttle-2003/",
     "rating": 5.491,
     "votes": 3307,
-    "imdb_id": "tt0305357"
+    "imdb_id": "tt0305357",
+    "director": "МакДжи"
   },
   {
     "title": "The Green Hornet",
@@ -24636,7 +25546,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-green-hornet-2011/",
     "rating": 5.596,
     "votes": 3499,
-    "imdb_id": "tt0990407"
+    "imdb_id": "tt0990407",
+    "director": "Michel Gondry"
   },
   {
     "title": "Knight and Day",
@@ -24665,7 +25576,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/knight-and-day-2010/",
     "rating": 6.23,
     "votes": 4923,
-    "imdb_id": "tt1013743"
+    "imdb_id": "tt1013743",
+    "director": "Джеймс Мэнголд"
   },
   {
     "title": "What Happens in Vegas",
@@ -24688,7 +25600,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/what-happens-in-vegas-2008/",
     "rating": 6.123,
     "votes": 3317,
-    "imdb_id": "tt1033643"
+    "imdb_id": "tt1033643",
+    "director": "Tom Vaughan"
   },
   {
     "title": "Shrek the Halls",
@@ -24719,7 +25632,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shrek-the-halls-2007/",
     "rating": 6.373,
     "votes": 924,
-    "imdb_id": "tt0897387"
+    "imdb_id": "tt0897387",
+    "director": "Гари Труздейл"
   },
   {
     "title": "Far Far Away Idol",
@@ -24749,7 +25663,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/far-far-away-idol-2004/",
     "rating": 6.3,
     "votes": 253,
-    "imdb_id": "tt0438844"
+    "imdb_id": "tt0438844",
+    "director": "Саймон Дж. Смит"
   },
   {
     "title": "Scared Shrekless",
@@ -24780,7 +25695,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/scared-shrekless-2010/",
     "rating": 6.711,
     "votes": 508,
-    "imdb_id": "tt1725156"
+    "imdb_id": "tt1725156",
+    "director": "Гари Труздейл"
   },
   {
     "title": "Shrek 3-D",
@@ -24811,7 +25727,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shrek-3-d-2004/",
     "rating": 5.955,
     "votes": 291,
-    "imdb_id": "tt0360985"
+    "imdb_id": "tt0360985",
+    "director": "Саймон Дж. Смит"
   },
   {
     "title": "Donkey's Christmas Shrektacular",
@@ -24842,7 +25759,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/donkeys-christmas-shrektacular-2010/",
     "rating": 5.8,
     "votes": 190,
-    "imdb_id": "tt1830577"
+    "imdb_id": "tt1830577",
+    "director": "Уолт Дорн"
   },
   {
     "title": "The Invisible Circus",
@@ -24866,7 +25784,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-invisible-circus-2001/",
     "rating": 5.181,
     "votes": 47,
-    "imdb_id": "tt0178642"
+    "imdb_id": "tt0178642",
+    "director": "Adam Brooks"
   },
   {
     "title": "Finding Dory",
@@ -24892,7 +25811,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/finding-dory-2016/",
     "rating": 7.041,
     "votes": 12686,
-    "imdb_id": "tt2277860"
+    "imdb_id": "tt2277860",
+    "director": "Эндрю Стэнтон"
   },
   {
     "title": "The Tale of Despereaux",
@@ -24918,7 +25838,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-tale-of-despereaux-2008/",
     "rating": 6.148,
     "votes": 1021,
-    "imdb_id": "tt0420238"
+    "imdb_id": "tt0420238",
+    "director": "Сэм Фелл, Robert Stevenhagen"
   },
   {
     "title": "Semi-Pro",
@@ -24938,7 +25859,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/semi-pro-2008/",
     "rating": 5.639,
     "votes": 889,
-    "imdb_id": "tt0839980"
+    "imdb_id": "tt0839980",
+    "director": "Kent Alterman"
   },
   {
     "title": "Love the Coopers",
@@ -24966,7 +25888,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/vsjN3e0rZtgNQJ3G3uHWl5slRzt.jpg",
     "rating": 5.999,
     "votes": 868,
-    "imdb_id": "tt2279339"
+    "imdb_id": "tt2279339",
+    "director": "Джесси Нельсон"
   },
   {
     "title": "Meet Dave",
@@ -24993,7 +25916,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/meet-dave-2008/",
     "rating": 5.321,
     "votes": 1568,
-    "imdb_id": "tt0765476"
+    "imdb_id": "tt0765476",
+    "director": "Brian Robbins"
   },
   {
     "title": "Sinbad: Legend of the Seven Seas",
@@ -25023,7 +25947,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sinbad-legend-of-the-seven-seas-2003/",
     "rating": 7.038,
     "votes": 2231,
-    "imdb_id": "tt0165982"
+    "imdb_id": "tt0165982",
+    "director": "Тимоти Джонсон, Patrick Gilmore"
   },
   {
     "title": "Cool World",
@@ -25049,7 +25974,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cool-world-1992/",
     "rating": 5.661,
     "votes": 809,
-    "imdb_id": "tt0104009"
+    "imdb_id": "tt0104009",
+    "director": "Ralph Bakshi"
   },
   {
     "title": "Happy Feet Two",
@@ -25075,7 +26001,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/happy-feet-two-2011/",
     "rating": 6.2,
     "votes": 1741,
-    "imdb_id": "tt1402488"
+    "imdb_id": "tt1402488",
+    "director": "Джордж Миллер"
   },
   {
     "title": "Once Upon a Deadpool",
@@ -25106,7 +26033,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/once-upon-a-deadpool-2018/",
     "rating": 7.109,
     "votes": 851,
-    "imdb_id": "tt31050020"
+    "imdb_id": "tt31050020",
+    "director": "Дэвид Литч"
   },
   {
     "title": "Tooth Fairy",
@@ -25132,7 +26060,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tooth-fairy-2010/",
     "rating": 5.487,
     "votes": 2114,
-    "imdb_id": "tt0808510"
+    "imdb_id": "tt0808510",
+    "director": "Michael Lembeck"
   },
   {
     "title": "Doom",
@@ -25156,7 +26085,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/doom-2005/",
     "rating": 5.198,
     "votes": 2465,
-    "imdb_id": "tt0419706"
+    "imdb_id": "tt0419706",
+    "director": "Анджей Бартковяк"
   },
   {
     "title": "The Scorpion King",
@@ -25182,7 +26112,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-scorpion-king-2002/",
     "rating": 5.592,
     "votes": 3392,
-    "imdb_id": "tt0277296"
+    "imdb_id": "tt0277296",
+    "director": "Чак Рассел"
   },
   {
     "title": "Planet 51",
@@ -25212,7 +26143,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/planet-51-2009/",
     "rating": 5.912,
     "votes": 2187,
-    "imdb_id": "tt0762125"
+    "imdb_id": "tt0762125",
+    "director": "Jorge Blanco"
   },
   {
     "title": "Snitch",
@@ -25239,7 +26171,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/7YyHbpZ85lingds7A344OWKgoF5.jpg",
     "rating": 6.125,
     "votes": 2498,
-    "imdb_id": "tt0882977"
+    "imdb_id": "tt0882977",
+    "director": "Рик Роман Во"
   },
   {
     "title": "The Royal Tenenbaums",
@@ -25266,7 +26199,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-royal-tenenbaums-2001/",
     "rating": 7.457,
     "votes": 5058,
-    "imdb_id": "tt0265666"
+    "imdb_id": "tt0265666",
+    "director": "Уэс Андерсон"
   },
   {
     "title": "Three Thousand Years of Longing",
@@ -25292,7 +26226,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/three-thousand-years-of-longing-2022/",
     "rating": 6.9,
     "votes": 1675,
-    "imdb_id": "tt9198364"
+    "imdb_id": "tt9198364",
+    "director": "Джордж Миллер"
   },
   {
     "title": "Minamata",
@@ -25315,7 +26250,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/minamata-2020/",
     "rating": 6.919,
     "votes": 333,
-    "imdb_id": "tt9179096"
+    "imdb_id": "tt9179096",
+    "director": "Andrew Levitas"
   },
   {
     "title": "Black Panther: Wakanda Forever",
@@ -25344,7 +26280,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/wSphEs4KKbewWC01NBtmCJnlZ7y.jpg",
     "rating": 7.006,
     "votes": 7515,
-    "imdb_id": "tt9114286"
+    "imdb_id": "tt9114286",
+    "director": "Райан Куглер"
   },
   {
     "title": "The Hateful Eight",
@@ -25379,7 +26316,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hateful-eight-2015/",
     "rating": 7.756,
     "votes": 15341,
-    "imdb_id": "tt3460252"
+    "imdb_id": "tt3460252",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Planet Terror",
@@ -25406,7 +26344,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/planet-terror-2007/",
     "rating": 6.691,
     "votes": 3861,
-    "imdb_id": "tt1077258"
+    "imdb_id": "tt1077258",
+    "director": "Роберт Родригес"
   },
   {
     "title": "Reservoir Dogs",
@@ -25434,7 +26373,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/reservoir-dogs-1991/",
     "rating": 7.483,
     "votes": 206,
-    "imdb_id": "tt6493238"
+    "imdb_id": "tt6493238",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Kill Bill: The Whole Bloody Affair",
@@ -25459,7 +26399,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/kill-bill-the-whole-bloody-affair-2004/",
     "rating": 8.096,
     "votes": 1323,
-    "imdb_id": "tt6019206"
+    "imdb_id": "tt6019206",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Spy Kids: All the Time in the World",
@@ -25488,7 +26429,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/spy-kids-all-the-time-in-the-world-2011/",
     "rating": 4.694,
     "votes": 1066,
-    "imdb_id": "tt1517489"
+    "imdb_id": "tt1517489",
+    "director": "Роберт Родригес"
   },
   {
     "title": "Mechanic: Resurrection",
@@ -25517,7 +26459,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mechanic-resurrection-2016/",
     "rating": 6.063,
     "votes": 3680,
-    "imdb_id": "tt3522806"
+    "imdb_id": "tt3522806",
+    "director": "Деннис Ганзель"
   },
   {
     "title": "The Sixth Sense",
@@ -25544,7 +26487,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/prITVK0LHHrA1fUK2bP8HZyIcnW.jpg",
     "rating": 7.954,
     "votes": 12942,
-    "imdb_id": "tt0167404"
+    "imdb_id": "tt0167404",
+    "director": "М. Найт Шьямалан"
   },
   {
     "title": "G.I. Joe: Retaliation",
@@ -25571,7 +26515,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/gi-joe-retaliation-2013/",
     "rating": 5.7,
     "votes": 5797,
-    "imdb_id": "tt1583421"
+    "imdb_id": "tt1583421",
+    "director": "Джон М. Чу"
   },
   {
     "title": "RED 2",
@@ -25600,7 +26545,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/red-2-2013/",
     "rating": 6.533,
     "votes": 4343,
-    "imdb_id": "tt1821694"
+    "imdb_id": "tt1821694",
+    "director": "Dean Parisot"
   },
   {
     "title": "The Golden Compass",
@@ -25623,7 +26569,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-golden-compass-2007/",
     "rating": 6.1,
     "votes": 4851,
-    "imdb_id": "tt0385752"
+    "imdb_id": "tt0385752",
+    "director": "Крис Вайц"
   },
   {
     "title": "Last Looks",
@@ -25649,7 +26596,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/last-looks-2021/",
     "rating": 5.743,
     "votes": 380,
-    "imdb_id": "tt9244554"
+    "imdb_id": "tt9244554",
+    "director": "Tim Kirkby"
   },
   {
     "title": "Death Note",
@@ -25675,7 +26623,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/death-note-2017/",
     "rating": 4.274,
     "votes": 4131,
-    "imdb_id": "tt1241317"
+    "imdb_id": "tt1241317",
+    "director": "Адам Вингард"
   },
   {
     "title": "Modern Times",
@@ -25702,7 +26651,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/modern-times-1936/",
     "rating": 8.278,
     "votes": 4105,
-    "imdb_id": "tt0027977"
+    "imdb_id": "tt0027977",
+    "director": "Чарли Чаплин"
   },
   {
     "title": "Bionicle: Mask of Light",
@@ -25733,7 +26683,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bionicle-mask-of-light-2003/",
     "rating": 5.953,
     "votes": 179,
-    "imdb_id": "tt0369281"
+    "imdb_id": "tt0369281",
+    "director": "David Molina, Terry Shakespeare"
   },
   {
     "title": "Bionicle 2: Legends of Metru Nui",
@@ -25763,7 +26714,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bionicle-2-legends-of-metru-nui-2004/",
     "rating": 5.938,
     "votes": 105,
-    "imdb_id": "tt0387658"
+    "imdb_id": "tt0387658",
+    "director": "David Molina, Terry Shakespeare"
   },
   {
     "title": "Bionicle 3: Web of Shadows",
@@ -25790,7 +26742,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bionicle-3-web-of-shadows-2005/",
     "rating": 5.947,
     "votes": 95,
-    "imdb_id": "tt0471588"
+    "imdb_id": "tt0471588",
+    "director": "David Molina, Terry Shakespeare"
   },
   {
     "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
@@ -25820,7 +26773,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/w4JQR1J8Y256DaP2aQbJXxYhW1Y.jpg",
     "rating": 7.288,
     "votes": 617,
-    "imdb_id": "tt0476680"
+    "imdb_id": "tt0476680",
+    "director": "Тэнсай Окамура"
   },
   {
     "title": "Naruto Shippuden the Movie",
@@ -25846,7 +26800,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/naruto-shippuden-the-movie-2007/",
     "rating": 7.416,
     "votes": 1064,
-    "imdb_id": "tt0988982"
+    "imdb_id": "tt0988982",
+    "director": "Хадзимэ Камэгаки"
   },
   {
     "title": "BLACKPINK: The Movie",
@@ -25870,7 +26825,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/blackpink-the-movie-2021/",
     "rating": 8.1,
     "votes": 72,
-    "imdb_id": "tt14880612"
+    "imdb_id": "tt14880612",
+    "director": "Jung Su-yee, 오윤동"
   },
   {
     "title": "BLACKPINK: Light Up the Sky",
@@ -25894,7 +26850,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/blackpink-light-up-the-sky-2020/",
     "rating": 8.175,
     "votes": 524,
-    "imdb_id": "tt13058290"
+    "imdb_id": "tt13058290",
+    "director": "Кэролин Су"
   },
   {
     "title": "BLACKPINK: The Show",
@@ -25919,7 +26876,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/l1RcXlhxqaXdPOaO8gDDwtHheLK.jpg",
     "rating": 7.8,
     "votes": 19,
-    "imdb_id": "tt13679164"
+    "imdb_id": "tt13679164",
+    "director": "Jung Young-jun"
   },
   {
     "title": "Brother Bear 2",
@@ -25945,7 +26903,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/brother-bear-2-2006/",
     "rating": 6.662,
     "votes": 1571,
-    "imdb_id": "tt0465925"
+    "imdb_id": "tt0465925",
+    "director": "Ben Gluck"
   },
   {
     "title": "Ice Age",
@@ -25974,7 +26933,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ice-age-2002/",
     "rating": 7.4,
     "votes": 14362,
-    "imdb_id": "tt0268380"
+    "imdb_id": "tt0268380",
+    "director": "Крис Уэдж"
   },
   {
     "title": "Smallfoot",
@@ -26004,7 +26964,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/smallfoot-2018/",
     "rating": 6.817,
     "votes": 1633,
-    "imdb_id": "tt6182908"
+    "imdb_id": "tt6182908",
+    "director": "Кэри Киркпатрик"
   },
   {
     "title": "Sing 2",
@@ -26033,7 +26994,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sing-2-2021/",
     "rating": 7.834,
     "votes": 4799,
-    "imdb_id": "tt6467266"
+    "imdb_id": "tt6467266",
+    "director": "Garth Jennings"
   },
   {
     "title": "Trolls",
@@ -26064,7 +27026,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/trolls-2016/",
     "rating": 6.626,
     "votes": 3837,
-    "imdb_id": "tt1679335"
+    "imdb_id": "tt1679335",
+    "director": "Майк Митчелл"
   },
   {
     "title": "Aladdin",
@@ -26094,7 +27057,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/t7D1Q4qQ4LjlaUXUqB7ny3xdIAy.jpg",
     "rating": 7.083,
     "votes": 10652,
-    "imdb_id": "tt6139732"
+    "imdb_id": "tt6139732",
+    "director": "Гай Ричи"
   },
   {
     "title": "The Wild",
@@ -26124,7 +27088,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-wild-2006/",
     "rating": 5.546,
     "votes": 1141,
-    "imdb_id": "tt0405469"
+    "imdb_id": "tt0405469",
+    "director": "Стив Уильямс"
   },
   {
     "title": "Horton Hears a Who!",
@@ -26154,7 +27119,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/horton-hears-a-who-2008/",
     "rating": 6.526,
     "votes": 3570,
-    "imdb_id": "tt0451079"
+    "imdb_id": "tt0451079",
+    "director": "Steve Martino, Jimmy Hayward"
   },
   {
     "title": "Cats Don't Dance",
@@ -26183,7 +27149,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cats-dont-dance-1997/",
     "rating": 7.201,
     "votes": 201,
-    "imdb_id": "tt0118829"
+    "imdb_id": "tt0118829",
+    "director": "Марк Диндал"
   },
   {
     "title": "Alpha and Omega",
@@ -26213,7 +27180,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/alpha-and-omega-2010/",
     "rating": 5.939,
     "votes": 565,
-    "imdb_id": "tt1213012"
+    "imdb_id": "tt1213012",
+    "director": "Anthony Bell, Ben Gluck"
   },
   {
     "title": "The Little Mermaid",
@@ -26239,7 +27207,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-little-mermaid-1989/",
     "rating": 7.35,
     "votes": 8434,
-    "imdb_id": "tt0097757"
+    "imdb_id": "tt0097757",
+    "director": "Джон Маскер, Рон Клементс"
   },
   {
     "title": "Dinosaur",
@@ -26271,7 +27240,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/dPQavHQ8tCJNhUx0uvhS6WnD4eZ.jpg",
     "rating": 6.572,
     "votes": 2754,
-    "imdb_id": "tt0130623"
+    "imdb_id": "tt0130623",
+    "director": "Eric Leighton, Ralph Zondag"
   },
   {
     "title": "Barnyard",
@@ -26298,7 +27268,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/udxcirIhEwNihHtX4leimwnFZe7.jpg",
     "rating": 5.934,
     "votes": 1194,
-    "imdb_id": "tt0414853"
+    "imdb_id": "tt0414853",
+    "director": "Steve Oedekerk"
   },
   {
     "title": "Charlotte's Web",
@@ -26324,7 +27295,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/charlottes-web-2006/",
     "rating": 6.231,
     "votes": 1468,
-    "imdb_id": "tt0413895"
+    "imdb_id": "tt0413895",
+    "director": "Гари Виник"
   },
   {
     "title": "Rango",
@@ -26354,7 +27326,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/rango-2011/",
     "rating": 6.9,
     "votes": 7154,
-    "imdb_id": "tt1192628"
+    "imdb_id": "tt1192628",
+    "director": "Гор Вербински"
   },
   {
     "title": "Black Adam",
@@ -26379,7 +27352,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ebtyQ43I2QSeEJiXYNFgSp4yuYT.jpg",
     "rating": 6.798,
     "votes": 7062,
-    "imdb_id": "tt6443346"
+    "imdb_id": "tt6443346",
+    "director": "Жауме Колет-Серра"
   },
   {
     "title": "Solace",
@@ -26405,7 +27379,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/solace-2015/",
     "rating": 6.433,
     "votes": 2395,
-    "imdb_id": "tt1291570"
+    "imdb_id": "tt1291570",
+    "director": "Afonso Poyart"
   },
   {
     "title": "Dead Poets Society",
@@ -26427,7 +27402,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dead-poets-society-1989/",
     "rating": 8.299,
     "votes": 12671,
-    "imdb_id": "tt0097165"
+    "imdb_id": "tt0097165",
+    "director": "Питер Уир"
   },
   {
     "title": "The One",
@@ -26451,7 +27427,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/kOrT1o7DPws9mfLuNlsk3hIh97z.jpg",
     "rating": 6.181,
     "votes": 105,
-    "imdb_id": "tt20853816"
+    "imdb_id": "tt20853816",
+    "director": "Steven LaMorte"
   },
   {
     "title": "Six Degrees of Celebration 8",
@@ -26471,7 +27448,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/six-degrees-of-celebration-8-2021/",
     "rating": 4.8,
     "votes": 20,
-    "imdb_id": "tt16148580"
+    "imdb_id": "tt16148580",
+    "director": "Александра Лупашко, Varvara Matsenova, Vasily Zorky, Антон Богданов, Yakov Yurovitsky"
   },
   {
     "title": "Night Watch",
@@ -26497,7 +27475,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/night-watch-2004/",
     "rating": 6.211,
     "votes": 821,
-    "imdb_id": "tt0403358"
+    "imdb_id": "tt0403358",
+    "director": "Тимур Бекмамбетов"
   },
   {
     "title": "Unfriended",
@@ -26521,7 +27500,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/unfriended-2014/",
     "rating": 5.552,
     "votes": 3543,
-    "imdb_id": "tt3713166"
+    "imdb_id": "tt3713166",
+    "director": "Леван Габриадзе"
   },
   {
     "title": "Sobibor",
@@ -26544,7 +27524,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sobibor-2018/",
     "rating": 6.559,
     "votes": 333,
-    "imdb_id": "tt6324614"
+    "imdb_id": "tt6324614",
+    "director": "Константин Хабенский"
   },
   {
     "title": "The Geographer Drank His Globe Away",
@@ -26564,7 +27545,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-geographer-drank-his-globe-away-2013/",
     "rating": 6.69,
     "votes": 126,
-    "imdb_id": "tt3155604"
+    "imdb_id": "tt3155604",
+    "director": "Alexandr Veledinsky"
   },
   {
     "title": "Admiral",
@@ -26587,7 +27569,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/admiral-2008/",
     "rating": 6.242,
     "votes": 161,
-    "imdb_id": "tt1101026"
+    "imdb_id": "tt1101026",
+    "director": "Андрей Кравчук"
   },
   {
     "title": "Six Degrees of Celebration",
@@ -26607,7 +27590,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/six-degrees-of-celebration-2010/",
     "rating": 6.381,
     "votes": 113,
-    "imdb_id": "tt1782568"
+    "imdb_id": "tt1782568",
+    "director": "Yaroslav Chevazhevsky, Тимур Бекмамбетов, Ignas Jonynas, Александр Войтинский, Дмитрий Киселёв, Александр Андрющенко"
   },
   {
     "title": "The Irony of Fate: Continuation",
@@ -26630,7 +27614,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-irony-of-fate-continuation-2007/",
     "rating": 4.771,
     "votes": 96,
-    "imdb_id": "tt0987918"
+    "imdb_id": "tt0987918",
+    "director": "Тимур Бекмамбетов"
   },
   {
     "title": "Six Degrees of Celebration 2",
@@ -26653,7 +27638,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/six-degrees-of-celebration-2-2011/",
     "rating": 6.581,
     "votes": 93,
-    "imdb_id": "tt2124096"
+    "imdb_id": "tt2124096",
+    "director": "Александр Котт, Александр Баранов, Дмитрий Киселёв, Леван Габриадзе"
   },
   {
     "title": "Lucky Trouble",
@@ -26676,7 +27662,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/lucky-trouble-2011/",
     "rating": 5.903,
     "votes": 98,
-    "imdb_id": "tt1682187"
+    "imdb_id": "tt1682187",
+    "director": "Леван Габриадзе"
   },
   {
     "title": "Six Degrees of Celebration 1914",
@@ -26699,7 +27686,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/six-degrees-of-celebration-1914-2014/",
     "rating": 5.778,
     "votes": 45,
-    "imdb_id": "tt3877844"
+    "imdb_id": "tt3877844",
+    "director": "Тимур Бекмамбетов, Александр Карпиловский, Дмитрий Киселёв, Александр Котт, Zaur Zaseyev, Olga Kharina, Юрий Быков, Екатерина Телегина, Андрей Кавун"
   },
   {
     "title": "Six Degrees of Celebration 5",
@@ -26719,7 +27707,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/six-degrees-of-celebration-5-2016/",
     "rating": 5.151,
     "votes": 43,
-    "imdb_id": "tt5840988"
+    "imdb_id": "tt5840988",
+    "director": "Роман Непомнящий, Мария Лихачева, Тимур Бекмамбетов, Андрей Шавкеро, Вадим Перельман, Александр Котт, Indar Dzhendubaev"
   },
   {
     "title": "The Last Six Degrees of Celebration",
@@ -26739,7 +27728,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-last-six-degrees-of-celebration-2018/",
     "rating": 6.023,
     "votes": 44,
-    "imdb_id": "tt9615680"
+    "imdb_id": "tt9615680",
+    "director": "Николай Булыгин, Максим Полинский, Егор Баранов, Тимур Бекмамбетов, Александр Котт, Анна Пармас"
   },
   {
     "title": "Six Degrees of Celebration 6",
@@ -26759,7 +27749,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/six-degrees-of-celebration-6-2017/",
     "rating": 5.432,
     "votes": 37,
-    "imdb_id": "tt6907804"
+    "imdb_id": "tt6907804",
+    "director": "Александр Карпиловский, Дмитрий Киселёв, Александр Котт, Алексей Нужный, Жора Крыжовников"
   },
   {
     "title": "Fantastic Return to Oz",
@@ -26788,7 +27779,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/fantastic-return-to-oz-2019/",
     "rating": 5.4,
     "votes": 145,
-    "imdb_id": "tt10975312"
+    "imdb_id": "tt10975312",
+    "director": "Fedor Dmitriev"
   },
   {
     "title": "The Admirer",
@@ -26814,7 +27806,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-admirer-1999/",
     "rating": 5.667,
     "votes": 3,
-    "imdb_id": "tt0261185"
+    "imdb_id": "tt0261185",
+    "director": "Николай Лебедев"
   },
   {
     "title": "Demolition",
@@ -26838,7 +27831,8 @@ var movieDB = [
     "tmdb_id": 478841,
     "poster_path": "/ma6qucx9aBJaCzUc26f4bf9R21K.jpg",
     "letterboxd_url": "https://letterboxd.com/film/demolition-2015/",
-    "poster_url": "https://image.tmdb.org/t/p/w500/l1H2KA0L0GcWtgKA09zX9BeNkpR.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/l1H2KA0L0GcWtgKA09zX9BeNkpR.jpg",
+    "director": "Patrick Damien-Roy"
   },
   {
     "title": "Bullet Train",
@@ -26865,7 +27859,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/dpN7DhcUqTeNziSjjuyxOm1TQKu.jpg",
     "rating": 7.412,
     "votes": 7606,
-    "imdb_id": "tt12593682"
+    "imdb_id": "tt12593682",
+    "director": "Дэвид Литч"
   },
   {
     "title": "How the Grinch Stole Christmas",
@@ -26892,7 +27887,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/how-the-grinch-stole-christmas-2000/",
     "rating": 6.78,
     "votes": 8312,
-    "imdb_id": "tt0170016"
+    "imdb_id": "tt0170016",
+    "director": "Рон Ховард"
   },
   {
     "title": "A Christmas Carol",
@@ -26922,7 +27918,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-christmas-carol-2009/",
     "rating": 6.907,
     "votes": 4923,
-    "imdb_id": "tt1067106"
+    "imdb_id": "tt1067106",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Mr. Popper's Penguins",
@@ -26946,7 +27943,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mr-poppers-penguins-2011/",
     "rating": 5.983,
     "votes": 3190,
-    "imdb_id": "tt1396218"
+    "imdb_id": "tt1396218",
+    "director": "Марк Уотерс"
   },
   {
     "title": "Dumb and Dumber To",
@@ -26966,7 +27964,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dumb-and-dumber-to-2014/",
     "rating": 5.57,
     "votes": 3436,
-    "imdb_id": "tt2096672"
+    "imdb_id": "tt2096672",
+    "director": "Bobby Farrelly, Peter Farrelly"
   },
   {
     "title": "The A-Team",
@@ -26992,7 +27991,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-a-team-2010/",
     "rating": 6.422,
     "votes": 5030,
-    "imdb_id": "tt0429493"
+    "imdb_id": "tt0429493",
+    "director": "Джо Карнахан"
   },
   {
     "title": "Avatar: The Way of Water",
@@ -27017,7 +28017,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/yFNn7uWudLLWDJqfj3fwh5CcUdR.jpg",
     "rating": 7.594,
     "votes": 14246,
-    "imdb_id": "tt1630029"
+    "imdb_id": "tt1630029",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Cooties",
@@ -27047,7 +28048,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cooties-2014/",
     "rating": 5.909,
     "votes": 821,
-    "imdb_id": "tt2490326"
+    "imdb_id": "tt2490326",
+    "director": "Cary Murnion, Jonathan Milott"
   },
   {
     "title": "The Tree of Life",
@@ -27076,7 +28078,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-tree-of-life-2011/",
     "rating": 6.726,
     "votes": 3347,
-    "imdb_id": "tt0478304"
+    "imdb_id": "tt0478304",
+    "director": "Терренс Малик"
   },
   {
     "title": "Meet Joe Black",
@@ -27102,7 +28105,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/meet-joe-black-1998/",
     "rating": 7.366,
     "votes": 5801,
-    "imdb_id": "tt0119643"
+    "imdb_id": "tt0119643",
+    "director": "Мартин Брест"
   },
   {
     "title": "Top Gun: Maverick",
@@ -27126,7 +28130,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/top-gun-maverick-2022/",
     "rating": 8.159,
     "votes": 11096,
-    "imdb_id": "tt1745960"
+    "imdb_id": "tt1745960",
+    "director": "Джозеф Косински"
   },
   {
     "title": "The Assassination of Jesse James by the Coward Robert Ford",
@@ -27151,7 +28156,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/c3QwmNDbzlQpg7zEeaKmaTcEXyk.jpg",
     "rating": 7.056,
     "votes": 2795,
-    "imdb_id": "tt0443680"
+    "imdb_id": "tt0443680",
+    "director": "Эндрю Доминик"
   },
   {
     "title": "Puss in Boots: The Last Wish",
@@ -27181,7 +28187,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/puss-in-boots-the-last-wish-2022/",
     "rating": 8.209,
     "votes": 8933,
-    "imdb_id": "tt3915174"
+    "imdb_id": "tt3915174",
+    "director": "Джоэль Кроуфорд"
   },
   {
     "title": "Whiplash",
@@ -27216,7 +28223,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/whiplash-2013/",
     "rating": 7.781,
     "votes": 417,
-    "imdb_id": "tt2654430"
+    "imdb_id": "tt2654430",
+    "director": "Дэмьен Шазелл"
   },
   {
     "title": "Operation Fortune: Ruse de Guerre",
@@ -27245,7 +28253,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/operation-fortune-ruse-de-guerre-2023/",
     "rating": 6.467,
     "votes": 1973,
-    "imdb_id": "tt7985704"
+    "imdb_id": "tt7985704",
+    "director": "Гай Ричи"
   },
   {
     "title": "Babylon",
@@ -27268,7 +28277,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/babylon-2022/",
     "rating": 7.3,
     "votes": 3799,
-    "imdb_id": "tt10640346"
+    "imdb_id": "tt10640346",
+    "director": "Дэмьен Шазелл"
   },
   {
     "title": "Jerry & Marge Go Large",
@@ -27291,7 +28301,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jerry-marge-go-large-2022/",
     "rating": 7.389,
     "votes": 477,
-    "imdb_id": "tt8323668"
+    "imdb_id": "tt8323668",
+    "director": "Дэвид Фрэнкел"
   },
   {
     "title": "John Carter",
@@ -27315,7 +28326,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/john-carter-2012/",
     "rating": 6.4,
     "votes": 6144,
-    "imdb_id": "tt0401729"
+    "imdb_id": "tt0401729",
+    "director": "Эндрю Стэнтон"
   },
   {
     "title": "Total Recall",
@@ -27339,7 +28351,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/total-recall-2012/",
     "rating": 6.034,
     "votes": 5894,
-    "imdb_id": "tt1386703"
+    "imdb_id": "tt1386703",
+    "director": "Лен Уайзман"
   },
   {
     "title": "The Infiltrator",
@@ -27365,7 +28378,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-infiltrator-2016/",
     "rating": 6.678,
     "votes": 1825,
-    "imdb_id": "tt1355631"
+    "imdb_id": "tt1355631",
+    "director": "Брэд Фурман"
   },
   {
     "title": "Blackfish",
@@ -27385,7 +28399,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/blackfish-2013/",
     "rating": 7.844,
     "votes": 1192,
-    "imdb_id": "tt2545118"
+    "imdb_id": "tt2545118",
+    "director": "Gabriela Cowperthwaite"
   },
   {
     "title": "Goon",
@@ -27411,7 +28426,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/goon-2011/",
     "rating": 6.78,
     "votes": 41,
-    "imdb_id": "tt1745713"
+    "imdb_id": "tt1745713",
+    "director": "Li Yu"
   },
   {
     "title": "Goon: Last of the Enforcers",
@@ -27431,7 +28447,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/goon-last-of-the-enforcers-2017/",
     "rating": 5.673,
     "votes": 355,
-    "imdb_id": "tt2417712"
+    "imdb_id": "tt2417712",
+    "director": "Джей Барушель"
   },
   {
     "title": "2036: Nexus Dawn",
@@ -27452,7 +28469,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/2036-nexus-dawn-2017/",
     "rating": 6.9,
     "votes": 415,
-    "imdb_id": "tt7326248"
+    "imdb_id": "tt7326248",
+    "director": "Luke Scott"
   },
   {
     "title": "Shotgun Wedding",
@@ -27478,7 +28496,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shotgun-wedding-2022/",
     "rating": 6.249,
     "votes": 1314,
-    "imdb_id": "tt9686790"
+    "imdb_id": "tt9686790",
+    "director": "Jason Moore"
   },
   {
     "title": "Everest",
@@ -27504,7 +28523,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/everest-2015/",
     "rating": 6.826,
     "votes": 5258,
-    "imdb_id": "tt2719848"
+    "imdb_id": "tt2719848",
+    "director": "Бальтасар Кормакур"
   },
   {
     "title": "Mad Max",
@@ -27529,7 +28549,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mad-max-1979/",
     "rating": 6.684,
     "votes": 4990,
-    "imdb_id": "tt0079501"
+    "imdb_id": "tt0079501",
+    "director": "Джордж Миллер"
   },
   {
     "title": "Mad Max 2",
@@ -27554,7 +28575,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mad-max-2-1981/",
     "rating": 7.393,
     "votes": 4202,
-    "imdb_id": "tt0082694"
+    "imdb_id": "tt0082694",
+    "director": "Джордж Миллер"
   },
   {
     "title": "What Women Want",
@@ -27577,7 +28599,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/what-women-want-2000/",
     "rating": 6.454,
     "votes": 4409,
-    "imdb_id": "tt0207201"
+    "imdb_id": "tt0207201",
+    "director": "Нэнси Мейерс"
   },
   {
     "title": "Machete Kills",
@@ -27604,7 +28627,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/machete-kills-2013/",
     "rating": 5.624,
     "votes": 2054,
-    "imdb_id": "tt2002718"
+    "imdb_id": "tt2002718",
+    "director": "Роберт Родригес"
   },
   {
     "title": "Sonic the Hedgehog 2",
@@ -27633,7 +28657,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sonic-the-hedgehog-2-2022/",
     "rating": 7.427,
     "votes": 5897,
-    "imdb_id": "tt12412888"
+    "imdb_id": "tt12412888",
+    "director": "Джефф Фаулер"
   },
   {
     "title": "Hardcore Henry",
@@ -27658,7 +28683,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hardcore-henry-2015/",
     "rating": 6.413,
     "votes": 2688,
-    "imdb_id": "tt3072482"
+    "imdb_id": "tt3072482",
+    "director": "Илья Найшуллер"
   },
   {
     "title": "Abraham Lincoln: Vampire Hunter",
@@ -27685,7 +28711,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/abraham-lincoln-vampire-hunter-2012/",
     "rating": 5.762,
     "votes": 3572,
-    "imdb_id": "tt1611224"
+    "imdb_id": "tt1611224",
+    "director": "Тимур Бекмамбетов"
   },
   {
     "title": "I Am Dragon",
@@ -27708,7 +28735,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/i-am-dragon-2015/",
     "rating": 7.2,
     "votes": 415,
-    "imdb_id": "tt4057376"
+    "imdb_id": "tt4057376",
+    "director": "Indar Dzhendubaev"
   },
   {
     "title": "Black Lightning",
@@ -27732,7 +28760,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/black-lightning-2009/",
     "rating": 6.291,
     "votes": 218,
-    "imdb_id": "tt1569364"
+    "imdb_id": "tt1569364",
+    "director": "Дмитрий Киселёв, Александр Войтинский"
   },
   {
     "title": "Ant-Man and the Wasp: Quantumania",
@@ -27761,7 +28790,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8BoKsen8orEAiFWCmQkwmONjuTX.jpg",
     "rating": 6.228,
     "votes": 5882,
-    "imdb_id": "tt10954600"
+    "imdb_id": "tt10954600",
+    "director": "Пейтон Рид"
   },
   {
     "title": "Two Cars, One Night",
@@ -27789,7 +28819,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/two-cars-one-night-2003/",
     "rating": 6.704,
     "votes": 71,
-    "imdb_id": "tt0390579"
+    "imdb_id": "tt0390579",
+    "director": "Тайка Вайтити"
   },
   {
     "title": "John Wick: Chapter 4",
@@ -27816,7 +28847,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/john-wick-chapter-4-2023/",
     "rating": 7.709,
     "votes": 8010,
-    "imdb_id": "tt10366206"
+    "imdb_id": "tt10366206",
+    "director": "Чад Стахелски"
   },
   {
     "title": "The Fabelmans",
@@ -27836,7 +28868,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-fabelmans-2022/",
     "rating": 7.567,
     "votes": 2789,
-    "imdb_id": "tt14208870"
+    "imdb_id": "tt14208870",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Love, Death & Robots: Bad Travelling",
@@ -28047,7 +29080,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/x9xbjJyH27pKj8x7yWqsBCkeZsN.jpg",
     "rating": 7.1,
     "votes": 47,
-    "imdb_id": "tt13875460"
+    "imdb_id": "tt13875460",
+    "director": "Алексей Навальный"
   },
   {
     "title": "Son of a Rich",
@@ -28071,7 +29105,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/son-of-a-rich-2019/",
     "rating": 6.9,
     "votes": 196,
-    "imdb_id": "tt11418452"
+    "imdb_id": "tt11418452",
+    "director": "Клим Шипенко"
   },
   {
     "title": "Ralph Breaks the Internet",
@@ -28102,7 +29137,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ralph-breaks-the-internet-2018/",
     "rating": 7.16,
     "votes": 8132,
-    "imdb_id": "tt5848272"
+    "imdb_id": "tt5848272",
+    "director": "Рич Мур, Фил Джонстон"
   },
   {
     "title": "Slender Man",
@@ -28128,7 +29164,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/slender-man-2018/",
     "rating": 4.3,
     "votes": 2167,
-    "imdb_id": "tt5690360"
+    "imdb_id": "tt5690360",
+    "director": "Сильвен Уайт"
   },
   {
     "title": "What Men Talk About 3",
@@ -28148,7 +29185,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/what-men-talk-about-3-2018/",
     "rating": 6.398,
     "votes": 64,
-    "imdb_id": "tt8054150"
+    "imdb_id": "tt8054150",
+    "director": "Флюза Фархшатова"
   },
   {
     "title": "Fifty Shades Freed",
@@ -28171,7 +29209,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/fifty-shades-freed-2018/",
     "rating": 6.67,
     "votes": 8375,
-    "imdb_id": "tt4477536"
+    "imdb_id": "tt4477536",
+    "director": "James Foley"
   },
   {
     "title": "Murder on the Orient Express",
@@ -28199,7 +29238,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/murder-on-the-orient-express-2017/",
     "rating": 6.707,
     "votes": 10578,
-    "imdb_id": "tt3402236"
+    "imdb_id": "tt3402236",
+    "director": "Кеннет Брана"
   },
   {
     "title": "The Kitchen: World Chef Battle",
@@ -28220,7 +29260,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-kitchen-world-chef-battle-2017/",
     "rating": 6.33,
     "votes": 50,
-    "imdb_id": "tt6841500"
+    "imdb_id": "tt6841500",
+    "director": "Антон Федотов"
   },
   {
     "title": "Fifty Shades Darker",
@@ -28243,7 +29284,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/fifty-shades-darker-2017/",
     "rating": 6.473,
     "votes": 7963,
-    "imdb_id": "tt4465564"
+    "imdb_id": "tt4465564",
+    "director": "James Foley"
   },
   {
     "title": "Allegiant",
@@ -28271,7 +29313,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/afn26Axrs3We3bQMfH8Gyaxjd6i.jpg",
     "rating": 6.099,
     "votes": 6998,
-    "imdb_id": "tt3410834"
+    "imdb_id": "tt3410834",
+    "director": "Роберт Швентке"
   },
   {
     "title": "The Best Day Ever",
@@ -28291,7 +29334,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-best-day-ever-2015/",
     "rating": 5,
     "votes": 66,
-    "imdb_id": "tt5083604"
+    "imdb_id": "tt5083604",
+    "director": "Жора Крыжовников"
   },
   {
     "title": "Penguins of Madagascar",
@@ -28321,7 +29365,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/penguins-of-madagascar-2014/",
     "rating": 6.537,
     "votes": 4495,
-    "imdb_id": "tt1911658"
+    "imdb_id": "tt1911658",
+    "director": "Саймон Дж. Смит, Эрик Дарнелл"
   },
   {
     "title": "Who Am I",
@@ -28341,7 +29386,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/who-am-i-2014/",
     "rating": 7.57,
     "votes": 1726,
-    "imdb_id": "tt3042408"
+    "imdb_id": "tt3042408",
+    "director": "Баран бо Одар"
   },
   {
     "title": "Gazgolder: The Movie",
@@ -28361,7 +29407,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/gazgolder-the-movie-2014/",
     "rating": 2.9,
     "votes": 7,
-    "imdb_id": "tt3956396"
+    "imdb_id": "tt3956396",
+    "director": "Ivan Kurskiy"
   },
   {
     "title": "Predestination",
@@ -28383,7 +29430,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/mIrmu83OaTmxYhZQUSjQedtz5Cs.jpg",
     "rating": 7.416,
     "votes": 7127,
-    "imdb_id": "tt2397535"
+    "imdb_id": "tt2397535",
+    "director": "Питер Спириг, Майкл Спириг"
   },
   {
     "title": "Movie 43",
@@ -28403,7 +29451,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/movie-43-2013/",
     "rating": 4.657,
     "votes": 2516,
-    "imdb_id": "tt1333125"
+    "imdb_id": "tt1333125",
+    "director": "Стив Карр, Элизабет Бэнкс, Patrik Forsberg, James Duffy, Peter Farrelly, Бретт Ратнер, Гриффин Данн, Steven Brill, Джеймс Ганн, Will Graham, Jonathan van Tulleken, Rusty Cundieff"
   },
   {
     "title": "Soulless",
@@ -28426,7 +29475,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/soulless-2012/",
     "rating": 5.734,
     "votes": 96,
-    "imdb_id": "tt1826660"
+    "imdb_id": "tt1826660",
+    "director": "Роман Прыгунов"
   },
   {
     "title": "8 First Dates",
@@ -28449,7 +29499,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/8-first-dates-2012/",
     "rating": 6.5,
     "votes": 52,
-    "imdb_id": "tt2258239"
+    "imdb_id": "tt2258239",
+    "director": "David Dodson, Sasha Malarevsky"
   },
   {
     "title": "Mommies",
@@ -28472,7 +29523,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mommies-2012/",
     "rating": 5,
     "votes": 36,
-    "imdb_id": "tt2258465"
+    "imdb_id": "tt2258465",
+    "director": "Дмитрий Дюжев, Evgeniy Abyzov, Сарик Андреасян, Алан Бадоев, Ашот Кещян, Kirill Kozlov, Tikhon Kornev, Карен Оганесян, Эльдар Салаватов"
   },
   {
     "title": "Vysotsky: Thank You For Being Alive",
@@ -28492,7 +29544,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/vysotsky-thank-you-for-being-alive-2011/",
     "rating": 6.092,
     "votes": 71,
-    "imdb_id": "tt2116974"
+    "imdb_id": "tt2116974",
+    "director": "Пётр Буслов"
   },
   {
     "title": "Tower Heist",
@@ -28515,7 +29568,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tower-heist-2011/",
     "rating": 6.122,
     "votes": 3199,
-    "imdb_id": "tt0471042"
+    "imdb_id": "tt0471042",
+    "director": "Бретт Ратнер"
   },
   {
     "title": "Paranormal Activity 3",
@@ -28542,7 +29596,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/paranormal-activity-3-2011/",
     "rating": 5.92,
     "votes": 2389,
-    "imdb_id": "tt1778304"
+    "imdb_id": "tt1778304",
+    "director": "Ariel Schulman, Henry Joost"
   },
   {
     "title": "Johnny English Reborn",
@@ -28568,7 +29623,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/johnny-english-reborn-2011/",
     "rating": 6.248,
     "votes": 3603,
-    "imdb_id": "tt1634122"
+    "imdb_id": "tt1634122",
+    "director": "Oliver Parker"
   },
   {
     "title": "Final Destination 5",
@@ -28595,7 +29651,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/final-destination-5-2011/",
     "rating": 6.155,
     "votes": 4111,
-    "imdb_id": "tt1622979"
+    "imdb_id": "tt1622979",
+    "director": "Стивен Куэйл"
   },
   {
     "title": "The Tourist",
@@ -28622,7 +29679,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/r5HJSdkiwV5n5Ht9cm8EL8u21SQ.jpg",
     "rating": 6.2,
     "votes": 5772,
-    "imdb_id": "tt1243957"
+    "imdb_id": "tt1243957",
+    "director": "Флориан Хенкель фон Доннерсмарк"
   },
   {
     "title": "Paranormal Activity 2",
@@ -28649,7 +29707,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/paranormal-activity-2-2010/",
     "rating": 5.796,
     "votes": 2652,
-    "imdb_id": "tt1536044"
+    "imdb_id": "tt1536044",
+    "director": "Tod Williams"
   },
   {
     "title": "What Men Talk About",
@@ -28669,7 +29728,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/what-men-talk-about-2010/",
     "rating": 7.202,
     "votes": 198,
-    "imdb_id": "tt1595366"
+    "imdb_id": "tt1595366",
+    "director": "Дмитрий Дьяченко"
   },
   {
     "title": "Our Russia: Eggs of Destiny",
@@ -28689,7 +29749,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/our-russia-eggs-of-destiny-2010/",
     "rating": 4.571,
     "votes": 78,
-    "imdb_id": "tt1569465"
+    "imdb_id": "tt1569465",
+    "director": "Gleb Orlov"
   },
   {
     "title": "The Final Destination",
@@ -28716,7 +29777,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-final-destination-2009/",
     "rating": 5.6,
     "votes": 3931,
-    "imdb_id": "tt1144884"
+    "imdb_id": "tt1144884",
+    "director": "Дэвид Р. Эллис"
   },
   {
     "title": "Crank: High Voltage",
@@ -28742,7 +29804,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/crank-high-voltage-2009/",
     "rating": 6.085,
     "votes": 3175,
-    "imdb_id": "tt1121931"
+    "imdb_id": "tt1121931",
+    "director": "Mark Neveldine, Brian Taylor"
   },
   {
     "title": "Love and the City",
@@ -28765,7 +29828,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/love-and-the-city-2009/",
     "rating": 5.536,
     "votes": 55,
-    "imdb_id": "tt1366687"
+    "imdb_id": "tt1366687",
+    "director": "Марюс Вайсберг"
   },
   {
     "title": "The Girl with the Dragon Tattoo",
@@ -28798,7 +29862,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-girl-with-the-dragon-tattoo-2009/",
     "rating": 7.532,
     "votes": 3237,
-    "imdb_id": "tt1132620"
+    "imdb_id": "tt1132620",
+    "director": "Niels Arden Oplev"
   },
   {
     "title": "The Best Movie 2",
@@ -28818,7 +29883,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-best-movie-2-2009/",
     "rating": 3.13,
     "votes": 46,
-    "imdb_id": "tt1364289"
+    "imdb_id": "tt1364289",
+    "director": "Олег Фомин"
   },
   {
     "title": "Lovey-Dovey 2",
@@ -28842,7 +29908,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/lovey-dovey-2-2008/",
     "rating": 4.554,
     "votes": 37,
-    "imdb_id": "tt1414840"
+    "imdb_id": "tt1414840",
+    "director": "Максим Пежемский"
   },
   {
     "title": "Hitler's Kaput!",
@@ -28862,7 +29929,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hitlers-kaput-2008/",
     "rating": 3.616,
     "votes": 56,
-    "imdb_id": "tt1124396"
+    "imdb_id": "tt1124396",
+    "director": "Марюс Вайсберг"
   },
   {
     "title": "Slumdog Millionaire",
@@ -28896,7 +29964,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/oShPzAshoE2wFgzAr6n26Q4veSk.jpg",
     "rating": 7.73,
     "votes": 11379,
-    "imdb_id": "tt1010048"
+    "imdb_id": "tt1010048",
+    "director": "Дэнни Бойл"
   },
   {
     "title": "Journey to the Center of the Earth",
@@ -28927,7 +29996,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ujGWyX7fckpoxKPl4V2NkFqJuvJ.jpg",
     "rating": 6.09,
     "votes": 5178,
-    "imdb_id": "tt0373051"
+    "imdb_id": "tt0373051",
+    "director": "Эрик Бревиг"
   },
   {
     "title": "The Mummy: Tomb of the Dragon Emperor",
@@ -28953,7 +30023,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-mummy-tomb-of-the-dragon-emperor-2008/",
     "rating": 5.519,
     "votes": 4840,
-    "imdb_id": "tt0859163"
+    "imdb_id": "tt0859163",
+    "director": "Роб Коэн"
   },
   {
     "title": "Superhero Movie",
@@ -28977,7 +30048,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/superhero-movie-2008/",
     "rating": 5.299,
     "votes": 2035,
-    "imdb_id": "tt0426592"
+    "imdb_id": "tt0426592",
+    "director": "Крейг Мейзин"
   },
   {
     "title": "Step Up 2: The Streets",
@@ -29004,7 +30076,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/lpisd1vshoO4Dff9AaVjIXen7JL.jpg",
     "rating": 6.691,
     "votes": 2431,
-    "imdb_id": "tt1023481"
+    "imdb_id": "tt1023481",
+    "director": "Джон М. Чу"
   },
   {
     "title": "The Best Movie",
@@ -29024,7 +30097,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-best-movie-2008/",
     "rating": 3.753,
     "votes": 77,
-    "imdb_id": "tt1179067"
+    "imdb_id": "tt1179067",
+    "director": "Кирилл Кузин"
   },
   {
     "title": "We Are from the Future",
@@ -29051,7 +30125,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/we-are-from-the-future-2008/",
     "rating": 6,
     "votes": 122,
-    "imdb_id": "tt1192431"
+    "imdb_id": "tt1192431",
+    "director": "Андрей Малюков"
   },
   {
     "title": "Ilya Muromets and Sparrow the Robber",
@@ -29080,7 +30155,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ilya-muromets-and-sparrow-the-robber-2007/",
     "rating": 6.776,
     "votes": 85,
-    "imdb_id": "tt1189893"
+    "imdb_id": "tt1189893",
+    "director": "Vladimir Toropchin"
   },
   {
     "title": "Hitman",
@@ -29106,7 +30182,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hitman-2007/",
     "rating": 6.162,
     "votes": 3678,
-    "imdb_id": "tt0465494"
+    "imdb_id": "tt0465494",
+    "director": "Xavier Gens"
   },
   {
     "title": "Mr. Bean's Holiday",
@@ -29129,7 +30206,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mr-beans-holiday-2007/",
     "rating": 6.396,
     "votes": 3141,
-    "imdb_id": "tt0453451"
+    "imdb_id": "tt0453451",
+    "director": "Стив Бенделэк"
   },
   {
     "title": "Lovey-Dovey",
@@ -29153,7 +30231,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/lovey-dovey-2007/",
     "rating": 4.608,
     "votes": 51,
-    "imdb_id": "tt0976209"
+    "imdb_id": "tt0976209",
+    "director": "Александр Стриженов"
   },
   {
     "title": "Paragraph 78: Film One",
@@ -29177,7 +30256,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/paragraph-78-film-one-2007/",
     "rating": 5.11,
     "votes": 73,
-    "imdb_id": "tt0459924"
+    "imdb_id": "tt0459924",
+    "director": "Михаил Хлебородов"
   },
   {
     "title": "Taxi 4",
@@ -29203,7 +30283,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/taxi-4-2007/",
     "rating": 5.605,
     "votes": 1351,
-    "imdb_id": "tt0804540"
+    "imdb_id": "tt0804540",
+    "director": "Жерар Кравчик"
   },
   {
     "title": "Elections Day",
@@ -29223,7 +30304,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/elections-day-2007/",
     "rating": 7.115,
     "votes": 126,
-    "imdb_id": "tt1198196"
+    "imdb_id": "tt1198196",
+    "director": "Олег Фомин"
   },
   {
     "title": "The Heat",
@@ -29247,7 +30329,8 @@ var movieDB = [
     "title_ru": "Thermos - Share the Heat",
     "tmdb_id": 264429,
     "poster_path": "/lOdDkSng1iEATZqbO13meniDUBp.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/the-heat-2006/"
+    "letterboxd_url": "https://letterboxd.com/film/the-heat-2006/",
+    "director": "Olivier Pictet"
   },
   {
     "title": "Rocky Balboa",
@@ -29274,7 +30357,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/rocky-balboa-2006/",
     "rating": 6.884,
     "votes": 3824,
-    "imdb_id": "tt0479143"
+    "imdb_id": "tt0479143",
+    "director": "Сильвестр Сталлоне"
   },
   {
     "title": "Step Up",
@@ -29303,7 +30387,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/step-up-2006/",
     "rating": 6.877,
     "votes": 3916,
-    "imdb_id": "tt0462590"
+    "imdb_id": "tt0462590",
+    "director": "Anne Fletcher"
   },
   {
     "title": "Khottabych",
@@ -29326,7 +30411,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/khottabych-2006/",
     "rating": 5.8,
     "votes": 59,
-    "imdb_id": "tt0466043"
+    "imdb_id": "tt0466043",
+    "director": "Pyotr Tochilin"
   },
   {
     "title": "Piranha Hunt",
@@ -29352,7 +30438,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/piranha-hunt-2006/",
     "rating": 5.814,
     "votes": 51,
-    "imdb_id": "tt0477349"
+    "imdb_id": "tt0477349",
+    "director": "Андрей Кавун"
   },
   {
     "title": "Bummer 2",
@@ -29375,7 +30462,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bummer-2-2006/",
     "rating": 5.929,
     "votes": 84,
-    "imdb_id": "tt0402874"
+    "imdb_id": "tt0402874",
+    "director": "Пётр Буслов"
   },
   {
     "title": "Final Destination 3",
@@ -29402,7 +30490,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/final-destination-3-2006/",
     "rating": 6.2,
     "votes": 4593,
-    "imdb_id": "tt0414982"
+    "imdb_id": "tt0414982",
+    "director": "Джеймс Вон"
   },
   {
     "title": "Day Watch",
@@ -29432,7 +30521,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/day-watch-2006/",
     "rating": 6.102,
     "votes": 606,
-    "imdb_id": "tt0409904"
+    "imdb_id": "tt0409904",
+    "director": "Тимур Бекмамбетов"
   },
   {
     "title": "Just Friends",
@@ -29456,7 +30546,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/just-friends-2005/",
     "rating": 6.207,
     "votes": 1811,
-    "imdb_id": "tt0433400"
+    "imdb_id": "tt0433400",
+    "director": "Roger Kumble"
   },
   {
     "title": "The Legend of Zorro",
@@ -29482,7 +30573,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-legend-of-zorro-2005/",
     "rating": 6.124,
     "votes": 3107,
-    "imdb_id": "tt0386140"
+    "imdb_id": "tt0386140",
+    "director": "Мартин Кэмпбелл"
   },
   {
     "title": "The Brothers Grimm",
@@ -29512,7 +30604,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-brothers-grimm-2005/",
     "rating": 5.864,
     "votes": 2980,
-    "imdb_id": "tt0355295"
+    "imdb_id": "tt0355295",
+    "director": "Терри Гиллиам"
   },
   {
     "title": "Transporter 2",
@@ -29538,7 +30631,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/transporter-2-2005/",
     "rating": 6.331,
     "votes": 3976,
-    "imdb_id": "tt0388482"
+    "imdb_id": "tt0388482",
+    "director": "Луи Летерье"
   },
   {
     "title": "Night Bazaar",
@@ -29583,7 +30677,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-turkish-gambit-2005/",
     "rating": 6.359,
     "votes": 92,
-    "imdb_id": "tt0374298"
+    "imdb_id": "tt0374298",
+    "director": "Джаник Файзиев"
   },
   {
     "title": "A Driver for Vera",
@@ -29603,7 +30698,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-driver-for-vera-2004/",
     "rating": 6.064,
     "votes": 47,
-    "imdb_id": "tt0416292"
+    "imdb_id": "tt0416292",
+    "director": "Павел Чухрай"
   },
   {
     "title": "Secret Window",
@@ -29621,7 +30717,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/secret-window-2004/",
     "rating": 6.566,
     "votes": 3954,
-    "imdb_id": "tt0363988"
+    "imdb_id": "tt0363988",
+    "director": "Дэвид Кепп"
   },
   {
     "title": "Agent Cody Banks 2: Destination London",
@@ -29651,7 +30748,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/1Muwv3kWEUXyhWxiEDg7qWOBWnT.jpg",
     "rating": 5.601,
     "votes": 682,
-    "imdb_id": "tt0358349"
+    "imdb_id": "tt0358349",
+    "director": "Kevin Allen"
   },
   {
     "title": "EuroTrip",
@@ -29672,7 +30770,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/eurotrip-2004/",
     "rating": 6.623,
     "votes": 2990,
-    "imdb_id": "tt0356150"
+    "imdb_id": "tt0356150",
+    "director": "Джефф Шеффер, Дэвид Мэндел, Alec Berg"
   },
   {
     "title": "The Passion of the Christ",
@@ -29695,7 +30794,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-passion-of-the-christ-2004/",
     "rating": 7.544,
     "votes": 5228,
-    "imdb_id": "tt0335345"
+    "imdb_id": "tt0335345",
+    "director": "Мел Гибсон"
   },
   {
     "title": "The Lion King 1½",
@@ -29724,7 +30824,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-lion-king-1-2004/",
     "rating": 6.581,
     "votes": 3161,
-    "imdb_id": "tt0318403"
+    "imdb_id": "tt0318403",
+    "director": "Bradley Raymond"
   },
   {
     "title": "Bimmer",
@@ -29742,7 +30843,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bimmer-2003/",
     "rating": 6.193,
     "votes": 135,
-    "imdb_id": "tt0381936"
+    "imdb_id": "tt0381936",
+    "director": "Пётр Буслов"
   },
   {
     "title": "American Wedding",
@@ -29762,7 +30864,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/american-wedding-2003/",
     "rating": 6.222,
     "votes": 4417,
-    "imdb_id": "tt0328828"
+    "imdb_id": "tt0328828",
+    "director": "Jesse Dylan"
   },
   {
     "title": "Johnny English",
@@ -29781,7 +30884,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/johnny-english-2003/",
     "rating": 6.302,
     "votes": 3823,
-    "imdb_id": "tt0274166"
+    "imdb_id": "tt0274166",
+    "director": "Peter Howitt"
   },
   {
     "title": "Final Destination 2",
@@ -29808,7 +30912,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/final-destination-2-2003/",
     "rating": 6.308,
     "votes": 4869,
-    "imdb_id": "tt0309593"
+    "imdb_id": "tt0309593",
+    "director": "Дэвид Р. Эллис"
   },
   {
     "title": "Taxi 3",
@@ -29834,7 +30939,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/taxi-3-2003/",
     "rating": 5.758,
     "votes": 1668,
-    "imdb_id": "tt0295721"
+    "imdb_id": "tt0295721",
+    "director": "Жерар Кравчик"
   },
   {
     "title": "Just Married",
@@ -29857,7 +30963,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/just-married-2003/",
     "rating": 5.777,
     "votes": 1468,
-    "imdb_id": "tt0305711"
+    "imdb_id": "tt0305711",
+    "director": "Шон Леви"
   },
   {
     "title": "Stuart Little 2",
@@ -29883,7 +30990,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/stuart-little-2-2002/",
     "rating": 5.773,
     "votes": 2553,
-    "imdb_id": "tt0243585"
+    "imdb_id": "tt0243585",
+    "director": "Роб Минкофф"
   },
   {
     "title": "Asterix & Obelix: Mission Cleopatra",
@@ -29906,7 +31014,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/asterix-obelix-mission-cleopatra-2002/",
     "rating": 7.25,
     "votes": 16,
-    "imdb_id": "tt0363444"
+    "imdb_id": "tt0363444",
+    "director": "Ален Шаба"
   },
   {
     "title": "Kate & Leopold",
@@ -29932,7 +31041,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/kate-leopold-2001/",
     "rating": 6.347,
     "votes": 1487,
-    "imdb_id": "tt0035423"
+    "imdb_id": "tt0035423",
+    "director": "Джеймс Мэнголд"
   },
   {
     "title": "Jay and Silent Bob Strike Back",
@@ -29958,7 +31068,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jay-and-silent-bob-strike-back-2001/",
     "rating": 6.436,
     "votes": 1747,
-    "imdb_id": "tt0261392"
+    "imdb_id": "tt0261392",
+    "director": "Кевин Смит"
   },
   {
     "title": "Wasabi",
@@ -29984,7 +31095,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/wasabi-2001/",
     "rating": 6.658,
     "votes": 1431,
-    "imdb_id": "tt0281364"
+    "imdb_id": "tt0281364",
+    "director": "Жерар Кравчик"
   },
   {
     "title": "Evolution",
@@ -30003,7 +31115,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/evolution-2001/",
     "rating": 6.116,
     "votes": 2505,
-    "imdb_id": "tt0251075"
+    "imdb_id": "tt0251075",
+    "director": "Ivan Reitman"
   },
   {
     "title": "The Wedding Planner",
@@ -30027,7 +31140,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/zevfgkO2FZQxjRrkVmrW29TvYGC.jpg",
     "rating": 5.9,
     "votes": 1821,
-    "imdb_id": "tt0209475"
+    "imdb_id": "tt0209475",
+    "director": "Adam Shankman"
   },
   {
     "title": "Gone in Sixty Seconds",
@@ -30053,7 +31167,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/gone-in-sixty-seconds-2000/",
     "rating": 6.47,
     "votes": 4903,
-    "imdb_id": "tt0187078"
+    "imdb_id": "tt0187078",
+    "director": "Dominic Sena"
   },
   {
     "title": "Big Momma's House",
@@ -30071,7 +31186,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/big-mommas-house-2000/",
     "rating": 5.823,
     "votes": 2476,
-    "imdb_id": "tt0208003"
+    "imdb_id": "tt0208003",
+    "director": "Раджа Госнелл"
   },
   {
     "title": "Taxi 2",
@@ -30091,7 +31207,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/taxi-2-2000/",
     "rating": 6.278,
     "votes": 1908,
-    "imdb_id": "tt0183869"
+    "imdb_id": "tt0183869",
+    "director": "Жерар Кравчик"
   },
   {
     "title": "Inspector Gadget",
@@ -30120,7 +31237,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/inspector-gadget-1999/",
     "rating": 4.515,
     "votes": 1330,
-    "imdb_id": "tt0141369"
+    "imdb_id": "tt0141369",
+    "director": "David Kellogg"
   },
   {
     "title": "Asterix and Obelix vs. Caesar",
@@ -30149,7 +31267,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/asterix-and-obelix-vs-caesar-1999/",
     "rating": 6.014,
     "votes": 2057,
-    "imdb_id": "tt0133385"
+    "imdb_id": "tt0133385",
+    "director": "Claude Zidi"
   },
   {
     "title": "The Lion King II: Simba's Pride",
@@ -30169,7 +31288,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-lion-king-ii-simbas-pride-1998/",
     "rating": 6.94,
     "votes": 4687,
-    "imdb_id": "tt0120131"
+    "imdb_id": "tt0120131",
+    "director": "Darrell Rooney"
   },
   {
     "title": "Taxi",
@@ -30188,7 +31308,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/taxi-1998/",
     "rating": 6.729,
     "votes": 2737,
-    "imdb_id": "tt0152930"
+    "imdb_id": "tt0152930",
+    "director": "Gérard Pirès"
   },
   {
     "title": "George of the Jungle",
@@ -30208,7 +31329,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/george-of-the-jungle-1997/",
     "rating": 5.666,
     "votes": 2271,
-    "imdb_id": "tt0119190"
+    "imdb_id": "tt0119190",
+    "director": "Сэм Уайзман"
   },
   {
     "title": "Dunno on the Moon",
@@ -30244,7 +31366,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/peculiarities-of-the-national-hunt-1995/",
     "rating": 6.796,
     "votes": 93,
-    "imdb_id": "tt0114055"
+    "imdb_id": "tt0114055",
+    "director": "Александр Рогожкин"
   },
   {
     "title": "Hocus Pocus",
@@ -30263,7 +31386,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hocus-pocus-1993/",
     "rating": 7,
     "votes": 3307,
-    "imdb_id": "tt0107120"
+    "imdb_id": "tt0107120",
+    "director": "Kenny Ortega"
   },
   {
     "title": "Teenage Mutant Ninja Turtles",
@@ -30294,7 +31418,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/mZR1lLdwOp8w8IEHIBAIQLjo1VL.jpg",
     "rating": 6.7,
     "votes": 1972,
-    "imdb_id": "tt0100758"
+    "imdb_id": "tt0100758",
+    "director": "Стив Бэррон"
   },
   {
     "title": "Elvira: Mistress of the Dark",
@@ -30313,7 +31438,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/elvira-mistress-of-the-dark-1988/",
     "rating": 6.7,
     "votes": 618,
-    "imdb_id": "tt0095088"
+    "imdb_id": "tt0095088",
+    "director": "James Signorelli"
   },
   {
     "title": "Mulan",
@@ -30333,7 +31459,8 @@ var movieDB = [
     "title_ru": "Мулан",
     "rating": 6.828,
     "votes": 7065,
-    "imdb_id": "tt4566758"
+    "imdb_id": "tt4566758",
+    "director": "Niki Caro"
   },
   {
     "title": "Ip Man 2",
@@ -30355,7 +31482,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ip-man-2-2010/",
     "rating": 7.5,
     "votes": 2508,
-    "imdb_id": "tt1386932"
+    "imdb_id": "tt1386932",
+    "director": "Уилсон Ип"
   },
   {
     "title": "Ip Man 3",
@@ -30381,7 +31509,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ip-man-3-2015/",
     "rating": 7.033,
     "votes": 1936,
-    "imdb_id": "tt2888046"
+    "imdb_id": "tt2888046",
+    "director": "Уилсон Ип"
   },
   {
     "title": "Ip Man 4: The Finale",
@@ -30400,7 +31529,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ip-man-4-the-finale-2019/",
     "rating": 7.263,
     "votes": 2141,
-    "imdb_id": "tt2076298"
+    "imdb_id": "tt2076298",
+    "director": "Уилсон Ип"
   },
   {
     "title": "Tetris",
@@ -30426,7 +31556,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tetris-2023/",
     "rating": 7.743,
     "votes": 1888,
-    "imdb_id": "tt12758060"
+    "imdb_id": "tt12758060",
+    "director": "Jon S. Baird"
   },
   {
     "title": "The Unbearable Weight of Massive Talent",
@@ -30453,7 +31584,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8T0K2p2BC3WCV1HWxPZ7nIfodqo.jpg",
     "rating": 6.783,
     "votes": 2510,
-    "imdb_id": "tt11291274"
+    "imdb_id": "tt11291274",
+    "director": "Том Гормикэн"
   },
   {
     "title": "The Northman",
@@ -30479,7 +31611,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-northman-2022/",
     "rating": 7.033,
     "votes": 5075,
-    "imdb_id": "tt11138512"
+    "imdb_id": "tt11138512",
+    "director": "Роберт Эггерс"
   },
   {
     "title": "Jurassic World Dominion",
@@ -30505,7 +31638,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6BLMT9T4wRu5QlnqVeQUU5WApLj.jpg",
     "rating": 6.598,
     "votes": 7093,
-    "imdb_id": "tt8041270"
+    "imdb_id": "tt8041270",
+    "director": "Колин Треворроу"
   },
   {
     "title": "Prey",
@@ -30529,7 +31663,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/prey-2022/",
     "rating": 7.659,
     "votes": 7775,
-    "imdb_id": "tt11866324"
+    "imdb_id": "tt11866324",
+    "director": "Дэн Трахтенберг"
   },
   {
     "title": "Guardians of the Galaxy Vol. 3",
@@ -30559,7 +31694,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/mz7lPfNOLOWDKoz625tFgNcSPVi.jpg",
     "rating": 7.931,
     "votes": 8418,
-    "imdb_id": "tt6791350"
+    "imdb_id": "tt6791350",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "Dungeons & Dragons: Honor Among Thieves",
@@ -30579,7 +31715,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nAbRIxxRJfCP2U9tpVJU1zWb6Ni.jpg",
     "rating": 7.353,
     "votes": 4698,
-    "imdb_id": "tt2906216"
+    "imdb_id": "tt2906216",
+    "director": "Джон Фрэнсис Дейли, Джонатан Голдштейн"
   },
   {
     "title": "The Guardians of the Galaxy Holiday Special",
@@ -30609,7 +31746,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/rsAa8nGfFHEB4B2GVqPs2ZCUOex.jpg",
     "rating": 7.094,
     "votes": 2379,
-    "imdb_id": "tt13623136"
+    "imdb_id": "tt13623136",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "Timecop",
@@ -30636,7 +31774,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/timecop-1994/",
     "rating": 6.019,
     "votes": 1327,
-    "imdb_id": "tt0111438"
+    "imdb_id": "tt0111438",
+    "director": "Peter Hyams"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-",
@@ -30663,7 +31802,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/aQDPNbeYv75qKpD2QBYkOjfnaYE.jpg",
     "rating": 7.3,
     "votes": 400,
-    "imdb_id": "tt26537229"
+    "imdb_id": "tt26537229",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Bulletproof Monk",
@@ -30689,7 +31829,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bulletproof-monk-2003/",
     "rating": 5.511,
     "votes": 1011,
-    "imdb_id": "tt0245803"
+    "imdb_id": "tt0245803",
+    "director": "Пол Хантер"
   },
   {
     "title": "The Lion Guard: Return of the Roar",
@@ -30716,7 +31857,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-lion-guard-return-of-the-roar-2015/",
     "rating": 6.7,
     "votes": 1221,
-    "imdb_id": "tt4938602"
+    "imdb_id": "tt4938602",
+    "director": "Howy Parkins"
   },
   {
     "title": "Guy Ritchie's The Covenant",
@@ -30742,7 +31884,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/guy-ritchies-the-covenant-2023/",
     "rating": 7.719,
     "votes": 3220,
-    "imdb_id": "tt4873118"
+    "imdb_id": "tt4873118",
+    "director": "Гай Ричи"
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
@@ -30773,7 +31916,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/spider-man-across-the-spider-verse-2023/",
     "rating": 8.337,
     "votes": 8717,
-    "imdb_id": "tt9362722"
+    "imdb_id": "tt9362722",
+    "director": "Kemp Powers, Джастин Томпсон, Жоаким Дос Сантос"
   },
   {
     "title": "Shazam! Fury of the Gods",
@@ -30799,7 +31943,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shazam-fury-of-the-gods-2023/",
     "rating": 6.415,
     "votes": 3662,
-    "imdb_id": "tt10151854"
+    "imdb_id": "tt10151854",
+    "director": "Дэвид Ф. Сандберг"
   },
   {
     "title": "Air",
@@ -30823,7 +31968,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/7ln1JwKWuSkZlmqAgRnzXXMjo6k.jpg",
     "rating": 7.277,
     "votes": 2348,
-    "imdb_id": "tt16419074"
+    "imdb_id": "tt16419074",
+    "director": "Бен Аффлек"
   },
   {
     "title": "The Truman Show",
@@ -30853,7 +31999,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-truman-show-1998/",
     "rating": 8.155,
     "votes": 20357,
-    "imdb_id": "tt0120382"
+    "imdb_id": "tt0120382",
+    "director": "Питер Уир"
   },
   {
     "title": "Lord of War",
@@ -30880,7 +32027,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/lord-of-war-2005/",
     "rating": 7.346,
     "votes": 5376,
-    "imdb_id": "tt0399295"
+    "imdb_id": "tt0399295",
+    "director": "Эндрю Никкол"
   },
   {
     "title": "Beau Is Afraid",
@@ -30906,7 +32054,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/beau-is-afraid-2023/",
     "rating": 6.716,
     "votes": 1342,
-    "imdb_id": "tt13521006"
+    "imdb_id": "tt13521006",
+    "director": "Ари Астер"
   },
   {
     "title": "Jeanne du Barry",
@@ -30932,7 +32081,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jeanne-du-barry-2023/",
     "rating": 6.874,
     "votes": 685,
-    "imdb_id": "tt17277414"
+    "imdb_id": "tt17277414",
+    "director": "Maïwenn"
   },
   {
     "title": "Sherlock: The Abominable Bride",
@@ -30962,7 +32112,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sherlock-the-abominable-bride-2016/",
     "rating": 7.836,
     "votes": 2349,
-    "imdb_id": "tt3845232"
+    "imdb_id": "tt3845232",
+    "director": "Дуглас Маккиннон"
   },
   {
     "title": "Sherlock: The Final Problem",
@@ -30989,7 +32140,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sherlock-the-final-problem-2017/",
     "rating": 7.669,
     "votes": 65,
-    "imdb_id": "tt0229922"
+    "imdb_id": "tt0229922",
+    "director": "Игорь Масленников"
   },
   {
     "title": "The Current War",
@@ -31013,7 +32165,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-current-war-2017/",
     "rating": 6.693,
     "votes": 1160,
-    "imdb_id": "tt2140507"
+    "imdb_id": "tt2140507",
+    "director": "Alfonso Gomez-Rejon"
   },
   {
     "title": "Sherlock: A Study in Pink (Unaired Pilot)",
@@ -31051,7 +32204,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/asteroid-city-2023/",
     "rating": 6.452,
     "votes": 2519,
-    "imdb_id": "tt14230388"
+    "imdb_id": "tt14230388",
+    "director": "Уэс Андерсон"
   },
   {
     "title": "The Walk",
@@ -31077,7 +32231,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-walk-2015/",
     "rating": 6.99,
     "votes": 3396,
-    "imdb_id": "tt3488710"
+    "imdb_id": "tt3488710",
+    "director": "Роберт Земекис"
   },
   {
     "title": "The Zero Theorem",
@@ -31101,7 +32256,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-zero-theorem-2013/",
     "rating": 6.083,
     "votes": 1342,
-    "imdb_id": "tt2333804"
+    "imdb_id": "tt2333804",
+    "director": "Терри Гиллиам"
   },
   {
     "title": "Barbie",
@@ -31130,7 +32286,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/barbie-2023/",
     "rating": 6.918,
     "votes": 11179,
-    "imdb_id": "tt1517268"
+    "imdb_id": "tt1517268",
+    "director": "Грета Гервиг"
   },
   {
     "title": "Oppenheimer",
@@ -31159,7 +32316,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/oppenheimer-2023/",
     "rating": 8.025,
     "votes": 11908,
-    "imdb_id": "tt15398776"
+    "imdb_id": "tt15398776",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "The Flash",
@@ -31183,7 +32341,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-flash-2023/",
     "rating": 6.62,
     "votes": 5039,
-    "imdb_id": "tt0439572"
+    "imdb_id": "tt0439572",
+    "director": "Энди Мускетти"
   },
   {
     "title": "The Little Mermaid",
@@ -31213,7 +32372,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/bV7t2Np8VG1i7h6jvPz5ZPUdAVP.jpg",
     "rating": 6.269,
     "votes": 3335,
-    "imdb_id": "tt5971474"
+    "imdb_id": "tt5971474",
+    "director": "Роб Маршалл"
   },
   {
     "title": "Bubble Boy",
@@ -31239,7 +32399,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bubble-boy-2001/",
     "rating": 5.777,
     "votes": 635,
-    "imdb_id": "tt0258470"
+    "imdb_id": "tt0258470",
+    "director": "Blair Hayes"
   },
   {
     "title": "Gran Turismo",
@@ -31265,7 +32426,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/gran-turismo-2023/",
     "rating": 7.702,
     "votes": 3441,
-    "imdb_id": "tt4495098"
+    "imdb_id": "tt4495098",
+    "director": "Нил Бломкамп"
   },
   {
     "title": "The Killer",
@@ -31289,7 +32451,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-killer-2023/",
     "rating": 6.577,
     "votes": 2849,
-    "imdb_id": "tt1136617"
+    "imdb_id": "tt1136617",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "The Marvels",
@@ -31317,7 +32480,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-marvels-2023/",
     "rating": 5.936,
     "votes": 3429,
-    "imdb_id": "tt10676048"
+    "imdb_id": "tt10676048",
+    "director": "Ниа ДаКоста"
   },
   {
     "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
@@ -31345,7 +32509,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6Lp4Aij9meeh9JBaATQuXnNyBJl.jpg",
     "rating": 7,
     "votes": 3527,
-    "imdb_id": "tt10545296"
+    "imdb_id": "tt10545296",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Exodus: Gods and Kings",
@@ -31371,7 +32536,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/exodus-gods-and-kings-2014/",
     "rating": 5.885,
     "votes": 4866,
-    "imdb_id": "tt1528100"
+    "imdb_id": "tt1528100",
+    "director": "Ридли Скотт"
   },
   {
     "title": "G.I. Jane",
@@ -31397,7 +32563,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/gi-jane-1997/",
     "rating": 6.479,
     "votes": 1862,
-    "imdb_id": "tt0119173"
+    "imdb_id": "tt0119173",
+    "director": "Ридли Скотт"
   },
   {
     "title": "The Boy and the Heron",
@@ -31423,7 +32590,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-boy-and-the-heron-2023/",
     "rating": 7.397,
     "votes": 2660,
-    "imdb_id": "tt6587046"
+    "imdb_id": "tt6587046",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Soulless 2",
@@ -31443,7 +32611,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/soulless-2-2015/",
     "rating": 5.47,
     "votes": 50,
-    "imdb_id": "tt3136646"
+    "imdb_id": "tt3136646",
+    "director": "Роман Прыгунов"
   },
   {
     "title": "Memoirs of a Geisha",
@@ -31469,7 +32638,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/memoirs-of-a-geisha-2005/",
     "rating": 7.636,
     "votes": 3409,
-    "imdb_id": "tt0397535"
+    "imdb_id": "tt0397535",
+    "director": "Роб Маршалл"
   },
   {
     "title": "Filth",
@@ -31495,7 +32665,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/filth-2013/",
     "rating": 6.836,
     "votes": 1921,
-    "imdb_id": "tt1450321"
+    "imdb_id": "tt1450321",
+    "director": "Jon S. Baird"
   },
   {
     "title": "Lights Out",
@@ -31523,7 +32694,8 @@ var movieDB = [
     "title_ru": "Lights Out",
     "tmdb_id": 1417095,
     "poster_path": "/gqxtEU06DHhxRV3zGJylk04aFWu.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/lights-out-2013/"
+    "letterboxd_url": "https://letterboxd.com/film/lights-out-2013/",
+    "director": "Anne Birk, John Muller, Juliette Viger, Kasper Christensen, Max Jarl Christiansen, Morten D. Andersen, Morten Lund, Sara Holm"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba",
@@ -31552,7 +32724,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/demon-slayer-kimetsu-no-yaiba-2019/",
     "rating": 7.9,
     "votes": 251,
-    "imdb_id": "tt14888860"
+    "imdb_id": "tt14888860",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - Sibling's Bond",
@@ -31582,7 +32755,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/99cJLZkNoIFmufJ4yap6ZABl4nk.jpg",
     "rating": 7.9,
     "votes": 251,
-    "imdb_id": "tt14888860"
+    "imdb_id": "tt14888860",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
@@ -31613,7 +32787,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/pWiP8NvScmP2nRGYvccAczOghGI.jpg",
     "rating": 7.408,
     "votes": 179,
-    "imdb_id": "tt16492678"
+    "imdb_id": "tt16492678",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
@@ -31644,7 +32819,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/3yQq99MCrULnDSY6W2JiKl6ivyl.jpg",
     "rating": 7.706,
     "votes": 80,
-    "imdb_id": "tt16492636"
+    "imdb_id": "tt16492636",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - The Hashira Meeting Arc",
@@ -31671,7 +32847,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/dDclNO4vWBDGBMyamtd1ZAQMISI.jpg",
     "rating": 7.025,
     "votes": 262,
-    "imdb_id": "tt31497548"
+    "imdb_id": "tt31497548",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Mt. Natagumo Arc",
@@ -31698,7 +32875,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/gFZ3K5tgFit6PHOXLvSRwzDWacG.jpg",
     "rating": 7.762,
     "votes": 244,
-    "imdb_id": "tt14888874"
+    "imdb_id": "tt14888874",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Piranha II: The Spawning",
@@ -31718,7 +32896,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/piranha-ii-the-spawning-1982/",
     "rating": 4.297,
     "votes": 310,
-    "imdb_id": "tt0082910"
+    "imdb_id": "tt0082910",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Jane Eyre",
@@ -31741,7 +32920,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jane-eyre-2011/",
     "rating": 7.2,
     "votes": 1564,
-    "imdb_id": "tt1229822"
+    "imdb_id": "tt1229822",
+    "director": "Кэри Фукунага"
   },
   {
     "title": "Ms. Marvel",
@@ -31765,7 +32945,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ms-marvel-2022/",
     "rating": 6.8,
     "votes": 34,
-    "imdb_id": "tt21351612"
+    "imdb_id": "tt21351612",
+    "director": "Brad Baruh"
   },
   {
     "title": "RocknRolla",
@@ -31792,7 +32973,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/rocknrolla-2008/",
     "rating": 6.95,
     "votes": 3324,
-    "imdb_id": "tt1032755"
+    "imdb_id": "tt1032755",
+    "director": "Гай Ричи"
   },
   {
     "title": "Calm with Horses",
@@ -31815,7 +32997,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/calm-with-horses-2019/",
     "rating": 6.278,
     "votes": 160,
-    "imdb_id": "tt4460792"
+    "imdb_id": "tt4460792",
+    "director": "Nick Rowland"
   },
   {
     "title": "Finch",
@@ -31839,7 +33022,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/finch-2021/",
     "rating": 7.809,
     "votes": 4021,
-    "imdb_id": "tt3420504"
+    "imdb_id": "tt3420504",
+    "director": "Miguel Sapochnik"
   },
   {
     "title": "The Perks of Being a Wallflower",
@@ -31859,7 +33043,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-perks-of-being-a-wallflower-2012/",
     "rating": 7.8,
     "votes": 11247,
-    "imdb_id": "tt1659337"
+    "imdb_id": "tt1659337",
+    "director": "Стивен Чбоски"
   },
   {
     "title": "American Animals",
@@ -31886,7 +33071,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/tyGSoisCQfcYKptH7ng8kGZAwmd.jpg",
     "rating": 6.741,
     "votes": 1216,
-    "imdb_id": "tt6212478"
+    "imdb_id": "tt6212478",
+    "director": "Барт Лэйтон"
   },
   {
     "title": "Wonka",
@@ -31912,7 +33098,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/wonka-2023/",
     "rating": 7.036,
     "votes": 4416,
-    "imdb_id": "tt6166392"
+    "imdb_id": "tt6166392",
+    "director": "Пол Кинг"
   },
   {
     "title": "Marmaduke",
@@ -31935,7 +33122,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/marmaduke-2010/",
     "rating": 5.233,
     "votes": 817,
-    "imdb_id": "tt1392197"
+    "imdb_id": "tt1392197",
+    "director": "Tom Dey"
   },
   {
     "title": "Cats & Dogs",
@@ -31965,7 +33153,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cats-dogs-2001/",
     "rating": 5.39,
     "votes": 1755,
-    "imdb_id": "tt0239395"
+    "imdb_id": "tt0239395",
+    "director": "Lawrence Guterman"
   },
   {
     "title": "The Secret Life of Pets 2",
@@ -31994,7 +33183,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-secret-life-of-pets-2-2019/",
     "rating": 6.95,
     "votes": 3347,
-    "imdb_id": "tt5113040"
+    "imdb_id": "tt5113040",
+    "director": "Крис Рено"
   },
   {
     "title": "Good Boy!",
@@ -32018,7 +33208,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/good-boy-2003/",
     "rating": 5.6,
     "votes": 146,
-    "imdb_id": "tt0326900"
+    "imdb_id": "tt0326900",
+    "director": "Джон Хоффман"
   },
   {
     "title": "DC League of Super-Pets",
@@ -32049,7 +33240,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dc-league-of-super-pets-2022/",
     "rating": 7.158,
     "votes": 1740,
-    "imdb_id": "tt8912936"
+    "imdb_id": "tt8912936",
+    "director": "Jared Stern"
   },
   {
     "title": "Elemental",
@@ -32078,7 +33270,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/elemental-2023/",
     "rating": 7.582,
     "votes": 5363,
-    "imdb_id": "tt15789038"
+    "imdb_id": "tt15789038",
+    "director": "Питер Сон"
   },
   {
     "title": "The Iron Claw",
@@ -32101,7 +33294,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-iron-claw-2023/",
     "rating": 7.507,
     "votes": 1271,
-    "imdb_id": "tt21064584"
+    "imdb_id": "tt21064584",
+    "director": "Sean Durkin"
   },
   {
     "title": "Dune: Part Two",
@@ -32129,7 +33323,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dune-part-two-2024/",
     "rating": 8.125,
     "votes": 8079,
-    "imdb_id": "tt15239678"
+    "imdb_id": "tt15239678",
+    "director": "Дени Вильнёв"
   },
   {
     "title": "Madame Web",
@@ -32152,7 +33347,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/madame-web-2024/",
     "rating": 5.286,
     "votes": 2598,
-    "imdb_id": "tt11057302"
+    "imdb_id": "tt11057302",
+    "director": "С. Дж. Кларксон"
   },
   {
     "title": "Aquaman and the Lost Kingdom",
@@ -32179,7 +33375,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/aquaman-and-the-lost-kingdom-2023/",
     "rating": 6.525,
     "votes": 3520,
-    "imdb_id": "tt9663764"
+    "imdb_id": "tt9663764",
+    "director": "Джеймс Ван"
   },
   {
     "title": "Only Lovers Left Alive",
@@ -32210,7 +33407,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/only-lovers-left-alive-2013/",
     "rating": 7.202,
     "votes": 2405,
-    "imdb_id": "tt1714915"
+    "imdb_id": "tt1714915",
+    "director": "Джим Джармуш"
   },
   {
     "title": "The Nice Guys",
@@ -32245,7 +33443,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-nice-guys-2016/",
     "rating": 7.131,
     "votes": 8707,
-    "imdb_id": "tt3799694"
+    "imdb_id": "tt3799694",
+    "director": "Шейн Блэк"
   },
   {
     "title": "Last Action Hero",
@@ -32271,7 +33470,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/last-action-hero-1993/",
     "rating": 6.481,
     "votes": 3014,
-    "imdb_id": "tt0107362"
+    "imdb_id": "tt0107362",
+    "director": "Джон МакТирнан"
   },
   {
     "title": "The Last Boy Scout",
@@ -32295,7 +33495,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/iOHJ2AvLcxMlPMFcNSRYeRFLj0C.jpg",
     "rating": 6.846,
     "votes": 2172,
-    "imdb_id": "tt0102266"
+    "imdb_id": "tt0102266",
+    "director": "Тони Скотт"
   },
   {
     "title": "Poor Things",
@@ -32325,7 +33526,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/poor-things-2023/",
     "rating": 7.638,
     "votes": 5533,
-    "imdb_id": "tt14230458"
+    "imdb_id": "tt14230458",
+    "director": "Йоргос Лантимос"
   },
   {
     "title": "Kung Fu Panda 4",
@@ -32356,7 +33558,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/kung-fu-panda-4-2024/",
     "rating": 7.005,
     "votes": 3555,
-    "imdb_id": "tt21692408"
+    "imdb_id": "tt21692408",
+    "director": "Майк Митчелл"
   },
   {
     "title": "Godzilla × Kong: The New Empire",
@@ -32385,7 +33588,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/godzilla-kong-the-new-empire-2024/",
     "rating": 7.05,
     "votes": 4706,
-    "imdb_id": "tt14539740"
+    "imdb_id": "tt14539740",
+    "director": "Адам Вингард"
   },
   {
     "title": "Ghostbusters: Afterlife",
@@ -32411,7 +33615,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ghostbusters-afterlife-2021/",
     "rating": 7.321,
     "votes": 5182,
-    "imdb_id": "tt4513678"
+    "imdb_id": "tt4513678",
+    "director": "Джейсон Райтман"
   },
   {
     "title": "Godzilla Minus One",
@@ -32439,7 +33644,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-one-2023/",
     "rating": 7.573,
     "votes": 3214,
-    "imdb_id": "tt23289160"
+    "imdb_id": "tt23289160",
+    "director": "Такаси Ямадзаки"
   },
   {
     "title": "Corpus Christi",
@@ -32459,7 +33665,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/corpus-christi-2019/",
     "rating": 7.625,
     "votes": 610,
-    "imdb_id": "tt8649186"
+    "imdb_id": "tt8649186",
+    "director": "Ян Комаса"
   },
   {
     "title": "A Quiet Place: Day One",
@@ -32483,7 +33690,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-quiet-place-day-one-2024/",
     "rating": 6.643,
     "votes": 3392,
-    "imdb_id": "tt13433802"
+    "imdb_id": "tt13433802",
+    "director": "Майкл Сарноски"
   },
   {
     "title": "Manchester by the Sea",
@@ -32518,7 +33726,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/9h22dvN7LYIud5oUAurXXrfGHUS.jpg",
     "rating": 7.554,
     "votes": 6431,
-    "imdb_id": "tt4034228"
+    "imdb_id": "tt4034228",
+    "director": "Кеннет Лонерган"
   },
   {
     "title": "Deadpool & Wolverine",
@@ -32547,7 +33756,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/deadpool-wolverine-2024/",
     "rating": 7.574,
     "votes": 8834,
-    "imdb_id": "tt6263850"
+    "imdb_id": "tt6263850",
+    "director": "Шон Леви"
   },
   {
     "title": "Road House",
@@ -32573,7 +33783,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/road-house-2024/",
     "rating": 6.945,
     "votes": 3089,
-    "imdb_id": "tt3359350"
+    "imdb_id": "tt3359350",
+    "director": "Даг Лайман"
   },
   {
     "title": "Kingdom of Heaven",
@@ -32603,7 +33814,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/kingdom-of-heaven-2005/",
     "rating": 7.058,
     "votes": 5022,
-    "imdb_id": "tt0320661"
+    "imdb_id": "tt0320661",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Trap",
@@ -32629,7 +33841,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/trap-2024/",
     "rating": 6.237,
     "votes": 2878,
-    "imdb_id": "tt26753003"
+    "imdb_id": "tt26753003",
+    "director": "М. Найт Шьямалан"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training-",
@@ -32659,7 +33872,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/aQDPNbeYv75qKpD2QBYkOjfnaYE.jpg",
     "rating": 6.5,
     "votes": 485,
-    "imdb_id": "tt30395619"
+    "imdb_id": "tt30395619",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Joker: Folie à Deux",
@@ -32690,7 +33904,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/joker-folie-deux-2024/",
     "rating": 5.407,
     "votes": 2950,
-    "imdb_id": "tt11315808"
+    "imdb_id": "tt11315808",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Inside Out 2",
@@ -32719,7 +33934,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/inside-out-2-2024/",
     "rating": 7.542,
     "votes": 6748,
-    "imdb_id": "tt22022452"
+    "imdb_id": "tt22022452",
+    "director": "Келси Манн"
   },
   {
     "title": "Wolfs",
@@ -32742,7 +33958,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/wolfs-2024/",
     "rating": 6.5,
     "votes": 1475,
-    "imdb_id": "tt14257582"
+    "imdb_id": "tt14257582",
+    "director": "Джон Уоттс"
   },
   {
     "title": "Peter's To-Do List",
@@ -32766,7 +33983,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/peters-to-do-list-2019/",
     "rating": 6.965,
     "votes": 99,
-    "imdb_id": "tt11107678"
+    "imdb_id": "tt11107678",
+    "director": "Джон Уоттс"
   },
   {
     "title": "The Substance",
@@ -32790,7 +34008,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-substance-2024/",
     "rating": 7.133,
     "votes": 6109,
-    "imdb_id": "tt17526714"
+    "imdb_id": "tt17526714",
+    "director": "Корали Фаржа"
   },
   {
     "title": "Venom: The Last Dance",
@@ -32815,7 +34034,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/venom-the-last-dance-2024/",
     "rating": 6.674,
     "votes": 4279,
-    "imdb_id": "tt16366836"
+    "imdb_id": "tt16366836",
+    "director": "Келли Марсель"
   },
   {
     "title": "Agatha All Along",
@@ -32842,7 +34062,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/agatha-all-along-2024/",
     "rating": 8.111,
     "votes": 9,
-    "imdb_id": "tt34601931"
+    "imdb_id": "tt34601931",
+    "director": "Brad Baruh"
   },
   {
     "title": "Furiosa: A Mad Max Saga",
@@ -32867,7 +34088,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/furiosa-a-mad-max-saga-2024/",
     "rating": 7.454,
     "votes": 4936,
-    "imdb_id": "tt12037194"
+    "imdb_id": "tt12037194",
+    "director": "Джордж Миллер"
   },
   {
     "title": "The Fall Guy",
@@ -32893,7 +34115,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-fall-guy-2024/",
     "rating": 6.955,
     "votes": 3823,
-    "imdb_id": "tt1684562"
+    "imdb_id": "tt1684562",
+    "director": "Дэвид Литч"
   },
   {
     "title": "Moana 2",
@@ -32924,7 +34147,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/moana-2-2024/",
     "rating": 7.006,
     "votes": 3113,
-    "imdb_id": "tt13622970"
+    "imdb_id": "tt13622970",
+    "director": "Дэвид Деррик-мл., Джейсон Хэнд, Дана Леду Миллер"
   },
   {
     "title": "Reservoir Dogs",
@@ -32953,7 +34177,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/reservoir-dogs-1992/",
     "rating": 8.114,
     "votes": 15526,
-    "imdb_id": "tt0105236"
+    "imdb_id": "tt0105236",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Maria",
@@ -32980,7 +34205,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/zxqUPzFOG1JmcIrhUDrpzHSE50x.jpg",
     "rating": 6.466,
     "votes": 474,
-    "imdb_id": "tt22893404"
+    "imdb_id": "tt22893404",
+    "director": "Пабло Ларраин"
   },
   {
     "title": "A Real Pain",
@@ -33003,7 +34229,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-real-pain-2024/",
     "rating": 6.778,
     "votes": 1422,
-    "imdb_id": "tt21823606"
+    "imdb_id": "tt21823606",
+    "director": "Джесси Айзенберг"
   },
   {
     "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
@@ -33031,7 +34258,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/lEp6npX8GZFkwXRcZhW2uwdFwbm.jpg",
     "rating": 7.221,
     "votes": 1606,
-    "imdb_id": "tt8589698"
+    "imdb_id": "tt8589698",
+    "director": "Jeff Rowe"
   },
   {
     "title": "Nosferatu",
@@ -33054,7 +34282,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/nosferatu-2024/",
     "rating": 6.7,
     "votes": 3710,
-    "imdb_id": "tt5040012"
+    "imdb_id": "tt5040012",
+    "director": "Роберт Эггерс"
   },
   {
     "title": "The Day the Earth Stood Still",
@@ -33078,7 +34307,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-day-the-earth-stood-still-2008/",
     "rating": 5.662,
     "votes": 3776,
-    "imdb_id": "tt0970416"
+    "imdb_id": "tt0970416",
+    "director": "Скотт Дерриксон"
   },
   {
     "title": "Sonic the Hedgehog 3",
@@ -33105,7 +34335,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sonic-the-hedgehog-3-2024/",
     "rating": 7.613,
     "votes": 3322,
-    "imdb_id": "tt18259086"
+    "imdb_id": "tt18259086",
+    "director": "Джефф Фаулер"
   },
   {
     "title": "Perfect Days",
@@ -33138,7 +34369,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/perfect-days-2023/",
     "rating": 7.8,
     "votes": 1936,
-    "imdb_id": "tt27503384"
+    "imdb_id": "tt27503384",
+    "director": "Вим Вендерс"
   },
   {
     "title": "Conclave",
@@ -33161,7 +34393,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/conclave-2024/",
     "rating": 7.193,
     "votes": 3439,
-    "imdb_id": "tt20215234"
+    "imdb_id": "tt20215234",
+    "director": "Эдвард Бергер"
   },
   {
     "title": "Uncut Gems",
@@ -33187,7 +34420,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/uncut-gems-2019/",
     "rating": 7.165,
     "votes": 5410,
-    "imdb_id": "tt5727208"
+    "imdb_id": "tt5727208",
+    "director": "Бенни Сафди, Джош Сафди"
   },
   {
     "title": "Flow",
@@ -33233,7 +34467,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-brutalist-2024/",
     "rating": 6.952,
     "votes": 1680,
-    "imdb_id": "tt8999762"
+    "imdb_id": "tt8999762",
+    "director": "Брэди Корбет"
   },
   {
     "title": "Captain America: Brave New World",
@@ -33261,7 +34496,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/captain-america-brave-new-world-2025/",
     "rating": 5.967,
     "votes": 3141,
-    "imdb_id": "tt14513804"
+    "imdb_id": "tt14513804",
+    "director": "Джулиус Она"
   },
   {
     "title": "Wicked",
@@ -33287,7 +34523,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/wicked-2024/",
     "rating": 6.908,
     "votes": 3077,
-    "imdb_id": "tt1262426"
+    "imdb_id": "tt1262426",
+    "director": "Джон М. Чу"
   },
   {
     "title": "Nosferatu",
@@ -33310,7 +34547,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/nosferatu-1922/",
     "rating": 7.7,
     "votes": 2462,
-    "imdb_id": "tt0013442"
+    "imdb_id": "tt0013442",
+    "director": "F. W. Murnau"
   },
   {
     "title": "Captain Hook",
@@ -33336,7 +34574,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/captain-hook-2025/",
     "rating": 4.9,
     "votes": 52,
-    "imdb_id": "tt33458086"
+    "imdb_id": "tt33458086",
+    "director": "Lars Janssen"
   },
   {
     "title": "The Good Dinosaur",
@@ -33366,7 +34605,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-good-dinosaur-2015/",
     "rating": 6.748,
     "votes": 6040,
-    "imdb_id": "tt1979388"
+    "imdb_id": "tt1979388",
+    "director": "Питер Сон"
   },
   {
     "title": "Devil May Cry",
@@ -33393,7 +34633,8 @@ var movieDB = [
     "title_ru": "Devil May Cry: Inferno",
     "tmdb_id": 1697520,
     "poster_path": "/vzYxAo7BECEOAQIuHTyyEeAlC35.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/devil-may-cry-2007/"
+    "letterboxd_url": "https://letterboxd.com/film/devil-may-cry-2007/",
+    "director": "Хан Сын У, Ади Шанкар"
   },
   {
     "title": "A Minecraft Movie",
@@ -33422,7 +34663,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-minecraft-movie-2025/",
     "rating": 6.261,
     "votes": 3061,
-    "imdb_id": "tt3566834"
+    "imdb_id": "tt3566834",
+    "director": "Джаред Хесс"
   },
   {
     "title": "Nacho Libre",
@@ -33448,7 +34690,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/nacho-libre-2006/",
     "rating": 6.5,
     "votes": 1872,
-    "imdb_id": "tt0457510"
+    "imdb_id": "tt0457510",
+    "director": "Джаред Хесс"
   },
   {
     "title": "Thunderbolts*",
@@ -33472,7 +34715,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/thunderbolts-2025/",
     "rating": 7.293,
     "votes": 3617,
-    "imdb_id": "tt20969586"
+    "imdb_id": "tt20969586",
+    "director": "Джейк Шрейер"
   },
   {
     "title": "Mission: Impossible – The Final Reckoning",
@@ -33502,7 +34746,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ypSREV9yyAAs5SwZLiC8G0qhY1a.jpg",
     "rating": 7.171,
     "votes": 2894,
-    "imdb_id": "tt9603208"
+    "imdb_id": "tt9603208",
+    "director": "Кристофер МакКуорри"
   },
   {
     "title": "Lilo & Stitch",
@@ -33526,7 +34771,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/lilo-stitch-2025/",
     "rating": 7.204,
     "votes": 2183,
-    "imdb_id": "tt11655566"
+    "imdb_id": "tt11655566",
+    "director": "Дин Флейшер-Кэмп"
   },
   {
     "title": "Mickey 17",
@@ -33550,7 +34796,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mickey-17-2025/",
     "rating": 6.837,
     "votes": 3638,
-    "imdb_id": "tt12299608"
+    "imdb_id": "tt12299608",
+    "director": "Пон Джун Хо"
   },
   {
     "title": "Ballerina",
@@ -33576,7 +34823,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ballerina-2025/",
     "rating": 7.256,
     "votes": 2703,
-    "imdb_id": "tt7181546"
+    "imdb_id": "tt7181546",
+    "director": "Лен Уайзман"
   },
   {
     "title": "Carry-On",
@@ -33599,7 +34847,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/carry-on-2024/",
     "rating": 6.881,
     "votes": 2788,
-    "imdb_id": "tt21382296"
+    "imdb_id": "tt21382296",
+    "director": "Жауме Колет-Серра"
   },
   {
     "title": "The Wild Robot",
@@ -33627,7 +34876,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-wild-robot-2024/",
     "rating": 8.314,
     "votes": 6199,
-    "imdb_id": "tt29623480"
+    "imdb_id": "tt29623480",
+    "director": "Крис Сандерс"
   },
   {
     "title": "How to Train Your Dragon",
@@ -33658,7 +34908,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/how-to-train-your-dragon-2025/",
     "rating": 7.932,
     "votes": 2903,
-    "imdb_id": "tt26743210"
+    "imdb_id": "tt26743210",
+    "director": "Дин ДеБлуа"
   },
   {
     "title": "28 Years Later",
@@ -33682,7 +34933,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/28-years-later-2025/",
     "rating": 6.6,
     "votes": 2626,
-    "imdb_id": "tt10548174"
+    "imdb_id": "tt10548174",
+    "director": "Дэнни Бойл"
   },
   {
     "title": "Jurassic World Rebirth",
@@ -33710,7 +34962,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jurassic-world-rebirth-2025/",
     "rating": 6.273,
     "votes": 3464,
-    "imdb_id": "tt31036941"
+    "imdb_id": "tt31036941",
+    "director": "Гарет Эдвардс"
   },
   {
     "title": "Superman",
@@ -33735,7 +34988,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/superman-2025/",
     "rating": 7.3,
     "votes": 4957,
-    "imdb_id": "tt5950044"
+    "imdb_id": "tt5950044",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "The Fantastic 4: First Steps",
@@ -33759,7 +35013,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-fantastic-4-first-steps-2025/",
     "rating": 6.959,
     "votes": 3445,
-    "imdb_id": "tt10676052"
+    "imdb_id": "tt10676052",
+    "director": "Мэтт Шекман"
   },
   {
     "title": "Materialists",
@@ -33782,7 +35037,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/materialists-2025/",
     "rating": 6.27,
     "votes": 1340,
-    "imdb_id": "tt30253473"
+    "imdb_id": "tt30253473",
+    "director": "Селин Сон"
   },
   {
     "title": "F1",
@@ -33806,7 +35062,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/yfVNpLIyDNJX0tMjGQeo9HZCJS7.jpg",
     "rating": 7.806,
     "votes": 4162,
-    "imdb_id": "tt16311594"
+    "imdb_id": "tt16311594",
+    "director": "Джозеф Косински"
   },
   {
     "title": "La Haine",
@@ -33827,7 +35084,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/la-haine-1995/",
     "rating": 8.1,
     "votes": 4588,
-    "imdb_id": "tt0113247"
+    "imdb_id": "tt0113247",
+    "director": "Матьё Кассовиц"
   },
   {
     "title": "The Godfather",
@@ -33863,7 +35121,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-godfather-1972/",
     "rating": 8.687,
     "votes": 23091,
-    "imdb_id": "tt0068646"
+    "imdb_id": "tt0068646",
+    "director": "Фрэнсис Форд Коппола"
   },
   {
     "title": "The Godfather Part II",
@@ -33900,7 +35159,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/tOLQ3iRDfbwhVaw3QjDzIOS7zcu.jpg",
     "rating": 8.6,
     "votes": 14004,
-    "imdb_id": "tt0071562"
+    "imdb_id": "tt0071562",
+    "director": "Фрэнсис Форд Коппола"
   },
   {
     "title": "Amélie",
@@ -33936,7 +35196,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/k6aTGIysigjJIU7X72DBbdFkrWR.jpg",
     "rating": 7.919,
     "votes": 12450,
-    "imdb_id": "tt0211915"
+    "imdb_id": "tt0211915",
+    "director": "Жан-Пьер Жёне"
   },
   {
     "title": "KPop Demon Hunters",
@@ -33965,7 +35226,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/kpop-demon-hunters-2025/",
     "rating": 8.021,
     "votes": 2936,
-    "imdb_id": "tt14205554"
+    "imdb_id": "tt14205554",
+    "director": "Крис Аппельханс, Maggie Kang"
   },
   {
     "title": "Dracula",
@@ -33992,7 +35254,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dracula-2025/",
     "rating": 7.176,
     "votes": 1304,
-    "imdb_id": "tt31434030"
+    "imdb_id": "tt31434030",
+    "director": "Люк Бессон"
   },
   {
     "title": "Transformers One",
@@ -34023,7 +35286,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/transformers-one-2024/",
     "rating": 7.969,
     "votes": 1653,
-    "imdb_id": "tt8864596"
+    "imdb_id": "tt8864596",
+    "director": "Джош Кули"
   },
   {
     "title": "Juliet of the Spirits",
@@ -34049,7 +35313,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/juliet-of-the-spirits-1965/",
     "rating": 7.2,
     "votes": 338,
-    "imdb_id": "tt0059229"
+    "imdb_id": "tt0059229",
+    "director": "Федерико Феллини"
   },
   {
     "title": "Final Fantasy: The Spirits Within",
@@ -34079,7 +35344,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/final-fantasy-the-spirits-within-2001/",
     "rating": 6.2,
     "votes": 1612,
-    "imdb_id": "tt0173840"
+    "imdb_id": "tt0173840",
+    "director": "Hironobu Sakaguchi"
   },
   {
     "title": "Final Fantasy VII: Advent Children",
@@ -34109,7 +35375,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/final-fantasy-vii-advent-children-2005/",
     "rating": 7.172,
     "votes": 1259,
-    "imdb_id": "tt0385700"
+    "imdb_id": "tt0385700",
+    "director": "野村哲也"
   },
   {
     "title": "One Battle After Another",
@@ -34136,7 +35403,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/one-battle-after-another-2025/",
     "rating": 7.346,
     "votes": 3843,
-    "imdb_id": "tt30144839"
+    "imdb_id": "tt30144839",
+    "director": "Пол Томас Андерсон"
   },
   {
     "title": "Zootopia 2",
@@ -34167,7 +35435,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/zootopia-2-2025/",
     "rating": 7.67,
     "votes": 3012,
-    "imdb_id": "tt26443597"
+    "imdb_id": "tt26443597",
+    "director": "Джаред Буш, Байрон Ховард"
   },
   {
     "title": "The Greatest Beer Run Ever",
@@ -34193,7 +35462,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-greatest-beer-run-ever-2022/",
     "rating": 7.507,
     "votes": 910,
-    "imdb_id": "tt10268488"
+    "imdb_id": "tt10268488",
+    "director": "Peter Farrelly"
   },
   {
     "title": "Stranger Things 5: The Finale",
@@ -34230,7 +35500,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/small-things-like-these-2024/",
     "rating": 6.651,
     "votes": 552,
-    "imdb_id": "tt27196021"
+    "imdb_id": "tt27196021",
+    "director": "Тим Милантс"
   },
   {
     "title": "Pride and Glory",
@@ -34261,7 +35532,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/pride-and-glory-2008/",
     "rating": 6.34,
     "votes": 959,
-    "imdb_id": "tt0482572"
+    "imdb_id": "tt0482572",
+    "director": "Гэвин О'Коннор"
   },
   {
     "title": "The Devil's Advocate",
@@ -34292,7 +35564,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-devils-advocate-1997/",
     "rating": 7.477,
     "votes": 6842,
-    "imdb_id": "tt0118971"
+    "imdb_id": "tt0118971",
+    "director": "Taylor Hackford"
   },
   {
     "title": "Chungking Express",
@@ -34326,7 +35599,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/chungking-express-1994/",
     "rating": 7.971,
     "votes": 2209,
-    "imdb_id": "tt0109424"
+    "imdb_id": "tt0109424",
+    "director": "Вон Ка-Вай"
   },
   {
     "title": "Император",
@@ -34343,7 +35617,8 @@ var movieDB = [
     "title_ru": "Император",
     "tmdb_id": 1634362,
     "poster_path": "/qhltO1FhaBEva9yWDmcfiMIaZUB.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/-2025/"
+    "letterboxd_url": "https://letterboxd.com/film/-2025/",
+    "director": "Хахуза Дмитрий"
   },
   {
     "title": "Chainsaw Man – The Movie: Reze Arc",
@@ -34374,7 +35649,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/chainsaw-man-the-movie-reze-arc-2025/",
     "rating": 8.445,
     "votes": 973,
-    "imdb_id": "tt30472557"
+    "imdb_id": "tt30472557",
+    "director": "Тацуя Ёсихара"
   },
   {
     "title": "Predator: Badlands",
@@ -34398,7 +35674,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/predator-badlands-2025/",
     "rating": 7.812,
     "votes": 3196,
-    "imdb_id": "tt31227572"
+    "imdb_id": "tt31227572",
+    "director": "Дэн Трахтенберг"
   },
   {
     "title": "The Housemaid",
@@ -34421,7 +35698,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-housemaid-2025/",
     "rating": 7.262,
     "votes": 2524,
-    "imdb_id": "tt27543632"
+    "imdb_id": "tt27543632",
+    "director": "Пол Фиг"
   },
   {
     "title": "Hoppers",
@@ -34451,7 +35729,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/hoppers-2026/",
     "rating": 8.191,
     "votes": 1771,
-    "imdb_id": "tt26443616"
+    "imdb_id": "tt26443616",
+    "director": "Дэниел Чонг"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
@@ -34478,7 +35757,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8uYxx23KyDnbDkA3eQSNECVeOiS.jpg",
     "rating": 7.726,
     "votes": 877,
-    "imdb_id": "tt32820897"
+    "imdb_id": "tt32820897",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Sinners",
@@ -34504,7 +35784,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/sinners-2025/",
     "rating": 7.493,
     "votes": 4697,
-    "imdb_id": "tt31193180"
+    "imdb_id": "tt31193180",
+    "director": "Райан Куглер"
   },
   {
     "title": "Avatar: Fire and Ash",
@@ -34528,7 +35809,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/avatar-fire-and-ash-2025/",
     "rating": 7.607,
     "votes": 3621,
-    "imdb_id": "tt1757678"
+    "imdb_id": "tt1757678",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Marty Supreme",
@@ -34551,7 +35833,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/marty-supreme-2025/",
     "rating": 7.382,
     "votes": 1891,
-    "imdb_id": "tt32916440"
+    "imdb_id": "tt32916440",
+    "director": "Джош Сафди"
   },
   {
     "title": "Peaky Blinders: The Immortal Man",
@@ -34574,7 +35857,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/peaky-blinders-the-immortal-man-2026/",
     "rating": 7.24,
     "votes": 1046,
-    "imdb_id": "tt15574124"
+    "imdb_id": "tt15574124",
+    "director": "Том Харпер"
   },
   {
     "title": "Jujutsu Kaisen 0",
@@ -34601,7 +35885,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jujutsu-kaisen-0-2021/",
     "rating": 8.104,
     "votes": 1772,
-    "imdb_id": "tt14331144"
+    "imdb_id": "tt14331144",
+    "director": "Пак Сон Ху"
   },
   {
     "title": "Frankenstein",
@@ -34628,7 +35913,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/oCxLbnBBEmUCeRcmsBrmF9jEcHd.jpg",
     "rating": 7.635,
     "votes": 3540,
-    "imdb_id": "tt1312221"
+    "imdb_id": "tt1312221",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Avatar Aang: The Last Airbender",
@@ -34654,7 +35940,8 @@ var movieDB = [
     "title_ru": "Легенда об Аанге: Последний маг воздуха",
     "tmdb_id": 980431,
     "poster_path": "/cypsdXImFEVN3NOlckf9ZVrBY6M.jpg",
-    "letterboxd_url": "https://letterboxd.com/film/avatar-aang-the-last-airbender-2026/"
+    "letterboxd_url": "https://letterboxd.com/film/avatar-aang-the-last-airbender-2026/",
+    "director": "Лорен Монтгомери"
   },
   {
     "title": "The Drama",
@@ -34680,7 +35967,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-drama-2026/",
     "rating": 6.946,
     "votes": 1112,
-    "imdb_id": "tt33071426"
+    "imdb_id": "tt33071426",
+    "director": "Кристоффер Боргли"
   },
   {
     "title": "Project Hail Mary",
@@ -34702,7 +35990,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/project-hail-mary-2026/",
     "rating": 8.691,
     "votes": 5506,
-    "imdb_id": "tt12042730"
+    "imdb_id": "tt12042730",
+    "director": "Фил Лорд, Крис Миллер"
   },
   {
     "title": "Backrooms",
@@ -34726,7 +36015,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/backrooms-2026/",
     "rating": 6.8,
     "votes": 798,
-    "imdb_id": "tt26657236"
+    "imdb_id": "tt26657236",
+    "director": "Кейн Парсонс"
   },
   {
     "title": "The Ministry of Ungentlemanly Warfare",
@@ -34753,6 +36043,7 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-ministry-of-ungentlemanly-warfare-2024/",
     "rating": 7.014,
     "votes": 1913,
-    "imdb_id": "tt5177120"
+    "imdb_id": "tt5177120",
+    "director": "Гай Ричи"
   }
 ];
