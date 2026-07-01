@@ -287,11 +287,12 @@
 
 <div class="examples" id="vibeChips"></div>
 
-<div style="text-align:center;padding:0 16px 20px;">
-  <div style="font-size:11px;color:#555;margin-bottom:4px;">🎬 Из личной коллекции Хахузы</div>
-  <div style="font-size:12px;" id="ctaLine">
-    <a href="https://t.me/pokanevkino" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:600;">@pokanevkino</a>
+<div style="text-align:center;padding:0 16px 24px;">
+  <div style="font-size:11px;color:#555;margin-bottom:3px;">🎬 Из личной коллекции Хахузы</div>
+  <div style="font-size:14px;font-weight:700;margin-bottom:3px;">
+    <a href="https://t.me/pokanevkino" target="_blank" style="color:var(--accent);text-decoration:none;">@pokanevkino</a>
   </div>
+  <div style="font-size:11px;color:#666;" id="ctaLine"></div>
 </div>
 
 <div class="result-wrap" id="resultWrap">
@@ -528,8 +529,7 @@ const ctaReasons = [
   'подпишись чтоб Яндекс не вис на маршруте',
   'подпишись и следующий твой фильм — шедевр',
 ];
-document.getElementById('ctaLine').innerHTML =
-  `<a href="https://t.me/pokanevkino" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:600;">@pokanevkino</a> <span style="color:#555;">· ${ctaReasons[Math.floor(Math.random() * ctaReasons.length)]}</span>`;
+document.getElementById('ctaLine').textContent = ctaReasons[Math.floor(Math.random() * ctaReasons.length)];
 
 // Telegram WebApp
 if (window.Telegram && window.Telegram.WebApp) {
