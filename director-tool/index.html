@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<title>🎬 Сценарный конструктор</title>
+<style>
+  :root {
+    --bg: #0a0a0a;
+    --card: #121212;
+    --border: #1e1e1e;
+    --accent: #e94560;
+    --gold: #f0a500;
+    --green: #4ecca3;
+    --text: #ddd;
+    --muted: #777;
+    --input-bg: #161616;
+    --safe-top: env(safe-area-inset-top, 0);
+    --safe-bottom: env(safe-area-inset-bottom, 0);
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body {
+    background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    min-height: 100vh;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Toolbar */
+  .toolbar {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(10,10,10,0.95); backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border);
+    padding: calc(8px + var(--safe-top)) 12px 8px;
+    display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
+  }
+  .toolbar h1 { font-size: 16px; font-weight: 800; margin-right: auto; white-space: nowrap; }
+  .toolbar .project-name {
+    background: var(--input-bg); border: 1px solid var(--border); color: var(--text);
+    border-radius: 8px; padding: 8px 10px; font-size: 13px; width: 140px; outline: none;
+  }
+  .toolbar .project-name:focus { border-color: var(--accent); }
+  .btn {
+    padding: 8px 14px; border-radius: 8px; border: 1px solid var(--border);
+    background: var(--card); color: var(--text); font-size: 12px;
+    font-weight: 600; cursor: pointer; white-space: nowrap;
+    transition: 0.15s; font-family: inherit;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .btn:active { background: #222; }
+  .btn.accent { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .btn.accent:active { background: #c23152; }
+  .btn.green { background: var(--green); border-color: var(--green); color: #000; }
+  .btn.sm { padding: 5px 10px; font-size: 11px; }
+
+  /* Scene cards */
+  .scenes-wrap {
+    padding: 0 12px calc(40px + var(--safe-bottom));
+  }
+  .scene-card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 14px; margin-bottom: 10px;
+    position: relative;
+  }
+  .scene-header {
+    display: flex; align-items: center; gap: 8px; margin-bottom: 10px;
+  }
+  .scene-num {
+    background: var(--accent); color: #fff; width: 28px; height: 28px;
+    border-radius: 8px; display: flex; align-items: center; justify-content: center;
+    font-weight: 800; font-size: 13px; flex-shrink: 0;
+  }
+  .scene-title-row { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; flex: 1; }
+  .scene-title-row input, .scene-title-row select {
+    background: var(--input-bg); border: 1px solid var(--border);
+    color: var(--text); border-radius: 6px; padding: 6px 8px;
+    font-size: 12px; font-family: inherit; outline: none; min-width: 0;
+  }
+  .scene-title-row input:focus, .scene-title-row select:focus { border-color: var(--accent); }
+  .scene-title-row select { appearance: none; padding-right: 20px; }
+  .scene-actions { display: flex; gap: 4px; margin-left: auto; }
+  .scene-actions button {
+    width: 28px; height: 28px; border-radius: 6px; border: 1px solid var(--border);
+    background: var(--input-bg); color: var(--muted); cursor: pointer;
+    font-size: 14px; display: flex; align-items: center; justify-content: center;
+  }
+  .scene-actions button:active { color: var(--accent); border-color: var(--accent); }
+
+  /* Fields grid */
+  .fields { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-bottom: 8px; }
+  .field { display: flex; flex-direction: column; gap: 2px; }
+  .field label { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; }
+  .field input, .field select, .field textarea {
+    background: var(--input-bg); border: 1px solid var(--border);
+    color: var(--text); border-radius: 6px; padding: 7px 8px;
+    font-size: 13px; font-family: inherit; outline: none; resize: vertical;
+  }
+  .field textarea { min-height: 50px; }
+  .field input:focus, .field textarea:focus, .field select:focus { border-color: var(--accent); }
+  .field.col-span-2 { grid-column: 1 / -1; }
+
+  /* Storyboard */
+  .sb-area {
+    display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px;
+    padding-top: 8px; border-top: 1px solid var(--border);
+  }
+  .sb-label { font-size: 10px; color: var(--muted); text-transform: uppercase; width: 100%; }
+  .sb-slot {
+    width: 80px; height: 60px; border-radius: 8px; border: 2px dashed var(--border);
+    display: flex; align-items: center; justify-content: center;
+    cursor: pointer; position: relative; overflow: hidden;
+    background: var(--input-bg); transition: 0.15s;
+  }
+  .sb-slot:hover, .sb-slot.drag-over { border-color: var(--accent); }
+  .sb-slot img { width: 100%; height: 100%; object-fit: cover; }
+  .sb-slot .remove-sb {
+    position: absolute; top: 2px; right: 2px;
+    width: 18px; height: 18px; border-radius: 50%;
+    background: var(--accent); color: #fff; border: none;
+    font-size: 10px; cursor: pointer; display: none;
+    align-items: center; justify-content: center;
+  }
+  .sb-slot.has-img:hover .remove-sb { display: flex; }
+  .sb-add { color: var(--muted); font-size: 24px; }
+
+  /* Empty state */
+  .empty-state {
+    text-align: center; padding: 60px 20px; color: var(--muted);
+  }
+  .empty-state .big { font-size: 48px; margin-bottom: 10px; }
+  .empty-state p { font-size: 14px; }
+
+  /* Modal for large image */
+  .img-modal {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.9);
+    display: flex; align-items: center; justify-content: center;
+    z-index: 200; cursor: pointer;
+  }
+  .img-modal img { max-width: 95vw; max-height: 95vh; border-radius: 8px; }
+</style>
+</head>
+<body>
+
+<div class="toolbar">
+  <h1>🎬 Конструктор</h1>
+  <input class="project-name" id="projectName" placeholder="Название проекта" value="Суперсолдат">
+  <button class="btn accent" onclick="addScene()">+ Сцена</button>
+  <button class="btn green" onclick="exportCSV()">📥 CSV</button>
+  <button class="btn" onclick="exportJSON()">💾 JSON</button>
+  <label class="btn" style="cursor:pointer;">📂 Загрузить <input type="file" id="loadFile" accept=".json,.csv" style="display:none" onchange="loadFile(this)"></label>
+  <span style="font-size:11px;color:var(--muted);" id="sceneCount">0 сцен</span>
+</div>
+
+<div class="scenes-wrap" id="scenesWrap">
+  <div class="empty-state">
+    <div class="big">🎥</div>
+    <p>Нажми «+ Сцена» чтобы начать</p>
+  </div>
+</div>
+
+<script>
+// ===== DATA MODEL =====
+var DEFAULT_FIELDS = [
+  { key: 'shotNo', label: 'SHOT #', type: 'text' },
+  { key: 'ieDn', label: 'I/E D/N', type: 'select', options: ['интерьер день','интерьер ночь','натура день','натура ночь','интерьер вечер'] },
+  { key: 'frame', label: 'Размер кадра', type: 'text' },
+  { key: 'subject', label: 'Субъект', type: 'text' },
+  { key: 'angle', label: 'Угол', type: 'select', options: ['прямой','низкий угол','верхний угол','рандом','с плеча','прямой на уровне глаз'] },
+  { key: 'lens', label: 'Линза', type: 'text' },
+  { key: 'equipment', label: 'Оборудование', type: 'select', options: ['РУКИ','ШТАТИВ','Стедикам','Слайдер','Кран','Дрон'] },
+  { key: 'cameraMove', label: 'Движение камеры', type: 'select', options: ['статика','легкий наезд','легкий отъезд','панорама','рваная съемка','3 синхрона','x'] },
+  { key: 'action', label: 'Действие', type: 'textarea' },
+  { key: 'notes', label: 'Заметки', type: 'textarea' },
+  { key: 'opNotes', label: 'Заметки ОПЕР', type: 'textarea' },
+  { key: 'text', label: 'Текст', type: 'textarea' },
+  { key: 'timing', label: 'Тайминг', type: 'text' },
+  { key: 'location', label: 'Локация', type: 'text' },
+];
+
+var scenes = [];
+var sceneIdCounter = 1;
+
+// ===== STORAGE =====
+function saveToStorage() {
+  var data = {
+    projectName: document.getElementById('projectName').value,
+    scenes: scenes,
+    sceneIdCounter: sceneIdCounter
+  };
+  localStorage.setItem('director_script', JSON.stringify(data));
+}
+
+function loadFromStorage() {
+  var raw = localStorage.getItem('director_script');
+  if (!raw) return false;
+  try {
+    var data = JSON.parse(raw);
+    scenes = data.scenes || [];
+    sceneIdCounter = data.sceneIdCounter || 1;
+    document.getElementById('projectName').value = data.projectName || '';
+    return true;
+  } catch(e) { return false; }
+}
+
+// ===== RENDER =====
+function renderScenes() {
+  var wrap = document.getElementById('scenesWrap');
+  document.getElementById('sceneCount').textContent = scenes.length + ' сцен';
+  if (scenes.length === 0) {
+    wrap.innerHTML = '<div class="empty-state"><div class="big">🎥</div><p>Нажми «+ Сцена» чтобы начать</p></div>';
+    return;
+  }
+  var html = '';
+  scenes.forEach(function(s, idx) {
+    var num = (idx + 1);
+    html += '<div class="scene-card" id="scene-'+s.id+'">';
+    // Header
+    html += '<div class="scene-header">';
+    html += '<div class="scene-num">'+num+'</div>';
+    html += '<div class="scene-title-row">';
+    html += '<select onchange="updateField('+s.id+',\'ieDn\',this.value)" style="width:100px">'+selOpts('ieDn',s.ieDn)+'</select>';
+    html += '<select onchange="updateField('+s.id+',\'equipment\',this.value)" style="width:80px">'+selOpts('equipment',s.equipment)+'</select>';
+    html += '<select onchange="updateField('+s.id+',\'cameraMove\',this.value)" style="width:110px">'+selOpts('cameraMove',s.cameraMove)+'</select>';
+    html += '<input value="'+(s.shotNo||'')+'" placeholder="SHOT #" style="width:60px" onchange="updateField('+s.id+',\'shotNo\',this.value)">';
+    html += '</div>';
+    html += '<div class="scene-actions">';
+    html += '<button onclick="moveScene('+idx+',-1)" title="Вверх">↑</button>';
+    html += '<button onclick="moveScene('+idx+',1)" title="Вниз">↓</button>';
+    html += '<button onclick="dupeScene('+idx+')" title="Копия">⧉</button>';
+    html += '<button onclick="deleteScene('+idx+')" title="Удалить" style="color:var(--accent)">✕</button>';
+    html += '</div></div>';
+
+    // Fields
+    html += '<div class="fields">';
+    DEFAULT_FIELDS.forEach(function(f) {
+      if (f.key === 'ieDn' || f.key === 'equipment' || f.key === 'cameraMove' || f.key === 'shotNo') return; // already in header
+      var val = (s[f.key] || '');
+      if (f.type === 'textarea') {
+        html += '<div class="field col-span-2"><label>'+f.label+'</label><textarea onchange="updateField('+s.id+',\''+f.key+'\',this.value)" rows="2">'+esc(val)+'</textarea></div>';
+      } else if (f.type === 'select') {
+        html += '<div class="field"><label>'+f.label+'</label><select onchange="updateField('+s.id+',\''+f.key+'\',this.value)">'+selOpts(f.key,val,false)+'</select></div>';
+      } else {
+        html += '<div class="field"><label>'+f.label+'</label><input value="'+esc(val)+'" onchange="updateField('+s.id+',\''+f.key+'\',this.value)"></div>';
+      }
+    });
+    html += '</div>';
+
+    // Storyboard
+    html += '<div class="sb-area">';
+    html += '<div class="sb-label">📸 Раскадровка (клик для фото)</div>';
+    var sbs = s.storyboard || [];
+    for (var si = 0; si < 4; si++) {
+      var img = sbs[si] || '';
+      html += '<div class="sb-slot'+(img?' has-img':'')+'" onclick="addPhoto('+s.id+','+si+')" id="sb-'+s.id+'-'+si+'">';
+      if (img) {
+        html += '<img src="'+img+'">';
+        html += '<button class="remove-sb" onclick="event.stopPropagation();removePhoto('+s.id+','+si+')">✕</button>';
+      } else {
+        html += '<span class="sb-add">+</span>';
+      }
+      html += '</div>';
+    }
+    html += '</div>';
+    html += '</div>';
+  });
+  wrap.innerHTML = html;
+  saveToStorage();
+}
+
+function selOpts(key, val, includeEmpty) {
+  var f = DEFAULT_FIELDS.find(function(x){ return x.key===key; });
+  var opts = f ? (f.options||[]) : [];
+  var h = (includeEmpty !== false) ? '<option value="">—</option>' : '';
+  opts.forEach(function(o) {
+    h += '<option value="'+o+'"'+(o===val?' selected':'')+'>'+o+'</option>';
+  });
+  return h;
+}
+
+function esc(s) { return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+// ===== ACTIONS =====
+function addScene() {
+  var s = { id: sceneIdCounter++ };
+  DEFAULT_FIELDS.forEach(function(f) { s[f.key] = ''; });
+  s.storyboard = [];
+  scenes.push(s);
+  renderScenes();
+  setTimeout(function() {
+    var el = document.getElementById('scene-'+s.id);
+    if (el) el.scrollIntoView({ behavior:'smooth', block:'center' });
+  }, 100);
+}
+
+function updateField(id, key, value) {
+  var s = scenes.find(function(x){ return x.id===id; });
+  if (!s) return;
+  s[key] = value;
+  saveToStorage();
+}
+
+function deleteScene(idx) {
+  if (!confirm('Удалить сцену #'+(idx+1)+'?')) return;
+  scenes.splice(idx, 1);
+  renderScenes();
+}
+
+function dupeScene(idx) {
+  var orig = scenes[idx];
+  var s = JSON.parse(JSON.stringify(orig));
+  s.id = sceneIdCounter++;
+  scenes.splice(idx+1, 0, s);
+  renderScenes();
+}
+
+function moveScene(idx, dir) {
+  var newIdx = idx + dir;
+  if (newIdx < 0 || newIdx >= scenes.length) return;
+  var tmp = scenes[idx];
+  scenes[idx] = scenes[newIdx];
+  scenes[newIdx] = tmp;
+  renderScenes();
+}
+
+// ===== PHOTOS =====
+var photoTarget = null; // {sceneId, slotIdx}
+
+function addPhoto(id, slot) {
+  photoTarget = { sceneId: id, slotIdx: slot };
+  var input = document.createElement('input');
+  input.type = 'file';
+  input.accept = 'image/*';
+  input.onchange = function() {
+    var file = input.files[0];
+    if (!file) return;
+    // If file is > 500KB, resize
+    if (file.size > 500000) {
+      resizeImage(file, 800, function(dataUrl) {
+        savePhoto(photoTarget.sceneId, photoTarget.slotIdx, dataUrl);
+      });
+    } else {
+      var reader = new FileReader();
+      reader.onload = function(e) { savePhoto(photoTarget.sceneId, photoTarget.slotIdx, e.target.result); };
+      reader.readAsDataURL(file);
+    }
+  };
+  input.click();
+}
+
+function resizeImage(file, maxDim, cb) {
+  var reader = new FileReader();
+  reader.onload = function(e) {
+    var img = new Image();
+    img.onload = function() {
+      var w = img.width, h = img.height;
+      if (w > maxDim || h > maxDim) {
+        var ratio = Math.min(maxDim/w, maxDim/h);
+        w = Math.round(w*ratio); h = Math.round(h*ratio);
+      }
+      var canvas = document.createElement('canvas');
+      canvas.width = w; canvas.height = h;
+      canvas.getContext('2d').drawImage(img, 0, 0, w, h);
+      cb(canvas.toDataURL('image/jpeg', 0.7));
+    };
+    img.src = e.target.result;
+  };
+  reader.readAsDataURL(file);
+}
+
+function savePhoto(sceneId, slotIdx, dataUrl) {
+  var s = scenes.find(function(x){ return x.id===sceneId; });
+  if (!s) return;
+  if (!s.storyboard) s.storyboard = [];
+  s.storyboard[slotIdx] = dataUrl;
+  renderScenes();
+}
+
+function removePhoto(sceneId, slotIdx) {
+  var s = scenes.find(function(x){ return x.id===sceneId; });
+  if (!s || !s.storyboard) return;
+  s.storyboard[slotIdx] = null;
+  renderScenes();
+}
+
+// Click on storyboard image to view full size
+document.addEventListener('click', function(e) {
+  var img = e.target.closest('.sb-slot img');
+  if (!img) return;
+  var modal = document.createElement('div');
+  modal.className = 'img-modal';
+  modal.innerHTML = '<img src="'+img.src+'">';
+  modal.onclick = function() { modal.remove(); };
+  document.body.appendChild(modal);
+});
+
+// ===== IMPORT/EXPORT =====
+function exportCSV() {
+  var rows = [];
+  // Header
+  var header = ['SHOT #','I/E D/N','Размер кадра','Субъект','Угол','Линза','Оборудование','Движение камеры','Действие','Заметки','Заметки ОПЕР','Текст','Тайминг','Локация'];
+  rows.push(header.join(','));
+
+  scenes.forEach(function(s) {
+    var row = DEFAULT_FIELDS.filter(function(f){ return f.key !== 'storyboard'; }).map(function(f){ return '"'+(s[f.key]||'').replace(/"/g,'""')+'"'; });
+    rows.push(row.join(','));
+  });
+
+  var csv = '\uFEFF' + rows.join('\n');
+  var blob = new Blob([csv], {type:'text/csv;charset=utf-8'});
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = (document.getElementById('projectName').value||'scenario') + '.csv';
+  a.click();
+}
+
+function exportJSON() {
+  var data = {
+    projectName: document.getElementById('projectName').value,
+    scenes: scenes
+  };
+  var blob = new Blob([JSON.stringify(data, null, 2)], {type:'application/json'});
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = (document.getElementById('projectName').value||'scenario') + '.json';
+  a.click();
+}
+
+function loadFile(input) {
+  var file = input.files[0];
+  if (!file) return;
+  var reader = new FileReader();
+  reader.onload = function(e) {
+    var content = e.target.result;
+    if (file.name.endsWith('.json')) {
+      var data = JSON.parse(content);
+      document.getElementById('projectName').value = data.projectName || '';
+      scenes = data.scenes || [];
+      sceneIdCounter = Math.max.apply(null, scenes.map(function(s){return s.id;}).concat([1])) + 1;
+      renderScenes();
+    } else if (file.name.endsWith('.csv')) {
+      importCSV(content);
+    }
+  };
+  reader.readAsText(file);
+  input.value = '';
+}
+
+function importCSV(content) {
+  var lines = content.split('\n');
+  if (lines.length < 2) return;
+  // Parse header
+  var header = lines[0].split(',').map(function(h){ return h.replace(/"/g,'').trim(); });
+  // Map CSV columns to field keys
+  var colMap = {
+    'SHOT #': 'shotNo', 'I/E D/N': 'ieDn', 'Размер кадра': 'frame', 'Субъект': 'subject',
+    'Угол': 'angle', 'Линза': 'lens', 'Оборудование': 'equipment', 'Движение камеры': 'cameraMove',
+    'Действие': 'action', 'Заметки': 'notes', 'Заметки ОПЕР': 'opNotes', 'Текст': 'text',
+    'Тайминг': 'timing', 'Локация': 'location', 'тайминг трека': 'timing', 'локация': 'location'
+  };
+  var imported = [];
+  for (var i = 1; i < lines.length; i++) {
+    var cols = parseCSVLine(lines[i]);
+    if (cols.length === 0 || (cols.length === 1 && !cols[0])) continue;
+    var s = { id: sceneIdCounter++, storyboard: [] };
+    DEFAULT_FIELDS.forEach(function(f){ s[f.key] = ''; });
+    for (var j = 0; j < Math.min(cols.length, header.length); j++) {
+      var fieldKey = colMap[header[j]];
+      if (fieldKey) s[fieldKey] = cols[j];
+    }
+    // Detect if first column is X (marker) or shot number
+    if (cols[0] && /^\d+$/.test(cols[0]) && !s.shotNo) s.shotNo = cols[0];
+    imported.push(s);
+  }
+  if (imported.length > 0) {
+    if (scenes.length > 0 && !confirm('Добавить к существующим сценам? (OK = добавить, Отмена = заменить)')) {
+      scenes = imported;
+    } else {
+      scenes = scenes.concat(imported);
+    }
+    renderScenes();
+  }
+}
+
+function parseCSVLine(line) {
+  var result = [];
+  var current = '';
+  var inQuotes = false;
+  for (var i = 0; i < line.length; i++) {
+    var ch = line[i];
+    if (inQuotes) {
+      if (ch === '"') {
+        if (i+1 < line.length && line[i+1] === '"') { current += '"'; i++; }
+        else { inQuotes = false; }
+      } else { current += ch; }
+    } else {
+      if (ch === '"') { inQuotes = true; }
+      else if (ch === ',') { result.push(current.trim()); current = ''; }
+      else { current += ch; }
+    }
+  }
+  result.push(current.trim());
+  return result;
+}
+
+// Save project name on change
+document.getElementById('projectName').addEventListener('input', saveToStorage);
+
+// ===== INIT =====
+if (!loadFromStorage()) {
+  // Try loading CSV from Google Sheets
+  renderScenes();
+} else {
+  renderScenes();
+}
+</script>
+</body>
+</html>
