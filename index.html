@@ -404,7 +404,7 @@ function findMovie() {
           <div class="alt-list">
             ${alternatives.map(a => `
               <span class="alt-chip" onclick="quickPick('${a.title.replace(/'/g, "\\'")}')">
-                ${a.poster} ${a.title} (${a.year})
+                ${a.title_ru && a.title_ru !== 'N/A' ? a.title_ru : a.title} (${a.year})
               </span>
             `).join('')}
           </div>
