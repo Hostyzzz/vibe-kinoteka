@@ -400,36 +400,33 @@ function findMovie() {
 
   setTimeout(() => {
     const lower = query.toLowerCase();
-    const isBest = /\u043B\u0443\u0447\u0448|best|top|\u0442\u043E\u043F/.test(lower);
-    const isWorst = /\u0445\u0443\u0434\u0448|worst/.test(lower);
+    const isBest = /\u043B\u0443\u0447\u0448|\u043A\u043B\u0430\u0441\u0441\u043D|\u043E\u0444\u0438\u0433\u0435\u043D|\u0438\u043C\u0431\u0430|\u043F\u0443\u0448\u043A\u0430|\u043E\u0433\u043E\u043D\u044C|\u0441\u0430\u043C\u044B\u0439|best|top|\u0442\u043E\u043F|\u043A\u0440\u0443\u0442|\u043E\u0442\u043B\u0438\u0447\u043D/.test(lower);
+    const isWorst = /\u0445\u0443\u0434\u0448|\u043E\u0442\u0441\u0442\u043E\u0439|\u0443\u0436\u0430\u0441\u043D|\u043F\u043B\u043E\u0445|worst|\u0434\u043D\u043E/.test(lower);
 
     let scored;
 
-    // Best/worst + director search
-    if ((isBest || isWorst) && movieDB.some(f => f.director && f.rating)) {
-      const dirFilms = movieDB.filter(f => {
-        return f.director && f.rating && f.director.toLowerCase().split(', ').some(d => {
-          return d.toLowerCase().split(' ').some(part => {
+    // Best/worst search (with or without director)
+    if (isBest || isWorst) {
+      // Try director filter first
+      var dirFilms = movieDB.filter(function(f) {
+        return f.director && f.rating && f.director.toLowerCase().split(', ').some(function(d) {
+          return d.toLowerCase().split(' ').some(function(part) {
             if (part.length < 4) return false;
             if (lower.includes(part)) return true;
-            return lower.split(/[\s,]+/).some(qw =>
-              qw.length >= part.length - 1 && qw.startsWith(part)
-            );
+            return lower.split(/[\s,]+/).some(function(qw) {
+              return qw.length >= part.length - 1 && qw.startsWith(part);
+            });
           });
         });
       });
-      if (dirFilms.length >= 2) {
-        dirFilms.sort((a, b) => isWorst ? a.rating - b.rating : b.rating - a.rating);
-        // Score them and return top 3
-        scored = dirFilms.map(m => ({ movie: m, score: matchScore(m, query) }));
-        scored.sort((a, b) => b.score - a.score);
-        var topBest = scored.filter(s => s.score > 0).slice(0, 3);
-        topBest.sort((a, b) => isWorst ? a.movie.rating - b.movie.rating : b.movie.rating - a.movie.rating);
-        scored = topBest.concat(scored.filter(s => !topBest.includes(s) && s.score > 0).slice(0, 4));
-      } else {
-        scored = movieDB.map(m => ({ movie: m, score: matchScore(m, query) }));
-        scored.sort((a, b) => b.score - a.score);
-      }
+
+      var pool = dirFilms.length >= 2 ? dirFilms : movieDB.filter(function(f) { return f.rating; });
+      pool.sort(function(a, b) { return isWorst ? a.rating - b.rating : b.rating - a.rating; });
+      scored = pool.map(function(m) { return { movie: m, score: matchScore(m, query) }; });
+      scored.sort(function(a, b) { return b.score - a.score; });
+      var topBest = scored.filter(function(s) { return s.score > 0; }).slice(0, 3);
+      topBest.sort(function(a, b) { return isWorst ? a.movie.rating - b.movie.rating : b.movie.rating - a.movie.rating; });
+      scored = topBest.length > 0 ? topBest : scored.slice(0, 1);
     } else {
       scored = movieDB.map(m => ({ movie: m, score: matchScore(m, query) }));
       scored.sort((a, b) => b.score - a.score);
