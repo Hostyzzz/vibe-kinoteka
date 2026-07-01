@@ -308,7 +308,7 @@
 function matchScore(movie, query) {
   const q = query.toLowerCase();
   let score = 0;
-  const allText = [...movie.vibes, ...movie.tags, ...(movie.location || []), movie.title.toLowerCase(), movie.why || ''].join(' ');
+  const allText = [...movie.vibes, ...movie.tags, ...(movie.location || []), movie.title.toLowerCase(), (movie.title_ru || '').toLowerCase(), movie.why || '', (movie.director || '')].join(' ');
 
   const stopWords = new Set(['хочу', 'дай', 'покажи', 'нужен', 'нужна', 'нужно', 'надо', 'ищу', 'подбери', 'посоветуй', 'что', 'какой', 'какая', 'какое', 'мне', 'я', 'бы', 'чтоб', 'чтобы', 'просто', 'очень', 'вообще', 'в', 'на', 'с', 'и', 'а', 'но']);
   const qWords = q.split(/[\s,]+/).filter(w => w.length > 1 && !stopWords.has(w.toLowerCase()));
@@ -351,6 +351,8 @@ function matchScore(movie, query) {
     ['смешн', 'комеди', 'ржа', 'юмор'],
     ['энерг', 'драйв', 'мотивац', 'пинок'],
     ['смысл', 'выгоран', 'кризис', 'зачем'],
+    ['романтик', 'любов', 'свидан', 'поцелуй', 'нежност'],
+    ['динамич', 'экшн', 'боев', 'взрыв', 'погон', 'перестрел'],
   ];
   for (const group of phrases) {
     if (group.some(p => q.includes(p))) {
@@ -361,6 +363,15 @@ function matchScore(movie, query) {
         if (group.some(p => tag.toLowerCase().includes(p))) score += 3;
       }
     }
+  }
+
+  // Director bonus
+  if (movie.director) {
+    const dirLow = movie.director.toLowerCase();
+    for (const w of qWords) {
+      if (w.length > 2 && dirLow.includes(w)) { score += 15; matchedWords++; }
+    }
+    if (dirLow.includes(q.replace(/\s+/g, ''))) score += 10;
   }
 
   return score;

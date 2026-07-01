@@ -26,7 +26,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/rqpa5dO2zZIHqknnJr8LKwiYHy8.jpg",
     "title_ru": "THE ORAL CIGARETTES Live DVD & Blu-ray「PARASITE DEJAVU 2019 at IZUMIOTSU PHOENIX」",
     "tmdb_id": 496243,
-    "poster_path": "/9xL2PwIOerz8jld06J9cxwuJfoD.jpg"
+    "poster_path": "/9xL2PwIOerz8jld06J9cxwuJfoD.jpg",
+    "director": "Пон Джун Хо"
   },
   {
     "title": "Knives Out",
@@ -52,7 +53,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/knives-out-2019/",
     "title_ru": "Достать ножи",
     "tmdb_id": 546554,
-    "poster_path": "/mGfb75tcFWxuT8esS1isHrNFE90.jpg"
+    "poster_path": "/mGfb75tcFWxuT8esS1isHrNFE90.jpg",
+    "director": "Райан Джонсон"
   },
   {
     "title": "Pulp Fiction",
@@ -84,7 +86,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/pulp-fiction-1994/",
     "title_ru": "Криминальное чтиво",
     "tmdb_id": 680,
-    "poster_path": "/dzkW0SKRUaQ46PruMA9lQscgQl4.jpg"
+    "poster_path": "/dzkW0SKRUaQ46PruMA9lQscgQl4.jpg",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Inception",
@@ -118,7 +121,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/inception-2010/",
     "title_ru": "Начало",
     "tmdb_id": 27205,
-    "poster_path": "/piQXcdOGgv1O9HQ07pI0tnjkGJw.jpg"
+    "poster_path": "/piQXcdOGgv1O9HQ07pI0tnjkGJw.jpg",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Spider-Man: Into the Spider-Verse",
@@ -143,7 +147,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/wmEKJr81CABBU68Qy2wYPwQHn0L.jpg",
     "title_ru": "Человек-паук: Через вселенные",
     "tmdb_id": 324857,
-    "poster_path": "/wmEKJr81CABBU68Qy2wYPwQHn0L.jpg"
+    "poster_path": "/wmEKJr81CABBU68Qy2wYPwQHn0L.jpg",
+    "director": "Боб Персичетти, Питер Рэмси, Родни Ротман"
   },
   {
     "title": "Fight Club",
@@ -175,7 +180,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/fight-club-1999/",
     "title_ru": "Бойцовский клуб",
     "tmdb_id": 550,
-    "poster_path": "/66RvLrRJTm4J8l3uHXWF09AICol.jpg"
+    "poster_path": "/66RvLrRJTm4J8l3uHXWF09AICol.jpg",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "The Dark Knight",
@@ -208,7 +214,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
     "title_ru": "Тёмный рыцарь",
     "tmdb_id": 155,
-    "poster_path": "/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg"
+    "poster_path": "/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Once Upon a Time... in Hollywood",
@@ -237,7 +244,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/once-upon-a-time-in-hollywood-2019/",
     "title_ru": "Однажды в… Голливуде",
     "tmdb_id": 466272,
-    "poster_path": "/muqDW2S3rkZKAVLv4TE47IYg3O6.jpg"
+    "poster_path": "/muqDW2S3rkZKAVLv4TE47IYg3O6.jpg",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "The Grand Budapest Hotel",
@@ -269,7 +277,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-grand-budapest-hotel-2014/",
     "title_ru": "Отель «Гранд Будапешт»",
     "tmdb_id": 120467,
-    "poster_path": "/5qFxj03eBrkI0bUiGIonb4e0AI4.jpg"
+    "poster_path": "/5qFxj03eBrkI0bUiGIonb4e0AI4.jpg",
+    "director": "Уэс Андерсон"
   },
   {
     "title": "La La Land",
@@ -301,7 +310,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/la-la-land-2016/",
     "title_ru": "Ла-Ла Ленд",
     "tmdb_id": 313369,
-    "poster_path": "/g7f8GdnJKS0Z3QJ5G6P9BZrqs36.jpg"
+    "poster_path": "/g7f8GdnJKS0Z3QJ5G6P9BZrqs36.jpg",
+    "director": "Дэмьен Шазелл"
   },
   {
     "title": "Interstellar",
@@ -333,7 +343,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/interstellar-2014/",
     "title_ru": "Интерстеллар",
     "tmdb_id": 157336,
-    "poster_path": "/vReLRjDV9XPhiOSEW7QWow4DXwf.jpg"
+    "poster_path": "/vReLRjDV9XPhiOSEW7QWow4DXwf.jpg",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Avengers: Infinity War",
@@ -361,7 +372,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/avengers-infinity-war-2018/",
     "title_ru": "Мстители: Война бесконечности",
     "tmdb_id": 299536,
-    "poster_path": "/c6RSGB6O0RaaHG3JGLq8lnUJSBC.jpg"
+    "poster_path": "/c6RSGB6O0RaaHG3JGLq8lnUJSBC.jpg",
+    "director": "Энтони Руссо, Джо Руссо"
   },
   {
     "title": "The Shining",
@@ -394,7 +406,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-shining-1980/",
     "title_ru": "Сияние",
     "tmdb_id": 694,
-    "poster_path": "/bu3Qb0fpAFtTLcRAPgj8bK5KrIG.jpg"
+    "poster_path": "/bu3Qb0fpAFtTLcRAPgj8bK5KrIG.jpg",
+    "director": "Стэнли Кубрик"
   },
   {
     "title": "The Wolf of Wall Street",
@@ -426,7 +439,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-wolf-of-wall-street-2013/",
     "title_ru": "Волк с Уолл-стрит",
     "tmdb_id": 106646,
-    "poster_path": "/ihlWMaVZVXFzxU5wwZnbHJZ7Zpx.jpg"
+    "poster_path": "/ihlWMaVZVXFzxU5wwZnbHJZ7Zpx.jpg",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "Baby Driver",
@@ -449,7 +463,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/rKfAeHAdN6AswpW1Q1kOD8cZD5.jpg",
     "title_ru": "Малыш на драйве",
     "tmdb_id": 339403,
-    "poster_path": "/rKfAeHAdN6AswpW1Q1kOD8cZD5.jpg"
+    "poster_path": "/rKfAeHAdN6AswpW1Q1kOD8cZD5.jpg",
+    "director": "Эдгар Райт"
   },
   {
     "title": "Inglourious Basterds",
@@ -481,7 +496,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/inglourious-basterds-2009/",
     "title_ru": "Бесславные ублюдки",
     "tmdb_id": 16869,
-    "poster_path": "/cUWnHMRFC1fVQDALtUaGmrJ6MqP.jpg"
+    "poster_path": "/cUWnHMRFC1fVQDALtUaGmrJ6MqP.jpg",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Avengers: Endgame",
@@ -509,7 +525,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/avengers-endgame-2019/",
     "title_ru": "Мстители: Финал",
     "tmdb_id": 299534,
-    "poster_path": "/dynnf8NGGfHTNMz8Vd3CzFtYjec.jpg"
+    "poster_path": "/dynnf8NGGfHTNMz8Vd3CzFtYjec.jpg",
+    "director": "Джо Руссо, Энтони Руссо"
   },
   {
     "title": "Black Panther",
@@ -537,7 +554,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ndpwgAANbZSMwgTcxmQ7o4SKDsd.jpg",
     "title_ru": "Чёрная Пантера",
     "tmdb_id": 284054,
-    "poster_path": "/ndpwgAANbZSMwgTcxmQ7o4SKDsd.jpg"
+    "poster_path": "/ndpwgAANbZSMwgTcxmQ7o4SKDsd.jpg",
+    "director": "Райан Куглер"
   },
   {
     "title": "Dune",
@@ -567,7 +585,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dune-2021/",
     "title_ru": "Дюна",
     "tmdb_id": 438631,
-    "poster_path": "/3hbXNclcHaj5KiF6kK41GBMjyFr.jpg"
+    "poster_path": "/3hbXNclcHaj5KiF6kK41GBMjyFr.jpg",
+    "director": "Дени Вильнёв"
   },
   {
     "title": "Whiplash",
@@ -598,7 +617,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nq3mYsTXx6086nFXxzDReQI0J1S.jpg",
     "title_ru": "Одержимость",
     "tmdb_id": 244786,
-    "poster_path": "/nq3mYsTXx6086nFXxzDReQI0J1S.jpg"
+    "poster_path": "/nq3mYsTXx6086nFXxzDReQI0J1S.jpg",
+    "director": "Дэмьен Шазелл"
   },
   {
     "title": "Spirited Away",
@@ -629,7 +649,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/spirited-away-2001/",
     "title_ru": "Унесённые призраками",
     "tmdb_id": 129,
-    "poster_path": "/5TC0SLHRu19fHdigQnxONjwq1iE.jpg"
+    "poster_path": "/5TC0SLHRu19fHdigQnxONjwq1iE.jpg",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "The Social Network",
@@ -660,7 +681,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-social-network-2010/",
     "title_ru": "Социальная сеть",
     "tmdb_id": 37799,
-    "poster_path": "/mS14zRPoZxR7bmJ9m9JQT72cS3v.jpg"
+    "poster_path": "/mS14zRPoZxR7bmJ9m9JQT72cS3v.jpg",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "The Matrix",
@@ -687,7 +709,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-matrix-1999/",
     "title_ru": "Матрица",
     "tmdb_id": 603,
-    "poster_path": "/kEDbym5htJgDQNenjUtSJxAHysB.jpg"
+    "poster_path": "/kEDbym5htJgDQNenjUtSJxAHysB.jpg",
+    "director": "Ларри Вачовски, Энди Вачовски"
   },
   {
     "title": "Eternal Sunshine of the Spotless Mind",
@@ -715,7 +738,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind-2004/",
     "title_ru": "Вечное сияние чистого разума",
     "tmdb_id": 38,
-    "poster_path": "/sigtn1tCMBOcHUB4kAMapb5tO4U.jpg"
+    "poster_path": "/sigtn1tCMBOcHUB4kAMapb5tO4U.jpg",
+    "director": "Michel Gondry"
   },
   {
     "title": "Guardians of the Galaxy",
@@ -743,7 +767,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/4uVdNj0FWCjtG1jEYASuNzE33LS.jpg",
     "title_ru": "Стражи Галактики",
     "tmdb_id": 118340,
-    "poster_path": "/4uVdNj0FWCjtG1jEYASuNzE33LS.jpg"
+    "poster_path": "/4uVdNj0FWCjtG1jEYASuNzE33LS.jpg",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "Arrival",
@@ -765,7 +790,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/3K1byNV0CfChvJFNbe2ZAkiro4U.jpg",
     "title_ru": "Прибытие",
     "tmdb_id": 329865,
-    "poster_path": "/3K1byNV0CfChvJFNbe2ZAkiro4U.jpg"
+    "poster_path": "/3K1byNV0CfChvJFNbe2ZAkiro4U.jpg",
+    "director": "Дени Вильнёв"
   },
   {
     "title": "Django Unchained",
@@ -792,7 +818,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/django-unchained-2012/",
     "title_ru": "Джанго освобождённый",
     "tmdb_id": 68718,
-    "poster_path": "/9TqgGueg974s9Vw3U1rCYK30QP3.jpg"
+    "poster_path": "/9TqgGueg974s9Vw3U1rCYK30QP3.jpg",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "The Silence of the Lambs",
@@ -820,7 +847,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-silence-of-the-lambs-1991/",
     "title_ru": "Молчание ягнят",
     "tmdb_id": 274,
-    "poster_path": "/5vhSSCYd6DIVleZBYDxdgzc6i8w.jpg"
+    "poster_path": "/5vhSSCYd6DIVleZBYDxdgzc6i8w.jpg",
+    "director": "Джонатан Демми"
   },
   {
     "title": "Mad Max: Fury Road",
@@ -851,7 +879,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mad-max-fury-road-2015/",
     "title_ru": "Безумный Макс: Дорога Ярости",
     "tmdb_id": 76341,
-    "poster_path": "/8FM6AhLMX3X6OcZjfmH24F4rKMI.jpg"
+    "poster_path": "/8FM6AhLMX3X6OcZjfmH24F4rKMI.jpg",
+    "director": "Джордж Миллер"
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -874,7 +903,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/qad0kyRLHG1Qccp2A0YCCUbvhiD.jpg",
     "title_ru": "Человек-паук: Нет пути домой",
     "tmdb_id": 634649,
-    "poster_path": "/qad0kyRLHG1Qccp2A0YCCUbvhiD.jpg"
+    "poster_path": "/qad0kyRLHG1Qccp2A0YCCUbvhiD.jpg",
+    "director": "Джон Уоттс"
   },
   {
     "title": "Kill Bill: Vol. 1",
@@ -902,7 +932,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/kill-bill-vol-1-2003/",
     "title_ru": "Убить Билла",
     "tmdb_id": 24,
-    "poster_path": "/1VX7EXBro1ufMfxErlsgMyBc5bQ.jpg"
+    "poster_path": "/1VX7EXBro1ufMfxErlsgMyBc5bQ.jpg",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Scott Pilgrim vs. the World",
@@ -930,7 +961,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/scott-pilgrim-vs-the-world-2010/",
     "title_ru": "Скотт Пилигрим против всех",
     "tmdb_id": 22538,
-    "poster_path": "/8luANhMDPdKxESb5j3nI0BVG149.jpg"
+    "poster_path": "/8luANhMDPdKxESb5j3nI0BVG149.jpg",
+    "director": "Эдгар Райт"
   },
   {
     "title": "Spider-Man: Homecoming",
@@ -958,7 +990,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/spider-man-homecoming-2017/",
     "title_ru": "Человек-паук: Возвращение домой",
     "tmdb_id": 315635,
-    "poster_path": "/gBCq5vt7XXUMjfxi2OguArduUKP.jpg"
+    "poster_path": "/gBCq5vt7XXUMjfxi2OguArduUKP.jpg",
+    "director": "Джон Уоттс"
   },
   {
     "title": "Thor: Ragnarok",
@@ -983,7 +1016,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/7pzUsnFD4T8Syeqaojcb9zheR3H.jpg",
     "title_ru": "Тор: Рагнарёк",
     "tmdb_id": 284053,
-    "poster_path": "/7pzUsnFD4T8Syeqaojcb9zheR3H.jpg"
+    "poster_path": "/7pzUsnFD4T8Syeqaojcb9zheR3H.jpg",
+    "director": "Тайка Вайтити"
   },
   {
     "title": "Forrest Gump",
@@ -1015,7 +1049,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/forrest-gump-1994/",
     "title_ru": "Форрест Гамп",
     "tmdb_id": 13,
-    "poster_path": "/ejDjdjHHE1T0T7Bo8Ghj2y8gR02.jpg"
+    "poster_path": "/ejDjdjHHE1T0T7Bo8Ghj2y8gR02.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Se7en",
@@ -1048,7 +1083,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/se7en-1995/",
     "title_ru": "Семь",
     "tmdb_id": 807,
-    "poster_path": "/1e7WmKXLo6xqibkYBwwGWOcF43E.jpg"
+    "poster_path": "/1e7WmKXLo6xqibkYBwwGWOcF43E.jpg",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "Soul",
@@ -1076,7 +1112,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/soul-2020/",
     "title_ru": "Душа",
     "tmdb_id": 508442,
-    "poster_path": "/jZkksyMZdTYw7fIVKyA95nFEPnt.jpg"
+    "poster_path": "/jZkksyMZdTYw7fIVKyA95nFEPnt.jpg",
+    "director": "Пит Доктер"
   },
   {
     "title": "Moonlight",
@@ -1104,7 +1141,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8DD8b6jcAAWLFM55vM51UhYT42h.jpg",
     "title_ru": "Лунный свет",
     "tmdb_id": 376867,
-    "poster_path": "/8DD8b6jcAAWLFM55vM51UhYT42h.jpg"
+    "poster_path": "/8DD8b6jcAAWLFM55vM51UhYT42h.jpg",
+    "director": "Барри Дженкинс"
   },
   {
     "title": "Black Swan",
@@ -1131,7 +1169,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/black-swan-2010/",
     "title_ru": "Чёрный лебедь",
     "tmdb_id": 44214,
-    "poster_path": "/gaNI208wIqL1DD76pg1Mu6EM0hp.jpg"
+    "poster_path": "/gaNI208wIqL1DD76pg1Mu6EM0hp.jpg",
+    "director": "Даррен Аронофски"
   },
   {
     "title": "Dunkirk",
@@ -1161,7 +1200,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/aWcvjX8wKCqgaz1XwUS39BYWWW1.jpg",
     "title_ru": "Дюнкерк",
     "tmdb_id": 374720,
-    "poster_path": "/aWcvjX8wKCqgaz1XwUS39BYWWW1.jpg"
+    "poster_path": "/aWcvjX8wKCqgaz1XwUS39BYWWW1.jpg",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Coco",
@@ -1192,7 +1232,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/coco-2017/",
     "title_ru": "Тайна Коко",
     "tmdb_id": 354912,
-    "poster_path": "/jvYsGaUqN8ymH696kRfVJjJ3GIl.jpg"
+    "poster_path": "/jvYsGaUqN8ymH696kRfVJjJ3GIl.jpg",
+    "director": "Lee Unkrich"
   },
   {
     "title": "American Psycho",
@@ -1224,7 +1265,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/american-psycho-2000/",
     "title_ru": "Американский психопат",
     "tmdb_id": 1359,
-    "poster_path": "/rdcBdnHY38yC08dVr5aFPChHwMM.jpg"
+    "poster_path": "/rdcBdnHY38yC08dVr5aFPChHwMM.jpg",
+    "director": "Mary Harron"
   },
   {
     "title": "Us",
@@ -1245,7 +1287,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/n1SuhGckPF3KDeZF1xx8QZ0CG2L.jpg",
     "title_ru": "Мы",
     "tmdb_id": 458723,
-    "poster_path": "/n1SuhGckPF3KDeZF1xx8QZ0CG2L.jpg"
+    "poster_path": "/n1SuhGckPF3KDeZF1xx8QZ0CG2L.jpg",
+    "director": "Джордан Пил"
   },
   {
     "title": "Blade Runner 2049",
@@ -1276,7 +1319,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/blade-runner-2049-2017/",
     "title_ru": "Бегущий по лезвию 2049",
     "tmdb_id": 335984,
-    "poster_path": "/fnIJeT9GZvscKm5PbmAvhTYDsLh.jpg"
+    "poster_path": "/fnIJeT9GZvscKm5PbmAvhTYDsLh.jpg",
+    "director": "Дени Вильнёв"
   },
   {
     "title": "Star Wars",
@@ -1308,7 +1352,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/star-wars-1977/",
     "title_ru": "Звёздные войны: Эпизод 4 - Новая надежда",
     "tmdb_id": 11,
-    "poster_path": "/wPlD3Z5x0O92rsB44XKHKQijROM.jpg"
+    "poster_path": "/wPlD3Z5x0O92rsB44XKHKQijROM.jpg",
+    "director": "Джордж Лукас"
   },
   {
     "title": "The Avengers",
@@ -1340,7 +1385,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-avengers-2012/",
     "title_ru": "Мстители",
     "tmdb_id": 24428,
-    "poster_path": "/ztkYgL0zHJLnEPY5VabK9OlmXxx.jpg"
+    "poster_path": "/ztkYgL0zHJLnEPY5VabK9OlmXxx.jpg",
+    "director": "Джосс Уидон"
   },
   {
     "title": "A Quiet Place",
@@ -1367,7 +1413,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-quiet-place-2018/",
     "title_ru": "Тихое место",
     "tmdb_id": 447332,
-    "poster_path": "/b6MMVZWO7LPITq9XS5a4R22CZjG.jpg"
+    "poster_path": "/b6MMVZWO7LPITq9XS5a4R22CZjG.jpg",
+    "director": "Джон Красински"
   },
   {
     "title": "Spider-Man: Far From Home",
@@ -1391,7 +1438,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/5OSCB19RavySNpaDGtPIuByDgoa.jpg",
     "title_ru": "Человек-паук: Вдали от дома",
     "tmdb_id": 429617,
-    "poster_path": "/5OSCB19RavySNpaDGtPIuByDgoa.jpg"
+    "poster_path": "/5OSCB19RavySNpaDGtPIuByDgoa.jpg",
+    "director": "Джон Уоттс"
   },
   {
     "title": "Deadpool",
@@ -1419,7 +1467,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/deadpool-2016/",
     "title_ru": "Дэдпул",
     "tmdb_id": 293660,
-    "poster_path": "/r5PYZGOiIQuGpaZas9TTplNZ5Ox.jpg"
+    "poster_path": "/r5PYZGOiIQuGpaZas9TTplNZ5Ox.jpg",
+    "director": "Тим Миллер"
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -1443,7 +1492,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/mICmkjv3D5HYbp9if9d3WIVNZxL.jpg",
     "title_ru": "Властелин колец: братство кольца",
     "tmdb_id": 120,
-    "poster_path": "/mICmkjv3D5HYbp9if9d3WIVNZxL.jpg"
+    "poster_path": "/mICmkjv3D5HYbp9if9d3WIVNZxL.jpg",
+    "director": "Питер Джексон"
   },
   {
     "title": "Inside Out",
@@ -1471,7 +1521,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/inside-out-2015/",
     "title_ru": "Головоломка",
     "tmdb_id": 150540,
-    "poster_path": "/8wukxopBFO2Vrf50jlLpbrfj4OB.jpg"
+    "poster_path": "/8wukxopBFO2Vrf50jlLpbrfj4OB.jpg",
+    "director": "Пит Доктер"
   },
   {
     "title": "Shutter Island",
@@ -1499,7 +1550,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shutter-island-2010/",
     "title_ru": "Остров проклятых",
     "tmdb_id": 11324,
-    "poster_path": "/3UVMyefkUBiktshtKIEnNXvOFKH.jpg"
+    "poster_path": "/3UVMyefkUBiktshtKIEnNXvOFKH.jpg",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "Star Wars: The Force Awakens",
@@ -1527,7 +1579,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/star-wars-the-force-awakens-2015/",
     "title_ru": "Звёздные войны: Эпизод 7 - Пробуждение силы",
     "tmdb_id": 140607,
-    "poster_path": "/5ltRJxurOTIaMQwcOwSau7l3GME.jpg"
+    "poster_path": "/5ltRJxurOTIaMQwcOwSau7l3GME.jpg",
+    "director": "Джей Джей Абрамс"
   },
   {
     "title": "The Shawshank Redemption",
@@ -1548,7 +1601,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/yvmKPlTIi0xdcFQIFcQKQJcI63W.jpg",
     "title_ru": "Побег из Шоушенка",
     "tmdb_id": 278,
-    "poster_path": "/yvmKPlTIi0xdcFQIFcQKQJcI63W.jpg"
+    "poster_path": "/yvmKPlTIi0xdcFQIFcQKQJcI63W.jpg",
+    "director": "Фрэнк Дарабонт"
   },
   {
     "title": "Tenet",
@@ -1575,7 +1629,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tenet-2020/",
     "title_ru": "Довод",
     "tmdb_id": 577922,
-    "poster_path": "/1jU80STrosbPsiNe3oPpwyS5cXg.jpg"
+    "poster_path": "/1jU80STrosbPsiNe3oPpwyS5cXg.jpg",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Back to the Future",
@@ -1601,7 +1656,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/back-to-the-future-1985/",
     "title_ru": "Назад в будущее",
     "tmdb_id": 105,
-    "poster_path": "/eSaVxwfwl2KmcewzCve657ITDXk.jpg"
+    "poster_path": "/eSaVxwfwl2KmcewzCve657ITDXk.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Drive",
@@ -1633,7 +1689,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/drive-2011/",
     "title_ru": "Драйв",
     "tmdb_id": 64690,
-    "poster_path": "/gvMvTNojOtLpLONEogQsHCrqoYH.jpg"
+    "poster_path": "/gvMvTNojOtLpLONEogQsHCrqoYH.jpg",
+    "director": "Николас Виндинг Рефн"
   },
   {
     "title": "Ratatouille",
@@ -1665,7 +1722,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ratatouille-2007/",
     "title_ru": "Рататуй",
     "tmdb_id": 2062,
-    "poster_path": "/6u4JvZBiw1Uv6BgTlWNsFSSHlMn.jpg"
+    "poster_path": "/6u4JvZBiw1Uv6BgTlWNsFSSHlMn.jpg",
+    "director": "Брэд Бёрд"
   },
   {
     "title": "The Empire Strikes Back",
@@ -1685,7 +1743,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/4P59R7RIuMX2wiT2AGsUBrKoQBG.jpg",
     "title_ru": "Звёздные войны: Эпизод 5 - Империя наносит ответный удар",
     "tmdb_id": 1891,
-    "poster_path": "/4P59R7RIuMX2wiT2AGsUBrKoQBG.jpg"
+    "poster_path": "/4P59R7RIuMX2wiT2AGsUBrKoQBG.jpg",
+    "director": "Ирвин Кершнер"
   },
   {
     "title": "Guardians of the Galaxy Vol. 2",
@@ -1711,7 +1770,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/guardians-of-the-galaxy-vol-2-2017/",
     "title_ru": "Стражи Галактики. Часть 2",
     "tmdb_id": 283995,
-    "poster_path": "/p9hLW1dQckYuNGomOgqaXFMXcmP.jpg"
+    "poster_path": "/p9hLW1dQckYuNGomOgqaXFMXcmP.jpg",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "Captain America: Civil War",
@@ -1739,7 +1799,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/captain-america-civil-war-2016/",
     "title_ru": "Первый мститель: Противостояние",
     "tmdb_id": 271110,
-    "poster_path": "/7TWq9G7zU0lLG7WpMK6f5EQwwf2.jpg"
+    "poster_path": "/7TWq9G7zU0lLG7WpMK6f5EQwwf2.jpg",
+    "director": "Джо Руссо, Энтони Руссо"
   },
   {
     "title": "It",
@@ -1762,7 +1823,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ziIYXwEd9m1QdpBtnW62Dy73CB2.jpg",
     "title_ru": "UW Varsity Band Concert 2017 - Nobody Does it Better",
     "tmdb_id": 346364,
-    "poster_path": "/tM3xcPo8UNuJFCXO0CkmchBjPvd.jpg"
+    "poster_path": "/tM3xcPo8UNuJFCXO0CkmchBjPvd.jpg",
+    "director": "Энди Мускетти"
   },
   {
     "title": "Doctor Strange",
@@ -1787,7 +1849,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/fR4oifDjoGFAyhWyPUl3h9H1xpQ.jpg",
     "title_ru": "Доктор Стрэндж",
     "tmdb_id": 284052,
-    "poster_path": "/fR4oifDjoGFAyhWyPUl3h9H1xpQ.jpg"
+    "poster_path": "/fR4oifDjoGFAyhWyPUl3h9H1xpQ.jpg",
+    "director": "Скотт Дерриксон"
   },
   {
     "title": "Nightcrawler",
@@ -1815,7 +1878,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/be40RjPLLLkcn3AAkfYrJRv30gL.jpg",
     "title_ru": "Стрингер",
     "tmdb_id": 242582,
-    "poster_path": "/be40RjPLLLkcn3AAkfYrJRv30gL.jpg"
+    "poster_path": "/be40RjPLLLkcn3AAkfYrJRv30gL.jpg",
+    "director": "Дэн Гилрой"
   },
   {
     "title": "No Country for Old Men",
@@ -1848,7 +1912,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/no-country-for-old-men-2007/",
     "title_ru": "Старикам тут не место",
     "tmdb_id": 6977,
-    "poster_path": "/yxQJriDjr16vj38nhhVqsdsk47L.jpg"
+    "poster_path": "/yxQJriDjr16vj38nhhVqsdsk47L.jpg",
+    "director": "Джоэл Коэн, Итан Коэн"
   },
   {
     "title": "Iron Man",
@@ -1872,7 +1937,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/wAKZudQn0HEXqLvaGN6BEripHbv.jpg",
     "title_ru": "Железный человек",
     "tmdb_id": 1726,
-    "poster_path": "/wAKZudQn0HEXqLvaGN6BEripHbv.jpg"
+    "poster_path": "/wAKZudQn0HEXqLvaGN6BEripHbv.jpg",
+    "director": "Джон Фавро"
   },
   {
     "title": "Star Wars: The Last Jedi",
@@ -1900,7 +1966,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/star-wars-the-last-jedi-2017/",
     "title_ru": "Звёздные войны: Эпизод 8 - Последние джедаи",
     "tmdb_id": 181808,
-    "poster_path": "/1vwfcOhwZGLfQXVRLfC3jOnU9jq.jpg"
+    "poster_path": "/1vwfcOhwZGLfQXVRLfC3jOnU9jq.jpg",
+    "director": "Райан Джонсон"
   },
   {
     "title": "WALL·E",
@@ -1928,7 +1995,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/walle-2008/",
     "title_ru": "ВАЛЛ·И",
     "tmdb_id": 10681,
-    "poster_path": "/uR79KoBwDMz1qbxwmuY0bpcDYtf.jpg"
+    "poster_path": "/uR79KoBwDMz1qbxwmuY0bpcDYtf.jpg",
+    "director": "Эндрю Стэнтон"
   },
   {
     "title": "Captain America: The Winter Soldier",
@@ -1956,7 +2024,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/captain-america-the-winter-soldier-2014/",
     "title_ru": "Первый мститель: Другая война",
     "tmdb_id": 100402,
-    "poster_path": "/oOmp3YMBnJMa0yDHCbhTcWG4iTm.jpg"
+    "poster_path": "/oOmp3YMBnJMa0yDHCbhTcWG4iTm.jpg",
+    "director": "Джо Руссо, Энтони Руссо"
   },
   {
     "title": "Don't Look Up",
@@ -1982,7 +2051,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dont-look-up-2021/",
     "title_ru": "Не смотрите наверх",
     "tmdb_id": 646380,
-    "poster_path": "/nLWRxZYkUVM3gQNyF70jFMvImG3.jpg"
+    "poster_path": "/nLWRxZYkUVM3gQNyF70jFMvImG3.jpg",
+    "director": "Адам Маккей"
   },
   {
     "title": "The Shape of Water",
@@ -2009,7 +2079,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-shape-of-water-2017/",
     "title_ru": "Форма воды",
     "tmdb_id": 399055,
-    "poster_path": "/1I3ayHlmm6U1DoSy9WW2ATOG7Xk.jpg"
+    "poster_path": "/1I3ayHlmm6U1DoSy9WW2ATOG7Xk.jpg",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Blade Runner",
@@ -2037,7 +2108,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/dFzA82XdkobzdOjrYLMIfApzCVC.jpg",
     "title_ru": "Бегущий по лезвию",
     "tmdb_id": 78,
-    "poster_path": "/dFzA82XdkobzdOjrYLMIfApzCVC.jpg"
+    "poster_path": "/dFzA82XdkobzdOjrYLMIfApzCVC.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Birdman or (The Unexpected Virtue of Ignorance)",
@@ -2058,7 +2130,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/2jcHzgQX2kO6XWC3eLBgrESFqaO.jpg",
     "title_ru": "Бёрдмэн",
     "tmdb_id": 194662,
-    "poster_path": "/2jcHzgQX2kO6XWC3eLBgrESFqaO.jpg"
+    "poster_path": "/2jcHzgQX2kO6XWC3eLBgrESFqaO.jpg",
+    "director": "Алехандро Гонсалес Иньярриту"
   },
   {
     "title": "Ex Machina",
@@ -2082,7 +2155,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ex-machina-2015/",
     "title_ru": "Из машины",
     "tmdb_id": 264660,
-    "poster_path": "/on9Uukj9GwrzVPYX7APHSZ5W8cc.jpg"
+    "poster_path": "/on9Uukj9GwrzVPYX7APHSZ5W8cc.jpg",
+    "director": "Алекс Гарленд"
   },
   {
     "title": "Zodiac",
@@ -2114,7 +2188,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/zodiac-2007/",
     "title_ru": "Зодиак",
     "tmdb_id": 1949,
-    "poster_path": "/1ypQRKw54EC29oPhEQBimxutulI.jpg"
+    "poster_path": "/1ypQRKw54EC29oPhEQBimxutulI.jpg",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "Jurassic Park",
@@ -2145,7 +2220,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jurassic-park-1993/",
     "title_ru": "Парк юрского периода",
     "tmdb_id": 329,
-    "poster_path": "/qoDjoRP7vYmPZ1lZIMTGzoHG1iR.jpg"
+    "poster_path": "/qoDjoRP7vYmPZ1lZIMTGzoHG1iR.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Harry Potter and the Prisoner of Azkaban",
@@ -2170,7 +2246,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/mncDize7FLO9RBovXKZ7LefUkbu.jpg",
     "title_ru": "Гарри Поттер и узник Азкабана",
     "tmdb_id": 673,
-    "poster_path": "/mncDize7FLO9RBovXKZ7LefUkbu.jpg"
+    "poster_path": "/mncDize7FLO9RBovXKZ7LefUkbu.jpg",
+    "director": "Альфонсо Куарон"
   },
   {
     "title": "Captain Marvel",
@@ -2195,7 +2272,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/captain-marvel-2019/",
     "title_ru": "Капитан Марвел",
     "tmdb_id": 299537,
-    "poster_path": "/khIspz4hW7RyEJag16UKYxI9fuP.jpg"
+    "poster_path": "/khIspz4hW7RyEJag16UKYxI9fuP.jpg",
+    "director": "Райан Флек, Анна Боден"
   },
   {
     "title": "Toy Story",
@@ -2223,7 +2301,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/toy-story-1995/",
     "title_ru": "История игрушек",
     "tmdb_id": 862,
-    "poster_path": "/gRLk7XpdRyNa697taDKtFx3l6qV.jpg"
+    "poster_path": "/gRLk7XpdRyNa697taDKtFx3l6qV.jpg",
+    "director": "Джон Лассетер"
   },
   {
     "title": "Alien",
@@ -2248,7 +2327,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6EXQpftMDnbEFu75fmRGGF6CuOT.jpg",
     "title_ru": "Чужой",
     "tmdb_id": 348,
-    "poster_path": "/6EXQpftMDnbEFu75fmRGGF6CuOT.jpg"
+    "poster_path": "/6EXQpftMDnbEFu75fmRGGF6CuOT.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Black Widow",
@@ -2274,7 +2354,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/black-widow-2021/",
     "title_ru": "Чёрная вдова",
     "tmdb_id": 497698,
-    "poster_path": "/mbtN6V6y5kdawvAkzqN4ohi576a.jpg"
+    "poster_path": "/mbtN6V6y5kdawvAkzqN4ohi576a.jpg",
+    "director": "Кейт Шортланд"
   },
   {
     "title": "A Clockwork Orange",
@@ -2299,7 +2380,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-clockwork-orange-1971/",
     "title_ru": "Заводной апельсин",
     "tmdb_id": 185,
-    "poster_path": "/zKt39GtQwwUJV4fuJpmSER1P28e.jpg"
+    "poster_path": "/zKt39GtQwwUJV4fuJpmSER1P28e.jpg",
+    "director": "Стэнли Кубрик"
   },
   {
     "title": "Fantastic Mr. Fox",
@@ -2327,7 +2409,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/fantastic-mr-fox-2009/",
     "title_ru": "Бесподобный мистер Фокс",
     "tmdb_id": 10315,
-    "poster_path": "/6AAc0COuscZ3x1IGhlJdCQSLE7K.jpg"
+    "poster_path": "/6AAc0COuscZ3x1IGhlJdCQSLE7K.jpg",
+    "director": "Уэс Андерсон"
   },
   {
     "title": "The Incredibles",
@@ -2355,7 +2438,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-incredibles-2004/",
     "title_ru": "Суперсемейка",
     "tmdb_id": 9806,
-    "poster_path": "/nVJGGWCs8CQ41G4fzJoTttfCgpQ.jpg"
+    "poster_path": "/nVJGGWCs8CQ41G4fzJoTttfCgpQ.jpg",
+    "director": "Брэд Бёрд"
   },
   {
     "title": "Memento",
@@ -2376,7 +2460,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/sP3GaLR1kRz0Fj5exKJmYKvIYzz.jpg",
     "title_ru": "Мементо",
     "tmdb_id": 77,
-    "poster_path": "/sP3GaLR1kRz0Fj5exKJmYKvIYzz.jpg"
+    "poster_path": "/sP3GaLR1kRz0Fj5exKJmYKvIYzz.jpg",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Titanic",
@@ -2407,7 +2492,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/titanic-1997/",
     "title_ru": "Титаник",
     "tmdb_id": 597,
-    "poster_path": "/r3sYKBtoNHPyS9vkaA8dJyh8grG.jpg"
+    "poster_path": "/r3sYKBtoNHPyS9vkaA8dJyh8grG.jpg",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Harry Potter and the Philosopher's Stone",
@@ -2429,7 +2515,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/q3LZNzwW7ZWu4kSFIPGcB5CYFE4.jpg",
     "title_ru": "Гарри Поттер и философский камень",
     "tmdb_id": 671,
-    "poster_path": "/q3LZNzwW7ZWu4kSFIPGcB5CYFE4.jpg"
+    "poster_path": "/q3LZNzwW7ZWu4kSFIPGcB5CYFE4.jpg",
+    "director": "Крис Коламбус"
   },
   {
     "title": "The Lord of the Rings: The Return of the King",
@@ -2453,7 +2540,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/x6NqCWwU1SrQnvfdmVPAuATyUgD.jpg",
     "title_ru": "Властелин колец: возвращение короля",
     "tmdb_id": 122,
-    "poster_path": "/x6NqCWwU1SrQnvfdmVPAuATyUgD.jpg"
+    "poster_path": "/x6NqCWwU1SrQnvfdmVPAuATyUgD.jpg",
+    "director": "Питер Джексон"
   },
   {
     "title": "Avengers: Age of Ultron",
@@ -2475,7 +2563,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6rANrpZe3g2PPeF1m3lQUK1ovpW.jpg",
     "title_ru": "Мстители: Эра Альтрона",
     "tmdb_id": 99861,
-    "poster_path": "/6rANrpZe3g2PPeF1m3lQUK1ovpW.jpg"
+    "poster_path": "/6rANrpZe3g2PPeF1m3lQUK1ovpW.jpg",
+    "director": "Джосс Уидон"
   },
   {
     "title": "Spider-Man",
@@ -2502,7 +2591,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/uxNYgyfM9zeIQevvLON8zlPLocS.jpg",
     "title_ru": "Человек-паук",
     "tmdb_id": 557,
-    "poster_path": "/uxNYgyfM9zeIQevvLON8zlPLocS.jpg"
+    "poster_path": "/uxNYgyfM9zeIQevvLON8zlPLocS.jpg",
+    "director": "Сэм Рэйми"
   },
   {
     "title": "Logan",
@@ -2525,7 +2615,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6FSoZ8mtEwPAO3k670G3yRaBpTK.jpg",
     "title_ru": "Логан",
     "tmdb_id": 263115,
-    "poster_path": "/6FSoZ8mtEwPAO3k670G3yRaBpTK.jpg"
+    "poster_path": "/6FSoZ8mtEwPAO3k670G3yRaBpTK.jpg",
+    "director": "Джеймс Мэнголд"
   },
   {
     "title": "The Martian",
@@ -2557,7 +2648,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-martian-2015/",
     "title_ru": "Марсианин",
     "tmdb_id": 286217,
-    "poster_path": "/6U19srkH4wI6taluviXbVaIpsau.jpg"
+    "poster_path": "/6U19srkH4wI6taluviXbVaIpsau.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "The Dark Knight Rises",
@@ -2587,7 +2679,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/cAwasqprFijx73Hz9qMBcLyEA5N.jpg",
     "title_ru": "Тёмный рыцарь: Возрождение легенды",
     "tmdb_id": 49026,
-    "poster_path": "/cAwasqprFijx73Hz9qMBcLyEA5N.jpg"
+    "poster_path": "/cAwasqprFijx73Hz9qMBcLyEA5N.jpg",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Rogue One: A Star Wars Story",
@@ -2615,7 +2708,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/rogue-one-a-star-wars-story-2016/",
     "title_ru": "Изгой-один: Звёздные войны. Истории",
     "tmdb_id": 330459,
-    "poster_path": "/agKGn83Y380RKlakyVEIpTuMoA1.jpg"
+    "poster_path": "/agKGn83Y380RKlakyVEIpTuMoA1.jpg",
+    "director": "Гарет Эдвардс"
   },
   {
     "title": "The Revenant",
@@ -2648,7 +2742,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-revenant-2015/",
     "title_ru": "Выживший",
     "tmdb_id": 281957,
-    "poster_path": "/gvWniVnehAkIAfy40VlcFy3vOef.jpg"
+    "poster_path": "/gvWniVnehAkIAfy40VlcFy3vOef.jpg",
+    "director": "Алехандро Гонсалес Иньярриту"
   },
   {
     "title": "The Lord of the Rings: The Two Towers",
@@ -2671,7 +2766,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/tGoC0XMAHrDm8iZlDWI4uk80kdo.jpg",
     "title_ru": "Властелин колец: две крепости",
     "tmdb_id": 121,
-    "poster_path": "/tGoC0XMAHrDm8iZlDWI4uk80kdo.jpg"
+    "poster_path": "/tGoC0XMAHrDm8iZlDWI4uk80kdo.jpg",
+    "director": "Питер Джексон"
   },
   {
     "title": "Good Will Hunting",
@@ -2700,7 +2796,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/good-will-hunting-1997/",
     "title_ru": "Умница Уилл Хантинг",
     "tmdb_id": 489,
-    "poster_path": "/oUNOV8pKhvjLR4RzpkiwAH8i2Qh.jpg"
+    "poster_path": "/oUNOV8pKhvjLR4RzpkiwAH8i2Qh.jpg",
+    "director": "Гас Ван Сент"
   },
   {
     "title": "Finding Nemo",
@@ -2732,7 +2829,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/finding-nemo-2003/",
     "title_ru": "В поисках Немо",
     "tmdb_id": 12,
-    "poster_path": "/wwUYKw29xtFLk5PIZV9iDAs6zlW.jpg"
+    "poster_path": "/wwUYKw29xtFLk5PIZV9iDAs6zlW.jpg",
+    "director": "Эндрю Стэнтон"
   },
   {
     "title": "Star Wars: The Rise of Skywalker",
@@ -2757,7 +2855,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/mCD1ugUVWwa1pOmOACQY8sV7eu9.jpg",
     "title_ru": "Звёздные войны: Эпизод 9 - Скайуокер. Восход",
     "tmdb_id": 181812,
-    "poster_path": "/mCD1ugUVWwa1pOmOACQY8sV7eu9.jpg"
+    "poster_path": "/mCD1ugUVWwa1pOmOACQY8sV7eu9.jpg",
+    "director": "Джей Джей Абрамс"
   },
   {
     "title": "The Big Lebowski",
@@ -2779,7 +2878,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/r18wYWEiQxrspk5ogEX4S8HUIvB.jpg",
     "title_ru": "Большой Лебовски",
     "tmdb_id": 115,
-    "poster_path": "/r18wYWEiQxrspk5ogEX4S8HUIvB.jpg"
+    "poster_path": "/r18wYWEiQxrspk5ogEX4S8HUIvB.jpg",
+    "director": "Джоэл Коэн, Итан Коэн"
   },
   {
     "title": "Shang-Chi and the Legend of the Ten Rings",
@@ -2803,7 +2903,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/rXvU6SZOGyUzy9ZHJNlVMw0OeUR.jpg",
     "title_ru": "Шан-Чи и Легенда Десяти Колец",
     "tmdb_id": 566525,
-    "poster_path": "/rXvU6SZOGyUzy9ZHJNlVMw0OeUR.jpg"
+    "poster_path": "/rXvU6SZOGyUzy9ZHJNlVMw0OeUR.jpg",
+    "director": "Дестин Дэниел Креттон"
   },
   {
     "title": "Ant-Man",
@@ -2828,7 +2929,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ant-man-2015/",
     "title_ru": "Человек-муравей",
     "tmdb_id": 102899,
-    "poster_path": "/9cMJSp2LVSzmPzMWPHIHpeBfECr.jpg"
+    "poster_path": "/9cMJSp2LVSzmPzMWPHIHpeBfECr.jpg",
+    "director": "Пейтон Рид"
   },
   {
     "title": "Spider-Man 2",
@@ -2850,7 +2952,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nx2W6awai0FnzQrS9IaIfCgVia0.jpg",
     "title_ru": "Человек-паук 2",
     "tmdb_id": 558,
-    "poster_path": "/nx2W6awai0FnzQrS9IaIfCgVia0.jpg"
+    "poster_path": "/nx2W6awai0FnzQrS9IaIfCgVia0.jpg",
+    "director": "Сэм Рэйми"
   },
   {
     "title": "Return of the Jedi",
@@ -2877,7 +2980,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/return-of-the-jedi-1983/",
     "title_ru": "Звёздные войны: Эпизод 6 - Возвращение Джедая",
     "tmdb_id": 1892,
-    "poster_path": "/91bG08Mpa4T7YWFMjsiNi2Fh6jc.jpg"
+    "poster_path": "/91bG08Mpa4T7YWFMjsiNi2Fh6jc.jpg",
+    "director": "Ричард Маркуанд"
   },
   {
     "title": "Wonder Woman",
@@ -2899,7 +3003,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/fMnMonAyK3nzp1P1odIFzYoSvYe.jpg",
     "title_ru": "Чудо-женщина",
     "tmdb_id": 297762,
-    "poster_path": "/fMnMonAyK3nzp1P1odIFzYoSvYe.jpg"
+    "poster_path": "/fMnMonAyK3nzp1P1odIFzYoSvYe.jpg",
+    "director": "Пэтти Дженкинс"
   },
   {
     "title": "Captain America: The First Avenger",
@@ -2924,7 +3029,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/captain-america-the-first-avenger-2011/",
     "title_ru": "Первый мститель",
     "tmdb_id": 1771,
-    "poster_path": "/slr5pTsDIJS9oCfBEBTCYNiq6xs.jpg"
+    "poster_path": "/slr5pTsDIJS9oCfBEBTCYNiq6xs.jpg",
+    "director": "Джо Джонстон"
   },
   {
     "title": "Joker",
@@ -2955,7 +3061,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/joker-2019/",
     "title_ru": "Джокер",
     "tmdb_id": 475557,
-    "poster_path": "/5itx9nz3gXWgoD2I1UdaqOrphYm.jpg"
+    "poster_path": "/5itx9nz3gXWgoD2I1UdaqOrphYm.jpg",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Gone Girl",
@@ -2980,7 +3087,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/gone-girl-2014/",
     "title_ru": "Исчезнувшая",
     "tmdb_id": 210577,
-    "poster_path": "/4AlxoCnpOIUtRq2U9qxMu6chaQb.jpg"
+    "poster_path": "/4AlxoCnpOIUtRq2U9qxMu6chaQb.jpg",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "My Neighbor Totoro",
@@ -3012,7 +3120,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/my-neighbor-totoro-1988/",
     "title_ru": "Мой сосед Тоторо",
     "tmdb_id": 8392,
-    "poster_path": "/hTiDmJh24P7sKVEmtTZQU46f1LB.jpg"
+    "poster_path": "/hTiDmJh24P7sKVEmtTZQU46f1LB.jpg",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Monsters, Inc.",
@@ -3040,7 +3149,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/monsters-inc-2001/",
     "title_ru": "Корпорация монстров",
     "tmdb_id": 585,
-    "poster_path": "/zXIusESsQ7ZXP9MFwbvcTTZ3XWF.jpg"
+    "poster_path": "/zXIusESsQ7ZXP9MFwbvcTTZ3XWF.jpg",
+    "director": "Пит Доктер"
   },
   {
     "title": "John Wick",
@@ -3072,7 +3182,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/john-wick-2014/",
     "title_ru": "Джон Уик",
     "tmdb_id": 245891,
-    "poster_path": "/2hfeF2566IKZ30c1BAay0N2lxBr.jpg"
+    "poster_path": "/2hfeF2566IKZ30c1BAay0N2lxBr.jpg",
+    "director": "Чад Стахелски, Дэвид Литч"
   },
   {
     "title": "The Lion King",
@@ -3100,7 +3211,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-lion-king-1994/",
     "title_ru": "Король Лев",
     "tmdb_id": 8587,
-    "poster_path": "/j8tdiuhbF9p5mnAeA1YOUvz82xY.jpg"
+    "poster_path": "/j8tdiuhbF9p5mnAeA1YOUvz82xY.jpg",
+    "director": "Роджер Аллерс, Роб Минкофф"
   },
   {
     "title": "Batman Begins",
@@ -3132,7 +3244,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/wiCotiyukYXWwlL1ZcjyxxhTthi.jpg",
     "title_ru": "Бэтмен: Начало",
     "tmdb_id": 272,
-    "poster_path": "/wiCotiyukYXWwlL1ZcjyxxhTthi.jpg"
+    "poster_path": "/wiCotiyukYXWwlL1ZcjyxxhTthi.jpg",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "The Prestige",
@@ -3160,7 +3273,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-prestige-2006/",
     "title_ru": "Престиж",
     "tmdb_id": 1124,
-    "poster_path": "/cynfEpFBHGkdBIVpdnx8Od2TQNj.jpg"
+    "poster_path": "/cynfEpFBHGkdBIVpdnx8Od2TQNj.jpg",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "Three Billboards Outside Ebbing, Missouri",
@@ -3182,7 +3296,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/xnyRGjhSIbM2ZVaolkhmPVNncL2.jpg",
     "title_ru": "Три билборда на границе Эббинга, Миссури",
     "tmdb_id": 359940,
-    "poster_path": "/xnyRGjhSIbM2ZVaolkhmPVNncL2.jpg"
+    "poster_path": "/xnyRGjhSIbM2ZVaolkhmPVNncL2.jpg",
+    "director": "Мартин Макдонах"
   },
   {
     "title": "Split",
@@ -3210,7 +3325,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/split-2016/",
     "title_ru": "Split",
     "tmdb_id": 358364,
-    "poster_path": "/8nn3m1wyu3woLg2tW1CAr44q53K.jpg"
+    "poster_path": "/8nn3m1wyu3woLg2tW1CAr44q53K.jpg",
+    "director": "Дебора Джейн Каммпмайер"
   },
   {
     "title": "Catch Me If You Can",
@@ -3238,7 +3354,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/catch-me-if-you-can-2002/",
     "title_ru": "Поймай меня, если сможешь",
     "tmdb_id": 640,
-    "poster_path": "/9Izej6CiwFkptv6aTbRhersjAiT.jpg"
+    "poster_path": "/9Izej6CiwFkptv6aTbRhersjAiT.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "The Departed",
@@ -3270,7 +3387,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-departed-2006/",
     "title_ru": "Отступники",
     "tmdb_id": 1422,
-    "poster_path": "/jT6JJV6t902SN9dJlSRdiPi6hSv.jpg"
+    "poster_path": "/jT6JJV6t902SN9dJlSRdiPi6hSv.jpg",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "Requiem for a Dream",
@@ -3296,7 +3414,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/requiem-for-a-dream-2000/",
     "title_ru": "Реквием по мечте",
     "tmdb_id": 641,
-    "poster_path": "/cFAjXMPymQYJmrKYd45Z0hi59tY.jpg"
+    "poster_path": "/cFAjXMPymQYJmrKYd45Z0hi59tY.jpg",
+    "director": "Даррен Аронофски"
   },
   {
     "title": "Incredibles 2",
@@ -3322,7 +3441,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/incredibles-2-2018/",
     "title_ru": "Суперсемейка 2",
     "tmdb_id": 260513,
-    "poster_path": "/vwer36JvbZxeZ6ZRBvzrsUm6tYt.jpg"
+    "poster_path": "/vwer36JvbZxeZ6ZRBvzrsUm6tYt.jpg",
+    "director": "Брэд Бёрд"
   },
   {
     "title": "10 Things I Hate About You",
@@ -3345,7 +3465,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/10-things-i-hate-about-you-1999/",
     "title_ru": "10 причин моей ненависти",
     "tmdb_id": 4951,
-    "poster_path": "/xR6j2HVYZEqQ1nKdSJVYNLAIIcN.jpg"
+    "poster_path": "/xR6j2HVYZEqQ1nKdSJVYNLAIIcN.jpg",
+    "director": "Gil Junger"
   },
   {
     "title": "Harry Potter and the Chamber of Secrets",
@@ -3367,7 +3488,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/33Wj3LSyoAqtqkeh7YXcVMvTQzc.jpg",
     "title_ru": "Гарри Поттер и Тайная комната",
     "tmdb_id": 672,
-    "poster_path": "/33Wj3LSyoAqtqkeh7YXcVMvTQzc.jpg"
+    "poster_path": "/33Wj3LSyoAqtqkeh7YXcVMvTQzc.jpg",
+    "director": "Крис Коламбус"
   },
   {
     "title": "Jaws",
@@ -3400,7 +3522,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jaws-1975/",
     "title_ru": "Челюсти",
     "tmdb_id": 578,
-    "poster_path": "/3l62OClEcFWPtkOH9t7XLO5Emx1.jpg"
+    "poster_path": "/3l62OClEcFWPtkOH9t7XLO5Emx1.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Prisoners",
@@ -3422,7 +3545,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/iBuJWQEJLOhsN40GiXM6lJyoklW.jpg",
     "title_ru": "Пленницы",
     "tmdb_id": 146233,
-    "poster_path": "/iBuJWQEJLOhsN40GiXM6lJyoklW.jpg"
+    "poster_path": "/iBuJWQEJLOhsN40GiXM6lJyoklW.jpg",
+    "director": "Дени Вильнёв"
   },
   {
     "title": "Harry Potter and the Goblet of Fire",
@@ -3444,7 +3568,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/wWlSRexsjrdTWBYY84s671dYde5.jpg",
     "title_ru": "Гарри Поттер и Кубок огня",
     "tmdb_id": 674,
-    "poster_path": "/wWlSRexsjrdTWBYY84s671dYde5.jpg"
+    "poster_path": "/wWlSRexsjrdTWBYY84s671dYde5.jpg",
+    "director": "Mike Newell"
   },
   {
     "title": "Harry Potter and the Deathly Hallows: Part 2",
@@ -3470,7 +3595,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nUJc0DOO0lh8pjLkmMtPObA2NKf.jpg",
     "title_ru": "Гарри Поттер и Дары Смерти: Часть I",
     "tmdb_id": 12445,
-    "poster_path": "/cSxvq15AOeJ2jNdVRXJvAoZU8T6.jpg"
+    "poster_path": "/cSxvq15AOeJ2jNdVRXJvAoZU8T6.jpg",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Howl's Moving Castle",
@@ -3502,7 +3628,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/howls-moving-castle-2004/",
     "title_ru": "Ходячий замок",
     "tmdb_id": 4935,
-    "poster_path": "/oQvAlVSjYsJZPg9raiQRYE0aVrv.jpg"
+    "poster_path": "/oQvAlVSjYsJZPg9raiQRYE0aVrv.jpg",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Iron Man 3",
@@ -3527,7 +3654,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/iron-man-3-2013/",
     "title_ru": "Железный человек 3",
     "tmdb_id": 68721,
-    "poster_path": "/4AZco6uSdog5NbvJ6ILqnCveV8I.jpg"
+    "poster_path": "/4AZco6uSdog5NbvJ6ILqnCveV8I.jpg",
+    "director": "Шейн Блэк"
   },
   {
     "title": "Shrek",
@@ -3555,7 +3683,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shrek-2001/",
     "title_ru": "Шрэк",
     "tmdb_id": 808,
-    "poster_path": "/5OPCH713UIEeWuvRZpVkkzrZ3Hd.jpg"
+    "poster_path": "/5OPCH713UIEeWuvRZpVkkzrZ3Hd.jpg",
+    "director": "Эндрю Адамсон, Vicky Jenson"
   },
   {
     "title": "Deadpool 2",
@@ -3583,7 +3712,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/deadpool-2-2018/",
     "title_ru": "Дэдпул 2",
     "tmdb_id": 383498,
-    "poster_path": "/6ieUmjpY7bMMZqIdFxHKUEwfwSB.jpg"
+    "poster_path": "/6ieUmjpY7bMMZqIdFxHKUEwfwSB.jpg",
+    "director": "Дэвид Литч"
   },
   {
     "title": "Kill Bill: Vol. 2",
@@ -3608,7 +3738,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/elRmq22rSh0Yamsft5ULVconhlV.jpg",
     "title_ru": "Убить Билла 2",
     "tmdb_id": 393,
-    "poster_path": "/elRmq22rSh0Yamsft5ULVconhlV.jpg"
+    "poster_path": "/elRmq22rSh0Yamsft5ULVconhlV.jpg",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Avatar",
@@ -3637,7 +3768,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/avatar-2009/",
     "title_ru": "Аватар",
     "tmdb_id": 19995,
-    "poster_path": "/lUKcrcO3wEPhNnzGq06JIX7GIEb.jpg"
+    "poster_path": "/lUKcrcO3wEPhNnzGq06JIX7GIEb.jpg",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Home Alone",
@@ -3658,7 +3790,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/home-alone-1990/",
     "title_ru": "Один дома",
     "tmdb_id": 771,
-    "poster_path": "/e6TQfEJbaFqueq1CIvqfpse4yNF.jpg"
+    "poster_path": "/e6TQfEJbaFqueq1CIvqfpse4yNF.jpg",
+    "director": "Крис Коламбус"
   },
   {
     "title": "Isle of Dogs",
@@ -3686,7 +3819,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/isle-of-dogs-2018/",
     "title_ru": "Остров собак",
     "tmdb_id": 399174,
-    "poster_path": "/phspK8CoyEoVWDmxCdU3QzUWf4P.jpg"
+    "poster_path": "/phspK8CoyEoVWDmxCdU3QzUWf4P.jpg",
+    "director": "Уэс Андерсон"
   },
   {
     "title": "Pan's Labyrinth",
@@ -3717,7 +3851,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/pans-labyrinth-2006/",
     "title_ru": "Лабиринт Фавна",
     "tmdb_id": 1417,
-    "poster_path": "/h2oVVLTa2eQmhEfwuVlG1VUEuuz.jpg"
+    "poster_path": "/h2oVVLTa2eQmhEfwuVlG1VUEuuz.jpg",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Suicide Squad",
@@ -3741,7 +3876,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/suicide-squad-2016/",
     "title_ru": "Отряд самоубийц",
     "tmdb_id": 297761,
-    "poster_path": "/7tJjv7vPBhG2pzcTIMgGBV1mL4w.jpg"
+    "poster_path": "/7tJjv7vPBhG2pzcTIMgGBV1mL4w.jpg",
+    "director": "Дэвид Эйер"
   },
   {
     "title": "Thor",
@@ -3763,7 +3899,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/9VnGpd2rXHikIwznL9I5r9i8TQJ.jpg",
     "title_ru": "Тор",
     "tmdb_id": 10195,
-    "poster_path": "/9VnGpd2rXHikIwznL9I5r9i8TQJ.jpg"
+    "poster_path": "/9VnGpd2rXHikIwznL9I5r9i8TQJ.jpg",
+    "director": "Кеннет Брана"
   },
   {
     "title": "Annihilation",
@@ -3786,7 +3923,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/annihilation-2018/",
     "title_ru": "Аннигиляция",
     "tmdb_id": 300668,
-    "poster_path": "/7VnihqNe4XZ48TTWUjf3JYAbRQm.jpg"
+    "poster_path": "/7VnihqNe4XZ48TTWUjf3JYAbRQm.jpg",
+    "director": "Алекс Гарленд"
   },
   {
     "title": "(500) Days of Summer",
@@ -3812,7 +3950,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/500-days-of-summer-2009/",
     "title_ru": "500 дней лета",
     "tmdb_id": 19913,
-    "poster_path": "/oqQdRPEeA2Iah2EtpAu7wsajtGt.jpg"
+    "poster_path": "/oqQdRPEeA2Iah2EtpAu7wsajtGt.jpg",
+    "director": "Марк Уэбб"
   },
   {
     "title": "Zootopia",
@@ -3836,7 +3975,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/5qcww3ZqlpCqPrUessuFkdwsDL2.jpg",
     "title_ru": "Зверополис",
     "tmdb_id": 269149,
-    "poster_path": "/5qcww3ZqlpCqPrUessuFkdwsDL2.jpg"
+    "poster_path": "/5qcww3ZqlpCqPrUessuFkdwsDL2.jpg",
+    "director": "Байрон Ховард, Рич Мур"
   },
   {
     "title": "Toy Story 3",
@@ -3864,7 +4004,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/toy-story-3-2010/",
     "title_ru": "История игрушек: Большой побег",
     "tmdb_id": 10193,
-    "poster_path": "/2IWIk34c9fMv7xJQ5ur4Z3O1Hh9.jpg"
+    "poster_path": "/2IWIk34c9fMv7xJQ5ur4Z3O1Hh9.jpg",
+    "director": "Lee Unkrich"
   },
   {
     "title": "Star Wars: Episode III – Revenge of the Sith",
@@ -3889,7 +4030,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/a1f0xvhIfUlzgWlPYL3XS8n5XuL.jpg",
     "title_ru": "Звёздные войны: Эпизод 3 - Месть Ситхов",
     "tmdb_id": 1895,
-    "poster_path": "/a1f0xvhIfUlzgWlPYL3XS8n5XuL.jpg"
+    "poster_path": "/a1f0xvhIfUlzgWlPYL3XS8n5XuL.jpg",
+    "director": "Джордж Лукас"
   },
   {
     "title": "Superbad",
@@ -3911,7 +4053,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/superbad-2007/",
     "title_ru": "SuperПерцы",
     "tmdb_id": 8363,
-    "poster_path": "/2jc4Q1ToEsTSoqQNhCzbI0m1uaP.jpg"
+    "poster_path": "/2jc4Q1ToEsTSoqQNhCzbI0m1uaP.jpg",
+    "director": "Грег Моттола"
   },
   {
     "title": "Iron Man 2",
@@ -3936,7 +4079,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/iron-man-2-2010/",
     "title_ru": "Железный человек 2",
     "tmdb_id": 10138,
-    "poster_path": "/rT3JszXFT2C3iYJtXSSL4R0DkU7.jpg"
+    "poster_path": "/rT3JszXFT2C3iYJtXSSL4R0DkU7.jpg",
+    "director": "Джон Фавро"
   },
   {
     "title": "Kingsman: The Secret Service",
@@ -3964,7 +4108,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/kingsman-the-secret-service-2014/",
     "title_ru": "Kingsman: Секретная служба",
     "tmdb_id": 207703,
-    "poster_path": "/1br1GunwmrGaD9H3eyRPjLx1HY4.jpg"
+    "poster_path": "/1br1GunwmrGaD9H3eyRPjLx1HY4.jpg",
+    "director": "Мэттью Вон"
   },
   {
     "title": "Léon: The Professional",
@@ -3989,7 +4134,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/yyjNn3Ly7ChAT2V9yOlx8QyFs82.jpg",
     "title_ru": "Леон",
     "tmdb_id": 101,
-    "poster_path": "/yyjNn3Ly7ChAT2V9yOlx8QyFs82.jpg"
+    "poster_path": "/yyjNn3Ly7ChAT2V9yOlx8QyFs82.jpg",
+    "director": "Люк Бессон"
   },
   {
     "title": "Harry Potter and the Order of the Phoenix",
@@ -4011,7 +4157,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/lBuFOlXNY3YYIkXInGqcd7aJoAY.jpg",
     "title_ru": "Гарри Поттер и Орден Феникса",
     "tmdb_id": 675,
-    "poster_path": "/lBuFOlXNY3YYIkXInGqcd7aJoAY.jpg"
+    "poster_path": "/lBuFOlXNY3YYIkXInGqcd7aJoAY.jpg",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "The Hunger Games",
@@ -4039,7 +4186,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hunger-games-2012/",
     "title_ru": "Голодные игры",
     "tmdb_id": 70160,
-    "poster_path": "/7j6qQ5CVxHRpEbWQpAPxk5EjB3v.jpg"
+    "poster_path": "/7j6qQ5CVxHRpEbWQpAPxk5EjB3v.jpg",
+    "director": "Гэри Росс"
   },
   {
     "title": "Apocalypse Now",
@@ -4069,7 +4217,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/qD22STmuP6DiBmqIUmFrWSlpwCW.jpg",
     "title_ru": "Апокалипсис сегодня",
     "tmdb_id": 28,
-    "poster_path": "/qD22STmuP6DiBmqIUmFrWSlpwCW.jpg"
+    "poster_path": "/qD22STmuP6DiBmqIUmFrWSlpwCW.jpg",
+    "director": "Фрэнсис Форд Коппола"
   },
   {
     "title": "Mean Girls",
@@ -4089,7 +4238,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mean-girls-2004/",
     "title_ru": "Дрянные девчонки",
     "tmdb_id": 10625,
-    "poster_path": "/pXZLGkeiTwTOrETx7twwifzjpTZ.jpg"
+    "poster_path": "/pXZLGkeiTwTOrETx7twwifzjpTZ.jpg",
+    "director": "Марк Уотерс"
   },
   {
     "title": "Shaun of the Dead",
@@ -4119,7 +4269,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shaun-of-the-dead-2004/",
     "title_ru": "Зомби по имени Шон",
     "tmdb_id": 747,
-    "poster_path": "/hACq0LdC5WNjPb1jzTZzuj1R4qx.jpg"
+    "poster_path": "/hACq0LdC5WNjPb1jzTZzuj1R4qx.jpg",
+    "director": "Эдгар Райт"
   },
   {
     "title": "Princess Mononoke",
@@ -4151,7 +4302,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/princess-mononoke-1997/",
     "title_ru": "Принцесса Мононоке",
     "tmdb_id": 128,
-    "poster_path": "/25hyAp0zRIa6WInNaUfk3BHL5gH.jpg"
+    "poster_path": "/25hyAp0zRIa6WInNaUfk3BHL5gH.jpg",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Harry Potter and the Deathly Hallows: Part 1",
@@ -4174,7 +4326,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nUJc0DOO0lh8pjLkmMtPObA2NKf.jpg",
     "title_ru": "Гарри Поттер и Дары Смерти: Часть I",
     "tmdb_id": 12444,
-    "poster_path": "/nUJc0DOO0lh8pjLkmMtPObA2NKf.jpg"
+    "poster_path": "/nUJc0DOO0lh8pjLkmMtPObA2NKf.jpg",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Ant-Man and the Wasp",
@@ -4196,7 +4349,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/5r85N1iOnHFoWkyC0EeOw9aEqOW.jpg",
     "title_ru": "Человек-муравей и Оса",
     "tmdb_id": 363088,
-    "poster_path": "/5r85N1iOnHFoWkyC0EeOw9aEqOW.jpg"
+    "poster_path": "/5r85N1iOnHFoWkyC0EeOw9aEqOW.jpg",
+    "director": "Пейтон Рид"
   },
   {
     "title": "Star Wars: Episode I – The Phantom Menace",
@@ -4221,7 +4375,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/l1LyrhQwDGur18rxRXKQJQhvx7Y.jpg",
     "title_ru": "Звёздные войны: Эпизод 1 - Скрытая угроза",
     "tmdb_id": 1893,
-    "poster_path": "/l1LyrhQwDGur18rxRXKQJQhvx7Y.jpg"
+    "poster_path": "/l1LyrhQwDGur18rxRXKQJQhvx7Y.jpg",
+    "director": "Джордж Лукас"
   },
   {
     "title": "The Amazing Spider-Man",
@@ -4243,7 +4398,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/kby3x8wic9Lx4qEfstLu2vFHTVj.jpg",
     "title_ru": "Новый Человек-паук",
     "tmdb_id": 1930,
-    "poster_path": "/kby3x8wic9Lx4qEfstLu2vFHTVj.jpg"
+    "poster_path": "/kby3x8wic9Lx4qEfstLu2vFHTVj.jpg",
+    "director": "Марк Уэбб"
   },
   {
     "title": "Harry Potter and the Half-Blood Prince",
@@ -4266,7 +4422,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/harry-potter-and-the-half-blood-prince-2009/",
     "title_ru": "Гарри Поттер и Принц-полукровка",
     "tmdb_id": 767,
-    "poster_path": "/zhMOIXezutmTCeP1AvPZHakGCYs.jpg"
+    "poster_path": "/zhMOIXezutmTCeP1AvPZHakGCYs.jpg",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Raiders of the Lost Ark",
@@ -4286,7 +4443,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/raiders-of-the-lost-ark-1981/",
     "title_ru": "Индиана Джонс: В поисках утраченного ковчега",
     "tmdb_id": 85,
-    "poster_path": "/u2Pg18N9naAgOFIucYxWm13rkIE.jpg"
+    "poster_path": "/u2Pg18N9naAgOFIucYxWm13rkIE.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Die Hard",
@@ -4313,7 +4471,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/bIDUVu4QTAvNLEZqTml5vka8ElV.jpg",
     "title_ru": "Крепкий орешек",
     "tmdb_id": 562,
-    "poster_path": "/bIDUVu4QTAvNLEZqTml5vka8ElV.jpg"
+    "poster_path": "/bIDUVu4QTAvNLEZqTml5vka8ElV.jpg",
+    "director": "Джон МакТирнан"
   },
   {
     "title": "Gravity",
@@ -4338,7 +4497,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/u8cZd9KAS0LvLTf2Z4cPflAf0Wz.jpg",
     "title_ru": "Гравитация",
     "tmdb_id": 49047,
-    "poster_path": "/u8cZd9KAS0LvLTf2Z4cPflAf0Wz.jpg"
+    "poster_path": "/u8cZd9KAS0LvLTf2Z4cPflAf0Wz.jpg",
+    "director": "Альфонсо Куарон"
   },
   {
     "title": "The Nightmare Before Christmas",
@@ -4363,7 +4523,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-nightmare-before-christmas-1993/",
     "title_ru": "Кошмар перед Рождеством",
     "tmdb_id": 9479,
-    "poster_path": "/xvqFn90FxKTJflG4n0spZY7vySu.jpg"
+    "poster_path": "/xvqFn90FxKTJflG4n0spZY7vySu.jpg",
+    "director": "Генри Селик"
   },
   {
     "title": "Moana",
@@ -4396,7 +4557,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/moana-2016/",
     "title_ru": "Моана",
     "tmdb_id": 277834,
-    "poster_path": "/drbVlDdeqRLoxylGpym4dECh5ai.jpg"
+    "poster_path": "/drbVlDdeqRLoxylGpym4dECh5ai.jpg",
+    "director": "Рон Клементс, Джон Маскер"
   },
   {
     "title": "The Great Gatsby",
@@ -4417,7 +4579,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/qPzMxU8ND98jWXVQCirpVtsV36s.jpg",
     "title_ru": "Великий Гэтсби",
     "tmdb_id": 64682,
-    "poster_path": "/qPzMxU8ND98jWXVQCirpVtsV36s.jpg"
+    "poster_path": "/qPzMxU8ND98jWXVQCirpVtsV36s.jpg",
+    "director": "Баз Лурман"
   },
   {
     "title": "Edward Scissorhands",
@@ -4442,7 +4605,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8Ddbc2eOV8zXTdR4ywcO9TNIcEj.jpg",
     "title_ru": "Эдвард руки-ножницы",
     "tmdb_id": 162,
-    "poster_path": "/8Ddbc2eOV8zXTdR4ywcO9TNIcEj.jpg"
+    "poster_path": "/8Ddbc2eOV8zXTdR4ywcO9TNIcEj.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Toy Story 2",
@@ -4465,7 +4629,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/toy-story-2-1999/",
     "title_ru": "История игрушек 2",
     "tmdb_id": 863,
-    "poster_path": "/descLErszABnAy79SDTzupmPD7e.jpg"
+    "poster_path": "/descLErszABnAy79SDTzupmPD7e.jpg",
+    "director": "Джон Лассетер"
   },
   {
     "title": "Coraline",
@@ -4493,7 +4658,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/coraline-2009/",
     "title_ru": "Коралина в Стране Кошмаров",
     "tmdb_id": 14836,
-    "poster_path": "/kwgBclQIcghtYYoJiDTw48bHWUK.jpg"
+    "poster_path": "/kwgBclQIcghtYYoJiDTw48bHWUK.jpg",
+    "director": "Генри Селик"
   },
   {
     "title": "Venom",
@@ -4512,7 +4678,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/4VrMnGuR4k5qDf2Ka4Llw1bLi0e.jpg",
     "title_ru": "Venom Inc Bloodstock Open Air 2018",
     "tmdb_id": 335983,
-    "poster_path": "/8Gyl0fknqiZeCLm9XitxCXQmEL9.jpg"
+    "poster_path": "/8Gyl0fknqiZeCLm9XitxCXQmEL9.jpg",
+    "director": "Рубен Фляйшер"
   },
   {
     "title": "Your Name.",
@@ -4539,7 +4706,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/your-name-2016/",
     "title_ru": "What's Your Name?",
     "tmdb_id": 777507,
-    "poster_path": "/9ts87cPRdxWvXfzsbgOoqj60y0o.jpg"
+    "poster_path": "/9ts87cPRdxWvXfzsbgOoqj60y0o.jpg",
+    "director": "Letibeb Zelleke"
   },
   {
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -4564,7 +4732,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/70xRYK8orGWA7NfxvzhtkjpZAD6.jpg",
     "title_ru": "Пираты Карибского моря: Проклятие Чёрной жемчужины",
     "tmdb_id": 22,
-    "poster_path": "/70xRYK8orGWA7NfxvzhtkjpZAD6.jpg"
+    "poster_path": "/70xRYK8orGWA7NfxvzhtkjpZAD6.jpg",
+    "director": "Гор Вербински"
   },
   {
     "title": "Star Wars: Episode II – Attack of the Clones",
@@ -4589,7 +4758,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/jGiIdLMD5Y16snttJwUcQSDBXUv.jpg",
     "title_ru": "Звёздные войны: Эпизод 2 - Атака клонов",
     "tmdb_id": 1894,
-    "poster_path": "/jGiIdLMD5Y16snttJwUcQSDBXUv.jpg"
+    "poster_path": "/jGiIdLMD5Y16snttJwUcQSDBXUv.jpg",
+    "director": "Джордж Лукас"
   },
   {
     "title": "Thor: The Dark World",
@@ -4611,7 +4781,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/rmII9fsUpfRmuNBhzHtarBOtHnQ.jpg",
     "title_ru": "Тор 2: Царство тьмы",
     "tmdb_id": 76338,
-    "poster_path": "/rmII9fsUpfRmuNBhzHtarBOtHnQ.jpg"
+    "poster_path": "/rmII9fsUpfRmuNBhzHtarBOtHnQ.jpg",
+    "director": "Алан Тейлор"
   },
   {
     "title": "Big Hero 6",
@@ -4638,7 +4809,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/big-hero-6-2014/",
     "title_ru": "Город героев",
     "tmdb_id": 177572,
-    "poster_path": "/vgC58PBGiEKlN7Gks5JFOShPIGH.jpg"
+    "poster_path": "/vgC58PBGiEKlN7Gks5JFOShPIGH.jpg",
+    "director": "Кристофер Уильямс, Don Hall"
   },
   {
     "title": "Cruella",
@@ -4661,7 +4833,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cruella-2021/",
     "title_ru": "Круэлла",
     "tmdb_id": 337404,
-    "poster_path": "/hUfyYGP9Xf6cHF9y44JXJV3NxZM.jpg"
+    "poster_path": "/hUfyYGP9Xf6cHF9y44JXJV3NxZM.jpg",
+    "director": "Крэйг Гиллеспи"
   },
   {
     "title": "Ready Player One",
@@ -4682,7 +4855,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ready-player-one-2018/",
     "title_ru": "Первому игроку приготовиться",
     "tmdb_id": 333339,
-    "poster_path": "/eVvMjpcw2lkS1A7hTeOzZDk0Ocf.jpg"
+    "poster_path": "/eVvMjpcw2lkS1A7hTeOzZDk0Ocf.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Hot Fuzz",
@@ -4709,7 +4883,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/lzMQlEDjqN0qs46BZS7pqM465ur.jpg",
     "title_ru": "Типа крутые легавые",
     "tmdb_id": 4638,
-    "poster_path": "/lzMQlEDjqN0qs46BZS7pqM465ur.jpg"
+    "poster_path": "/lzMQlEDjqN0qs46BZS7pqM465ur.jpg",
+    "director": "Эдгар Райт"
   },
   {
     "title": "E.T. the Extra-Terrestrial",
@@ -4737,7 +4912,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/et-the-extra-terrestrial-1982/",
     "title_ru": "Инопланетянин",
     "tmdb_id": 601,
-    "poster_path": "/cs0L1kInPiw9m7hsDiw0GagvSeE.jpg"
+    "poster_path": "/cs0L1kInPiw9m7hsDiw0GagvSeE.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Spider-Man 3",
@@ -4762,7 +4938,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/spider-man-3-2007/",
     "title_ru": "Человек-паук 3: Враг в отражении",
     "tmdb_id": 559,
-    "poster_path": "/ngNCHBZgNdbGisLbi1hImGh2SHl.jpg"
+    "poster_path": "/ngNCHBZgNdbGisLbi1hImGh2SHl.jpg",
+    "director": "Сэм Рэйми"
   },
   {
     "title": "The Imitation Game",
@@ -4790,7 +4967,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-imitation-game-2014/",
     "title_ru": "Игра в имитацию",
     "tmdb_id": 205596,
-    "poster_path": "/uJpPm9i2z9tckfxiKFGwGER3l3x.jpg"
+    "poster_path": "/uJpPm9i2z9tckfxiKFGwGER3l3x.jpg",
+    "director": "Мортен Тильдум"
   },
   {
     "title": "What We Do in the Shadows",
@@ -4815,7 +4993,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/what-we-do-in-the-shadows-2014/",
     "title_ru": "Реальные упыри",
     "tmdb_id": 246741,
-    "poster_path": "/tmUHOe07a84zgwMeWCpwnAqUwU4.jpg"
+    "poster_path": "/tmUHOe07a84zgwMeWCpwnAqUwU4.jpg",
+    "director": "Джемейн Клемент, Тайка Вайтити"
   },
   {
     "title": "Frozen",
@@ -4839,7 +5018,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/1keE9oReldd7QmG8epHoY23jQXv.jpg",
     "title_ru": "100 градусов ниже нуля",
     "tmdb_id": 109445,
-    "poster_path": "/5LYjyQT4IP7oM5ibawHXyDzT2Pp.jpg"
+    "poster_path": "/5LYjyQT4IP7oM5ibawHXyDzT2Pp.jpg",
+    "director": "Дженнифер Ли, Крис Бак"
   },
   {
     "title": "Train to Busan",
@@ -4870,7 +5050,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/zrWFD3ZW4VkiX4FpEfjpl7M5mHL.jpg",
     "title_ru": "Поезд в Пусан",
     "tmdb_id": 396535,
-    "poster_path": "/zrWFD3ZW4VkiX4FpEfjpl7M5mHL.jpg"
+    "poster_path": "/zrWFD3ZW4VkiX4FpEfjpl7M5mHL.jpg",
+    "director": "Ён Сан-хо"
   },
   {
     "title": "It Chapter Two",
@@ -4893,7 +5074,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/it-chapter-two-2019/",
     "title_ru": "Оно 2",
     "tmdb_id": 474350,
-    "poster_path": "/4yKBNPzgPnDndD0th2IrxYkA6rA.jpg"
+    "poster_path": "/4yKBNPzgPnDndD0th2IrxYkA6rA.jpg",
+    "director": "Энди Мускетти"
   },
   {
     "title": "The Big Short",
@@ -4914,7 +5096,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/i46ouFO2WBqJ1xIoTQgrD8Criol.jpg",
     "title_ru": "Игра на понижение",
     "tmdb_id": 318846,
-    "poster_path": "/i46ouFO2WBqJ1xIoTQgrD8Criol.jpg"
+    "poster_path": "/i46ouFO2WBqJ1xIoTQgrD8Criol.jpg",
+    "director": "Адам Маккей"
   },
   {
     "title": "V for Vendetta",
@@ -4946,7 +5129,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/v-for-vendetta-2005/",
     "title_ru": "«V» значит Вендетта",
     "tmdb_id": 752,
-    "poster_path": "/2KWF4ch7z78Is0pCXK6BzvJgFDN.jpg"
+    "poster_path": "/2KWF4ch7z78Is0pCXK6BzvJgFDN.jpg",
+    "director": "Джеймс МакТиг"
   },
   {
     "title": "A Quiet Place Part II",
@@ -4972,7 +5156,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/a-quiet-place-part-ii-2020/",
     "title_ru": "Тихое место 2",
     "tmdb_id": 520763,
-    "poster_path": "/9mLRf87tqKKpOjEx8M1yl1jZa1k.jpg"
+    "poster_path": "/9mLRf87tqKKpOjEx8M1yl1jZa1k.jpg",
+    "director": "Джон Красински"
   },
   {
     "title": "Tangled",
@@ -4999,7 +5184,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/tangled-2010/",
     "title_ru": "Рапунцель: Запутанная история",
     "tmdb_id": 38757,
-    "poster_path": "/i6hhWWRMglTJR2Oi5xsN0JV6tNq.jpg"
+    "poster_path": "/i6hhWWRMglTJR2Oi5xsN0JV6tNq.jpg",
+    "director": "Байрон Ховард, Нэйтан Грено"
   },
   {
     "title": "Zombieland",
@@ -5021,7 +5207,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8pI7awhYKiyjNX51JErj8Qv7Dso.jpg",
     "title_ru": "Добро пожаловать в Zомбилэнд",
     "tmdb_id": 19908,
-    "poster_path": "/8pI7awhYKiyjNX51JErj8Qv7Dso.jpg"
+    "poster_path": "/8pI7awhYKiyjNX51JErj8Qv7Dso.jpg",
+    "director": "Рубен Фляйшер"
   },
   {
     "title": "The Devil Wears Prada",
@@ -5042,7 +5229,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-devil-wears-prada-2006/",
     "title_ru": "Дьявол носит Prada",
     "tmdb_id": 350,
-    "poster_path": "/eHoW9PJTMbNY1AxBURiwyIzdaCF.jpg"
+    "poster_path": "/eHoW9PJTMbNY1AxBURiwyIzdaCF.jpg",
+    "director": "Дэвид Фрэнкел"
   },
   {
     "title": "Shrek 2",
@@ -5070,7 +5258,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shrek-2-2004/",
     "title_ru": "Шрэк 2",
     "tmdb_id": 809,
-    "poster_path": "/vALSn7rJEuX742gWKcmCVLquw5J.jpg"
+    "poster_path": "/vALSn7rJEuX742gWKcmCVLquw5J.jpg",
+    "director": "Конрад Вернон, Келли Эсбёри, Эндрю Адамсон"
   },
   {
     "title": "Full Metal Jacket",
@@ -5100,7 +5289,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/full-metal-jacket-1987/",
     "title_ru": "Цельнометаллическая оболочка",
     "tmdb_id": 600,
-    "poster_path": "/qaMwQ0j4A0QGkis4tE6ODUbC4Nz.jpg"
+    "poster_path": "/qaMwQ0j4A0QGkis4tE6ODUbC4Nz.jpg",
+    "director": "Стэнли Кубрик"
   },
   {
     "title": "Fantastic Beasts and Where to Find Them",
@@ -5125,7 +5315,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/hqpnhHmr9L63d9Hh2Js2xLBeLer.jpg",
     "title_ru": "Фантастические твари и где они обитают",
     "tmdb_id": 259316,
-    "poster_path": "/hqpnhHmr9L63d9Hh2Js2xLBeLer.jpg"
+    "poster_path": "/hqpnhHmr9L63d9Hh2Js2xLBeLer.jpg",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Ocean's Eleven",
@@ -5153,7 +5344,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/oceans-eleven-2001/",
     "title_ru": "Одиннадцать друзей Оушена",
     "tmdb_id": 161,
-    "poster_path": "/eBMvJiuav1ofDLdUleuLNXwm1K2.jpg"
+    "poster_path": "/eBMvJiuav1ofDLdUleuLNXwm1K2.jpg",
+    "director": "Steven Soderbergh"
   },
   {
     "title": "Jurassic World",
@@ -5176,7 +5368,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/nSUyxiLlf9qHDiQH5LmCQQK62WX.jpg",
     "title_ru": "Мир юрского периода",
     "tmdb_id": 135397,
-    "poster_path": "/nSUyxiLlf9qHDiQH5LmCQQK62WX.jpg"
+    "poster_path": "/nSUyxiLlf9qHDiQH5LmCQQK62WX.jpg",
+    "director": "Колин Треворроу"
   },
   {
     "title": "Gladiator",
@@ -5204,7 +5397,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/tOD7lSi949mD8NW0XniKlGhUgAU.jpg",
     "title_ru": "2020: Гладиаторы будущего",
     "tmdb_id": 98,
-    "poster_path": "/1wjNqlfsuHNTXTpCt2ZOV2iPxaf.jpg"
+    "poster_path": "/1wjNqlfsuHNTXTpCt2ZOV2iPxaf.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Solo: A Star Wars Story",
@@ -5232,7 +5426,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/solo-a-star-wars-story-2018/",
     "title_ru": "Хан Соло: Звёздные войны. Истории",
     "tmdb_id": 348350,
-    "poster_path": "/syDObMIKfE6MI5w9DAlofSr0QQl.jpg"
+    "poster_path": "/syDObMIKfE6MI5w9DAlofSr0QQl.jpg",
+    "director": "Рон Ховард"
   },
   {
     "title": "Green Book",
@@ -5255,7 +5450,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/fYch3e75YFnsJS9wAOOMlzErMqR.jpg",
     "title_ru": "Зелёная книга",
     "tmdb_id": 490132,
-    "poster_path": "/fYch3e75YFnsJS9wAOOMlzErMqR.jpg"
+    "poster_path": "/fYch3e75YFnsJS9wAOOMlzErMqR.jpg",
+    "director": "Peter Farrelly"
   },
   {
     "title": "The Hunger Games: Catching Fire",
@@ -5282,7 +5478,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hunger-games-catching-fire-2013/",
     "title_ru": "Голодные игры: И вспыхнет пламя",
     "tmdb_id": 101299,
-    "poster_path": "/lKe3uEQKyc6uTAOlFt9KmxHs5eH.jpg"
+    "poster_path": "/lKe3uEQKyc6uTAOlFt9KmxHs5eH.jpg",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "School of Rock",
@@ -5305,7 +5502,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/school-of-rock-2003/",
     "title_ru": "Школа рока",
     "tmdb_id": 1584,
-    "poster_path": "/zTL9lBUFxUhlFdq2amTKMCMXLeM.jpg"
+    "poster_path": "/zTL9lBUFxUhlFdq2amTKMCMXLeM.jpg",
+    "director": "Ричард Линклейтер"
   },
   {
     "title": "Pride & Prejudice",
@@ -5327,7 +5525,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/5j0JrcBCuGceNrwjyHMEoI6v5fQ.jpg",
     "title_ru": "Гордость и предубеждение",
     "tmdb_id": 4348,
-    "poster_path": "/5j0JrcBCuGceNrwjyHMEoI6v5fQ.jpg"
+    "poster_path": "/5j0JrcBCuGceNrwjyHMEoI6v5fQ.jpg",
+    "director": "Джо Райт"
   },
   {
     "title": "Squid Game",
@@ -5389,7 +5588,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/batman-v-superman-dawn-of-justice-2016/",
     "title_ru": "Бэтмен против Супермена: На заре справедливости",
     "tmdb_id": 209112,
-    "poster_path": "/tAQOcxxcZbpM1jEhz7hJC5nmCDi.jpg"
+    "poster_path": "/tAQOcxxcZbpM1jEhz7hJC5nmCDi.jpg",
+    "director": "Зак Снайдер"
   },
   {
     "title": "Twilight",
@@ -5412,7 +5612,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6fIckfPvvdadMNVKzWLoJinlIhw.jpg",
     "title_ru": "たそがれ",
     "tmdb_id": 8966,
-    "poster_path": "/pWI6GBi4eMQttMtKSWbxIFO2HqC.jpg"
+    "poster_path": "/pWI6GBi4eMQttMtKSWbxIFO2HqC.jpg",
+    "director": "Кэтрин Хардвик"
   },
   {
     "title": "The Amazing Spider-Man 2",
@@ -5437,7 +5638,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-amazing-spider-man-2-2014/",
     "title_ru": "Новый Человек-паук: Высокое напряжение",
     "tmdb_id": 102382,
-    "poster_path": "/1uxtVgcQHUgD3vBOC56hioofnmU.jpg"
+    "poster_path": "/1uxtVgcQHUgD3vBOC56hioofnmU.jpg",
+    "director": "Марк Уэбб"
   },
   {
     "title": "Bird Box",
@@ -5464,7 +5666,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/bird-box-2018/",
     "title_ru": "Птичий короб",
     "tmdb_id": 405774,
-    "poster_path": "/dWbhNl7ESABUqXfyOKPr5EQaDXP.jpg"
+    "poster_path": "/dWbhNl7ESABUqXfyOKPr5EQaDXP.jpg",
+    "director": "Сюзанна Бир"
   },
   {
     "title": "John Wick: Chapter 2",
@@ -5488,7 +5691,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/john-wick-chapter-2-2017/",
     "title_ru": "Джон Уик 2",
     "tmdb_id": 324552,
-    "poster_path": "/60dPOD22s6TS2SfQiiOGOePBg8N.jpg"
+    "poster_path": "/60dPOD22s6TS2SfQiiOGOePBg8N.jpg",
+    "director": "Чад Стахелски"
   },
   {
     "title": "Eternals",
@@ -5509,7 +5713,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/eternals-2021/",
     "title_ru": "Вечные",
     "tmdb_id": 524434,
-    "poster_path": "/r174t1SLtGamhPx3Wwj6f6YSyAi.jpg"
+    "poster_path": "/r174t1SLtGamhPx3Wwj6f6YSyAi.jpg",
+    "director": "Хлоя Чжао"
   },
   {
     "title": "Beetlejuice",
@@ -5529,7 +5734,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/beetlejuice-1988/",
     "title_ru": "Битлджюс",
     "tmdb_id": 4011,
-    "poster_path": "/vV40BJbN1NVYkOXVdkQt4qi1PmQ.jpg"
+    "poster_path": "/vV40BJbN1NVYkOXVdkQt4qi1PmQ.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Jennifer's Body",
@@ -5549,7 +5755,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jennifers-body-2009/",
     "title_ru": "Тело Дженнифер",
     "tmdb_id": 19994,
-    "poster_path": "/2oyxrtjWbgEuWY3sQrxgneREVcb.jpg"
+    "poster_path": "/2oyxrtjWbgEuWY3sQrxgneREVcb.jpg",
+    "director": "Карин Кусама"
   },
   {
     "title": "John Wick: Chapter 3 – Parabellum",
@@ -5573,7 +5780,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/john-wick-chapter-3-parabellum-2019/",
     "title_ru": "Джон Уик 3",
     "tmdb_id": 458156,
-    "poster_path": "/2RDx4bMYF5TbTdTBoOwDLDgIej.jpg"
+    "poster_path": "/2RDx4bMYF5TbTdTBoOwDLDgIej.jpg",
+    "director": "Чад Стахелски"
   },
   {
     "title": "Shazam!",
@@ -5596,7 +5804,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/shazam-2019/",
     "title_ru": "Шазам!",
     "tmdb_id": 287947,
-    "poster_path": "/s4byZ8CP7NLfH54FV3QF6l0JLSh.jpg"
+    "poster_path": "/s4byZ8CP7NLfH54FV3QF6l0JLSh.jpg",
+    "director": "Дэвид Ф. Сандберг"
   },
   {
     "title": "Ghostbusters",
@@ -5622,7 +5831,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/ghostbusters-1984/",
     "title_ru": "Охотники за привидениями",
     "tmdb_id": 620,
-    "poster_path": "/q9gSeNEXzwTllZC6Wrjfb7Rcr2X.jpg"
+    "poster_path": "/q9gSeNEXzwTllZC6Wrjfb7Rcr2X.jpg",
+    "director": "Ivan Reitman"
   },
   {
     "title": "Casino Royale",
@@ -5656,7 +5866,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/hJsiNIn1YWQsSW88tNhJwgeDXJn.jpg",
     "title_ru": "Becoming Bond",
     "tmdb_id": 36557,
-    "poster_path": "/kGLOLum7xU95spakBEfxCjEfNn0.jpg"
+    "poster_path": "/kGLOLum7xU95spakBEfxCjEfNn0.jpg",
+    "director": "Мартин Кэмпбелл"
   },
   {
     "title": "Aquaman",
@@ -5678,7 +5889,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg",
     "title_ru": "LEGO Супергерои DC: Аквамен. Ярость Атлантиды",
     "tmdb_id": 297802,
-    "poster_path": "/hA5rapmD3Lwv4I981yh6Ct8zvIC.jpg"
+    "poster_path": "/hA5rapmD3Lwv4I981yh6Ct8zvIC.jpg",
+    "director": "Джеймс Ван"
   },
   {
     "title": "Charlie and the Chocolate Factory",
@@ -5705,7 +5917,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/3HyLn6UaWJRY26njQ8CHubo7Aiy.jpg",
     "title_ru": "Чарли и шоколадная фабрика",
     "tmdb_id": 118,
-    "poster_path": "/3HyLn6UaWJRY26njQ8CHubo7Aiy.jpg"
+    "poster_path": "/3HyLn6UaWJRY26njQ8CHubo7Aiy.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "The Lego Movie",
@@ -5733,7 +5946,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-lego-movie-2014/",
     "title_ru": "ЛЕГО Фильм",
     "tmdb_id": 137106,
-    "poster_path": "/qcu4Dto60Idh0mkkeNdaPhyKUzr.jpg"
+    "poster_path": "/qcu4Dto60Idh0mkkeNdaPhyKUzr.jpg",
+    "director": "Фил Лорд, Крис Миллер"
   },
   {
     "title": "The Curious Case of Benjamin Button",
@@ -5754,7 +5968,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/wmVLPh1WFUe8CglklJYpXFMQqiG.jpg",
     "title_ru": "Загадочная история Бенджамина Баттона",
     "tmdb_id": 4922,
-    "poster_path": "/wmVLPh1WFUe8CglklJYpXFMQqiG.jpg"
+    "poster_path": "/wmVLPh1WFUe8CglklJYpXFMQqiG.jpg",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "X-Men: Days of Future Past",
@@ -5782,7 +5997,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/x-men-days-of-future-past-2014/",
     "title_ru": "Люди Икс: Дни минувшего будущего",
     "tmdb_id": 127585,
-    "poster_path": "/9IdeGyzRZH66RgNq9zSZDwPPllg.jpg"
+    "poster_path": "/9IdeGyzRZH66RgNq9zSZDwPPllg.jpg",
+    "director": "Брайан Сингер"
   },
   {
     "title": "Groundhog Day",
@@ -5808,7 +6024,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/groundhog-day-1993/",
     "title_ru": "День сурка",
     "tmdb_id": 137,
-    "poster_path": "/yo91LPlSzskGGNo273us7ScuKIH.jpg"
+    "poster_path": "/yo91LPlSzskGGNo273us7ScuKIH.jpg",
+    "director": "Гарольд Рамис"
   },
   {
     "title": "Terminator 2: Judgment Day",
@@ -5829,7 +6046,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/67MopMcqqke4sJmcOwY5zu3kmYz.jpg",
     "title_ru": "Терминатор 2: Судный день",
     "tmdb_id": 280,
-    "poster_path": "/67MopMcqqke4sJmcOwY5zu3kmYz.jpg"
+    "poster_path": "/67MopMcqqke4sJmcOwY5zu3kmYz.jpg",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Wonder Woman 1984",
@@ -5854,7 +6072,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/1B2YJCYyRudISmfSWCRfc95gAtq.jpg",
     "title_ru": "Чудо-женщина: 1984",
     "tmdb_id": 464052,
-    "poster_path": "/1B2YJCYyRudISmfSWCRfc95gAtq.jpg"
+    "poster_path": "/1B2YJCYyRudISmfSWCRfc95gAtq.jpg",
+    "director": "Пэтти Дженкинс"
   },
   {
     "title": "Mulan",
@@ -5878,7 +6097,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/wLB0VhC2FafMr6QEVH9ReX0Id3j.jpg",
     "title_ru": "Мулан",
     "tmdb_id": 10674,
-    "poster_path": "/wLB0VhC2FafMr6QEVH9ReX0Id3j.jpg"
+    "poster_path": "/wLB0VhC2FafMr6QEVH9ReX0Id3j.jpg",
+    "director": "Tony Bancroft, Barry Cook"
   },
   {
     "title": "Life of Pi",
@@ -5904,7 +6124,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/life-of-pi-2012/",
     "title_ru": "Жизнь Пи",
     "tmdb_id": 87827,
-    "poster_path": "/sKfOdwKRDoVROHg9B7suyKM82I9.jpg"
+    "poster_path": "/sKfOdwKRDoVROHg9B7suyKM82I9.jpg",
+    "director": "李安"
   },
   {
     "title": "The Hangover",
@@ -5926,7 +6147,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hangover-2009/",
     "title_ru": "Мальчишник в Вегасе",
     "tmdb_id": 18785,
-    "poster_path": "/eqfuqXcv0MlbnzihcfsTaTGMbd.jpg"
+    "poster_path": "/eqfuqXcv0MlbnzihcfsTaTGMbd.jpg",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "How to Train Your Dragon",
@@ -5954,7 +6176,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/how-to-train-your-dragon-2010/",
     "title_ru": "Как приручить дракона",
     "tmdb_id": 10191,
-    "poster_path": "/cMUmeDM2QRlSOAK9onB8PhXtdZJ.jpg"
+    "poster_path": "/cMUmeDM2QRlSOAK9onB8PhXtdZJ.jpg",
+    "director": "Крис Сандерс, Дин ДеБлуа"
   },
   {
     "title": "21 Jump Street",
@@ -5977,7 +6200,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/21-jump-street-2012/",
     "title_ru": "Мачо и ботан",
     "tmdb_id": 64688,
-    "poster_path": "/xe2Z8wgNzKK9dhHr23B18dCBmie.jpg"
+    "poster_path": "/xe2Z8wgNzKK9dhHr23B18dCBmie.jpg",
+    "director": "Фил Лорд, Крис Миллер"
   },
   {
     "title": "Aliens",
@@ -6004,7 +6228,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/sSCmIDZ2EO1oLa8QMq6dL8kNFKq.jpg",
     "title_ru": "Чужие",
     "tmdb_id": 679,
-    "poster_path": "/sSCmIDZ2EO1oLa8QMq6dL8kNFKq.jpg"
+    "poster_path": "/sSCmIDZ2EO1oLa8QMq6dL8kNFKq.jpg",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Enemy",
@@ -6026,7 +6251,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/zNgKPHlFAcDhrTY7uAKfpNJlFmh.jpg",
     "title_ru": "Враг",
     "tmdb_id": 344656,
-    "poster_path": "/dg4sBS73ULtzTRkiHFEkbEczpD6.jpg"
+    "poster_path": "/dg4sBS73ULtzTRkiHFEkbEczpD6.jpg",
+    "director": "Michael Ryan Hahn"
   },
   {
     "title": "Back to the Future Part II",
@@ -6048,7 +6274,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/7sVoHHyQCxdVuIAeJakFWthfcFg.jpg",
     "title_ru": "Назад в будущее 2",
     "tmdb_id": 165,
-    "poster_path": "/7sVoHHyQCxdVuIAeJakFWthfcFg.jpg"
+    "poster_path": "/7sVoHHyQCxdVuIAeJakFWthfcFg.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "The Terminator",
@@ -6074,7 +6301,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-terminator-1984/",
     "title_ru": "Терминатор",
     "tmdb_id": 218,
-    "poster_path": "/hcItc8IMO0WKyRWPGkI6xtKVu6X.jpg"
+    "poster_path": "/hcItc8IMO0WKyRWPGkI6xtKVu6X.jpg",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "The Green Mile",
@@ -6101,7 +6329,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-green-mile-1999/",
     "title_ru": "Зелёная миля",
     "tmdb_id": 497,
-    "poster_path": "/lHxe8t4B0CKv4DO0C0B4rsuiG95.jpg"
+    "poster_path": "/lHxe8t4B0CKv4DO0C0B4rsuiG95.jpg",
+    "director": "Фрэнк Дарабонт"
   },
   {
     "title": "The Hobbit: An Unexpected Journey",
@@ -6127,7 +6356,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hobbit-an-unexpected-journey-2012/",
     "title_ru": "Хоббит: Нежданное путешествие",
     "tmdb_id": 49051,
-    "poster_path": "/zTnup9V8UJEG4jWULQQpyKB6Tq0.jpg"
+    "poster_path": "/zTnup9V8UJEG4jWULQQpyKB6Tq0.jpg",
+    "director": "Питер Джексон"
   },
   {
     "title": "Kiki's Delivery Service",
@@ -6151,7 +6381,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/iEyJM9NDqjvDDKYUIOnGToCxiTo.jpg",
     "title_ru": "Ведьмина служба доставки",
     "tmdb_id": 16859,
-    "poster_path": "/iEyJM9NDqjvDDKYUIOnGToCxiTo.jpg"
+    "poster_path": "/iEyJM9NDqjvDDKYUIOnGToCxiTo.jpg",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "The Girl with the Dragon Tattoo",
@@ -6178,7 +6409,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-girl-with-the-dragon-tattoo-2011/",
     "title_ru": "Девушка с татуировкой дракона",
     "tmdb_id": 65754,
-    "poster_path": "/qMTJRPjORJOFFSaB7f8PWuIhqpI.jpg"
+    "poster_path": "/qMTJRPjORJOFFSaB7f8PWuIhqpI.jpg",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "Wreck-It Ralph",
@@ -6206,7 +6438,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/wreck-it-ralph-2012/",
     "title_ru": "Ральф",
     "tmdb_id": 82690,
-    "poster_path": "/ajqxACmmCAgNCL598xUTG4cn1iP.jpg"
+    "poster_path": "/ajqxACmmCAgNCL598xUTG4cn1iP.jpg",
+    "director": "Рич Мур"
   },
   {
     "title": "Free Guy",
@@ -6228,7 +6461,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/qJZ3UeKAOgz2kFVJPZZFzLtn1Qk.jpg",
     "title_ru": "Главный герой",
     "tmdb_id": 550988,
-    "poster_path": "/qJZ3UeKAOgz2kFVJPZZFzLtn1Qk.jpg"
+    "poster_path": "/qJZ3UeKAOgz2kFVJPZZFzLtn1Qk.jpg",
+    "director": "Шон Леви"
   },
   {
     "title": "Easy A",
@@ -6245,7 +6479,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/easy-a-2010/",
     "title_ru": "Отличница легкого поведения",
     "tmdb_id": 37735,
-    "poster_path": "/uBXAg9Wo0xc2nGLehNIBl3unNh7.jpg"
+    "poster_path": "/uBXAg9Wo0xc2nGLehNIBl3unNh7.jpg",
+    "director": "Уилл Глак"
   },
   {
     "title": "Godzilla vs. Kong",
@@ -6270,7 +6505,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/godzilla-vs-kong-2021/",
     "title_ru": "Годзилла против Конга",
     "tmdb_id": 399566,
-    "poster_path": "/wLAxMrIbBMWMm0ibCSGQFgBUDOZ.jpg"
+    "poster_path": "/wLAxMrIbBMWMm0ibCSGQFgBUDOZ.jpg",
+    "director": "Адам Вингард"
   },
   {
     "title": "Zack Snyder's Justice League",
@@ -6298,7 +6534,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/zack-snyders-justice-league-2021/",
     "title_ru": "Лига справедливости Зака Снайдера",
     "tmdb_id": 791373,
-    "poster_path": "/tpPWUv258JrMSIdkVVV1NDp3aoT.jpg"
+    "poster_path": "/tpPWUv258JrMSIdkVVV1NDp3aoT.jpg",
+    "director": "Зак Снайдер"
   },
   {
     "title": "The Greatest Showman",
@@ -6322,7 +6559,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-greatest-showman-2017/",
     "title_ru": "Величайший шоумен",
     "tmdb_id": 316029,
-    "poster_path": "/zv1lVnyhl1vNWXKvszN6kaA4clq.jpg"
+    "poster_path": "/zv1lVnyhl1vNWXKvszN6kaA4clq.jpg",
+    "director": "Майкл Грейси"
   },
   {
     "title": "Man of Steel",
@@ -6347,7 +6585,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/man-of-steel-2013/",
     "title_ru": "Человек из стали",
     "tmdb_id": 49521,
-    "poster_path": "/azlOOwkq3FS0unvTBjtQVsz6YIk.jpg"
+    "poster_path": "/azlOOwkq3FS0unvTBjtQVsz6YIk.jpg",
+    "director": "Зак Снайдер"
   },
   {
     "title": "The Edge of Seventeen",
@@ -6368,7 +6607,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/vRh1Wb9CZmm4dbb341skxnhzM72.jpg",
     "title_ru": "Почти семнадцать",
     "tmdb_id": 376660,
-    "poster_path": "/vRh1Wb9CZmm4dbb341skxnhzM72.jpg"
+    "poster_path": "/vRh1Wb9CZmm4dbb341skxnhzM72.jpg",
+    "director": "Келли Фримон Крейг"
   },
   {
     "title": "WandaVision",
@@ -6410,7 +6650,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/mission-impossible-fallout-2018/",
     "title_ru": "Миссия невыполнима: Последствия",
     "tmdb_id": 353081,
-    "poster_path": "/2hDzCRhXWm5ry2nFs9HQBIon1DJ.jpg"
+    "poster_path": "/2hDzCRhXWm5ry2nFs9HQBIon1DJ.jpg",
+    "director": "Кристофер МакКуорри"
   },
   {
     "title": "Brave",
@@ -6440,7 +6681,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/brave-2012/",
     "title_ru": "Храбрая сердцем",
     "tmdb_id": 62177,
-    "poster_path": "/lCYl7WVZfZ2oJoQCWjEyxPxpxli.jpg"
+    "poster_path": "/lCYl7WVZfZ2oJoQCWjEyxPxpxli.jpg",
+    "director": "Mark Andrews, Brenda Chapman"
   },
   {
     "title": "Dallas Buyers Club",
@@ -6465,7 +6707,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/dallas-buyers-club-2013/",
     "title_ru": "Далласский клуб покупателей",
     "tmdb_id": 152532,
-    "poster_path": "/6QQQzXosnQvcmGRc5mAmN0HAS9c.jpg"
+    "poster_path": "/6QQQzXosnQvcmGRc5mAmN0HAS9c.jpg",
+    "director": "Жан-Марк Валле"
   },
   {
     "title": "Aladdin",
@@ -6493,7 +6736,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/92GjkHUHMn9HIZqihuradZNZNLb.jpg",
     "title_ru": "Аладдин",
     "tmdb_id": 812,
-    "poster_path": "/92GjkHUHMn9HIZqihuradZNZNLb.jpg"
+    "poster_path": "/92GjkHUHMn9HIZqihuradZNZNLb.jpg",
+    "director": "Рон Клементс, Джон Маскер"
   },
   {
     "title": "Monty Python and the Holy Grail",
@@ -6516,7 +6760,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/monty-python-and-the-holy-grail-1975/",
     "title_ru": "Монти Пайтон и священный Грааль",
     "tmdb_id": 762,
-    "poster_path": "/lb6rAlJJeO2YACrtWWI471MIp8z.jpg"
+    "poster_path": "/lb6rAlJJeO2YACrtWWI471MIp8z.jpg",
+    "director": "Терри Гиллиам, Terry Jones"
   },
   {
     "title": "Cars",
@@ -6542,7 +6787,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cars-2006/",
     "title_ru": "Тачки",
     "tmdb_id": 920,
-    "poster_path": "/fnM322LJHBPFiwYLHe5KHSdYKfZ.jpg"
+    "poster_path": "/fnM322LJHBPFiwYLHe5KHSdYKfZ.jpg",
+    "director": "Джон Лассетер"
   },
   {
     "title": "Edge of Tomorrow",
@@ -6563,7 +6809,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/98Ll6igWXdjHiKuZtCacTzRGyNX.jpg",
     "title_ru": "Грань будущего",
     "tmdb_id": 137113,
-    "poster_path": "/98Ll6igWXdjHiKuZtCacTzRGyNX.jpg"
+    "poster_path": "/98Ll6igWXdjHiKuZtCacTzRGyNX.jpg",
+    "director": "Даг Лайман"
   },
   {
     "title": "Corpse Bride",
@@ -6586,7 +6833,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/corpse-bride-2005/",
     "title_ru": "Труп невесты",
     "tmdb_id": 3933,
-    "poster_path": "/sgqR6vsyc3SGGIjlK2HseG0vrQX.jpg"
+    "poster_path": "/sgqR6vsyc3SGGIjlK2HseG0vrQX.jpg",
+    "director": "Mike Johnson, Тим Бёртон"
   },
   {
     "title": "Jumanji: Welcome to the Jungle",
@@ -6612,7 +6860,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/jumanji-welcome-to-the-jungle-2017/",
     "title_ru": "Джуманджи: Зов Джунглей",
     "tmdb_id": 353486,
-    "poster_path": "/8x54Dct05F1mIGKmmswasHFVumt.jpg"
+    "poster_path": "/8x54Dct05F1mIGKmmswasHFVumt.jpg",
+    "director": "Джейк Кэздан"
   },
   {
     "title": "The Theory of Everything",
@@ -6632,7 +6881,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-theory-of-everything-2014/",
     "title_ru": "Вселенная Стивена Хокинга",
     "tmdb_id": 266856,
-    "poster_path": "/ocIrARiY6ZbEWsYJZmk6avPEc3k.jpg"
+    "poster_path": "/ocIrARiY6ZbEWsYJZmk6avPEc3k.jpg",
+    "director": "James Marsh"
   },
   {
     "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
@@ -6651,7 +6901,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
     "title_ru": "Борат 2",
     "tmdb_id": 740985,
-    "poster_path": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg"
+    "poster_path": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+    "director": "Jason Woliner"
   },
   {
     "title": "The Texas Chain Saw Massacre",
@@ -6672,7 +6923,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-texas-chain-saw-massacre-1974/",
     "title_ru": "Техасская резня бензопилой",
     "tmdb_id": 30497,
-    "poster_path": "/rEJYj4FyO4d0ivaudmYiq6DYiUw.jpg"
+    "poster_path": "/rEJYj4FyO4d0ivaudmYiq6DYiUw.jpg",
+    "director": "Тоуб Хупер"
   },
   {
     "title": "Now You See Me",
@@ -6696,7 +6948,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/now-you-see-me-2013/",
     "title_ru": "Иллюзия обмана",
     "tmdb_id": 75656,
-    "poster_path": "/theB79zav0sACXPxMFgKI3nQIr8.jpg"
+    "poster_path": "/theB79zav0sACXPxMFgKI3nQIr8.jpg",
+    "director": "Луи Летерье"
   },
   {
     "title": "Indiana Jones and the Last Crusade",
@@ -6719,7 +6972,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/indiana-jones-and-the-last-crusade-1989/",
     "title_ru": "Индиана Джонс и последний крестовый поход",
     "tmdb_id": 89,
-    "poster_path": "/8d0JXwZaEDl7xg2Wc973NKzwjW6.jpg"
+    "poster_path": "/8d0JXwZaEDl7xg2Wc973NKzwjW6.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
@@ -6738,7 +6992,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/bTUFtYSjjvmWTPa9oLzJK5qYVqn.jpg",
     "title_ru": "Борат",
     "tmdb_id": 496,
-    "poster_path": "/bTUFtYSjjvmWTPa9oLzJK5qYVqn.jpg"
+    "poster_path": "/bTUFtYSjjvmWTPa9oLzJK5qYVqn.jpg",
+    "director": "Ларри Чарльз"
   },
   {
     "title": "The Babadook",
@@ -6763,7 +7018,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-babadook-2014/",
     "title_ru": "Бабадук",
     "tmdb_id": 242224,
-    "poster_path": "/1tOwKZqS5YQ7EL9QNXjhC7rKHKd.jpg"
+    "poster_path": "/1tOwKZqS5YQ7EL9QNXjhC7rKHKd.jpg",
+    "director": "Jennifer Kent"
   },
   {
     "title": "Venom: Let There Be Carnage",
@@ -6785,7 +7041,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/pZe4xYwDkmxhf3oA8DNEihOW4pW.jpg",
     "title_ru": "Веном 2",
     "tmdb_id": 580489,
-    "poster_path": "/pZe4xYwDkmxhf3oA8DNEihOW4pW.jpg"
+    "poster_path": "/pZe4xYwDkmxhf3oA8DNEihOW4pW.jpg",
+    "director": "Энди Сёркис"
   },
   {
     "title": "Watchmen",
@@ -6806,7 +7063,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/vxDpI0PwoXNhkoxEvy8BtZAFoYZ.jpg",
     "title_ru": "Хранители",
     "tmdb_id": 13183,
-    "poster_path": "/vxDpI0PwoXNhkoxEvy8BtZAFoYZ.jpg"
+    "poster_path": "/vxDpI0PwoXNhkoxEvy8BtZAFoYZ.jpg",
+    "director": "Зак Снайдер"
   },
   {
     "title": "The Matrix Reloaded",
@@ -6830,7 +7088,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-matrix-reloaded-2003/",
     "title_ru": "Матрица: Перезагрузка",
     "tmdb_id": 604,
-    "poster_path": "/d0xVNNxIYxId2qHkqpgE39soOvD.jpg"
+    "poster_path": "/d0xVNNxIYxId2qHkqpgE39soOvD.jpg",
+    "director": "Энди Вачовски, Ларри Вачовски"
   },
   {
     "title": "Love, Simon",
@@ -6853,7 +7112,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/love-simon-2018/",
     "title_ru": "С любовью, Саймон",
     "tmdb_id": 449176,
-    "poster_path": "/eTrrZ0CnLMDc9DXlRpfC9wVfbkL.jpg"
+    "poster_path": "/eTrrZ0CnLMDc9DXlRpfC9wVfbkL.jpg",
+    "director": "Грег Берланти"
   },
   {
     "title": "X-Men: First Class",
@@ -6875,7 +7135,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/6vkQtWNHqq3uzcS0PH2mER7Gzjd.jpg",
     "title_ru": "Люди Икс: Первый класс",
     "tmdb_id": 49538,
-    "poster_path": "/6vkQtWNHqq3uzcS0PH2mER7Gzjd.jpg"
+    "poster_path": "/6vkQtWNHqq3uzcS0PH2mER7Gzjd.jpg",
+    "director": "Мэттью Вон"
   },
   {
     "title": "Monsters University",
@@ -6901,7 +7162,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/monsters-university-2013/",
     "title_ru": "Университет монстров",
     "tmdb_id": 62211,
-    "poster_path": "/3LkX2ZFLbgj07lhdQYzOUHaMoZd.jpg"
+    "poster_path": "/3LkX2ZFLbgj07lhdQYzOUHaMoZd.jpg",
+    "director": "Дэн Скэнлон"
   },
   {
     "title": "Justice League",
@@ -6923,7 +7185,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/justice-league-2017/",
     "title_ru": "Лига справедливости",
     "tmdb_id": 141052,
-    "poster_path": "/e2f1GaWLkk5Sj7cZMi38mUPXYdt.jpg"
+    "poster_path": "/e2f1GaWLkk5Sj7cZMi38mUPXYdt.jpg",
+    "director": "Зак Снайдер"
   },
   {
     "title": "American History X",
@@ -6946,7 +7209,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/american-history-x-1998/",
     "title_ru": "Американская история X",
     "tmdb_id": 73,
-    "poster_path": "/2dIE1KOc7Fa3FIMzph8mBJK17KM.jpg"
+    "poster_path": "/2dIE1KOc7Fa3FIMzph8mBJK17KM.jpg",
+    "director": "Тони Кэй"
   },
   {
     "title": "Love Actually",
@@ -6969,7 +7233,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/love-actually-2003/",
     "title_ru": "Реальная любовь",
     "tmdb_id": 508,
-    "poster_path": "/bvgazyuurl8il9nYsXMU7aulWGL.jpg"
+    "poster_path": "/bvgazyuurl8il9nYsXMU7aulWGL.jpg",
+    "director": "Ричард Кёртис"
   },
   {
     "title": "The Hunger Games: Mockingjay – Part 1",
@@ -6994,7 +7259,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hunger-games-mockingjay-part-1-2014/",
     "title_ru": "Голодные игры: Сойка-пересмешница. Часть 1",
     "tmdb_id": 131631,
-    "poster_path": "/kPbFeomPFnnktdwBgCBZ24NhkTj.jpg"
+    "poster_path": "/kPbFeomPFnnktdwBgCBZ24NhkTj.jpg",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Hacksaw Ridge",
@@ -7021,7 +7287,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/A4Q3CdaQzbPwDI1gnE7WX5585rJ.jpg",
     "title_ru": "По соображениям совести",
     "tmdb_id": 324786,
-    "poster_path": "/A4Q3CdaQzbPwDI1gnE7WX5585rJ.jpg"
+    "poster_path": "/A4Q3CdaQzbPwDI1gnE7WX5585rJ.jpg",
+    "director": "Мел Гибсон"
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
@@ -7046,7 +7313,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/guSoA2bedeYB2xGTBKYLx0biENV.jpg",
     "title_ru": "Пираты Карибского моря: Сундук мертвеца",
     "tmdb_id": 58,
-    "poster_path": "/guSoA2bedeYB2xGTBKYLx0biENV.jpg"
+    "poster_path": "/guSoA2bedeYB2xGTBKYLx0biENV.jpg",
+    "director": "Гор Вербински"
   },
   {
     "title": "Kick-Ass",
@@ -7067,7 +7335,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/mLMuZS6rgxBZZstzIwJonG355oI.jpg",
     "title_ru": "Пипец",
     "tmdb_id": 23483,
-    "poster_path": "/mLMuZS6rgxBZZstzIwJonG355oI.jpg"
+    "poster_path": "/mLMuZS6rgxBZZstzIwJonG355oI.jpg",
+    "director": "Мэттью Вон"
   },
   {
     "title": "Frozen II",
@@ -7095,7 +7364,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/frozen-ii-2019/",
     "title_ru": "Холодное сердце 2",
     "tmdb_id": 330457,
-    "poster_path": "/4NIQcsmtyBOoJKI3c1Rg5sFFaUj.jpg"
+    "poster_path": "/4NIQcsmtyBOoJKI3c1Rg5sFFaUj.jpg",
+    "director": "Дженнифер Ли, Крис Бак"
   },
   {
     "title": "Pokémon Detective Pikachu",
@@ -7120,7 +7390,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/pokmon-detective-pikachu-2019/",
     "title_ru": "Покемон: Детектив Пикачу",
     "tmdb_id": 447404,
-    "poster_path": "/t9FIOdeU9PU49ieVzG2JsutNy3H.jpg"
+    "poster_path": "/t9FIOdeU9PU49ieVzG2JsutNy3H.jpg",
+    "director": "Роб Леттерман"
   },
   {
     "title": "Kung Fu Panda",
@@ -7142,7 +7413,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/dWteA8uhU6SWyawy5f4l7BnYQCm.jpg",
     "title_ru": "Кунг-фу Панда",
     "tmdb_id": 9502,
-    "poster_path": "/dWteA8uhU6SWyawy5f4l7BnYQCm.jpg"
+    "poster_path": "/dWteA8uhU6SWyawy5f4l7BnYQCm.jpg",
+    "director": "Марк Осборн, John Stevenson"
   },
   {
     "title": "The Incredible Hulk",
@@ -7163,7 +7435,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-incredible-hulk-2008/",
     "title_ru": "Невероятный Халк",
     "tmdb_id": 1724,
-    "poster_path": "/gSpDY5e5VCohH0PaSEWEI0FdEzC.jpg"
+    "poster_path": "/gSpDY5e5VCohH0PaSEWEI0FdEzC.jpg",
+    "director": "Луи Летерье"
   },
   {
     "title": "Men in Black",
@@ -7187,7 +7460,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/men-in-black-1997/",
     "title_ru": "Люди в чёрном",
     "tmdb_id": 607,
-    "poster_path": "/aWdS4UOb4aeoS9xZsxGHhXTA1jp.jpg"
+    "poster_path": "/aWdS4UOb4aeoS9xZsxGHhXTA1jp.jpg",
+    "director": "Барри Зонненфельд"
   },
   {
     "title": "Crazy, Stupid, Love.",
@@ -7210,7 +7484,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/crazy-stupid-love-2011/",
     "title_ru": "Эта дурацкая любовь",
     "tmdb_id": 50646,
-    "poster_path": "/ho2mxV5t3ZxsgSNP1JMHfxdxpkW.jpg"
+    "poster_path": "/ho2mxV5t3ZxsgSNP1JMHfxdxpkW.jpg",
+    "director": "Гленн Фикарра, Джон Рекуа"
   },
   {
     "title": "The Matrix Resurrections",
@@ -7232,7 +7507,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/wUNFs1bTM8O4ZmRNU3Pgi6c68sX.jpg",
     "title_ru": "Матрица: Воскрешение",
     "tmdb_id": 624860,
-    "poster_path": "/wUNFs1bTM8O4ZmRNU3Pgi6c68sX.jpg"
+    "poster_path": "/wUNFs1bTM8O4ZmRNU3Pgi6c68sX.jpg",
+    "director": "Ларри Вачовски"
   },
   {
     "title": "Rocky",
@@ -7263,7 +7539,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/7gtCLTReKHDySOnPduWwu6190pt.jpg",
     "title_ru": "Рокки",
     "tmdb_id": 1366,
-    "poster_path": "/7gtCLTReKHDySOnPduWwu6190pt.jpg"
+    "poster_path": "/7gtCLTReKHDySOnPduWwu6190pt.jpg",
+    "director": "John G. Avildsen"
   },
   {
     "title": "The Hobbit: The Desolation of Smaug",
@@ -7285,7 +7562,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/ccbf6gnYwB2tMaU9EAgxCi88NEe.jpg",
     "title_ru": "Хоббит: Пустошь Смауга",
     "tmdb_id": 57158,
-    "poster_path": "/ccbf6gnYwB2tMaU9EAgxCi88NEe.jpg"
+    "poster_path": "/ccbf6gnYwB2tMaU9EAgxCi88NEe.jpg",
+    "director": "Питер Джексон"
   },
   {
     "title": "Legally Blonde",
@@ -7303,7 +7581,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/gUvq472g8Wsp6DVNOCWh8OVDcM6.jpg",
     "title_ru": "Блондинка в законе",
     "tmdb_id": 8835,
-    "poster_path": "/gUvq472g8Wsp6DVNOCWh8OVDcM6.jpg"
+    "poster_path": "/gUvq472g8Wsp6DVNOCWh8OVDcM6.jpg",
+    "director": "Robert Luketic"
   },
   {
     "title": "Looper",
@@ -7325,7 +7604,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/moFUn35rGpj99XasdywgzjgL6Uw.jpg",
     "title_ru": "Петля времени",
     "tmdb_id": 59967,
-    "poster_path": "/moFUn35rGpj99XasdywgzjgL6Uw.jpg"
+    "poster_path": "/moFUn35rGpj99XasdywgzjgL6Uw.jpg",
+    "director": "Райан Джонсон"
   },
   {
     "title": "Spectre",
@@ -7353,7 +7633,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/spectre-2015/",
     "title_ru": "007: Спектр",
     "tmdb_id": 206647,
-    "poster_path": "/kNwjQ4slojsrgkA84PtlRnz6u9j.jpg"
+    "poster_path": "/kNwjQ4slojsrgkA84PtlRnz6u9j.jpg",
+    "director": "Sam Mendes"
   },
   {
     "title": "The Iron Giant",
@@ -7381,7 +7662,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-iron-giant-1999/",
     "title_ru": "Стальной гигант",
     "tmdb_id": 10386,
-    "poster_path": "/wkaIRfdfL8n7QQe3G4dd48KeJix.jpg"
+    "poster_path": "/wkaIRfdfL8n7QQe3G4dd48KeJix.jpg",
+    "director": "Брэд Бёрд"
   },
   {
     "title": "Kong: Skull Island",
@@ -7403,7 +7685,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/19GS8ERZYAi4O7dVIDDpSLE3ynW.jpg",
     "title_ru": "Конг: Остров черепа",
     "tmdb_id": 293167,
-    "poster_path": "/19GS8ERZYAi4O7dVIDDpSLE3ynW.jpg"
+    "poster_path": "/19GS8ERZYAi4O7dVIDDpSLE3ynW.jpg",
+    "director": "Джордан Вот-Робертс"
   },
   {
     "title": "Indiana Jones and the Temple of Doom",
@@ -7425,7 +7708,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom-1984/",
     "title_ru": "Индиана Джонс и Храм Судьбы",
     "tmdb_id": 87,
-    "poster_path": "/az7v4UfTazPSeiLT1TrMNLdk6YX.jpg"
+    "poster_path": "/az7v4UfTazPSeiLT1TrMNLdk6YX.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "The Emperor's New Groove",
@@ -7452,7 +7736,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-emperors-new-groove-2000/",
     "title_ru": "Похождения императора",
     "tmdb_id": 11688,
-    "poster_path": "/xeDg6fbmjjj5H7CsKEWpOEK9n2m.jpg"
+    "poster_path": "/xeDg6fbmjjj5H7CsKEWpOEK9n2m.jpg",
+    "director": "Марк Диндал"
   },
   {
     "title": "Alice in Wonderland",
@@ -7476,7 +7761,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/i0jk1oPJN9F5mp2ZKXPAEzUd8qo.jpg",
     "title_ru": "Алиса в стране чудес",
     "tmdb_id": 12155,
-    "poster_path": "/i0jk1oPJN9F5mp2ZKXPAEzUd8qo.jpg"
+    "poster_path": "/i0jk1oPJN9F5mp2ZKXPAEzUd8qo.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "World War Z",
@@ -7499,7 +7785,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/t25IhiCJ8En3uZP27XLSEk8BQCf.jpg",
     "title_ru": "Война миров Z",
     "tmdb_id": 72190,
-    "poster_path": "/t25IhiCJ8En3uZP27XLSEk8BQCf.jpg"
+    "poster_path": "/t25IhiCJ8En3uZP27XLSEk8BQCf.jpg",
+    "director": "Марк Форстер"
   },
   {
     "title": "Beauty and the Beast",
@@ -7522,7 +7809,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/beauty-and-the-beast-2017/",
     "title_ru": "Красавица и чудовище",
     "tmdb_id": 321612,
-    "poster_path": "/bETMkjKVKXgXn591UZ9pFqAKQ6z.jpg"
+    "poster_path": "/bETMkjKVKXgXn591UZ9pFqAKQ6z.jpg",
+    "director": "Билл Кондон"
   },
   {
     "title": "Beauty and the Beast",
@@ -7549,7 +7837,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/A9AtXMWX0V4IZ2ygBi9Cr85tQD1.jpg",
     "title_ru": "Красавица и Чудовище",
     "tmdb_id": 10020,
-    "poster_path": "/A9AtXMWX0V4IZ2ygBi9Cr85tQD1.jpg"
+    "poster_path": "/A9AtXMWX0V4IZ2ygBi9Cr85tQD1.jpg",
+    "director": "Гари Труздейл, Kirk Wise"
   },
   {
     "title": "Swiss Army Man",
@@ -7577,7 +7866,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/swiss-army-man-2016/",
     "title_ru": "Человек – швейцарский нож",
     "tmdb_id": 347031,
-    "poster_path": "/rxc0V3Ac9SPkmftzDNqsKdGbKmS.jpg"
+    "poster_path": "/rxc0V3Ac9SPkmftzDNqsKdGbKmS.jpg",
+    "director": "Daniel Kwan, Daniel Scheinert"
   },
   {
     "title": "The Hunger Games: Mockingjay – Part 2",
@@ -7602,7 +7892,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/the-hunger-games-mockingjay-part-2-2015/",
     "title_ru": "Голодные игры: Сойка-пересмешница. Часть 2",
     "tmdb_id": 131634,
-    "poster_path": "/iQSeemlBax66PWmUWjuKFVBLBBa.jpg"
+    "poster_path": "/iQSeemlBax66PWmUWjuKFVBLBBa.jpg",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Cast Away",
@@ -7628,7 +7919,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/cast-away-2000/",
     "title_ru": "Изгой",
     "tmdb_id": 8358,
-    "poster_path": "/7pt1wFiuCai9BGGwNoQ0vgcfs1T.jpg"
+    "poster_path": "/7pt1wFiuCai9BGGwNoQ0vgcfs1T.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Moneyball",
@@ -7651,7 +7943,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/moneyball-2011/",
     "title_ru": "Человек, который изменил всё",
     "tmdb_id": 60308,
-    "poster_path": "/4HK2P331zld9xB7L8BWLh1fJuUh.jpg"
+    "poster_path": "/4HK2P331zld9xB7L8BWLh1fJuUh.jpg",
+    "director": "Беннетт Миллер"
   },
   {
     "title": "American Hustle",
@@ -7671,7 +7964,8 @@ var movieDB = [
     "letterboxd_url": "https://letterboxd.com/film/american-hustle-2013/",
     "title_ru": "Афера по-американски",
     "tmdb_id": 168672,
-    "poster_path": "/j2qDwmdaQfnQIiyC5dUpVwUOakn.jpg"
+    "poster_path": "/j2qDwmdaQfnQIiyC5dUpVwUOakn.jpg",
+    "director": "David O. Russell"
   },
   {
     "title": "Kingsman: The Golden Circle",
@@ -7699,7 +7993,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/vVQXYV7x6gpk9oVFbzsBxkIxdqT.jpg",
     "title_ru": "Kingsman: Золотое кольцо",
     "tmdb_id": 343668,
-    "poster_path": "/vVQXYV7x6gpk9oVFbzsBxkIxdqT.jpg"
+    "poster_path": "/vVQXYV7x6gpk9oVFbzsBxkIxdqT.jpg",
+    "director": "Мэттью Вон"
   },
   {
     "title": "Snatch",
@@ -7720,7 +8015,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/5O4Plo1z21mycLfLyQ2AtPhbmhW.jpg",
     "title_ru": "Большой куш",
     "tmdb_id": 107,
-    "poster_path": "/5O4Plo1z21mycLfLyQ2AtPhbmhW.jpg"
+    "poster_path": "/5O4Plo1z21mycLfLyQ2AtPhbmhW.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "The Lion King",
@@ -7743,7 +8039,8 @@ var movieDB = [
     "poster_url": "https://image.tmdb.org/t/p/w500/lD4Hy3ibzvA9byY2uyUNGeRNzaj.jpg",
     "title_ru": "Король Лев",
     "tmdb_id": 420818,
-    "poster_path": "/lD4Hy3ibzvA9byY2uyUNGeRNzaj.jpg"
+    "poster_path": "/lD4Hy3ibzvA9byY2uyUNGeRNzaj.jpg",
+    "director": "Джон Фавро"
   },
   {
     "title": "X-Men: Apocalypse",
@@ -7767,7 +8064,8 @@ var movieDB = [
     "why": "События «Дней Минувшего Будущего» оказали колоссальное влияние на мир, где мутанты и люди борются за свое место под Солнцем. В это нелегкое время Людям Икс предстоит столкнуться со своим самым опасным противником — древним мутантом Апокалипсисом, существом, схватка с которым может стать последней не...",
     "title_ru": "Люди Икс: Апокалипсис",
     "tmdb_id": 246655,
-    "poster_path": "/eWMotFv2cbsJLxFGLZPqT7SRk7Z.jpg"
+    "poster_path": "/eWMotFv2cbsJLxFGLZPqT7SRk7Z.jpg",
+    "director": "Брайан Сингер"
   },
   {
     "title": "Pacific Rim",
@@ -7791,7 +8089,8 @@ var movieDB = [
     "why": "Когда из морских глубин поднялись легионы чудовищ, известных как кайдзю, началась война, которой суждено было забрать миллионы жизней и свести «человеческие ресурсы» почти к нулю всего за несколько лет. Чтобы сражаться с пришельцами, было создано специальное оружие: огромные роботы, названные егерям...",
     "title_ru": "Тихоокеанский рубеж",
     "tmdb_id": 68726,
-    "poster_path": "/jwdJ3iy8rwJjvPOtCdtR17mzMVR.jpg"
+    "poster_path": "/jwdJ3iy8rwJjvPOtCdtR17mzMVR.jpg",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Home Alone 2: Lost in New York",
@@ -7814,7 +8113,8 @@ var movieDB = [
     "why": "Самый маленький герой Америки устраивает большой переполох в Нью Йорке! Кевин МакКалистер вернулся! Но теперь он один не дома, а в Нью Йорке и у него достаточно денег и кредитных карточек, чтобы превратить Большое Яблоко в собственную площадку для игр. Но, как всегда, Кевину не суждено быть долго од...",
     "title_ru": "Один дома 2: Затерянный в Нью-Йорке",
     "tmdb_id": 772,
-    "poster_path": "/tOpSeLYsZLL4h1N9tHcqRm1Y5t2.jpg"
+    "poster_path": "/tOpSeLYsZLL4h1N9tHcqRm1Y5t2.jpg",
+    "director": "Крис Коламбус"
   },
   {
     "title": "The Gentlemen",
@@ -7858,7 +8158,8 @@ var movieDB = [
     "why": "После гибели Смауга за сокровища Одинокой горы сходятся пять воинств: гномы, эльфы, люди, орки и варги. Древние союзы трещат под давлением жадности и страха, а попытки сохранить мир тонут в нарастающем хаосе. Когда битва становится неизбежной, на первый план выходят честь, верность и личный выбор. И...",
     "title_ru": "Хоббит: Битва пяти воинств",
     "tmdb_id": 122917,
-    "poster_path": "/19fnHQ9g3Sy87rHKtw3wqhkBGOh.jpg"
+    "poster_path": "/19fnHQ9g3Sy87rHKtw3wqhkBGOh.jpg",
+    "director": "Питер Джексон"
   },
   {
     "title": "Jurassic World: Fallen Kingdom",
@@ -7883,7 +8184,8 @@ var movieDB = [
     "why": "Основатели парка Юрского периода решают восстановить его работу, пренебрегая действующим вулканом, который находится в центре острова. Огнедышащий исполин пробуждается и грозит утопить всё в лаве. Клэр Дэринг вынуждена снова обратиться за помощью к дрессировщику Оуэну Грэди, чтобы спасти животных от...",
     "title_ru": "Мир юрского периода 2",
     "tmdb_id": 351286,
-    "poster_path": "/4VEkflsi7zQmBN6vNpihNrmnRzj.jpg"
+    "poster_path": "/4VEkflsi7zQmBN6vNpihNrmnRzj.jpg",
+    "director": "Хуан Антонио Байона"
   },
   {
     "title": "Chernobyl",
@@ -7905,7 +8207,8 @@ var movieDB = [
     "why": "Взрыв на Чернобыльской АЭС. Пять серий чистого ужаса и героизма. Джаред Харрис и Стеллан Скарсгард. 3.6 рентгена — не больше, не меньше.",
     "title_ru": "Mother of Chernobyl",
     "tmdb_id": 608558,
-    "poster_path": "/1lAxvdtv8lAlDgUnMikkh6bmZ8b.jpg"
+    "poster_path": "/1lAxvdtv8lAlDgUnMikkh6bmZ8b.jpg",
+    "director": "Alexander Shuryepov"
   },
   {
     "title": "Lilo & Stitch",
@@ -7928,7 +8231,8 @@ var movieDB = [
     "why": "Лило — это маленькая девочка, живущая на Гавайах. Она сирота и живёт вместе со своей старшей сестрой Нани. Лило любит всех животных, но больше всего она подружилась с собачкой по имени Стич, которая на самом деле совсем не собачка, а замаскированный инопланетянин. Дело было так: некоего преступника ...",
     "title_ru": "Лило и Стич",
     "tmdb_id": 11544,
-    "poster_path": "/6YhJyjmkGiP34uVa56ZkfSs8UXm.jpg"
+    "poster_path": "/6YhJyjmkGiP34uVa56ZkfSs8UXm.jpg",
+    "director": "Крис Сандерс, Дин ДеБлуа"
   },
   {
     "title": "Halloween",
@@ -7953,7 +8257,8 @@ var movieDB = [
     "why": "Зло всегда возвращается. Его нельзя укротить или подчинить — лишь на время остановить. Можно выстрелить в него, сжечь дотла, но оно всё равно восстанет из тьмы. Майкл Майерс ещё не закончил своё дело в Хэддонфилде. И вскоре он снова вернётся домой… чтобы убивать.",
     "title_ru": "Хэллоуин",
     "tmdb_id": 424139,
-    "poster_path": "/yLJRI3Jq1bS5tzwFE6gRcmri6sM.jpg"
+    "poster_path": "/yLJRI3Jq1bS5tzwFE6gRcmri6sM.jpg",
+    "director": "Дэвид Гордон Грин"
   },
   {
     "title": "Despicable Me",
@@ -7980,7 +8285,8 @@ var movieDB = [
     "why": "Гадкий Я и его миньоны. Три девочки меняют злодея. It's so fluffy!",
     "title_ru": "Гадкий я",
     "tmdb_id": 20352,
-    "poster_path": "/hdQGY69UeJoNnRQaUDtflSFFSUP.jpg"
+    "poster_path": "/hdQGY69UeJoNnRQaUDtflSFFSUP.jpg",
+    "director": "Крис Рено, Пьер Коффен"
   },
   {
     "title": "A Beautiful Mind",
@@ -8004,7 +8310,8 @@ var movieDB = [
     "why": "Рассел Кроу — Джон Нэш. Гениальность и шизофрения. Не всё реально, что ты видишь.",
     "title_ru": "Игры разума",
     "tmdb_id": 453,
-    "poster_path": "/7EX8TTBKCJR3x7xziOSp6M0bQdF.jpg"
+    "poster_path": "/7EX8TTBKCJR3x7xziOSp6M0bQdF.jpg",
+    "director": "Рон Ховард"
   },
   {
     "title": "Saw",
@@ -8030,7 +8337,8 @@ var movieDB = [
     "why": "Адам и Гордон очнулись прикованными к трубам в огромном заброшенном помещении. Между ними труп в луже крови... Оба не понимают ни как они оказались в таком положении, ни как из него выйти. Достаточно быстро они осознают, что стали жертвой серийного маньяка, которого полицейские называют «Конструктор...",
     "title_ru": "Пила. Игра на выживание",
     "tmdb_id": 176,
-    "poster_path": "/ghBc5iOJxDcEHPi7OvQYdVXiGeF.jpg"
+    "poster_path": "/ghBc5iOJxDcEHPi7OvQYdVXiGeF.jpg",
+    "director": "Джеймс Ван"
   },
   {
     "title": "Raya and the Last Dragon",
@@ -8056,7 +8364,8 @@ var movieDB = [
     "why": "Давным-давно в волшебной стране Кумандре бок о бок с людьми жили драконы — создатели и хранители воды. Мирной жизни пришёл конец, когда появились друуны. Порождения тьмы обращали людей и драконов в каменные изваяния, и только магия драконихи Сису смогла прогнать злых созданий и расколдовать людей, н...",
     "title_ru": "Райя и последний дракон",
     "tmdb_id": 527774,
-    "poster_path": "/c8srjTN6PXUxeqmVI0T2ffK3iwC.jpg"
+    "poster_path": "/c8srjTN6PXUxeqmVI0T2ffK3iwC.jpg",
+    "director": "Carlos López Estrada, Don Hall"
   },
   {
     "title": "I Am Legend",
@@ -8087,7 +8396,8 @@ var movieDB = [
     ],
     "title_ru": "Я - легенда",
     "tmdb_id": 6479,
-    "poster_path": "/bTTsdXhaZmLyT5nRy3yRuLaqLN0.jpg"
+    "poster_path": "/bTTsdXhaZmLyT5nRy3yRuLaqLN0.jpg",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Back to the Future Part III",
@@ -8107,7 +8417,8 @@ var movieDB = [
     "why": "Из газет 1955 года Марти узнает, что доктор Браун погиб еще сто лет назад. Несмотря на просьбы Дока не навещать его в XIX веке, Марти вновь хочет вмешаться в ход событий и на машине времени уносится в 1885 год, навстречу Дикому Западу. Это путешествие, как и все прежние, не обходится без опасных при...",
     "title_ru": "Назад в будущее 3",
     "tmdb_id": 196,
-    "poster_path": "/hP8IQLoaN2KLFFmDuIdtRrD38O7.jpg"
+    "poster_path": "/hP8IQLoaN2KLFFmDuIdtRrD38O7.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "A Bug's Life",
@@ -8132,7 +8443,8 @@ var movieDB = [
     "why": "Вместе с забавным муравьём Фликом вы совершите путешествие в поисках храброго отряда воинов! Флик ищет добровольцев, готовых помочь ему победить агрессивных кузнечиков, угрожающих покою его большой семьи. Когда вместо воинов Флик находит лишь неуклюжую труппу цирковых жуков, единственной его надеждо...",
     "title_ru": "Приключения Флика",
     "tmdb_id": 9487,
-    "poster_path": "/ejkd5ht9Gsn8e3bwLkrQnfv5Tuj.jpg"
+    "poster_path": "/ejkd5ht9Gsn8e3bwLkrQnfv5Tuj.jpg",
+    "director": "Джон Лассетер"
   },
   {
     "title": "The Neon Demon",
@@ -8148,7 +8460,8 @@ var movieDB = [
     "why": "Когда начинающая модель Джесси переезжает в Лос-Анджелес, она попадает в видение группы одержимых красотой девушек, готовых пойти на что угодно ради того, чтобы заполучить ее молодость и жизненную силу.",
     "title_ru": "Неоновый демон",
     "tmdb_id": 301365,
-    "poster_path": "/ig6n6qdO6NMVlkqyTmSkgFyFIrd.jpg"
+    "poster_path": "/ig6n6qdO6NMVlkqyTmSkgFyFIrd.jpg",
+    "director": "Николас Виндинг Рефн"
   },
   {
     "title": "Loki",
@@ -8170,7 +8483,8 @@ var movieDB = [
     "why": "Локи объединяется с Бартом Симпсоном после изгнания из Асгарда, создав новую вселенную, которая отдаёт дань уважения героям и злодеям кинематографической вселенной Marvel.",
     "title_ru": "Симпсоны: Добрый, Бартистый и Локистый",
     "tmdb_id": 846214,
-    "poster_path": "/ibYMcRiSPJShNrVsdaTFyXkPA7o.jpg"
+    "poster_path": "/ibYMcRiSPJShNrVsdaTFyXkPA7o.jpg",
+    "director": "Дэвид Силверман"
   },
   {
     "title": "Prometheus",
@@ -8200,7 +8514,8 @@ var movieDB = [
     ],
     "title_ru": "Прометей",
     "tmdb_id": 70981,
-    "poster_path": "/kE9dT4e44v1hiVM0GBjWEFczCFc.jpg"
+    "poster_path": "/kE9dT4e44v1hiVM0GBjWEFczCFc.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "District 9",
@@ -8225,7 +8540,8 @@ var movieDB = [
     ],
     "title_ru": "Район №9",
     "tmdb_id": 17654,
-    "poster_path": "/dIsWr91mFfVvQsTgd0I6hfmyS8B.jpg"
+    "poster_path": "/dIsWr91mFfVvQsTgd0I6hfmyS8B.jpg",
+    "director": "Нил Бломкамп"
   },
   {
     "title": "Unbreakable",
@@ -8247,7 +8563,8 @@ var movieDB = [
     "why": "В 3:15 пополудни происходит страшная железнодорожная катастрофа. Из 132 пассажиров в живых остается только один. Дэйвид Данн не просто уцелел посреди мгновенного ада из железа и огня — он не получил ни одной царапины. И лишь один человек на земле знает причину этого чуда — Элайджа Прайс по прозвищу ...",
     "title_ru": "Неуязвимый",
     "tmdb_id": 9741,
-    "poster_path": "/jz968bMurZtNJr1kGNdnqVgqmrJ.jpg"
+    "poster_path": "/jz968bMurZtNJr1kGNdnqVgqmrJ.jpg",
+    "director": "М. Найт Шьямалан"
   },
   {
     "title": "Hercules",
@@ -8274,7 +8591,8 @@ var movieDB = [
     "why": "Правитель подземного царства Аид сверг потомка богов с Олимпа, и теперь, чтобы вернуться на священную гору, Геркулес должен совершить подвиг и стать настоящим героем. Вместе с волшебным конем Пегасом он сражается с Титанами и чудовищами вечной тьмы.Но самое серьезное испытание ждет героя в царстве т...",
     "title_ru": "Геркулес",
     "tmdb_id": 11970,
-    "poster_path": "/agsnqY5XfjZJOYOGAaVZYtK5se.jpg"
+    "poster_path": "/agsnqY5XfjZJOYOGAaVZYtK5se.jpg",
+    "director": "Рон Клементс, Джон Маскер"
   },
   {
     "title": "Sherlock Holmes",
@@ -8305,7 +8623,8 @@ var movieDB = [
     ],
     "title_ru": "Шерлок Холмс",
     "tmdb_id": 10528,
-    "poster_path": "/lJos8orxIwxEVEK15SFuePKBfha.jpg"
+    "poster_path": "/lJos8orxIwxEVEK15SFuePKBfha.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "The Matrix Revolutions",
@@ -8328,7 +8647,8 @@ var movieDB = [
     "why": "Пока армия машин пытается уничтожить Зион, его жители из последних сил держат оборону.",
     "title_ru": "Матрица: Революция",
     "tmdb_id": 605,
-    "poster_path": "/19LNhQz4nwbwS95CQ9LHLxAUAXB.jpg"
+    "poster_path": "/19LNhQz4nwbwS95CQ9LHLxAUAXB.jpg",
+    "director": "Ларри Вачовски, Энди Вачовски"
   },
   {
     "title": "This Is the End",
@@ -8347,7 +8667,8 @@ var movieDB = [
     "why": "Несколько весьма эксцентричных приятелей оказываются запертыми в одной комнате в течение довольно долгого времени. Всё бы ничего, если бы они не были уверены в скорейшем наступлении конца света.",
     "title_ru": "Конец света 2013: Апокалипсис по-голливудски",
     "tmdb_id": 109414,
-    "poster_path": "/tTFLZsjS6I2V4EVSxF2kVmNCFP1.jpg"
+    "poster_path": "/tTFLZsjS6I2V4EVSxF2kVmNCFP1.jpg",
+    "director": "Эван Голдберг, Сет Роген"
   },
   {
     "title": "Paddington 2",
@@ -8369,7 +8690,8 @@ var movieDB = [
     "why": "В антикварном магазине Лондона обаятельный и хорошо воспитанный медведь Паддингтон находит уникальную старинную книгу. Пока он изо всех своих медвежьих сил старается накопить на неё деньги, редчайшее издание внезапно похищают. Паддингтон оказывается вовлечён в аферу века, затеянную знаменитым актёро...",
     "title_ru": "Приключения Паддингтона 2",
     "tmdb_id": 346648,
-    "poster_path": "/rqegEjWMbVXiE5XhPJ4NhvDU8ps.jpg"
+    "poster_path": "/rqegEjWMbVXiE5XhPJ4NhvDU8ps.jpg",
+    "director": "Пол Кинг"
   },
   {
     "title": "Paddington",
@@ -8391,7 +8713,8 @@ var movieDB = [
     "why": "Приехавший в Лондон из Дремучего Перу медвежонок стремится обрести в британской столице новый дом и стать настоящим английским джентльменом. В этом смелому и предприимчивому путешественнику решает помочь семейство Браунов, обнаружившее маленького скитальца на Паддингтонском вокзале.",
     "title_ru": "Приключения Паддингтона",
     "tmdb_id": 116149,
-    "poster_path": "/xZEDpdOpLnohrIe6dQ87jTZLTCq.jpg"
+    "poster_path": "/xZEDpdOpLnohrIe6dQ87jTZLTCq.jpg",
+    "director": "Пол Кинг"
   },
   {
     "title": "X-Men",
@@ -8411,7 +8734,8 @@ var movieDB = [
     "why": "",
     "title_ru": "X-Men: The Mutant Watch",
     "tmdb_id": 447399,
-    "poster_path": "/vF02RqXLgtmpJM5CRLSuvN3fVHi.jpg"
+    "poster_path": "/vF02RqXLgtmpJM5CRLSuvN3fVHi.jpg",
+    "director": "Thomas C. Grane"
   },
   {
     "title": "Batman",
@@ -8438,7 +8762,8 @@ var movieDB = [
     "why": "Извечное противостояние добра и зла: сумасшедший, но обаятельный злодей Джокер — смертельная угроза для города Готэма. Бескомпромиссный и загадочный Бэтмен — его последняя надежда на спасение. Только герой-спаситель не желает раскрывать своё подлинное имя, и не только из скромности... Но настойчивая...",
     "title_ru": "Бэтмен",
     "tmdb_id": 268,
-    "poster_path": "/tLALOMEJoPiozgvEmJtwpEFfktS.jpg"
+    "poster_path": "/tLALOMEJoPiozgvEmJtwpEFfktS.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Pirates of the Caribbean: At World's End",
@@ -8464,7 +8789,8 @@ var movieDB = [
     "why": "Лорд Беккет, с помощью Дэйви Джонса, безжалостно уничтожает пиратов. Джонс вынужден ему помогать, ведь его сердце находится в руках у Беккета. Тем временем Капитан Джек Воробей находится в ловушке на краю света. Уилл и Элизабет объединяются с самым заклятым врагом Джека - капитаном Барбоссой в одну ...",
     "title_ru": "Пираты Карибского моря: На краю света",
     "tmdb_id": 285,
-    "poster_path": "/e69Ov9pCwR6OYQLcrvsodrCBWlc.jpg"
+    "poster_path": "/e69Ov9pCwR6OYQLcrvsodrCBWlc.jpg",
+    "director": "Гор Вербински"
   },
   {
     "title": "Lucy",
@@ -8481,7 +8807,8 @@ var movieDB = [
     "why": "Еще вчера она была просто сексапильной блондинкой, а сегодня - самое опасное и смертоносное создание на планете со сверхъестественными способностями и интеллектом. То, что совсем недавно лучшие умы мира считали фантастической теорией, для нее стало реальностью. И теперь из добычи она превратится в о...",
     "title_ru": "Люси",
     "tmdb_id": 240832,
-    "poster_path": "/x5oeAkujbFmdZuvxTbphiCKsLgb.jpg"
+    "poster_path": "/x5oeAkujbFmdZuvxTbphiCKsLgb.jpg",
+    "director": "Люк Бессон"
   },
   {
     "title": "The Power of the Dog",
@@ -8500,7 +8827,8 @@ var movieDB = [
     "why": "В центре сюжета «Власти пса» — братья Фил и Джордж Бёрбэнки, которые в 1920-х годах стали владельцами крупнейшего ранчо в штате Монтана. Джордж в какой-то момент решил жениться на молодой вдове Роуз и воспитывать её сына Питера, что не понравилось Филу, который начал издеваться над девушкой и подрос...",
     "title_ru": "Власть пса",
     "tmdb_id": 600583,
-    "poster_path": "/fAW8Nr4KIgsrtH1EmdFV3b1e8Yw.jpg"
+    "poster_path": "/fAW8Nr4KIgsrtH1EmdFV3b1e8Yw.jpg",
+    "director": "Jane Campion"
   },
   {
     "title": "There Will Be Blood",
@@ -8530,7 +8858,8 @@ var movieDB = [
     ],
     "title_ru": "Нефть",
     "tmdb_id": 7345,
-    "poster_path": "/pRDl87FFiBEeyveitkwylmE7pbQ.jpg"
+    "poster_path": "/pRDl87FFiBEeyveitkwylmE7pbQ.jpg",
+    "director": "Пол Томас Андерсон"
   },
   {
     "title": "Ted",
@@ -8549,7 +8878,8 @@ var movieDB = [
     "why": "Джон влюблён в красавицу Лори. Он работает в прокате автомобилей и имеет большие планы на будущее. Но в их отношения вмешивается третий, давний друг Джона – Тед. Он отрывается сутки напролёт, предпочитает случайные связи и не желает терять друга. Но никто на самом деле не знает на что он способен, в...",
     "title_ru": "Третий лишний",
     "tmdb_id": 72105,
-    "poster_path": "/mqybdAMogDiv6Ew4XM1dPqR2pqg.jpg"
+    "poster_path": "/mqybdAMogDiv6Ew4XM1dPqR2pqg.jpg",
+    "director": "Сет МакФарлейн"
   },
   {
     "title": "Gremlins",
@@ -8571,7 +8901,8 @@ var movieDB = [
     "why": "Очаровательный пушистый зверёк Гремлин способен растрогать даже камень. Вдобавок, у него — абсолютный слух! Только будьте осторожны: он может погибнуть от солнечного света. На него нельзя брызгать водой. А что будет, если накормить его после полуночи, просто страшно себе представить…",
     "title_ru": "Гремлины",
     "tmdb_id": 927,
-    "poster_path": "/6iBRjLxKOm8SkcREP8lZZm9I6UM.jpg"
+    "poster_path": "/6iBRjLxKOm8SkcREP8lZZm9I6UM.jpg",
+    "director": "Джо Данте"
   },
   {
     "title": "Tropic Thunder",
@@ -8597,7 +8928,8 @@ var movieDB = [
     "why": "Актёры думают что снимают кино, а вокруг настоящая война. Роберт Дауни — dude playing a dude. Безумно.",
     "title_ru": "Солдаты неудачи",
     "tmdb_id": 7446,
-    "poster_path": "/3zTRtmsAQxiq3sM6TWAZoMmcd7W.jpg"
+    "poster_path": "/3zTRtmsAQxiq3sM6TWAZoMmcd7W.jpg",
+    "director": "Бен Стиллер"
   },
   {
     "title": "The Intouchables",
@@ -8627,7 +8959,8 @@ var movieDB = [
     ],
     "title_ru": "1+1",
     "tmdb_id": 77338,
-    "poster_path": "/zQsq95pYgjhJwYKqoFdeXlVse88.jpg"
+    "poster_path": "/zQsq95pYgjhJwYKqoFdeXlVse88.jpg",
+    "director": "Éric Toledano, Olivier Nakache"
   },
   {
     "title": "Rise of the Planet of the Apes",
@@ -8654,7 +8987,8 @@ var movieDB = [
     "why": "Энди Серкис — Цезарь. Мост Золотые Ворота. No!",
     "title_ru": "Восстание планеты обезьян",
     "tmdb_id": 61791,
-    "poster_path": "/zaFwaW1btoTKoLhpAOoyEewSxz7.jpg"
+    "poster_path": "/zaFwaW1btoTKoLhpAOoyEewSxz7.jpg",
+    "director": "Руперт Уайатт"
   },
   {
     "title": "Madagascar",
@@ -8680,7 +9014,8 @@ var movieDB = [
     "why": "Четверо изнеженных животных из Центрального зоопарка в Нью-Йорке - лев Алекс, зебра Марти, жираф Мелман и гиппопотамиха Глория - решаются на побег. Оказавшись после кораблекрушения на экзотическом острове Мадагаскар, населенном лемурами и поедающими их фоссами, путешественники с ужасом понимают, что...",
     "title_ru": "Мадагаскар",
     "tmdb_id": 953,
-    "poster_path": "/vwPFZT7tS8b9zDSN0PdvOzeGlfW.jpg"
+    "poster_path": "/vwPFZT7tS8b9zDSN0PdvOzeGlfW.jpg",
+    "director": "Эрик Дарнелл, Том МакГрат"
   },
   {
     "title": "Zombieland: Double Tap",
@@ -8700,7 +9035,8 @@ var movieDB = [
     "why": "Беспощадная и бесстрашная четверка охотников на зомби продолжает свое путешествие в глубь страны. На этот раз им предстоит сразиться не только с новыми видами живых мертвецов, но и вступить в схватку с другими выжившими, которые настроены совсем не дружелюбно. Кроме того, в собственных рядах охотник...",
     "title_ru": "Zомбилэнд: Контрольный выстрел",
     "tmdb_id": 338967,
-    "poster_path": "/ociepR7KE1ixlSps5LZb51rkZwa.jpg"
+    "poster_path": "/ociepR7KE1ixlSps5LZb51rkZwa.jpg",
+    "director": "Рубен Фляйшер"
   },
   {
     "title": "Searching",
@@ -8722,7 +9058,8 @@ var movieDB = [
     "why": "Когда 16-летняя дочь Дэвида Кима пропадает без вести, местная полиция начинает расследование. На поиски выделяют детектива, но спустя 37 часов тот не находит ни единой зацепки. Тогда Дэвид решает заглянуть в ноутбук своей дочери. Через устройства, программы и сайты, которые люди ежедневно используют...",
     "title_ru": "Поиск",
     "tmdb_id": 489999,
-    "poster_path": "/5k74u8F6GRhzNHisT6DcKXb6qd9.jpg"
+    "poster_path": "/5k74u8F6GRhzNHisT6DcKXb6qd9.jpg",
+    "director": "Aneesh Chaganty"
   },
   {
     "title": "Notting Hill",
@@ -8741,7 +9078,8 @@ var movieDB = [
     "why": "Жизнь владельца небольшого книжного магазина, расположенного в одном из скромных районов Лондона под названием Ноттинг Хилл, кардинально меняется, когда к нему, чтобы купить путеводитель, заходит известная звезда кино.",
     "title_ru": "Ноттинг Хилл",
     "tmdb_id": 509,
-    "poster_path": "/c7ycN6iADYhHrbF0kYCfkBlnRIV.jpg"
+    "poster_path": "/c7ycN6iADYhHrbF0kYCfkBlnRIV.jpg",
+    "director": "Roger Michell"
   },
   {
     "title": "The 40 Year Old Virgin",
@@ -8760,7 +9098,8 @@ var movieDB = [
     "why": "40-летний Энди Стицер добился в жизни многого. У него непыльная и хорошо оплачиваемая работенка в магазине по продаже электронной бытовой техники, хорошие друзья, а также милая квартирка, в которой находится гордость Энди — коллекция игрушечных героев и комиксов. Однако его жизнь лишена простых чело...",
     "title_ru": "Сорокалетний девственник",
     "tmdb_id": 6957,
-    "poster_path": "/y3ns4sdcVJ7vLv5j2cb7hSE6gge.jpg"
+    "poster_path": "/y3ns4sdcVJ7vLv5j2cb7hSE6gge.jpg",
+    "director": "Джадд Апатоу"
   },
   {
     "title": "The Lego Batman Movie",
@@ -8787,7 +9126,8 @@ var movieDB = [
     "why": "Готэму вновь грозит опасность. И на его стражу становится единственный герой, которого заслуживает этот город — Бэтмен, альтер-эго миллиардера Брюса Уэйна, живущего в своём огромном родовом поместье вместе с дворецким Альфредом. Но в этот раз супергерой вынужден взять в напарники парня по имени Дик ...",
     "title_ru": "ЛЕГО Фильм: Бэтмен",
     "tmdb_id": 324849,
-    "poster_path": "/ArZNN45mSiuRqpZDTm2zjk0Rozq.jpg"
+    "poster_path": "/ArZNN45mSiuRqpZDTm2zjk0Rozq.jpg",
+    "director": "Крис МакКей"
   },
   {
     "title": "The Maze Runner",
@@ -8813,7 +9153,8 @@ var movieDB = [
     "why": "Парни в лабиринте. Гриверы, бегуны, WCKD. Быстрее чем кажется.",
     "title_ru": "Бегущий в лабиринте",
     "tmdb_id": 198663,
-    "poster_path": "/fvy2LrxQzSCpUuGaB9jK5z1NeA6.jpg"
+    "poster_path": "/fvy2LrxQzSCpUuGaB9jK5z1NeA6.jpg",
+    "director": "Уэс Болл"
   },
   {
     "title": "Megamind",
@@ -8839,7 +9180,8 @@ var movieDB = [
     "why": "Мегамозг — самый гениальный и самый неудачливый злодей в мире. Вот уже много лет он пытается покорить Метро-Сити самыми разнообразными способами. Но каждая такая попытка кончается провалом по вине супергероя по имени Метро-Мэн. Но злодей убивает супергероя, и внезапно Мегамозг лишается цели в жизни....",
     "title_ru": "Мегамозг",
     "tmdb_id": 38055,
-    "poster_path": "/3X8not0uibYtvKdzdDJ4zrfXja.jpg"
+    "poster_path": "/3X8not0uibYtvKdzdDJ4zrfXja.jpg",
+    "director": "Том МакГрат"
   },
   {
     "title": "The Secret Life of Walter Mitty",
@@ -8861,7 +9203,8 @@ var movieDB = [
     "why": "Кто сказал, что в сердце маленького человека не могут жить великие мечты? Даже скромному и незаметному служащему хочется иногда совершить пусть безумные, но геройские поступки, поверить в свою силу и мужество. Почему всех спасать должны исключительно супермены?",
     "title_ru": "Невероятная жизнь Уолтера Митти",
     "tmdb_id": 116745,
-    "poster_path": "/nIKlc3okrp1d0N7R7OA0r11J5rR.jpg"
+    "poster_path": "/nIKlc3okrp1d0N7R7OA0r11J5rR.jpg",
+    "director": "Бен Стиллер"
   },
   {
     "title": "Bad Times at the El Royale",
@@ -8883,7 +9226,8 @@ var movieDB = [
     "why": "1969 год. Группа разношерстных личностей останавливается на ночь в когда-то популярном отеле «Эль Рояль», расположенном на границе штатов Невада и Калифорния.  В здании отеля собрались неприветливый священник, певица Дарлин, энергичный продавец пылесосов и подозрительная девушка с Юга. Вместе с ними...",
     "title_ru": "Ничего хорошего в отеле «Эль рояль»",
     "tmdb_id": 446021,
-    "poster_path": "/bGK0zxn63zxUNXE5y8c571xTAb7.jpg"
+    "poster_path": "/bGK0zxn63zxUNXE5y8c571xTAb7.jpg",
+    "director": "Дрю Годдард"
   },
   {
     "title": "The Fifth Element",
@@ -8910,7 +9254,8 @@ var movieDB = [
     "why": "Бессон: таксист спасает вселенную. Мила Йовович, Крис Такер, Гари Олдман. Опера и бластеры. Multipass!",
     "title_ru": "Пятый элемент",
     "tmdb_id": 18,
-    "poster_path": "/bqALmWhVaqfQedyPZn7MeuOjfSk.jpg"
+    "poster_path": "/bqALmWhVaqfQedyPZn7MeuOjfSk.jpg",
+    "director": "Люк Бессон"
   },
   {
     "title": "300",
@@ -8931,7 +9276,8 @@ var movieDB = [
     "why": "Зак Снайдер: 300 спартанцев против персидской армии. Слоу-мо и стиль комикса. This is Sparta!",
     "title_ru": "Home Movies 300-1",
     "tmdb_id": 719963,
-    "poster_path": "/oBaPBPcoIFieYhl9osinxZ3abfp.jpg"
+    "poster_path": "/oBaPBPcoIFieYhl9osinxZ3abfp.jpg",
+    "director": "Jim Campbell"
   },
   {
     "title": "Maleficent",
@@ -8957,7 +9303,8 @@ var movieDB = [
     "why": "Юная волшебница Малефисента вела уединенную жизнь в зачарованном лесу, окруженная сказочными существами, но однажды все изменилось... В её мир вторглись люди, которые принесли с собой разрушение и хаос, и Малефисенте пришлось встать на защиту своих подданных, призвав на помощь могущественные тёмные ...",
     "title_ru": "Малефисента",
     "tmdb_id": 102651,
-    "poster_path": "/jbfXlNA5uTL6eVuHCEOtFiPTauf.jpg"
+    "poster_path": "/jbfXlNA5uTL6eVuHCEOtFiPTauf.jpg",
+    "director": "Robert Stromberg"
   },
   {
     "title": "The Pursuit of Happyness",
@@ -8973,7 +9320,8 @@ var movieDB = [
     "why": "Крис Гарднер — отец одиночка. Воспитывая пятилетнего сына, Крис изо всех сил старается сделать так, чтобы ребенок рос счастливым. Работая продавцом, он не может оплатить квартиру, и их выселяют.Оказавшись на улице, но не желая сдаваться, отец устраивается специалистом в брокерскую компанию. Только и...",
     "title_ru": "В погоне за счастьем",
     "tmdb_id": 1402,
-    "poster_path": "/lL0USBLkbymo7U3PwOlbV8ymPsI.jpg"
+    "poster_path": "/lL0USBLkbymo7U3PwOlbV8ymPsI.jpg",
+    "director": "Gabriele Muccino"
   },
   {
     "title": "Spring Breakers",
@@ -8992,7 +9340,8 @@ var movieDB = [
     "why": "Брит, Кенди, Котти и Фэйт- лучшие подруги с начальной школы. Они скучно живут вместе в общежитии колледжа и жаждут приключений. Все, что им нужно -  найти достаточно денег на весенние каникулы, чтобы реально оторваться. Неожиданная встреча с таинственным незнакомцем обещает обеспечить их всем, на чт...",
     "title_ru": "Отвязные каникулы",
     "tmdb_id": 122081,
-    "poster_path": "/w0QWeZfmrBlnAIueSEdgXGpL5ym.jpg"
+    "poster_path": "/w0QWeZfmrBlnAIueSEdgXGpL5ym.jpg",
+    "director": "Harmony Korine"
   },
   {
     "title": "Dirty Dancing",
@@ -9014,7 +9363,8 @@ var movieDB = [
     "why": "Лето 1963 года. 17-летняя Фрэнсис по прозвищу Бэби, невинная избалованная девушка из обеспеченной семьи, проводит каникулы с родителями в курортном отеле. Она знакомится с Джонни, красивым профессиональным танцором, искушенным в вопросах жизни и любви.Словно околдованная сексуальными ритмами и ничем...",
     "title_ru": "Грязные танцы",
     "tmdb_id": 88,
-    "poster_path": "/soMxltCDbfvEVZzYTHMd00G14kb.jpg"
+    "poster_path": "/soMxltCDbfvEVZzYTHMd00G14kb.jpg",
+    "director": "Emile Ardolino"
   },
   {
     "title": "The Polar Express",
@@ -9039,7 +9389,8 @@ var movieDB = [
     "why": "Необыкновенное путешествие маленького мальчика на волшебном поезде \"Полярный экспресс\" на Северный полюс к Санта-Клаусу в канун Рождества.",
     "title_ru": "Полярный Экспресс",
     "tmdb_id": 5255,
-    "poster_path": "/g4f3rVaFgVjFTSSng6FgkqBNwmM.jpg"
+    "poster_path": "/g4f3rVaFgVjFTSSng6FgkqBNwmM.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Godzilla: King of the Monsters",
@@ -9060,7 +9411,8 @@ var movieDB = [
     "why": "История рассказывает о героических усилиях криптозоологического агентства «Монарх» по сдерживанию гигантских монстров. В этот раз против могучего Годзиллы выступают Мотра, Родан и ультимативный кайдзю — трёхголовый монстр Кинг Гидора. Когда эти древние суперхищники, со временем превратившиеся в полу...",
     "title_ru": "Годзилла 2: Король монстров",
     "tmdb_id": 373571,
-    "poster_path": "/4PkioPObln2XGKjsjgZ3Ar1rvW9.jpg"
+    "poster_path": "/4PkioPObln2XGKjsjgZ3Ar1rvW9.jpg",
+    "director": "Майкл Догерти"
   },
   {
     "title": "Batman Returns",
@@ -9085,7 +9437,8 @@ var movieDB = [
     "why": "Над Готэмом нависла новая угроза. Два эксцентричных персонажа: мерзкий Пингвин, брошенный родителями и вышедший из городской канализации, и таинственная Женщина-Кошка начали борьбу за власть. Один из них намерен занять кресло мэра города, а другая испытывает романтические чувства к готэмскому герою....",
     "title_ru": "Бэтмен возвращается",
     "tmdb_id": 364,
-    "poster_path": "/cecrP78sZpxfZI70V8Oeqx6yiON.jpg"
+    "poster_path": "/cecrP78sZpxfZI70V8Oeqx6yiON.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "The Princess Diaries",
@@ -9107,7 +9460,8 @@ var movieDB = [
     "why": "Пятнадцатилетняя Миа живет в Сан-Франциско и ведет обычную для американского подростка жизнь. Но умирает ее отец, и Миа узнает, что он был принцем одной европейской страны, а она теперь единственная наследница трона. Ее бабушка, королева, прибывает в Калифорнию, чтобы сообщить Мии о ее происхождении...",
     "title_ru": "Как стать принцессой",
     "tmdb_id": 9880,
-    "poster_path": "/ng8qfzbZM8tk8uXBVu662BF6SmY.jpg"
+    "poster_path": "/ng8qfzbZM8tk8uXBVu662BF6SmY.jpg",
+    "director": "Garry Marshall"
   },
   {
     "title": "The Twilight Saga: New Moon",
@@ -9134,7 +9488,8 @@ var movieDB = [
     "why": "Влюбиться в вампира — страшно и романтично. Но потерять любимого, решившего ценой разрыва спасти свою девушку от роли пешки в вечном противостоянии кланов «ночных охотников», — это просто невыносимо. Белла Свон мучительно переживает исчезновение Эдварда и безуспешно ищет забвения в дружбе с мальчишк...",
     "title_ru": "Сумерки. Сага: Новолуние",
     "tmdb_id": 18239,
-    "poster_path": "/skucxWub4EZh1spfrgVFOlHwYCU.jpg"
+    "poster_path": "/skucxWub4EZh1spfrgVFOlHwYCU.jpg",
+    "director": "Крис Вайц"
   },
   {
     "title": "Mr. & Mrs. Smith",
@@ -9159,7 +9514,8 @@ var movieDB = [
     "why": "Джон и Джейн женаты не так долго, но уже утомлены своим браком. Им кажется, что они знают друг о друге все. Но есть кое-что, что каждый предпочитает держать при себе: оба они — наемные убийцы, которые тайно путешествуют по миру, выполняя опасные миссии. Эти отдельные тайные приключения становятся их...",
     "title_ru": "Мистер и миссис Смит",
     "tmdb_id": 787,
-    "poster_path": "/i3hxOQV0F334Vb4HMFxhI1J0iyZ.jpg"
+    "poster_path": "/i3hxOQV0F334Vb4HMFxhI1J0iyZ.jpg",
+    "director": "Даг Лайман"
   },
   {
     "title": "Sweeney Todd: The Demon Barber of Fleet Street",
@@ -9178,7 +9534,8 @@ var movieDB = [
     "why": "Когда-то в Лондоне жил молодой и наивный брадобрей Бенджамин Баркер. Он был женат на прелестной женщине по имени Люси, которая родила ему такую же прелестную дочку. На его беду, прелесть его жены также оценил сластолюбивый судья Терпин — и отправил Бенджамина Баркера на пожизненную каторгу, чтобы бе...",
     "title_ru": "Суини Тодд, демон-парикмахер с Флит-стрит",
     "tmdb_id": 13885,
-    "poster_path": "/pJk1g2UDiE9TtgkKLiQE8bkUnDd.jpg"
+    "poster_path": "/pJk1g2UDiE9TtgkKLiQE8bkUnDd.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Mission: Impossible",
@@ -9209,7 +9566,8 @@ var movieDB = [
     ],
     "title_ru": "Миссия невыполнима",
     "tmdb_id": 954,
-    "poster_path": "/1qnh1n1tVRq7JY8MYbvaZgfRfq2.jpg"
+    "poster_path": "/1qnh1n1tVRq7JY8MYbvaZgfRfq2.jpg",
+    "director": "Брайан Де Пальма"
   },
   {
     "title": "The Place Beyond the Pines",
@@ -9228,7 +9586,8 @@ var movieDB = [
     "why": "Мотокаскадер Люк Глэнтон совершает турне из одной провинции в другую, показывая свои каскадерские навыки и зарабатывая этим на жизнь. По окончании одного из своих выступлений он встречает свою бывшую девушку - Ромину, вскоре узнав, что у нее от него годовалый сын - Джейсон. Решив обеспечивать сына о...",
     "title_ru": "Место под соснами",
     "tmdb_id": 97367,
-    "poster_path": "/2KXUDicFIkGO1WWo7uKRlLStpJy.jpg"
+    "poster_path": "/2KXUDicFIkGO1WWo7uKRlLStpJy.jpg",
+    "director": "Derek Cianfrance"
   },
   {
     "title": "War for the Planet of the Apes",
@@ -9255,7 +9614,8 @@ var movieDB = [
     "why": "Мэтт Ривз: финал трилогии про Цезаря. Побег из лагеря, лавина. Apes together strong.",
     "title_ru": "Планета обезьян: Война",
     "tmdb_id": 281338,
-    "poster_path": "/tkk1sCVnOTZ06viMAJim05AUIfi.jpg"
+    "poster_path": "/tkk1sCVnOTZ06viMAJim05AUIfi.jpg",
+    "director": "Мэтт Ривз"
   },
   {
     "title": "Space Jam",
@@ -9281,7 +9641,8 @@ var movieDB = [
     "why": "Мультмонстры с планеты \"Гора придурков\" вторгаются на Землю, желая захватить персонажей популярного сериала \"Луни Тюнз\". Земные зверюшки во главе с кроликом Багзом Банни предлагают на спор сыграть в баскетбол, привлекая на свою сторону суперзвезду Майкла Джордана.",
     "title_ru": "Космический Джем",
     "tmdb_id": 2300,
-    "poster_path": "/u9m8iPeXPaGzpLBJU9rJh6uYkHz.jpg"
+    "poster_path": "/u9m8iPeXPaGzpLBJU9rJh6uYkHz.jpg",
+    "director": "Joe Pytka"
   },
   {
     "title": "X2",
@@ -9333,7 +9694,8 @@ var movieDB = [
     ],
     "title_ru": "Храброе сердце",
     "tmdb_id": 197,
-    "poster_path": "/lcnPMltUeQJs7ckJLZQbr1MmrCN.jpg"
+    "poster_path": "/lcnPMltUeQJs7ckJLZQbr1MmrCN.jpg",
+    "director": "Мел Гибсон"
   },
   {
     "title": "Alita: Battle Angel",
@@ -9354,7 +9716,8 @@ var movieDB = [
     "why": "XXVI век. На планете Земля богачи живут в Небесном городе, беднота довольствуется жизнью в Нижнем городе, куда сбрасываются все отходы и мусор. Однажды в куче металлолома Нижнего города учёный находит части женщины-киборга и возвращает её к жизни. Придя в сознание, киборг обнаруживает, что из ее пам...",
     "title_ru": "Алита: Боевой Ангел",
     "tmdb_id": 399579,
-    "poster_path": "/f2P3Kt7Kpjlj1ZddeEMGhdr60o3.jpg"
+    "poster_path": "/f2P3Kt7Kpjlj1ZddeEMGhdr60o3.jpg",
+    "director": "Роберт Родригес"
   },
   {
     "title": "The Mummy",
@@ -9376,7 +9739,8 @@ var movieDB = [
     "why": "На бескрайних просторах египетской пустыни компания сорвиголов рыщет в поисках несметных сокровищ фараона, над которыми тяготеет жуткое древнее проклятие. Рядом с кладом покоится мумия коварного жреца, жестоко казнённого за ужасное убийство могущественного правителя Египта.",
     "title_ru": "Мумия",
     "tmdb_id": 564,
-    "poster_path": "/jzwDpKRBi1gbqIcHLV2LdFqP2rb.jpg"
+    "poster_path": "/jzwDpKRBi1gbqIcHLV2LdFqP2rb.jpg",
+    "director": "Стивен Соммерс"
   },
   {
     "title": "Fury",
@@ -9403,7 +9767,8 @@ var movieDB = [
     "why": "Брэд Питт — командир танка в 1945. Шайа ЛаБаф. Best job I ever had.",
     "title_ru": "Ярость",
     "tmdb_id": 228150,
-    "poster_path": "/r5OOBgK3eDTjmNDzRN6flNenTCE.jpg"
+    "poster_path": "/r5OOBgK3eDTjmNDzRN6flNenTCE.jpg",
+    "director": "Дэвид Эйер"
   },
   {
     "title": "The Parent Trap",
@@ -9425,7 +9790,8 @@ var movieDB = [
     "why": "Юная Холли Паркер живет в солнечной Калифорнии с самым замечательным отцом на свете, а ее ровесница Энни Джеймс - в туманном Лондоне с прекрасной любящей матерью. Первая мечтает о маме, без которой ей очень тяжело, а второй так хочется, чтобы у нее был папа.Когда девочки случайно встречаются в летне...",
     "title_ru": "Ловушка для родителей",
     "tmdb_id": 9820,
-    "poster_path": "/uDb93tKRd6gZqwBTH4bLKTR9Ppu.jpg"
+    "poster_path": "/uDb93tKRd6gZqwBTH4bLKTR9Ppu.jpg",
+    "director": "Нэнси Мейерс"
   },
   {
     "title": "The Falcon and the Winter Soldier",
@@ -9463,7 +9829,8 @@ var movieDB = [
     "why": "Когда ОМН распускают, и Итан Хант остается не у дел, его команда неожиданно сталкивается с разветвленной международной сетью высокопрофессиональных спецагентов — Синдикатом. Это «племя изгоев» одержимо идеей установления нового мирового порядка и планирует серию разрушительных терактов. Итан и компа...",
     "title_ru": "Миссия невыполнима: Племя изгоев",
     "tmdb_id": 177677,
-    "poster_path": "/fTZcCAdMtMQllBRabszq6tZwhxS.jpg"
+    "poster_path": "/fTZcCAdMtMQllBRabszq6tZwhxS.jpg",
+    "director": "Кристофер МакКуорри"
   },
   {
     "title": "The Aviator",
@@ -9479,7 +9846,8 @@ var movieDB = [
     "why": "Получив от отца небольшую фабрику, Говард Хьюз превратил ее в гигантское, фантастически прибыльное предприятие. Став владельцем огромной кинокомпании, он снял самый дорогой для своего времени фильм и покорил сердца прелестнейших голливудских актрис. Ему принадлежали самые престижные казино Лас-Вегас...",
     "title_ru": "Авиатор",
     "tmdb_id": 2567,
-    "poster_path": "/1RATBZSeVH1tLOBYUBd6dN5O1bo.jpg"
+    "poster_path": "/1RATBZSeVH1tLOBYUBd6dN5O1bo.jpg",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "We're the Millers",
@@ -9498,7 +9866,8 @@ var movieDB = [
     "why": "Дэвид Кларк — мелкий торговец наркотиками. Среди его клиентов — повара и скучающие домохозяйки. Детям он наркотики не продаёт и поэтому считает себя принципиальным человеком. Дэвид действительно хорошо относится к детям, но это не остается безнаказанным — он пытается помочь подросткам, попавшим в бе...",
     "title_ru": "Мы – Миллеры",
     "tmdb_id": 138832,
-    "poster_path": "/3nxRlzpRh4FAC2HIZivW1pKuOk7.jpg"
+    "poster_path": "/3nxRlzpRh4FAC2HIZivW1pKuOk7.jpg",
+    "director": "Роусон Маршалл Тёрбер"
   },
   {
     "title": "Alien: Covenant",
@@ -9521,7 +9890,8 @@ var movieDB = [
     "why": "Ридли Скотт возвращается к ксеноморфам. Майкл Фассбендер — два андроида. Философский хоррор.",
     "title_ru": "Чужой: Завет",
     "tmdb_id": 126889,
-    "poster_path": "/5ff1DVsSL7CP5zIjr8ayHaaHScP.jpg"
+    "poster_path": "/5ff1DVsSL7CP5zIjr8ayHaaHScP.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Passengers",
@@ -9541,7 +9911,8 @@ var movieDB = [
     "why": "В системе космического корабля, перевозящего колонистов на далёкую планету, происходит сбой. В результате главный герой выходит из гиперсна на 90 лет раньше положенного срока. Оставшись с перспективой стареть и умирать в одиночестве, он будит прекрасную девушку, которой такой расклад, само собой, пр...",
     "title_ru": "Пассажиры",
     "tmdb_id": 274870,
-    "poster_path": "/RY7YPqLRkgK5KiIq3kFQhCUJnB.jpg"
+    "poster_path": "/RY7YPqLRkgK5KiIq3kFQhCUJnB.jpg",
+    "director": "Мортен Тильдум"
   },
   {
     "title": "Sin City",
@@ -9566,7 +9937,8 @@ var movieDB = [
     "why": "Родригес + Фрэнк Миллер: ч/б нуар с цветными акцентами. Микки Рурк — Марв. Визуальный удар.",
     "title_ru": "Город грехов",
     "tmdb_id": 187,
-    "poster_path": "/kxOAIDJd23t8HIZaOWyXMPu4rpi.jpg"
+    "poster_path": "/kxOAIDJd23t8HIZaOWyXMPu4rpi.jpg",
+    "director": "Роберт Родригес, Фрэнк Миллер"
   },
   {
     "title": "Indiana Jones and the Kingdom of the Crystal Skull",
@@ -9589,7 +9961,8 @@ var movieDB = [
     "why": "1957 год, разгар холодной войны. Советские солдаты, возглавляемые агентом Ириной Спалько, похищают Мэрион Рэйвенвуд - давнюю возлюбленную Индианы Джонса, ставя профессора перед выбором: бездействие и смерть Мэрион или помощь советской разведке в поисках легендарного Хрустального черепа в обмен на св...",
     "title_ru": "Индиана Джонс и Королевство хрустального черепа",
     "tmdb_id": 217,
-    "poster_path": "/2zfLunFcnuJAGcW19tWNYwPVKbi.jpg"
+    "poster_path": "/2zfLunFcnuJAGcW19tWNYwPVKbi.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Rain Man",
@@ -9605,7 +9978,8 @@ var movieDB = [
     "why": "Грубоватому и эгоистичному молодому человеку Чарли в наследство от отца достались лишь розовые кусты да «Бьюик» 1949 года, а львиная доля наследства уходит его брату-аутисту Раймонду. Задавшись целью отобрать «свою долю», Чарли похищает старшего брата. Но когда выясняет, что Раймонд обладает недюжим...",
     "title_ru": "Человек дождя",
     "tmdb_id": 380,
-    "poster_path": "/mhdFqXV8d3pvCWrjFgzjPPyb9XR.jpg"
+    "poster_path": "/mhdFqXV8d3pvCWrjFgzjPPyb9XR.jpg",
+    "director": "Барри Левинсон"
   },
   {
     "title": "Million Dollar Baby",
@@ -9626,7 +10000,8 @@ var movieDB = [
     "why": "Клинт Иствуд: девушка-боксёр и старый тренер. Хилари Суонк. Мо куйшла. Разбивает сердце.",
     "title_ru": "Малышка на миллион",
     "tmdb_id": 70,
-    "poster_path": "/hjj9IfLAgzoShOhDr7AXJBxwneB.jpg"
+    "poster_path": "/hjj9IfLAgzoShOhDr7AXJBxwneB.jpg",
+    "director": "Клинт Иствуд"
   },
   {
     "title": "The Wolverine",
@@ -9650,7 +10025,8 @@ var movieDB = [
     "why": "Логан отправляется в Японию, где влюбляется в дочь главы клана Якудза. Ради любви Логану придется противостоять ее отцу Сингену, брату Самураю, наемнице Гадюке и другим опасным врагам.",
     "title_ru": "Росомаха: Бессмертный",
     "tmdb_id": 76170,
-    "poster_path": "/ol7Qyzx31q6HG9zGOvqiPIUIk3f.jpg"
+    "poster_path": "/ol7Qyzx31q6HG9zGOvqiPIUIk3f.jpg",
+    "director": "Джеймс Мэнголд"
   },
   {
     "title": "Shrek the Third",
@@ -9677,7 +10053,8 @@ var movieDB = [
     "why": "После того как король превратился в жабу, бразды правления королевством перешли Шрэку и его жене Фионе. Герои оказались не в восторге от такой перспективы, заявив что хотят спокойно жить на своём болоте. Тогда им предложили найти наследника престола – мальчугана Арти, племянника королевы Лилиан, а п...",
     "title_ru": "Шрэк Третий",
     "tmdb_id": 810,
-    "poster_path": "/o2uojIx8bgL7Bxs4PGXbKStMz2o.jpg"
+    "poster_path": "/o2uojIx8bgL7Bxs4PGXbKStMz2o.jpg",
+    "director": "Крис Миллер"
   },
   {
     "title": "How to Train Your Dragon 2",
@@ -9704,7 +10081,8 @@ var movieDB = [
     "why": "С момента примирения викингов и драконов прошло 5 лет. Пока Астрид, Сморкала и остальные ребята проводят время соревнуясь друг с другом в популярных на острове драконьих гонках, Иккинг и Беззубик путешествуют по небу, составляя карту неизвестных мест. Когда одно из их приключений приводит к открытию...",
     "title_ru": "Как приручить дракона 2",
     "tmdb_id": 82702,
-    "poster_path": "/1o0MBGNfvL0doZR7kWJdqVBXs7r.jpg"
+    "poster_path": "/1o0MBGNfvL0doZR7kWJdqVBXs7r.jpg",
+    "director": "Дин ДеБлуа"
   },
   {
     "title": "The Wind Rises",
@@ -9729,7 +10107,8 @@ var movieDB = [
     "why": "Мальчик Дзиро мечтает о полётах и красивых самолётах, способных обогнать ветер. Вот только пилотом ему не стать — он с рождения близорук. Но Дзиро не расстаётся с мечтой о небе, он начинает придумывать идеальный самолёт и со временем становится одним из лучших авиаконструкторов мира. На пути к успех...",
     "title_ru": "Ветер крепчает",
     "tmdb_id": 149870,
-    "poster_path": "/41E6sH8yMrMy09ec4AsCec4SlFO.jpg"
+    "poster_path": "/41E6sH8yMrMy09ec4AsCec4SlFO.jpg",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Who Framed Roger Rabbit",
@@ -9754,7 +10133,8 @@ var movieDB = [
     "why": "Частный детектив расследует загадочное преступление, в котором подозревается… мультипликационный персонаж кролик Роджер! Сыщик попадает в непредсказуемый мир, где его ожидают нарисованные злодеи с настоящими револьверами, говорящий автомобиль и соблазнительная мультяшная красотка. Наконец, на горизо...",
     "title_ru": "Кто подставил кролика Роджера",
     "tmdb_id": 856,
-    "poster_path": "/rtba2Xa50esVXLmrM8Wokd7SZXr.jpg"
+    "poster_path": "/rtba2Xa50esVXLmrM8Wokd7SZXr.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "The Princess and the Frog",
@@ -9779,7 +10159,8 @@ var movieDB = [
     "why": "Все мы знаем, что бывает, когда принц целует заколдованную в лягушку принцессу. Но что случится, если переодетая в принцессу официантка поцелует лягушку-принца? Очень веселая картина с участием лягушек, магии Вуду и поющего аллигатора.",
     "title_ru": "Принцесса и лягушка",
     "tmdb_id": 10198,
-    "poster_path": "/onaswmiqgFUFzZgCq8AIstZBBMF.jpg"
+    "poster_path": "/onaswmiqgFUFzZgCq8AIstZBBMF.jpg",
+    "director": "Рон Клементс, Джон Маскер"
   },
   {
     "title": "RoboCop",
@@ -9799,7 +10180,8 @@ var movieDB = [
     "why": "После гибели одного из лучших полицейских врачи-экспериментаторы создают из него неуязвимого киборга, который в одиночку борется с бандой преступников. Однако прочная броня не спасает Робота-полицейского от мучительных, обрывочных воспоминаний о прошлом: он постоянно видит кошмарные сны, в которых п...",
     "title_ru": "Робокоп",
     "tmdb_id": 5548,
-    "poster_path": "/93K1Zf6SpcC7k6SU2Rx5IFWFqQp.jpg"
+    "poster_path": "/93K1Zf6SpcC7k6SU2Rx5IFWFqQp.jpg",
+    "director": "Пол Верховен"
   },
   {
     "title": "The Bourne Identity",
@@ -9830,7 +10212,8 @@ var movieDB = [
     ],
     "title_ru": "Идентификация Борна",
     "tmdb_id": 2501,
-    "poster_path": "/xmWeFWpj9kTKlOt1OsgOptDfRS2.jpg"
+    "poster_path": "/xmWeFWpj9kTKlOt1OsgOptDfRS2.jpg",
+    "director": "Даг Лайман"
   },
   {
     "title": "Predator",
@@ -9853,7 +10236,8 @@ var movieDB = [
     "why": "Американский вертолет был сбит партизанами в Южной Америке, оставшийся в живых экипаж попал в плен. ЦРУ бросает лучшие силы для освобождения американских граждан — элитная группа спецназа во главе с Датчем отправляется в южноамериканские джунгли. Но там немало повидавшим бойцам предстоит встретиться...",
     "title_ru": "Хищник",
     "tmdb_id": 106,
-    "poster_path": "/9mXkVw1BxmjagxjdIK3sbVQU841.jpg"
+    "poster_path": "/9mXkVw1BxmjagxjdIK3sbVQU841.jpg",
+    "director": "Джон МакТирнан"
   },
   {
     "title": "The Jungle Book",
@@ -9875,7 +10259,8 @@ var movieDB = [
     "why": "Непримиримая борьба с опасным и внушающим страх тигром Шерханом вынуждает Маугли покинуть волчью стаю и отправиться в захватывающее путешествие. На пути мальчика ждут удивительные открытия и запоминающиеся встречи с пантерой Багирой, медведем Балу, питоном Каа и другими обитателями дремучих джунглей...",
     "title_ru": "Книга джунглей",
     "tmdb_id": 278927,
-    "poster_path": "/3EmgbHCEPxBKGJxzGNpUAV7eX1I.jpg"
+    "poster_path": "/3EmgbHCEPxBKGJxzGNpUAV7eX1I.jpg",
+    "director": "Джон Фавро"
   },
   {
     "title": "Top Gun",
@@ -9897,7 +10282,8 @@ var movieDB = [
     "why": "Мэверик — искусный, но безрассудный пилот истребителя F14 ВМС США. Ради выполнения миссии или спасения напарника он порой не подчиняется приказам. Став частью учебной программы Top Gun, Мэверику предстоит научиться работать в команде, а также завоевать сердце неприступной Шарлотты Блэквуд — красавиц...",
     "title_ru": "Лучший стрелок",
     "tmdb_id": 744,
-    "poster_path": "/8khU38Bv9ovTAP9M7lHqFA5ezAU.jpg"
+    "poster_path": "/8khU38Bv9ovTAP9M7lHqFA5ezAU.jpg",
+    "director": "Тони Скотт"
   },
   {
     "title": "Transformers",
@@ -9921,7 +10307,8 @@ var movieDB = [
     "why": "В течение многих столетий две расы роботов-инопланетян, Автоботы и Десептиконы, вели войну, ставкой в которой была судьба Bселенной. И вот война докатилась до Земли. В то время, когда силы зла ищут ключ к верховной власти, наш последний шанс на спасение находится в руках юного землянина. Единственно...",
     "title_ru": "Трансформеры",
     "tmdb_id": 1858,
-    "poster_path": "/eYFRGx7qk4JGOqUvjSWIpgToHLi.jpg"
+    "poster_path": "/eYFRGx7qk4JGOqUvjSWIpgToHLi.jpg",
+    "director": "Майкл Бэй"
   },
   {
     "title": "Sonic the Hedgehog",
@@ -9944,7 +10331,8 @@ var movieDB = [
     "why": "Отвязный ярко-синий ёж Соник вместе с новообретённым лучшим другом Томом Вачовски знакомится со сложностями жизни на Земле и противостоит злодейскому доктору Роботнику, который хочет пленить Соника и использовать его безграничные суперсилы для завоевания мирового господства.",
     "title_ru": "Соник в Кино",
     "tmdb_id": 454626,
-    "poster_path": "/5VkEgD5YIJye87E1xX6NQ5BVaTc.jpg"
+    "poster_path": "/5VkEgD5YIJye87E1xX6NQ5BVaTc.jpg",
+    "director": "Джефф Фаулер"
   },
   {
     "title": "Mission: Impossible – Ghost Protocol",
@@ -9969,7 +10357,8 @@ var movieDB = [
     "why": "Специальный агент отряда «Миссия невыполнима» Итан Хант и его коллеги несправедливо обвинены в причастности к взрыву Кремля. Президент инициирует «Протокол Фантом», в результате которого спецподразделение ликвидировано, и Итан остается без какой-либо поддержки. Он намерен очистить свое доброе имя и ...",
     "title_ru": "Миссия невыполнима: Протокол Фантом",
     "tmdb_id": 56292,
-    "poster_path": "/neKiBzXzI6yuN8Fn8beoLcYASsE.jpg"
+    "poster_path": "/neKiBzXzI6yuN8Fn8beoLcYASsE.jpg",
+    "director": "Брэд Бёрд"
   },
   {
     "title": "The Purge",
@@ -9989,7 +10378,8 @@ var movieDB = [
     "why": "Мир будущего — мир без преступности… безработицы… войн. И все это благодаря одной ночи в году, когда можно отправить на тот свет любого — злобного босса, шумных соседей, надоевших родственников. В Судную ночь дозволено все — главное дожить до рассвета.",
     "title_ru": "Судная ночь",
     "tmdb_id": 158015,
-    "poster_path": "/wG6foc3GRMC6LYFyQuKTImVY9KB.jpg"
+    "poster_path": "/wG6foc3GRMC6LYFyQuKTImVY9KB.jpg",
+    "director": "Джеймс ДеМонако"
   },
   {
     "title": "Sausage Party",
@@ -10014,7 +10404,8 @@ var movieDB = [
     "why": "Действие будет разворачиваться в супермаркете, где сосискам нужно будет срочно выбраться на волю, пока не наступил День Независимости.",
     "title_ru": "Полный расколбас",
     "tmdb_id": 223702,
-    "poster_path": "/vNTWF1zzps9YGkDcKVaxpl1T93E.jpg"
+    "poster_path": "/vNTWF1zzps9YGkDcKVaxpl1T93E.jpg",
+    "director": "Greg Tiernan, Конрад Вернон"
   },
   {
     "title": "The Lost World: Jurassic Park",
@@ -10038,7 +10429,8 @@ var movieDB = [
     "why": "События этого фильма разворачиваются через четыре года после того, что произошло в «Парке Юрского периода». На близлежащем острове динозавры выжили и адаптировались к дикой природе. Но вот находится Некто, кто хочет перевезти их на материк и заработать на этом, не понимая, какими могут быть последст...",
     "title_ru": "Парк юрского периода 2: Затерянный мир",
     "tmdb_id": 330,
-    "poster_path": "/cyOYIkBXPDsr2WPs0F0gNkhktG1.jpg"
+    "poster_path": "/cyOYIkBXPDsr2WPs0F0gNkhktG1.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "The Man from U.N.C.L.E.",
@@ -10060,7 +10452,8 @@ var movieDB = [
     "why": "Наполеон Соло — агент ЦРУ, на счету которого огромное количество успешно проведенных операций. Он считается одним из лучших секретных агентов во всем мире, и с ним может сравниться только один человек — самый молодой и перспективный агент КГБ Илья Курякин. Их противостояние переросло в настоящую вой...",
     "title_ru": "Агенты А.Н.К.Л.",
     "tmdb_id": 203801,
-    "poster_path": "/5y39QPa3BBmYKiGO4yjmlarKZD9.jpg"
+    "poster_path": "/5y39QPa3BBmYKiGO4yjmlarKZD9.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "Insidious",
@@ -10080,7 +10473,8 @@ var movieDB = [
     "why": "",
     "title_ru": "Insidious Inferno",
     "tmdb_id": 1173559,
-    "poster_path": "/8kljUAovBatZRYp2ye2RZr239hU.jpg"
+    "poster_path": "/8kljUAovBatZRYp2ye2RZr239hU.jpg",
+    "director": "Calvin Morie McCarthy"
   },
   {
     "title": "Upgrade",
@@ -10100,7 +10494,8 @@ var movieDB = [
     "why": "2046 год. Разнообразные технологии участвуют во всех аспектах человеческой жизни. Но в этом технологичном мире Грей — один из немногих людей, кто любит работать руками. Он восстанавливает и чинит старые автомобили. Однажды, возвращаясь от клиента, Грей с женой попадают в аварию, а после — в руки бан...",
     "title_ru": "Апгрейд",
     "tmdb_id": 500664,
-    "poster_path": "/9A14EDBFTP1xlG7poolUcSWhXtW.jpg"
+    "poster_path": "/9A14EDBFTP1xlG7poolUcSWhXtW.jpg",
+    "director": "Ли Уоннелл"
   },
   {
     "title": "Star Trek",
@@ -10120,7 +10515,8 @@ var movieDB = [
     "why": "Когда Нерон с планеты Ромул приходит из будущего, чтобы отомстить Федерации, конкуренты Кирк и Спок должны объединиться, чтобы не дать ему разрушить все, что им дорого. Во время этого будоражащего путешествия, наполненного эффектными боями, юмором и космическими угрозами, новоиспеченные члены команд...",
     "title_ru": "Звёздный путь",
     "tmdb_id": 13475,
-    "poster_path": "/9j0bQ4zDzrXerLP0TkUMKNT6AFy.jpg"
+    "poster_path": "/9j0bQ4zDzrXerLP0TkUMKNT6AFy.jpg",
+    "director": "Джей Джей Абрамс"
   },
   {
     "title": "Cloverfield",
@@ -10141,7 +10537,8 @@ var movieDB = [
     "why": "Прощальную вечеринку уезжающего в Японию Роба прерывает громогласный рык — нечто напало на Нью-Йорк, сея панику, разрушения и пожирая людей. Армия бессильна против гигантского монстра, Манхэттен объявлен закрытой зоной, но где-то неподалеку от Центрального парка в беду попала девушка Роба.",
     "title_ru": "Монстро",
     "tmdb_id": 7191,
-    "poster_path": "/f2blCRmFoJTC91QDFCUGIgzx6Hy.jpg"
+    "poster_path": "/f2blCRmFoJTC91QDFCUGIgzx6Hy.jpg",
+    "director": "Мэтт Ривз"
   },
   {
     "title": "Steve Jobs",
@@ -10160,7 +10557,8 @@ var movieDB = [
     "why": "Фильм «Стив Джобс» - биографическая лента об одном из пионеров эры IT-технологий. Картина разделена на три условные части, каждая из которых рассказывает о важном для Джобса периоде, связанном с выпуском ключевых продуктов его компании. В 1984 году Стив вместе с командой разработчиков презентовал Ма...",
     "title_ru": "Стив Джобс",
     "tmdb_id": 321697,
-    "poster_path": "/iJbVlg6D5LJPnx48SM4YnEa6YHf.jpg"
+    "poster_path": "/iJbVlg6D5LJPnx48SM4YnEa6YHf.jpg",
+    "director": "Дэнни Бойл"
   },
   {
     "title": "The Twilight Saga: Eclipse",
@@ -10187,7 +10585,8 @@ var movieDB = [
     "why": "Сиэтл охвачен чередой таинственных убийств, а обуреваемая жаждой мести вампирша продолжает поиски Беллы, снова оказавшейся в смертельной опасности. Кроме того, находясь в эпицентре всех событий, Белла вынуждена делать выбор между любовью к Эдварду и дружбой с Джейкобом, зная что ее решение может пос...",
     "title_ru": "Сумерки. Сага: Затмение",
     "tmdb_id": 24021,
-    "poster_path": "/haWqUl5spYplB08e25VrIOSMNW.jpg"
+    "poster_path": "/haWqUl5spYplB08e25VrIOSMNW.jpg",
+    "director": "Дэвид Слейд"
   },
   {
     "title": "Scream 2",
@@ -10210,7 +10609,8 @@ var movieDB = [
     "why": "Прошло 2 года после кровавой бойни в Вудсборо. Сидни Прескотт поступила в колледж, уехав прочь от безумных воспоминаний. Но прошлое вновь настигает её: нашумевшая история стала книгой - бестселлером Гэйл Уэзерс, а теперь ещё вышел фильм о тех самых событиях, всколыхнувший новую волну террора. И ужас...",
     "title_ru": "Крик 2",
     "tmdb_id": 4233,
-    "poster_path": "/k7mf7f0cUspF39PqMfNjG2lxVdz.jpg"
+    "poster_path": "/k7mf7f0cUspF39PqMfNjG2lxVdz.jpg",
+    "director": "Уэс Крэйвен"
   },
   {
     "title": "Ocean's Twelve",
@@ -10234,7 +10634,8 @@ var movieDB = [
     "why": "Гангстер Денни Оушен собрал свою банду профессиональных грабителей и мошенников, и теперь там появились новые лица. Они задумали совершить три ограбления в европейских столицах. Владелец казино Терри Бенедикт, которого Оушен ограбил в Лас-Вегасе, жаждет мести и пытается настигнуть банду. За ней такж...",
     "title_ru": "Двенадцать друзей Оушена",
     "tmdb_id": 163,
-    "poster_path": "/dJHOfPGtRrbjYE8AGxFVWr3Dk2a.jpg"
+    "poster_path": "/dJHOfPGtRrbjYE8AGxFVWr3Dk2a.jpg",
+    "director": "Steven Soderbergh"
   },
   {
     "title": "The Fast and the Furious",
@@ -10259,7 +10660,8 @@ var movieDB = [
     "why": "Его зовут Брайан, и он — фанатик турбин и нитроускорителей. Его цель — быть принятым в автобанду легендарного Доминика Торетто, чемпиона опасных и незаконных уличных гонок. Но это лишь часть правды… Брайан также полицейский, имеющий задание войти в доверие к Торетто, подозреваемому в причастности к ...",
     "title_ru": "Форсаж",
     "tmdb_id": 9799,
-    "poster_path": "/cHNzdyLZDZ25qRS6Uq3dXKhJJbv.jpg"
+    "poster_path": "/cHNzdyLZDZ25qRS6Uq3dXKhJJbv.jpg",
+    "director": "Роб Коэн"
   },
   {
     "title": "Scooby-Doo",
@@ -10281,7 +10683,8 @@ var movieDB = [
     "why": "2 года спустя после того, как \"Тайная Корпорация\" распалась из-за возникших противоречий, всю команду вызывают на зловещий остров, чтобы они начали расследование серии паранормальных явлений. Скуби-Ду и его команде придётся преодолеть личные разногласия и по-новому взглянуть на мнимых вампиров и нер...",
     "title_ru": "Скуби-Ду",
     "tmdb_id": 9637,
-    "poster_path": "/7HxMjLQt6GY6VHWungktPmkridk.jpg"
+    "poster_path": "/7HxMjLQt6GY6VHWungktPmkridk.jpg",
+    "director": "Раджа Госнелл"
   },
   {
     "title": "Dark Phoenix",
@@ -10301,7 +10704,8 @@ var movieDB = [
     "why": "Во время опасной спасательной миссии в космосе Джин Грей оказывается под воздействием таинственной космической силы, которая превращает её в одного из самых могущественных мутантов. Теперь Людям Икс предстоит помочь Джин и остановить тех, кто мечтает взять Тёмного Феникса под свой контроль.",
     "title_ru": "Люди Икс: Тёмный Феникс",
     "tmdb_id": 320288,
-    "poster_path": "/927lqua6AHPW4mUflU26yV3APKZ.jpg"
+    "poster_path": "/927lqua6AHPW4mUflU26yV3APKZ.jpg",
+    "director": "Саймон Кинберг"
   },
   {
     "title": "The Skin I Live In",
@@ -10330,7 +10734,8 @@ var movieDB = [
     ],
     "title_ru": "Кожа, в которой я живу",
     "tmdb_id": 63311,
-    "poster_path": "/5g3SzaQbIe0G0z4nBZIdeT9HYMT.jpg"
+    "poster_path": "/5g3SzaQbIe0G0z4nBZIdeT9HYMT.jpg",
+    "director": "Педро Альмодовар"
   },
   {
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -10356,7 +10761,8 @@ var movieDB = [
     "why": "Трезубец Посейдона - это могущественный артефакт, способный разрушить все морские проклятия и даровать своему владельцу власть над морем. Он скрыт на дне океана, и лишь Карина Смит обладает ключом к его местонахождению - древним дневником с астрономическими расчётами. Вместе с Генри Тёрнером, сыном ...",
     "title_ru": "Пираты Карибского моря: Мертвецы не рассказывают сказки",
     "tmdb_id": 166426,
-    "poster_path": "/nMUmhDhouHf76MQE1sS5eCSCRzb.jpg"
+    "poster_path": "/nMUmhDhouHf76MQE1sS5eCSCRzb.jpg",
+    "director": "Эспен Сандберг, Йоахим Реннинг"
   },
   {
     "title": "50 First Dates",
@@ -10375,7 +10781,8 @@ var movieDB = [
     "why": "Генри Рот влюбляется в очаровательную Люси. Несмотря на небольшие помехи, уже к вечеру настойчивому Ромео удается добиться взаимности красавицы. Молодые люди счастливы и уверены, что их любовь продлится вечно. Увы, из-за последствий автомобильной аварии, девушка утром не помнит ничего из того, что п...",
     "title_ru": "50 первых поцелуев",
     "tmdb_id": 1824,
-    "poster_path": "/awbiRP73BgpfxjW5cP28IGkYp7l.jpg"
+    "poster_path": "/awbiRP73BgpfxjW5cP28IGkYp7l.jpg",
+    "director": "Питер Сигал"
   },
   {
     "title": "X-Men: The Last Stand",
@@ -10399,7 +10806,8 @@ var movieDB = [
     "why": "Людям Икс, во главе с профессором Чарльзом Ксавье, приходится вступить в битву с самой эволюцией в лице их воскресшего товарища по команде... Джин Грэй, возрожденная в облике Темного Феникса, представляет опасность не только для самой себя, но и для мутантов и для всей человеческой расы. А когда нак...",
     "title_ru": "Люди Икс: Последняя битва",
     "tmdb_id": 36668,
-    "poster_path": "/gJ0BmBIW4QhX3RLzI73NQp4RJWJ.jpg"
+    "poster_path": "/gJ0BmBIW4QhX3RLzI73NQp4RJWJ.jpg",
+    "director": "Бретт Ратнер"
   },
   {
     "title": "Tarzan",
@@ -10421,7 +10829,8 @@ var movieDB = [
     "why": "Тарзан вырос среди горилл, в таинственных джунглях, где не ступала нога человека. Враждебное царство диких животных долго не хотело признавать хрупкого мальчика. Вскоре на глазах у всех слабый малыш превратился в храброго юношу и стал быстрее пантеры, сильнее тигра, зорче орла. Но когда Тарзан стано...",
     "title_ru": "Тарзан",
     "tmdb_id": 37135,
-    "poster_path": "/byKoqGVrtMoU1SN9TmClqOCZMvT.jpg"
+    "poster_path": "/byKoqGVrtMoU1SN9TmClqOCZMvT.jpg",
+    "director": "Крис Бак, Кевин Лима"
   },
   {
     "title": "Jumanji: The Next Level",
@@ -10443,7 +10852,8 @@ var movieDB = [
     "why": "Пытаясь спасти Спенсера, снова попавшего в игру, туда же отправляются и остальные. К их удивлению, правила Джуманджи изменились, и более того - на этот раз в игру затянуло дедулю Спенсера и его престарелого друга Майло. Чтобы выполнить задания и вернуться домой, друзьям предстоит отправиться в путеш...",
     "title_ru": "Джуманджи: Новый уровень",
     "tmdb_id": 512200,
-    "poster_path": "/eEjh9ljWHGLg8jrvgzNJxRrqQVK.jpg"
+    "poster_path": "/eEjh9ljWHGLg8jrvgzNJxRrqQVK.jpg",
+    "director": "Джейк Кэздан"
   },
   {
     "title": "The Twilight Saga: Breaking Dawn – Part 2",
@@ -10470,7 +10880,8 @@ var movieDB = [
     "why": "Белла, став вампиром, постепенно свыкается со своей новой природой. В этом ей помогают Эдвард и остальные члены семьи Калленов. К тому же теперь у Беллы есть дочь Ренесми и вечность впереди. Джейкоб, запечатлённый с Ренесми, становится для девочки другом и наставником. Ненадолго для героев наступают...",
     "title_ru": "Сумерки. Сага: Рассвет — Часть 2",
     "tmdb_id": 50620,
-    "poster_path": "/fgVXAUj9w6OrVlhQ0YPiZhO46j5.jpg"
+    "poster_path": "/fgVXAUj9w6OrVlhQ0YPiZhO46j5.jpg",
+    "director": "Билл Кондон"
   },
   {
     "title": "Pirates of the Caribbean: On Stranger Tides",
@@ -10496,7 +10907,8 @@ var movieDB = [
     "why": "После неудачной попытки спасти от виселицы своего помощника Гиббса, Джек Воробей оказывается пойманным королевскими гвардейцами. Чтобы избежать тюрьмы, король Англии Георг II предлагает Джеку возглавить экспедицию по поискам источника вечной молодости.",
     "title_ru": "Пираты Карибского моря: На странных берегах",
     "tmdb_id": 1865,
-    "poster_path": "/mPWUHDeVulOQfpcNzLpzm7VfIsm.jpg"
+    "poster_path": "/mPWUHDeVulOQfpcNzLpzm7VfIsm.jpg",
+    "director": "Роб Маршалл"
   },
   {
     "title": "Snow White and the Seven Dwarfs",
@@ -10519,7 +10931,8 @@ var movieDB = [
     "why": "Узнав от волшебного зеркальца, что Белоснежка стала самой прекрасной девушкой на свете,  злая мачеха-королева решила погубить прелестную падчерицу. Но бедная девушка не погибла в лесу, а наоборот, встретила там настоящих друзей - забавных семерых гномов.",
     "title_ru": "Белоснежка и Семь Гномов",
     "tmdb_id": 408,
-    "poster_path": "/dte7sSw0WGFvW544bYiAJKhG0iB.jpg"
+    "poster_path": "/dte7sSw0WGFvW544bYiAJKhG0iB.jpg",
+    "director": "Дэвид Хэнд, Ben Sharpsteen, Уильям Коттрелл, Larry Morey, Perce Pearce, Уилфред Джексон"
   },
   {
     "title": "Interview with the Vampire",
@@ -10542,7 +10955,8 @@ var movieDB = [
     "why": "К падкому на сенсации журналисту приходит вампир, чтобы поведать историю своей жизни. Все началось в 1791 году, когда молодой плантатор Луи, потеряв жену и ребенка, захотел умереть, но «родился для мрака». Выслушав рассказ вампира, журналист пожелал стать таким же, как он…",
     "title_ru": "Интервью с вампиром",
     "tmdb_id": 628,
-    "poster_path": "/kTEIiF370PlKNKC1KnEj0APlw1d.jpg"
+    "poster_path": "/kTEIiF370PlKNKC1KnEj0APlw1d.jpg",
+    "director": "Нил Джордан"
   },
   {
     "title": "Step Brothers",
@@ -10563,7 +10977,8 @@ var movieDB = [
     "why": "Уилл Феррелл и Джон Си Райли — 40-летние дети. Boats and hoes! Чистый идиотизм.",
     "title_ru": "Сводные братья",
     "tmdb_id": 12133,
-    "poster_path": "/fGFnMYlwSvgP48rKc20hyXazPKq.jpg"
+    "poster_path": "/fGFnMYlwSvgP48rKc20hyXazPKq.jpg",
+    "director": "Адам Маккей"
   },
   {
     "title": "X-Men Origins: Wolverine",
@@ -10587,7 +11002,8 @@ var movieDB = [
     "why": "Фильм рассказывает о неистовом и романтичном прошлом Росомахи, его сложных отношениях с Виктором Кридом и о зловещей программе Оружие Х. При этом Росомаха встречается со многими мутантами, уже знакомыми и новыми, и узнает несколько легенд о мире Людей Икс.",
     "title_ru": "Люди Икс: Начало. Росомаха",
     "tmdb_id": 2080,
-    "poster_path": "/nuOayxoKOCT6jog60i4A0iEfVk0.jpg"
+    "poster_path": "/nuOayxoKOCT6jog60i4A0iEfVk0.jpg",
+    "director": "Гэвин Худ"
   },
   {
     "title": "The Twilight Saga: Breaking Dawn – Part 1",
@@ -10614,7 +11030,8 @@ var movieDB = [
     "why": "В четвёртой части Белла Свон оказывается перед непростым выбором — сохранить жизнь себе или своему ребёнку (наполовину вампиру, наполовину человеку). Она решает оставить малыша, но Эдвард и остальные члены семьи Каллен категорически против. Помощи Бёлле ждать не от кого, но она приходит неожиданно, ...",
     "title_ru": "Сумерки. Сага: Рассвет — Часть 1",
     "tmdb_id": 50619,
-    "poster_path": "/hnJ5U57LWu6xHp8w0z3o0ZdgFTf.jpg"
+    "poster_path": "/hnJ5U57LWu6xHp8w0z3o0ZdgFTf.jpg",
+    "director": "Билл Кондон"
   },
   {
     "title": "King Kong",
@@ -10640,7 +11057,8 @@ var movieDB = [
     "why": "В 1930-м году съемочная группа под предводительством режиссера-неудачника Карла Дэнхэма отправляется на загадочный Остров Черепа неподалеку от Суматры, чтобы изучать легенды о гигантской горилле по кличке Конг. По прибытии на место они обнаруживают, что Кинг Конг и правда существует. Горилла живет в...",
     "title_ru": "Кинг Конг",
     "tmdb_id": 254,
-    "poster_path": "/l69qjj148czI5ZejUm8xhb3EdKX.jpg"
+    "poster_path": "/l69qjj148czI5ZejUm8xhb3EdKX.jpg",
+    "director": "Питер Джексон"
   },
   {
     "title": "Cloudy with a Chance of Meatballs",
@@ -10662,7 +11080,8 @@ var movieDB = [
     "why": "Главный герой мультфильма — странный ученый Флинт Локвуд, который всегда хотел изобрести что-то такое, что сделает его родной городок счастливым. И вот, у него получилось! Еды теперь хватает всем, и она просто падает с неба, создавая новые пейзажи вокруг: можно любоваться закатом с живописных холмов...",
     "title_ru": "Облачно, возможны осадки в виде фрикаделек",
     "tmdb_id": 22794,
-    "poster_path": "/ePnI73UEGY8nE9ZGIWQKLj0qBPN.jpg"
+    "poster_path": "/ePnI73UEGY8nE9ZGIWQKLj0qBPN.jpg",
+    "director": "Фил Лорд, Крис Миллер"
   },
   {
     "title": "Now You See Me 2",
@@ -10681,7 +11100,8 @@ var movieDB = [
     "why": "«4-ре всадника», команда лучших иллюзионистов мира, снова в сборе! Их «магия» стала еще совершеннее, а враги - опаснее. На сей раз им предстоит спасти свою репутацию и вывести на чистую воду жёстокого техномагната...",
     "title_ru": "Иллюзия обмана 2",
     "tmdb_id": 291805,
-    "poster_path": "/jzm3Pmp1uaFCDo0NrA0Tn98Ddda.jpg"
+    "poster_path": "/jzm3Pmp1uaFCDo0NrA0Tn98Ddda.jpg",
+    "director": "Джон М. Чу"
   },
   {
     "title": "Bee Movie",
@@ -10706,7 +11126,8 @@ var movieDB = [
     "why": "Барри Би Нельсон - пчёл, только что закончивший колледж и весьма разочарованный дальнейшей карьерой. Ведь единственный выбор, открывающийся перед ним - сбор мёда. Отправившись куда глаза глядят, Барри попадает в передрягу, из которой его вызволяет Ванесса, нью-йоркская цветочница. Барри немедленно в...",
     "title_ru": "Би Муви: Медовый заговор",
     "tmdb_id": 5559,
-    "poster_path": "/i0qHl3EbglfJ0emI2OXMl0XqPXZ.jpg"
+    "poster_path": "/i0qHl3EbglfJ0emI2OXMl0XqPXZ.jpg",
+    "director": "Стив Хикнер, Саймон Дж. Смит"
   },
   {
     "title": "Sleepy Hollow",
@@ -10731,7 +11152,8 @@ var movieDB = [
     "why": "Нью-Йорк, 1799 год. Икабода Крэйна, молодого констебля, отправляют в местечко Сонная лощина для расследования загадочных убийств. Все жертвы, как сообщает местное население, погибают от меча всадника без головы. Все они обезглавлены, а головы исчезли. Крэйну приходится убедиться, что это не легенда,...",
     "title_ru": "Сонная лощина",
     "tmdb_id": 2668,
-    "poster_path": "/htrk5FO8HaxtfJX8TcEBamDXLjv.jpg"
+    "poster_path": "/htrk5FO8HaxtfJX8TcEBamDXLjv.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Star Trek Into Darkness",
@@ -10751,7 +11173,8 @@ var movieDB = [
     "why": "Вернувшись на Землю, команда корабля «Энтерпрайз» обнаруживает, что деятельность и принципы их организации подорваны изнутри. Флот скован необъяснимым ужасом и бездействует, пока мир все глубже погружается в бездну.  Капитан Кирк берет на себя руководство операцией по поимке злодея, ответственного з...",
     "title_ru": "Стартрек: Возмездие",
     "tmdb_id": 54138,
-    "poster_path": "/afDcDs9nZhL871BID8X0BhyePrQ.jpg"
+    "poster_path": "/afDcDs9nZhL871BID8X0BhyePrQ.jpg",
+    "director": "Джей Джей Абрамс"
   },
   {
     "title": "Divergent",
@@ -10776,7 +11199,8 @@ var movieDB = [
     "why": "Мир где ты выбираешь фракцию. Шейлин Вудли. Бесстрашные против Эрудитов.",
     "title_ru": "Дивергент",
     "tmdb_id": 157350,
-    "poster_path": "/4GxZw9ADsIPAcpebbrm053DPa18.jpg"
+    "poster_path": "/4GxZw9ADsIPAcpebbrm053DPa18.jpg",
+    "director": "Нил Бёргер"
   },
   {
     "title": "The Woman in the Window",
@@ -10798,7 +11222,8 @@ var movieDB = [
     "why": "Женщина, страдающая агорафобией, начинает шпионить за своими новыми соседями и однажды становится свидетельницей акта насилия.",
     "title_ru": "Женщина в окне",
     "tmdb_id": 520663,
-    "poster_path": "/uvDW7ljuXSZb3tISieETXh45mVq.jpg"
+    "poster_path": "/uvDW7ljuXSZb3tISieETXh45mVq.jpg",
+    "director": "Джо Райт"
   },
   {
     "title": "Point Break",
@@ -10820,7 +11245,8 @@ var movieDB = [
     "why": "Таинственная банда серфингистов среди белого дня совершает ограбления банков. Полиция и ФБР поражены профессиональностью и скоростью проведения преступлений. Следствие ведет молодой и претенциозный агент ФБР, который, рискуя жизнью, внедряется в банду и раскрывает это дело, но неожиданно для самого ...",
     "title_ru": "На гребне волны",
     "tmdb_id": 1089,
-    "poster_path": "/5w7W8uJyChwbiShMhSvLvWKVaBV.jpg"
+    "poster_path": "/5w7W8uJyChwbiShMhSvLvWKVaBV.jpg",
+    "director": "Кэтрин Бигелоу"
   },
   {
     "title": "The Addams Family",
@@ -10840,7 +11266,8 @@ var movieDB = [
     "why": "Блистательная «черная комедия» о колоритной семейке, обитающей в не менее колоритном доме. Ужасы тонко стилизованы и не внушают страха.Бездна фантазии, юмора, Кристофер Ллойд в роли незадачливого дядюшки Фестера выше всяких похвал! Фильм до сих пор имеет почти культовый успех.",
     "title_ru": "Семейка Аддамс",
     "tmdb_id": 2907,
-    "poster_path": "/bHtQGf1fcZ1nPUv4aTy0h8WITmr.jpg"
+    "poster_path": "/bHtQGf1fcZ1nPUv4aTy0h8WITmr.jpg",
+    "director": "Барри Зонненфельд"
   },
   {
     "title": "Click",
@@ -10862,7 +11289,8 @@ var movieDB = [
     "why": "Архитектору-трудоголику Майклу попадает в руки пульт дистанционного управления, с помощью которого можно перематывать или ставить на паузу жизненные ситуации. Но техника есть техника - у нее всегда сюрприз в запасе. Запомнив ускоренные моменты, пульт начинает самовольно перематывать Майклу жизнь.",
     "title_ru": "Клик: С пультом по жизни",
     "tmdb_id": 9339,
-    "poster_path": "/yUt5heuYmrFiNGqElJrBnn3vw75.jpg"
+    "poster_path": "/yUt5heuYmrFiNGqElJrBnn3vw75.jpg",
+    "director": "Frank Coraci"
   },
   {
     "title": "Alice in Wonderland",
@@ -10887,7 +11315,8 @@ var movieDB = [
     "why": "Убежав из дома, Алиса увидела под старой яблоней большого белого кролика, одетого в куртку и жилет. Достав из кармана часы, кролик торопливо скрылся в подозрительно темной норе. Набравшись смелости, Алиса шагнула вслед за ним... и попала в чудесный сказочный мир, где сбываются самые несбыточные фант...",
     "title_ru": "Алиса в стране чудес",
     "tmdb_id": 12092,
-    "poster_path": "/pf42bgjheUgQFnwgDS83aCF3uWX.jpg"
+    "poster_path": "/pf42bgjheUgQFnwgDS83aCF3uWX.jpg",
+    "director": "Clyde Geronimi, Уилфред Джексон, Hamilton Luske"
   },
   {
     "title": "Bruce Almighty",
@@ -10906,7 +11335,8 @@ var movieDB = [
     "why": "Брюс Нолан — популярный ведущий теленовостей в Буффало. Он — пессимист, и его ничего не интересует в этой жизни, даже девушка Грейс, которая любит его, несмотря на всю его вредность. Его репортажи интересуют всех, кроме его самого. Мечта Брюса — быть ведущим, тем более местечко вот-вот должно освобо...",
     "title_ru": "Брюс Всемогущий",
     "tmdb_id": 310,
-    "poster_path": "/vMhL7BZFUa8oWs9Ts10Tk259bFf.jpg"
+    "poster_path": "/vMhL7BZFUa8oWs9Ts10Tk259bFf.jpg",
+    "director": "Tom Shadyac"
   },
   {
     "title": "Pocahontas",
@@ -10931,7 +11361,8 @@ var movieDB = [
     "why": "Из Европы отправляется в Новый Свет корабль с нашим героем Джоном Смитом. Экипаж, как объясняет капитан, плывет навстречу приключениям, успеху, богатству. Но сам капитан намерен найти там нечто вполне определенное - золото. А живут в Америке индейцы, и рассказ пойдет о благородной принцессе Покахонт...",
     "title_ru": "Покахонтас",
     "tmdb_id": 10530,
-    "poster_path": "/oYpzeBFTpffM8t9EnJc80aEvuyU.jpg"
+    "poster_path": "/oYpzeBFTpffM8t9EnJc80aEvuyU.jpg",
+    "director": "Mike Gabriel, Eric Goldberg"
   },
   {
     "title": "Sherlock Holmes: A Game of Shadows",
@@ -10958,7 +11389,8 @@ var movieDB = [
     "why": "Холмс против Мориарти. Рейхенбахский водопад. Джаред Харрис — идеальный Мориарти.",
     "title_ru": "Шерлок Холмс: Игра теней",
     "tmdb_id": 58574,
-    "poster_path": "/c1fkymjh9JmKEFvOnVCGghmeBPY.jpg"
+    "poster_path": "/c1fkymjh9JmKEFvOnVCGghmeBPY.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "Wonder",
@@ -10978,7 +11410,8 @@ var movieDB = [
     "why": "С одной стороны мальчик Август Пулман такой же как и другие мальчишки его возраста — любит ходить на дни рождения к друзьям, играть в компьютерные игры, фанатеет от «Звездных войн», играет со своей собакой, ссорится и мирится со старшей сестрой. А с другой — он совсем не такой как другие мальчишки е...",
     "title_ru": "Чудо",
     "tmdb_id": 406997,
-    "poster_path": "/hRClAuV3PVW2ybSaM8AsOMK77pI.jpg"
+    "poster_path": "/hRClAuV3PVW2ybSaM8AsOMK77pI.jpg",
+    "director": "Стивен Чбоски"
   },
   {
     "title": "Scary Movie",
@@ -10995,7 +11428,8 @@ var movieDB = [
     "why": "Год назад на Хэллоуин 6-ро друзей случайно сбили на автомобиле незнакомого мужчину и, не желая брать на себя ответственность, спрятали тело убитого. За прошедшее время они свыклись с мыслью, что убийство сошло им с рук, однако ситуация меняется, когда неизвестный человек отправляет записку Синди, в ...",
     "title_ru": "Очень страшное кино",
     "tmdb_id": 4247,
-    "poster_path": "/w3kWWWWgE7hxQOP8fyDangxtiga.jpg"
+    "poster_path": "/w3kWWWWgE7hxQOP8fyDangxtiga.jpg",
+    "director": "Кинен Айвори Уэйанс"
   },
   {
     "title": "Hellraiser",
@@ -11014,7 +11448,8 @@ var movieDB = [
     "why": "Расставив вокруг себя зажженные свечи, Фрэнк открывает купленную им на восточном базаре старинную шкатулку. Легенда гласит, что живущие в ней демоны могут доставить владельцу неописуемые наслаждения. Но Фрэнк не мог и предположить, что эта шкатулка — ключ к вратам Ада.",
     "title_ru": "Восставший из ада",
     "tmdb_id": 9003,
-    "poster_path": "/Ru8lkj4iNCEknffjjQtsPiCATJ.jpg"
+    "poster_path": "/Ru8lkj4iNCEknffjjQtsPiCATJ.jpg",
+    "director": "Клайв Баркер"
   },
   {
     "title": "Natural Born Killers",
@@ -11037,7 +11472,8 @@ var movieDB = [
     "why": "Пара молодых влюбленных, Меллори и Микки, словно подражая легендарным Бонни и Клайду, колесит по одноэтажной Америке и убивает всех, кто попадается им на пути. Они обожают друг друга и ненавидят все остальное человечество. Их хватают и сажают в самую свирепую кутузку.Однако же череда нелепых и траги...",
     "title_ru": "Прирожденные убийцы",
     "tmdb_id": 241,
-    "poster_path": "/bwrlwhuomE1sZ7ZAbDb20JRF2oz.jpg"
+    "poster_path": "/bwrlwhuomE1sZ7ZAbDb20JRF2oz.jpg",
+    "director": "Оливер Стоун"
   },
   {
     "title": "The Ring",
@@ -11056,7 +11492,8 @@ var movieDB = [
     "why": "Телефонный звонок следует после просмотра некой загадочной видеокассеты, после чего каждый посмотревший ее умирает. Жертве дается лишь одна неделя, а дальше следует неминуемая смерть.  Главная героиня Рэйчел — журналистка, расследует эти страшные события, и случайно кассета попадает к ее сыну, над к...",
     "title_ru": "Звонок",
     "tmdb_id": 565,
-    "poster_path": "/vwldpALjeYsr0kHR7UWa1PdKpvc.jpg"
+    "poster_path": "/vwldpALjeYsr0kHR7UWa1PdKpvc.jpg",
+    "director": "Гор Вербински"
   },
   {
     "title": "Straight Outta Compton",
@@ -11078,7 +11515,8 @@ var movieDB = [
     "why": "1987 год. Пятеро молодых и дерзких парней из пригорода Лос-Анджелеса начинают свой стремительный путь к славе… Они станут голосом улиц, и весь мир будет у ног бунтарей из N.W.A.",
     "title_ru": "Голос улиц",
     "tmdb_id": 277216,
-    "poster_path": "/syG9U95Hks428rKUgo1CpL5xgRh.jpg"
+    "poster_path": "/syG9U95Hks428rKUgo1CpL5xgRh.jpg",
+    "director": "Ф. Гэри Грей"
   },
   {
     "title": "Despicable Me 2",
@@ -11103,7 +11541,8 @@ var movieDB = [
     "why": "Чтобы позаботиться о девочках, Грю бросает коварные дела и теперь сам по поручению секретного агентства борется со злом.",
     "title_ru": "Гадкий я 2",
     "tmdb_id": 93456,
-    "poster_path": "/onACDW8RBbHhhuLCasaeK0sLKT0.jpg"
+    "poster_path": "/onACDW8RBbHhhuLCasaeK0sLKT0.jpg",
+    "director": "Пьер Коффен, Крис Рено"
   },
   {
     "title": "How to Train Your Dragon: The Hidden World",
@@ -11128,7 +11567,8 @@ var movieDB = [
     "why": "Когда-то викинги жили в гармонии с драконами. В те времена они делили радость, горе и последние штаны. Казалось, что так будет всегда, но появление загадочной Дневной Фурии изменило жизнь острова. И теперь Иккинг и Беззубик столкнутся с безжалостным охотником на драконов, жаждущим уничтожить все, чт...",
     "title_ru": "Как приручить дракона 3",
     "tmdb_id": 166428,
-    "poster_path": "/AdIhqttutOdkKUttw8ofld870Dx.jpg"
+    "poster_path": "/AdIhqttutOdkKUttw8ofld870Dx.jpg",
+    "director": "Дин ДеБлуа"
   },
   {
     "title": "Cars 2",
@@ -11153,7 +11593,8 @@ var movieDB = [
     "why": "Молния МакКуин и его лучший друг Мэтр отправляются на Мировое Гран-При — турнир для самых быстрых машин планеты. Этапы гонок проходят в Японии, Франции, Италии и завершаются большим финалом в Великобритании. Для Молнии это шанс доказать своё мастерство и встретиться с сильнейшими соперниками. Пока о...",
     "title_ru": "Тачки 2",
     "tmdb_id": 49013,
-    "poster_path": "/80uLnj9HHLBWEvGAc4MKM0HWb5z.jpg"
+    "poster_path": "/80uLnj9HHLBWEvGAc4MKM0HWb5z.jpg",
+    "director": "Джон Лассетер"
   },
   {
     "title": "Bridge of Spies",
@@ -11172,7 +11613,8 @@ var movieDB = [
     "why": "Действие фильма происходит на фоне серии реальных исторических событий и рассказывает о бруклинском адвокате Джеймсе Доноване, который оказывается в эпицентре холодной войны, когда ЦРУ отправляет его на практически невозможное задание — договориться об освобождении захваченного в СССР американского ...",
     "title_ru": "Шпионский мост",
     "tmdb_id": 296098,
-    "poster_path": "/4vpa7QnDrZZ1QqX4E1hddjuPjge.jpg"
+    "poster_path": "/4vpa7QnDrZZ1QqX4E1hddjuPjge.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "The Da Vinci Code",
@@ -11191,7 +11633,8 @@ var movieDB = [
     "why": "Гарвардского профессора Роберта Лэнгдона подозревают в чудовищном преступлении, которого он не совершал. Лэнгдон знакомится с криптографом парижской полиции Софи Невё и вместе с ней пытается раскрыть тайну, которая может подорвать могущество католической церкви.",
     "title_ru": "Код Да Винчи",
     "tmdb_id": 591,
-    "poster_path": "/xkJ77A8Fs9dQGUCr90PYtXPiZt.jpg"
+    "poster_path": "/xkJ77A8Fs9dQGUCr90PYtXPiZt.jpg",
+    "director": "Рон Ховард"
   },
   {
     "title": "Irreversible",
@@ -11213,7 +11656,8 @@ var movieDB = [
     "why": "Темнота ночи, багровые отблески на стенах притона, бледные, как простыня, лица. Герой мечется в лабиринте лестниц и переходов одного из подпольных гей-клубов. Цель — найти и убить человека, которого он никогда даже не видел в глаза. Но у него есть веская причина ненавидеть: незнакомец до смерти изна...",
     "title_ru": "Необратимость",
     "tmdb_id": 979,
-    "poster_path": "/t8QXCpzB80ZE7JztV9PoS1kgwXw.jpg"
+    "poster_path": "/t8QXCpzB80ZE7JztV9PoS1kgwXw.jpg",
+    "director": "Гаспар Ноэ"
   },
   {
     "title": "Furious 7",
@@ -11238,7 +11682,8 @@ var movieDB = [
     "why": "Они покорили Токио и Рио, Лос-Анджелес и Лондон. Но мир больше не играет по их правилам. Зной арабских пустынь, неприлично высокие небоскребы, миллионы долларов на колесах и очень, очень знаменитый злодей. Скорость не знает границ.",
     "title_ru": "Форсаж 7",
     "tmdb_id": 168259,
-    "poster_path": "/i5A0OCxcinzkcxvesvefFu9vX3K.jpg"
+    "poster_path": "/i5A0OCxcinzkcxvesvefFu9vX3K.jpg",
+    "director": "Джеймс Ван"
   },
   {
     "title": "Chicken Run",
@@ -11260,7 +11705,8 @@ var movieDB = [
     "why": "Курочкам на ферме миссис Туиди приходится нелегко. Для каждой из этих несчастных птиц любое, даже самое погожее утро, может стать последним: в мгновение ока они могут угодить в суп или стать начинкой для пирожка.\r Безропотные домашние птички живут в постоянном страхе в ужасных курятниках, напоминающ...",
     "title_ru": "Побег из курятника",
     "tmdb_id": 7443,
-    "poster_path": "/1RJJsIvIY7urQfIJRNRSzHzcC4P.jpg"
+    "poster_path": "/1RJJsIvIY7urQfIJRNRSzHzcC4P.jpg",
+    "director": "Ник Парк, Peter Lord"
   },
   {
     "title": "Fantasia",
@@ -11282,7 +11728,8 @@ var movieDB = [
     "why": "Необычайный, поражающий воображение мультконцерт, небывалое ранее единение музыки и мультипликации. Дисней и знаменитый дирижер Леопольд Стоковски решили воспроизвести на экране фантазии, возникающие в сознании людей при прослушивании музыкальных шедевров.Картина состоит из 8 классических композиций...",
     "title_ru": "Фантазия",
     "tmdb_id": 756,
-    "poster_path": "/gCevkcGOmqowkB6jJaYUVZdHCVN.jpg"
+    "poster_path": "/gCevkcGOmqowkB6jJaYUVZdHCVN.jpg",
+    "director": "Уилфред Джексон, Bill Roberts, Paul Satterfield, Samuel Armstrong, Jim Handley, T. Hee, Hamilton Luske, Ben Sharpsteen, James Algar, Norman Ferguson, Дэвид Хэнд, Ford Beebe Jr."
   },
   {
     "title": "Neighbors",
@@ -11298,7 +11745,8 @@ var movieDB = [
     "why": "Как известно, мужчины бывают двух типов: холостые и глубоко женатые. Первые молоды, мускулисты и точно магнит притягивают блондинок и шумных друзей. Вторые обитают дома, выращивают детей и поглощают сериалы по телеку. Обычно их пути не пересекаются. Но стоит им стать соседями, мужчины выходят на тро...",
     "title_ru": "Соседи: На тропе войны",
     "tmdb_id": 195589,
-    "poster_path": "/jLQxIV4y8GSknnbO9wsT645UaBg.jpg"
+    "poster_path": "/jLQxIV4y8GSknnbO9wsT645UaBg.jpg",
+    "director": "Николас Столлер"
   },
   {
     "title": "The Butterfly Effect",
@@ -11315,7 +11763,8 @@ var movieDB = [
     "why": "Эван перенял от своего отца-психопата, ныне запертого в доме для умалишённых, странную болезнь — он не помнит некоторых эпизодов своей жизни, причем в эти моменты происходили довольно странные, а то и ужасные события. Поступив в колледж, Эван делает удивительное открытие. Читая дневники, которые пис...",
     "title_ru": "Эффект бабочки",
     "tmdb_id": 1954,
-    "poster_path": "/w6YONfckbFUksa6IITACN89JuHk.jpg"
+    "poster_path": "/w6YONfckbFUksa6IITACN89JuHk.jpg",
+    "director": "Эрик Бресс, Дж. Макки Грубер"
   },
   {
     "title": "Seven Psychopaths",
@@ -11339,7 +11788,8 @@ var movieDB = [
     "why": "МакДона: сценарист и семь психов. Ши-тцу, Сэм Рокуэлл, Кристофер Уокен. No dogs die.",
     "title_ru": "Семь психопатов",
     "tmdb_id": 86838,
-    "poster_path": "/Vs0ZLKWIJChGbNSaNowChablG9.jpg"
+    "poster_path": "/Vs0ZLKWIJChGbNSaNowChablG9.jpg",
+    "director": "Мартин Макдонах"
   },
   {
     "title": "The Danish Girl",
@@ -11355,7 +11805,8 @@ var movieDB = [
     "why": "Действие происходит в 1920-х годах в Копенгагене. Иллюстратор и художник Герда Вегенер просит своего мужа Эйнара Вегенера попозировать в качестве женской модели. Портреты приобретают популярность и Герда продолжает писать картины со своим мужем в качестве женщины. Эйнару нравится собственная женская...",
     "title_ru": "Девушка из Дании",
     "tmdb_id": 306819,
-    "poster_path": "/i2Vg8IOKKM7OaJgwP3t4Q26Sy9j.jpg"
+    "poster_path": "/i2Vg8IOKKM7OaJgwP3t4Q26Sy9j.jpg",
+    "director": "Tom Hooper"
   },
   {
     "title": "Monster House",
@@ -11380,7 +11831,8 @@ var movieDB = [
     "why": "Хорошо быть мальчишкой. Каждый день, как вся жизнь! Столько всего вокруг: девчонки, мороженое, драки, учебники, футбол. Насыщенный день, короче, получается. А вот если ты однажды обнаружил, что дом, который стоит по соседству с домом твоей семьи — вовсе не дом… А попросту говоря — монстр. Чудовище, ...",
     "title_ru": "Дом-монстр",
     "tmdb_id": 9297,
-    "poster_path": "/pMc6kgawZybpnHuvPsrbgLWIGCW.jpg"
+    "poster_path": "/pMc6kgawZybpnHuvPsrbgLWIGCW.jpg",
+    "director": "Гил Кинан"
   },
   {
     "title": "National Treasure",
@@ -11402,7 +11854,8 @@ var movieDB = [
     "why": "Современные охотники за сокровищами во главе с Беном Франклином Гейтсом узнают старинную легенду о сокровище, спрятанном еще отцами-основателями американского государства Джорджем Вашингтоном, Бенджамином Франклином и Томасом Джефферсоном. Узнать тайну клада можно с помощью Декларации Независимости ...",
     "title_ru": "Сокровище нации",
     "tmdb_id": 2059,
-    "poster_path": "/lV8AmdmCivVFxG4Rw4bNwqZMqJN.jpg"
+    "poster_path": "/lV8AmdmCivVFxG4Rw4bNwqZMqJN.jpg",
+    "director": "Джон Тёртелтауб"
   },
   {
     "title": "Cloud Atlas",
@@ -11419,7 +11872,8 @@ var movieDB = [
     "why": "События, происходящие в 1849, 1936, 1973, 2012, 2144, 2321 годах тесно переплетаются между собой. Дневник американского нотариуса, возвращающегося из дальнего плавания, нежные письма и волшебная симфония английского композитора, художественный фильм по сценарию эксцентричного издателя, откровения де...",
     "title_ru": "Облачный атлас",
     "tmdb_id": 83542,
-    "poster_path": "/4XwJAaallBSwQjWmY8XJMVSkRxT.jpg"
+    "poster_path": "/4XwJAaallBSwQjWmY8XJMVSkRxT.jpg",
+    "director": "Энди Вачовски, Ларри Вачовски, Том Тыквер"
   },
   {
     "title": "Pinocchio",
@@ -11441,7 +11895,8 @@ var movieDB = [
     "why": "Волшебная звёздная ночь... Гепетто хочет достать самую яркую волшебную звезду с неба. Его единственное желание - создать деревянного человечка Пиноккио, который бы превратился в настоящего мальчика и стал его сыном, которого у него никогда не было. Той ночью, красивая Синяя Фея коснулась Пиноккио св...",
     "title_ru": "Пиноккио",
     "tmdb_id": 10895,
-    "poster_path": "/nEhznkzzn0gSfW6yli9wfCvPyHg.jpg"
+    "poster_path": "/nEhznkzzn0gSfW6yli9wfCvPyHg.jpg",
+    "director": "Hamilton Luske, Ben Sharpsteen, T. Hee, Уилфред Джексон, Norman Ferguson, Jack Kinney, Bill Roberts"
   },
   {
     "title": "The Hangover Part II",
@@ -11457,7 +11912,8 @@ var movieDB = [
     "why": "В продолжении культовой комедии «Мальчишник в Вегасе» четверо друзей Фил, Стю, Алан и Даг отправляются в экзотический Тайланд на свадьбу Стю. После безумного мальчишника в Лас-Вегасе, они решают не испытывать судьбу во второй раз, а потому в Бангкоке планируют очень спокойное и безопасное празднеств...",
     "title_ru": "Мальчишник 2: Из Вегаса в Бангкок",
     "tmdb_id": 45243,
-    "poster_path": "/zDJYcvMxqIFVXpbs4US4YF5eskU.jpg"
+    "poster_path": "/zDJYcvMxqIFVXpbs4US4YF5eskU.jpg",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Over the Garden Wall",
@@ -11484,7 +11940,8 @@ var movieDB = [
     "why": "Двое братьев теряются в лесу. Осенняя сказка-минисериал. Элайджа Вуд. Уютный и жуткий.",
     "title_ru": "Over the Garden Wall",
     "tmdb_id": 273191,
-    "poster_path": "/pr1snPkxmWjLkVI1ryxeVhAe61b.jpg"
+    "poster_path": "/pr1snPkxmWjLkVI1ryxeVhAe61b.jpg",
+    "director": "John Daumery"
   },
   {
     "title": "First Cow",
@@ -11503,7 +11960,8 @@ var movieDB = [
     "why": "Молчаливый повар-одиночка отправляется на Запад. Он присоединяется к группе охотников, знакомясь с иммигрантом из Китая. Вдвоем они организуют успешный бизнес, который зависит от коровы, принадлежащей местному богатому землевладельцу.",
     "title_ru": "Первая корова",
     "tmdb_id": 558582,
-    "poster_path": "/eIqQUgDaHwdgJgUpKD7Pg0sXZUk.jpg"
+    "poster_path": "/eIqQUgDaHwdgJgUpKD7Pg0sXZUk.jpg",
+    "director": "Kelly Reichardt"
   },
   {
     "title": "8 Mile",
@@ -11522,7 +11980,8 @@ var movieDB = [
     "why": "Детройт, 90-ые. Джимми Смит-младший — молодой парень, работающий на фабрике. Он живёт на севере неблагополучного района 8 миля вместе со своей матерью-алкоголичкой, её жестоким бойфрендом и младшей сестрой. Единственная мечта Джимми — найти собственное звучание и стать популярным рэп-исполнителем. В...",
     "title_ru": "8 миля",
     "tmdb_id": 65,
-    "poster_path": "/1016JRRJNu6QlOmcnEycOdBREQP.jpg"
+    "poster_path": "/1016JRRJNu6QlOmcnEycOdBREQP.jpg",
+    "director": "Curtis Hanson"
   },
   {
     "title": "Dumb and Dumber",
@@ -11538,7 +11997,8 @@ var movieDB = [
     "why": "Два полных придурка, Ллойд Крисмас и Харри Данн пытаются нагнать красивую девушку Мэри Суонсон, чтобы вручить ей потерянный ею чемоданчик-дипломат. Кретинам невдомек, что Мэри обронила его специально, в качестве выкупа по договоренности с бандитами, похитившими ее мужа. Ведь внутри лежит кругленькая...",
     "title_ru": "Тупой и ещё тупее",
     "tmdb_id": 8467,
-    "poster_path": "/ciLqMDkjL2wJFXo07mmVC3TfnhJ.jpg"
+    "poster_path": "/ciLqMDkjL2wJFXo07mmVC3TfnhJ.jpg",
+    "director": "Peter Farrelly"
   },
   {
     "title": "Fantastic Four",
@@ -11558,7 +12018,8 @@ var movieDB = [
     "why": "Четыре астронавта в далёком космосе попали под действие неизвестных лучей и приобрели каждый свою отдельную суперспособность. После возвращения на Землю, четвёрка начинает активно мешать врагам цивилизации, которые усиленно портят жизнь всего прогрессивного человечества.",
     "title_ru": "Фантастическая четвёрка",
     "tmdb_id": 9738,
-    "poster_path": "/vRb7EUXQZFIWNye7y661mvTVP6O.jpg"
+    "poster_path": "/vRb7EUXQZFIWNye7y661mvTVP6O.jpg",
+    "director": "Тим Стори"
   },
   {
     "title": "Bumblebee",
@@ -11578,7 +12039,8 @@ var movieDB = [
     "why": "1987 год. Скрываясь от преследования, Бамблби прибывает на Землю, где тут же сталкивается с военными. В результате стычки с землянами и десептиконом, Бамблби лишается голосового модуля, повреждает память и перед отключкой сканирует стоящий неподалёку Фольксваген Жук. Через некоторое время девушка по...",
     "title_ru": "Бамблби",
     "tmdb_id": 424783,
-    "poster_path": "/2k9nXxST186qGgvs7CO0yrPI3Yf.jpg"
+    "poster_path": "/2k9nXxST186qGgvs7CO0yrPI3Yf.jpg",
+    "director": "Трэвис Найт"
   },
   {
     "title": "The SpongeBob SquarePants Movie",
@@ -11604,7 +12066,8 @@ var movieDB = [
     "why": "Когда мистера Крабса обвиняют в похищении короны короля Нептуна, Губка Боб и Патрик отправляются в опасное приключение, чтобы доказать его невиновность.",
     "title_ru": "Губка Боб – квадратные штаны",
     "tmdb_id": 11836,
-    "poster_path": "/aKyBFJszXTA7xOSTt6Sp7l25EVT.jpg"
+    "poster_path": "/aKyBFJszXTA7xOSTt6Sp7l25EVT.jpg",
+    "director": "Стивен Хилленбург"
   },
   {
     "title": "Shark Tale",
@@ -11629,7 +12092,8 @@ var movieDB = [
     "why": "Весь подводный мир встревожен убийством главы главной преступной группировки акул и, надо же, на месте преступления находят ничего не подозревающего малька Оскара! Всю жизнь Оскар мечтал быть сильным и знаменитым, и вот ему представился прекрасный случай воспользоваться чужой славой. Но очень скоро ...",
     "title_ru": "Подводная Братва",
     "tmdb_id": 10555,
-    "poster_path": "/g2eaIibtKlnZi3T69kFITfCWWPs.jpg"
+    "poster_path": "/g2eaIibtKlnZi3T69kFITfCWWPs.jpg",
+    "director": "Vicky Jenson, Bibo Bergeron, Роб Леттерман"
   },
   {
     "title": "Kung Fu Panda 2",
@@ -11655,7 +12119,8 @@ var movieDB = [
     "why": "Панда По наконец-то исполнит свою мечту, станет Воином Дракона и со своими друзьями и мастерами кунг-фу — Неистовой Пятеркой — защитит Великую Долину от страшного злодея и его легиона…",
     "title_ru": "Кунг-фу Панда 2",
     "tmdb_id": 49444,
-    "poster_path": "/cJj5uI2WrSKn1u7gfPAddeESAy4.jpg"
+    "poster_path": "/cJj5uI2WrSKn1u7gfPAddeESAy4.jpg",
+    "director": "Jennifer Yuh Nelson"
   },
   {
     "title": "Limitless",
@@ -11675,7 +12140,8 @@ var movieDB = [
     "why": "Нью-йоркский писатель Эдди, желая преодолеть чёрную полосу в жизни, принимает засекреченный препарат под названием NZT. Таблетка выводит мозг парня на работу в нереальной мощности. Этот творческий наркотик меняет всю жизнь Эдди, за короткий срок он зарабатывает кучу денег, но скоро начинает страдать...",
     "title_ru": "Области тьмы",
     "tmdb_id": 51876,
-    "poster_path": "/tpvt8Le1Pyd3d7lnp9GTW2uD7hj.jpg"
+    "poster_path": "/tpvt8Le1Pyd3d7lnp9GTW2uD7hj.jpg",
+    "director": "Нил Бёргер"
   },
   {
     "title": "Source Code",
@@ -11695,7 +12161,8 @@ var movieDB = [
     "why": "Герой фильма - солдат, который оказывается в теле некоего человека, и вынужден постоянно переживать чудовищный взрыв поезда, пока не поймёт, кто его устроил.",
     "title_ru": "Исходный код",
     "tmdb_id": 45612,
-    "poster_path": "/dE4IM48fgZBzr96y7gjwpbab4hJ.jpg"
+    "poster_path": "/dE4IM48fgZBzr96y7gjwpbab4hJ.jpg",
+    "director": "Данкан Джонс"
   },
   {
     "title": "American Pie",
@@ -11717,7 +12184,8 @@ var movieDB = [
     "why": "Четверо приятелей-старшеклассников выясняют, что никто из них ещё не имел сексуального опыта, и решают, что с девственностью надо обязательно расстаться до поступления в колледж. На носу выпускной бал, и у друзей осталось совсем мало времени, чтобы выполнить задуманное.",
     "title_ru": "Американский пирог",
     "tmdb_id": 2105,
-    "poster_path": "/33ILt2uMejyCpQ2svEUT25fF7ac.jpg"
+    "poster_path": "/33ILt2uMejyCpQ2svEUT25fF7ac.jpg",
+    "director": "Пол Вайц"
   },
   {
     "title": "Hotel Transylvania",
@@ -11742,7 +12210,8 @@ var movieDB = [
     "why": "Граф Дракула для себя и своей любимой дочки построил хорошо укрытый от посторонних глаз отель, куда монстры со всего света приезжают отдохнуть от семейных забот, повседневной суеты и, конечно… людей. Но вездесущие американские туристы проникают и сюда.",
     "title_ru": "Монстры на каникулах",
     "tmdb_id": 76492,
-    "poster_path": "/udgsh0Gh7KAEBWSjI4MC2Aq28rG.jpg"
+    "poster_path": "/udgsh0Gh7KAEBWSjI4MC2Aq28rG.jpg",
+    "director": "Геннди Тартаковски"
   },
   {
     "title": "Bambi",
@@ -11764,7 +12233,8 @@ var movieDB = [
     "why": "Однажды утром на маленькой, освещенной весенним солнцем, лесной полянке родился олененок. На нового лесного принца сбежались и слетелись посмотреть все звери и птицы. Олененка назвали Бемби. Когда Бемби научился ходить и разговаривать он обзавелся друзьями — кроликом Тампером и скунсом Цветочком. А ...",
     "title_ru": "Бемби",
     "tmdb_id": 3170,
-    "poster_path": "/4I6TyE33M6vcBFxrNMWNuXl1Aya.jpg"
+    "poster_path": "/4I6TyE33M6vcBFxrNMWNuXl1Aya.jpg",
+    "director": "Дэвид Хэнд"
   },
   {
     "title": "Rush",
@@ -11790,7 +12260,8 @@ var movieDB = [
     "why": "Рон Ховард: Хант против Лауды. Формула-1 1976. Два гонщика, две философии.",
     "title_ru": "Гонка",
     "tmdb_id": 96721,
-    "poster_path": "/bLNKTkaJJvT7oR9Q2kyOQHmDCSR.jpg"
+    "poster_path": "/bLNKTkaJJvT7oR9Q2kyOQHmDCSR.jpg",
+    "director": "Рон Ховард"
   },
   {
     "title": "The Proposal",
@@ -11812,7 +12283,8 @@ var movieDB = [
     "why": "Амбициозная и властная нью-йоркская начальница узнает, что срок ее вида на жительство заканчивается и ей грозит депортация в Канаду. Чтобы не потерять работу, для нее остается один выход — срочно заставить кого-то из своих подчиненных фиктивно на ней жениться...",
     "title_ru": "Предложение",
     "tmdb_id": 18240,
-    "poster_path": "/aUYDgOK1jOrlRSyX8hBeJ7RIa0C.jpg"
+    "poster_path": "/aUYDgOK1jOrlRSyX8hBeJ7RIa0C.jpg",
+    "director": "Anne Fletcher"
   },
   {
     "title": "The Bourne Ultimatum",
@@ -11839,7 +12311,8 @@ var movieDB = [
     "why": "Он хотел одного — исчезнуть. Вместо этого за Борном теперь охотятся люди, которые сделали его таким, какой он есть. Он потерял память и человека, которого он любил. Но его не удается сдержать даже новому поколению профессиональных убийц. У него только одна цель: вернуться к началу и узнать кем он бы...",
     "title_ru": "Ультиматум Борна",
     "tmdb_id": 2503,
-    "poster_path": "/xfYU1RxtvktWObEEHObGBiWGXqy.jpg"
+    "poster_path": "/xfYU1RxtvktWObEEHObGBiWGXqy.jpg",
+    "director": "Пол Гринграсс"
   },
   {
     "title": "Starship Troopers",
@@ -11866,7 +12339,8 @@ var movieDB = [
     "why": "Верхувен: фашистская сатира под видом бага-шутера. Жуки, пропаганда и промо-ролики. Would you like to know more?",
     "title_ru": "Звездный десант",
     "tmdb_id": 563,
-    "poster_path": "/gF3NfL4TUspodNAO9p2Sl1DV7fA.jpg"
+    "poster_path": "/gF3NfL4TUspodNAO9p2Sl1DV7fA.jpg",
+    "director": "Пол Верховен"
   },
   {
     "title": "2012",
@@ -11886,7 +12360,8 @@ var movieDB = [
     "why": "Согласно календарю индейцев Майя, в 2012 году планеты солнечной системы окажутся на одной линии друг с другом, что приведет к глобальным природным катаклизмам: сильнейшие землетрясения, цунами и извержения вулканов превратят страны и целые континенты в руины. Недавно ученые подтвердили, что этот миф...",
     "title_ru": "2012",
     "tmdb_id": 14161,
-    "poster_path": "/akAYvqKGukyqkjUp17lJArycjlm.jpg"
+    "poster_path": "/akAYvqKGukyqkjUp17lJArycjlm.jpg",
+    "director": "Роланд Эммерих"
   },
   {
     "title": "Star Trek Beyond",
@@ -11906,7 +12381,8 @@ var movieDB = [
     "why": "События развиваются спустя 2 года после начала пятилетней миссии.  Экипаж звездного корабля «Энтерпрайз», во главе с капитаном Джеймсом Т. Кирком, были атакованы могущественной и опасной волной неизвестных пришельцев, которые уничтожают корабль, оставляя их без всего на новой неизведанной планете, г...",
     "title_ru": "Стартрек: Бесконечность",
     "tmdb_id": 188927,
-    "poster_path": "/mkcP3g7XwmXT3fznyBfvGDcPgjA.jpg"
+    "poster_path": "/mkcP3g7XwmXT3fznyBfvGDcPgjA.jpg",
+    "director": "Джастин Лин"
   },
   {
     "title": "Life",
@@ -11926,7 +12402,8 @@ var movieDB = [
     "why": "Группа исследователей с международного космического корабля обнаруживает жизнь на Марсе. Они еще не подозревают, какие события повлечет за собой их открытие.",
     "title_ru": "Живое",
     "tmdb_id": 395992,
-    "poster_path": "/6Tt1avaIPZCaEhGmiZuhdQJ2up6.jpg"
+    "poster_path": "/6Tt1avaIPZCaEhGmiZuhdQJ2up6.jpg",
+    "director": "Даниэль Эспиноса"
   },
   {
     "title": "Ocean's Thirteen",
@@ -11950,7 +12427,8 @@ var movieDB = [
     "why": "Новая глава о криминальных похождениях Дэнни Оушена и его команды талантливейших мошенников в Лас-Вегасе.\r У Дэнни Оушена и его команды могла быть только одна причина, по которой они готовы провернуть самое амбициозное и рискованное ограбление казино в их жизни, — ради защиты одного из «своих».\r Ког...",
     "title_ru": "Тринадцать друзей Оушена",
     "tmdb_id": 298,
-    "poster_path": "/lV64gdrqMd1OttCsb37NjEOsFLC.jpg"
+    "poster_path": "/lV64gdrqMd1OttCsb37NjEOsFLC.jpg",
+    "director": "Steven Soderbergh"
   },
   {
     "title": "The New Mutants",
@@ -11967,7 +12445,8 @@ var movieDB = [
     "why": "После нашествия на её резервацию загадочного торнадо и гибели отца Дэниель Мунстар приходит в себя связанной на больничной койке. Доктор Рейес сообщает девушке, что она - единственная выжившая, и теперь вместе с четырьмя подростками находится в специализированном учреждении, где их изучают и учат ко...",
     "title_ru": "Новые мутанты",
     "tmdb_id": 340102,
-    "poster_path": "/2lyCa61EoF44vcQPXQfJzNvKT2D.jpg"
+    "poster_path": "/2lyCa61EoF44vcQPXQfJzNvKT2D.jpg",
+    "director": "Джош Бун"
   },
   {
     "title": "TRON: Legacy",
@@ -11987,7 +12466,8 @@ var movieDB = [
     "why": "1989 год. Кевин Флинн, глава корпорации ENCOM и создатель знаменитой игры Tron для аркадных автоматов, внезапно пропадает без вести, а его сын Сэм остаётся на попечении бабушки с дедушкой. Спустя десятилетия повзрослевший Сэм, который ведёт бунтарский образ жизни, находит тайный рабочий кабинет отца...",
     "title_ru": "Трон: Наследие",
     "tmdb_id": 20526,
-    "poster_path": "/mDD7Ik0bfzZL5AqSCW1GtryUi5p.jpg"
+    "poster_path": "/mDD7Ik0bfzZL5AqSCW1GtryUi5p.jpg",
+    "director": "Джозеф Косински"
   },
   {
     "title": "The Artist",
@@ -12009,7 +12489,8 @@ var movieDB = [
     "why": "Голливуд, 1927 год. Звезда немого кино Джордж Валентайн и слышать не хочет о микрофонах на съемочной площадке. А безнадежно влюбленная в Валентайна статистка Пеппи Миллер стремительно набирает популярность в новом звуковом кинематографе.",
     "title_ru": "Артист",
     "tmdb_id": 74643,
-    "poster_path": "/1pqEQ19QGugb2jJhTGQqMXiIKJ7.jpg"
+    "poster_path": "/1pqEQ19QGugb2jJhTGQqMXiIKJ7.jpg",
+    "director": "Мишель Хазанавичус"
   },
   {
     "title": "The Blind Side",
@@ -12025,7 +12506,8 @@ var movieDB = [
     "why": "Реальная история игрока в американский футбол команды Baltimore Ravens Майкла Оэра. Оставшийся без крова молодой афроамериканец взят под опеку зажиточной семьёй. Жизнь в новом окружении полностью меняет судьбу замкнутого подростка, помогает реализовать свой потенциал. Поступив в университет штата Ми...",
     "title_ru": "Невидимая сторона",
     "tmdb_id": 22881,
-    "poster_path": "/9CJlvd7boNM5bp7gqh0ylf4K869.jpg"
+    "poster_path": "/9CJlvd7boNM5bp7gqh0ylf4K869.jpg",
+    "director": "Джон Ли Хэнкок"
   },
   {
     "title": "I, Robot",
@@ -12042,7 +12524,8 @@ var movieDB = [
     "why": "Действие фильма происходит в 2035 г., где роботы являются обычными помощниками человека. Главный герой — полицейский, «не переваривающий» роботов, расследует дело об убийстве, в которое оказывается вовлечен робот. Речь идет о возможном нарушении «Закона о Роботах» (робот никогда не поднимет руки на ...",
     "title_ru": "Я, робот",
     "tmdb_id": 2048,
-    "poster_path": "/stffMPJj4cke1MrAkek1CFhjKuR.jpg"
+    "poster_path": "/stffMPJj4cke1MrAkek1CFhjKuR.jpg",
+    "director": "Алекс Пройас"
   },
   {
     "title": "Alien³",
@@ -12071,7 +12554,8 @@ var movieDB = [
     ],
     "title_ru": "Чужой 3",
     "tmdb_id": 8077,
-    "poster_path": "/x49NIbvqwWZ2apQXAa3009FyEzi.jpg"
+    "poster_path": "/x49NIbvqwWZ2apQXAa3009FyEzi.jpg",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "Shrek Forever After",
@@ -12098,7 +12582,8 @@ var movieDB = [
     "why": "За всё время Шрэк пережил немало различных приключений и испытаний, и вот, наконец, он ведёт тихую и спокойную семейную жизнь. Однако в скором времени, он начинает всё чаще вспоминать о былых временах, когда его все боялись, и он делал всё что хотел. И вот однажды, доведённый повседневной рутиной до...",
     "title_ru": "Шрэк навсегда",
     "tmdb_id": 10192,
-    "poster_path": "/6n740zxR80xTNCHK3Uo3Mzj5CED.jpg"
+    "poster_path": "/6n740zxR80xTNCHK3Uo3Mzj5CED.jpg",
+    "director": "Майк Митчелл"
   },
   {
     "title": "One Hundred and One Dalmatians",
@@ -12123,7 +12608,8 @@ var movieDB = [
     "why": "История поиска и спасения щенят далматинских догов, которые были похищены у своих хозяев по приказу злобной фурии, Стервеллы Де Виль. Алчная модница задумала сшить себе пятнистый меховой наряд из шкурок бедных малюток. Однако животные, объединившись, ухитряются проучить ее.",
     "title_ru": "101 далматинец",
     "tmdb_id": 12230,
-    "poster_path": "/creKcQJPQr8wZsunQjzCkcAAWZi.jpg"
+    "poster_path": "/creKcQJPQr8wZsunQjzCkcAAWZi.jpg",
+    "director": "Wolfgang Reitherman, Clyde Geronimi, Hamilton Luske"
   },
   {
     "title": "Dredd",
@@ -12140,7 +12626,8 @@ var movieDB = [
     "why": "Будущее не столь красочно и великолепно, каким его представляют современные люди. Через несколько столетий человечество окажется на грани самоуничтожения, захлёбываясь в кровавых преступлениях, смертельных грехах и беспорядочных убийствах. Старую систему правосудия будет невозможно использовать — ан...",
     "title_ru": "Судья Дредд",
     "tmdb_id": 49049,
-    "poster_path": "/oAhVbX55qJvoyBaJhpgDftafOuR.jpg"
+    "poster_path": "/oAhVbX55qJvoyBaJhpgDftafOuR.jpg",
+    "director": "Pete Travis"
   },
   {
     "title": "Men in Black 3",
@@ -12160,7 +12647,8 @@ var movieDB = [
     "why": "Агент Джей узнает, что никакого защитного галактического щита, способного отразить иноземный удар, не существует. Агент Кей не построил его, потому что был убит в 1969 году. Агент Джей должен совершить путешествие во времени, чтобы спасти Землю и жизнь напарника.",
     "title_ru": "Люди в чёрном 3",
     "tmdb_id": 41154,
-    "poster_path": "/6tJB9eTJgwCJJl3Wlscq69AObND.jpg"
+    "poster_path": "/6tJB9eTJgwCJJl3Wlscq69AObND.jpg",
+    "director": "Барри Зонненфельд"
   },
   {
     "title": "Begin Again",
@@ -12185,7 +12673,8 @@ var movieDB = [
     "why": "История специалиста, занимающегося поисками новых талантов, который заводит роман с начинающей певицей.",
     "title_ru": "Хоть раз в жизни",
     "tmdb_id": 198277,
-    "poster_path": "/b2Vmzd3jr8Ao80OqYhI0qp5wpGh.jpg"
+    "poster_path": "/b2Vmzd3jr8Ao80OqYhI0qp5wpGh.jpg",
+    "director": "Джон Карни"
   },
   {
     "title": "Mission: Impossible III",
@@ -12210,7 +12699,8 @@ var movieDB = [
     "why": "Суперагент Итан Хант решил расстаться с оперативной работой и заняться подготовкой курсантов. Он даже решил жениться на привлекательной, ни о чём не ведающей Джулии. Руководство ЦРУ просит его принять участие в последней операции: спасении его бывшей ученицы Линдси Феррис из лап торговца оружием Оуэ...",
     "title_ru": "Миссия невыполнима 3",
     "tmdb_id": 956,
-    "poster_path": "/1QgOjoYLproxIWRZxhZx9pXsmuY.jpg"
+    "poster_path": "/1QgOjoYLproxIWRZxhZx9pXsmuY.jpg",
+    "director": "Джей Джей Абрамс"
   },
   {
     "title": "Austin Powers: International Man of Mystery",
@@ -12230,7 +12720,8 @@ var movieDB = [
     "why": "Мир в опасности: великий и ужасный Доктор Зло угрожает запустить ядерную ракету, требуя 100 миллиардов долларов! Но на каждого суперзлодея есть свой супергерой. Спустя 30 лет, проведенных в криогенной камере, неподражаемый Остин Пауэрс, лучший секретный агент Ее Величества и любимец всех женщин, раз...",
     "title_ru": "Остин Пауэрс: Человек-загадка международного масштаба",
     "tmdb_id": 816,
-    "poster_path": "/pn64wZWhS7hvNgzKmZ4GMFZuYTV.jpg"
+    "poster_path": "/pn64wZWhS7hvNgzKmZ4GMFZuYTV.jpg",
+    "director": "Джей Роуч"
   },
   {
     "title": "The Wrestler",
@@ -12249,7 +12740,8 @@ var movieDB = [
     "why": "Рэнди «Баран» Робинсон был звездой 80-х, но стал бледной копией самого себя. Получив инфаркт во время одного из матчей, борец услышал от врачей неприятную весть: если он продолжит выступления, то может умереть. Пытаясь начать жизнь заново, Рэнди устроился работать в магазин и налаживал отношения с д...",
     "title_ru": "Рестлер",
     "tmdb_id": 12163,
-    "poster_path": "/sRyBEsBNxBvaH1SEo17MNSlLutF.jpg"
+    "poster_path": "/sRyBEsBNxBvaH1SEo17MNSlLutF.jpg",
+    "director": "Даррен Аронофски"
   },
   {
     "title": "Nerve",
@@ -12271,7 +12763,8 @@ var movieDB = [
     "why": "Поддавшись на уговоры одноклассниц, тихоня Ви открывает для себя мир популярной онлайн-игры «Нерв», где участники выполняют задания разной степени сложности, которые придумывают для них другие пользователи. В случае успеха игроки получают очень неплохие деньги. Ви проявляет неожиданную для самой себ...",
     "title_ru": "Нерв",
     "tmdb_id": 328387,
-    "poster_path": "/oFqGLAsxzicl1SC3Zfmxq4BTevc.jpg"
+    "poster_path": "/oFqGLAsxzicl1SC3Zfmxq4BTevc.jpg",
+    "director": "Henry Joost, Ariel Schulman"
   },
   {
     "title": "Face/Off",
@@ -12291,7 +12784,8 @@ var movieDB = [
     "why": "Чтобы раскрыть подробности запланированного преступниками крупного теракта, агент ФБР Шон Арчер соглашается на сложную хирургическую операцию. Он берёт себе новое лицо, лицо террориста Кастора Троя, который находится в коме.  Однако происходит непредвиденное: Трой приходит в себя и исчезает в обличь...",
     "title_ru": "Без лица",
     "tmdb_id": 754,
-    "poster_path": "/ssNev2En4JXfnIqnossNCLgOo2L.jpg"
+    "poster_path": "/ssNev2En4JXfnIqnossNCLgOo2L.jpg",
+    "director": "Джон Ву"
   },
   {
     "title": "Men in Black II",
@@ -12311,7 +12805,8 @@ var movieDB = [
     "why": "«Люди в черном 2» продолжает рассказ о приключениях двух элитных полицейских — агента Кея и агента Джея среди инопланетян. Со времени их предыдущих похождений прошло четыре года.Все эти годы агент Кей вел размеренный образ жизни, в то время как агент Джей продолжал бесстрашно трудиться в рядах самой...",
     "title_ru": "Люди в чёрном 2",
     "tmdb_id": 608,
-    "poster_path": "/nMyU0eGy65dPlGSwqTquSbGGW3b.jpg"
+    "poster_path": "/nMyU0eGy65dPlGSwqTquSbGGW3b.jpg",
+    "director": "Барри Зонненфельд"
   },
   {
     "title": "Constantine",
@@ -12333,7 +12828,8 @@ var movieDB = [
     "why": "Джону Константину удалось не только побывать в аду, но и вернуться обратно. Родившись с неугодным самому себе талантом — способностью распознавать помесь ангелов и демонов, которые бродят по земле в облике людей, — Константин под давлением обстоятельств пытается совершить самоубийство, лишь бы избав...",
     "title_ru": "Константин: Повелитель тьмы",
     "tmdb_id": 561,
-    "poster_path": "/eQtXfuB5zoD9t2C2zTVr52SpZnM.jpg"
+    "poster_path": "/eQtXfuB5zoD9t2C2zTVr52SpZnM.jpg",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Bolt",
@@ -12358,7 +12854,8 @@ var movieDB = [
     "why": "Пес по кличке «Вольт» всю жизнь снимается в телевизионном сериале, где его герой — суперпес — спасает человечество, используя свои необычайные способности. Сам Вольт свято верит в собственную неуязвимость, невероятную силу, и умение летать. Когда же судьба забрасывает его в полный опасностей Большой...",
     "title_ru": "Вольт",
     "tmdb_id": 13053,
-    "poster_path": "/qd3KbYSQ22gPYgeonlrj608OgNW.jpg"
+    "poster_path": "/qd3KbYSQ22gPYgeonlrj608OgNW.jpg",
+    "director": "Кристофер Уильямс, Байрон Ховард"
   },
   {
     "title": "The Hunchback of Notre Dame",
@@ -12380,7 +12877,8 @@ var movieDB = [
     "why": "Юная цыганка Эсмеральда зарабатывает на жизнь танцами. У нее есть друзья, но недоброжелатели столь могущественны, что Эсмеральда попадает в тюрьму. Звонарь Квазимодо устраивает девушке побег. А потом спасает ее, когда ослепленный ненавистью епископ Фролло пытается сам расправиться с ней. Этот мультф...",
     "title_ru": "Горбун из Нотр Дама",
     "tmdb_id": 10545,
-    "poster_path": "/c2grvHRrQmnHfCs4mg4w5OMDpQb.jpg"
+    "poster_path": "/c2grvHRrQmnHfCs4mg4w5OMDpQb.jpg",
+    "director": "Гари Труздейл, Kirk Wise"
   },
   {
     "title": "The Jungle Book",
@@ -12402,7 +12900,8 @@ var movieDB = [
     "why": "Выращенный волками человеческий детеныш Маугли по решению стаи должен вернуться к людям, чтобы не попасть в лапы к тигру-людоеду Шер Хану. Вместе с пантерой Багирой Маугли отправляется в путь, навстречу неожиданным знакомствам и опасным приключениям. Он подружится с беспечным медведем Балу, будет по...",
     "title_ru": "Книга джунглей",
     "tmdb_id": 9325,
-    "poster_path": "/iWO2WblaIGNwAqDCkLB3P91uGcZ.jpg"
+    "poster_path": "/iWO2WblaIGNwAqDCkLB3P91uGcZ.jpg",
+    "director": "Wolfgang Reitherman"
   },
   {
     "title": "The Day After Tomorrow",
@@ -12422,7 +12921,8 @@ var movieDB = [
     "why": "Земля уверенно движется навстречу глобальной экологической катастрофе: в одной части света все живое погибает от засухи, в другой — разбушевавшаяся водная стихия сносит города. Близость катастрофы вынуждает ученого-климатолога, пытающегося найти способ остановить глобальное потепление, отправиться н...",
     "title_ru": "Послезавтра",
     "tmdb_id": 435,
-    "poster_path": "/kJoflQrJ6KdMZ8B1Rw1uCDkHmE3.jpg"
+    "poster_path": "/kJoflQrJ6KdMZ8B1Rw1uCDkHmE3.jpg",
+    "director": "Роланд Эммерих"
   },
   {
     "title": "Final Destination",
@@ -12442,7 +12942,8 @@ var movieDB = [
     "why": "Алекс летит развлекаться со всем классом в Париж на 10 дней. Отец говорит, что детство кончилось. В аэропорту он узнает, что время вылета совпадает с его днем рождения. Потом, повинуясь плохому предчувствию, Алекс покидает самолет вместе с еще семью людьми. И тут взрывается их самолет… Но позже оста...",
     "title_ru": "Пункт назначения",
     "tmdb_id": 9532,
-    "poster_path": "/rrXMDkTZYK4MeEqUAu1jqVNLzg3.jpg"
+    "poster_path": "/rrXMDkTZYK4MeEqUAu1jqVNLzg3.jpg",
+    "director": "Джеймс Вон"
   },
   {
     "title": "Hellboy",
@@ -12461,7 +12962,8 @@ var movieDB = [
     "why": "Вторая мировая война. Нацисты терпят одно поражение за другим. В результате исследования оккультных ритуалов в супер-секретной лаборатории ученым, работающим на фашистский режим, удается поднять из небытия Демона Ада, который должен помочь переломить ход войны. Но в научную лабораторию тайно проника...",
     "title_ru": "Хеллбой: Герой из пекла",
     "tmdb_id": 1487,
-    "poster_path": "/rj882ZjPxruiw5dvPHnuPYmGZrc.jpg"
+    "poster_path": "/rj882ZjPxruiw5dvPHnuPYmGZrc.jpg",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Jurassic Park III",
@@ -12485,7 +12987,8 @@ var movieDB = [
     "why": "Палеонтолог Алан Грант, принимает предложение состоятельного предпринимателя совершить обзорную экскурсию над печально знаменитым островом Сорна на специально нанятом самолёте. Мог ли доктор Грант предполагать, что страшная, непредвиденная катастрофа снова заставит его столкнуться со свирепыми плото...",
     "title_ru": "Парк юрского периода 3",
     "tmdb_id": 331,
-    "poster_path": "/chwq36DwrmmuQUx2qMgNS5NnkXD.jpg"
+    "poster_path": "/chwq36DwrmmuQUx2qMgNS5NnkXD.jpg",
+    "director": "Джо Джонстон"
   },
   {
     "title": "Paranormal Activity",
@@ -12508,7 +13011,8 @@ var movieDB = [
     "why": "Молодая пара проживает в доме, который, как они подозревают, посещается некой злой силой. Чтобы зафиксировать паранормальную активность, они настраивают видеокамеру, чтобы записать свидетельство существования этой силы, появляющейся исключительно ночью, когда они спят. Тут-то и начинается самое инте...",
     "title_ru": "Паранормальное явление",
     "tmdb_id": 23827,
-    "poster_path": "/4PpnPcmAGqpZWpFX5imX0WmWTfZ.jpg"
+    "poster_path": "/4PpnPcmAGqpZWpFX5imX0WmWTfZ.jpg",
+    "director": "Oren Peli"
   },
   {
     "title": "Hancock",
@@ -12527,7 +13031,8 @@ var movieDB = [
     "why": "Есть герои, есть супергерои, и есть Хэнкок. Обладание сверхспособностями предполагает ответственность, все знают это — кроме него. За любую задачу он берётся с душой и лучшими намерениями, спасает жизни людей — ценой нечеловеческих разрушений и неисчислимого ущерба. В конце концов, терпение обществе...",
     "title_ru": "Хэнкок",
     "tmdb_id": 8960,
-    "poster_path": "/zH9RhVlpMBzGp9VM7jVmlnZpRuR.jpg"
+    "poster_path": "/zH9RhVlpMBzGp9VM7jVmlnZpRuR.jpg",
+    "director": "Питер Берг"
   },
   {
     "title": "The Fast and the Furious: Tokyo Drift",
@@ -12554,7 +13059,8 @@ var movieDB = [
     "why": "Шон Босуэлл — одинокий парень, который хочет казаться профи уличных гонок. Он бесшабашно гоняется по улицам города, пытаясь убежать от жизненных невзгод и наживая себе врагов среди местных властей. Когда Шону грозит тюрьма, его от греха подальше отсылают к отцу — профессиональному военному, который ...",
     "title_ru": "Тройной форсаж: Токийский Дрифт",
     "tmdb_id": 9615,
-    "poster_path": "/qkCOHIXI2vSXsuA0psYghM9Og2U.jpg"
+    "poster_path": "/qkCOHIXI2vSXsuA0psYghM9Og2U.jpg",
+    "director": "Джастин Лин"
   },
   {
     "title": "Friends with Benefits",
@@ -12574,7 +13080,8 @@ var movieDB = [
     "why": "Главная героиня — сотрудник кадрового агентства, которую преследуют фобии в отношениях с обязательствами. Однако, эти проблемы оказываются надуманными, после того как она встречает редактора глянцевого журнала. Он, в свою очередь, устал от женщин, которые мечтают вступить с ним в связь. Таким образо...",
     "title_ru": "Секс по дружбе",
     "tmdb_id": 50544,
-    "poster_path": "/cXY9Ae1ivoaAYvgrzewSMIr0NTQ.jpg"
+    "poster_path": "/cXY9Ae1ivoaAYvgrzewSMIr0NTQ.jpg",
+    "director": "Уилл Глак"
   },
   {
     "title": "Batman & Robin",
@@ -12600,7 +13107,8 @@ var movieDB = [
     "why": "Над Готэмом вновь нависла угроза: злодей-морозилка Мистер Фриз и психованная любительница растений по кличке Ядовитый Плющ решают уничтожить город. Единственные, кто могут остановить злодеев — Бэтмен и Робин, однако у этих супергероев возникают разногласия...",
     "title_ru": "Бэтмен и Робин",
     "tmdb_id": 415,
-    "poster_path": "/eP4xdBTyLySFVoXyrbZ4btJeH3n.jpg"
+    "poster_path": "/eP4xdBTyLySFVoXyrbZ4btJeH3n.jpg",
+    "director": "Джоэл Шумахер"
   },
   {
     "title": "Ace Ventura: Pet Detective",
@@ -12624,7 +13132,8 @@ var movieDB = [
     "why": "Он - лучший в своем деле, единственный и неповторимый! Он - Эйс Вентура, детектив по розыску домашних любимцев. Когда таинственные злоумышленники похищают дельфина по кличке Снежинка, талисман местной футбольной команды «Дельфины», Эйс тут же приступает к работе, проявляя чудеса изобретательности. И...",
     "title_ru": "Эйс Вентура: Розыск домашних животных",
     "tmdb_id": 3049,
-    "poster_path": "/9qeUQc5Z1Q3MvyR8ENL6TpNkpk0.jpg"
+    "poster_path": "/9qeUQc5Z1Q3MvyR8ENL6TpNkpk0.jpg",
+    "director": "Tom Shadyac"
   },
   {
     "title": "Lock, Stock and Two Smoking Barrels",
@@ -12644,7 +13153,8 @@ var movieDB = [
     "why": "Четверо приятелей накопили по 25 тысяч фунтов, чтобы один из них мог сыграть в карты с опытным шулером и матёрым преступником, известным по кличке «Гарри Топор». Парень проиграл 500 тысяч, на выплату долга ему дали неделю, а в противном случае и ему и его друзьям каждый день будут отрубать по пальцу...",
     "title_ru": "Карты, деньги, два ствола",
     "tmdb_id": 100,
-    "poster_path": "/tVpCSFRSRddK5Ma9D4Kgdsjt0cD.jpg"
+    "poster_path": "/tVpCSFRSRddK5Ma9D4Kgdsjt0cD.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "Mary Poppins Returns",
@@ -12667,7 +13177,8 @@ var movieDB = [
     "why": "Фильм рассказывает о новых приключениях Мэри и ее друга Джека, которым предстоит встретиться с представителями следующего поколения семейства Бэнкс.",
     "title_ru": "Мэри Поппинс возвращается",
     "tmdb_id": 400650,
-    "poster_path": "/uUm76WfwQXWhHH2T2ZGLa03tVsZ.jpg"
+    "poster_path": "/uUm76WfwQXWhHH2T2ZGLa03tVsZ.jpg",
+    "director": "Роб Маршалл"
   },
   {
     "title": "Yes Man",
@@ -12686,7 +13197,8 @@ var movieDB = [
     "why": "Депрессивный главный герой всегда и всем говорил «нет» — например, друзьям, если они зовут куда-то. Но в один прекрасный день он заключает соглашение, по которому всегда должен отвечать «Да» на любое предложение…",
     "title_ru": "Всегда говори «ДА»",
     "tmdb_id": 10201,
-    "poster_path": "/oIkuOFFs6MIdPcIbLLefwFtq9yD.jpg"
+    "poster_path": "/oIkuOFFs6MIdPcIbLLefwFtq9yD.jpg",
+    "director": "Пейтон Рид"
   },
   {
     "title": "Blade",
@@ -12705,7 +13217,8 @@ var movieDB = [
     "why": "Получеловек-полувампир Блэйд намерен уничтожить виновника своей судьбы - Дьякона Фроста. Когда-то в кровь Блэйда попало совсем немного вампирского яда, но с течением времени он стал ощущать неизбежность своего превращения. Желая избавить людей от тайной и могущественной армии вампиров, заполонившей ...",
     "title_ru": "Блэйд",
     "tmdb_id": 36647,
-    "poster_path": "/zw6SzepkSSWbR9fvHHdikbQnk2L.jpg"
+    "poster_path": "/zw6SzepkSSWbR9fvHHdikbQnk2L.jpg",
+    "director": "Стивен Норрингтон"
   },
   {
     "title": "Long Shot",
@@ -12724,7 +13237,8 @@ var movieDB = [
     "why": "Фред Фларски — прогрессивный в прошлом колумнист в умирающей газете, которая посвящает всё больше материалов нападению на Элистера Уэмбли, главу крупного медиаконгломерата. Но сейчас Фред — безработный и бедный одиночка. Как и многие американцы он увлечён госсекретарём США Шарлотт Филд. Она умная, к...",
     "title_ru": "Та ещё парочка",
     "tmdb_id": 459992,
-    "poster_path": "/hMMeKLyTPKWBaufvacnSCoHWYwq.jpg"
+    "poster_path": "/hMMeKLyTPKWBaufvacnSCoHWYwq.jpg",
+    "director": "Jonathan Levine"
   },
   {
     "title": "Peter Pan",
@@ -12749,7 +13263,8 @@ var movieDB = [
     "why": "Уолт Дисней зовет нас с собой в волшебную страну Неверленд, где живет удивительный мальчик, который умеет летать и отказывается взрослеть. Это веселый выдумщик, храбрец и проказник Питер Пэн!Однажды в поисках собственной тени Питер попадает в Лондон нашего мира и становится другом маленькой Венди и ...",
     "title_ru": "Питер Пэн",
     "tmdb_id": 10693,
-    "poster_path": "/h2IoheOnHRVkgHmqCYJrN1n5gvk.jpg"
+    "poster_path": "/h2IoheOnHRVkgHmqCYJrN1n5gvk.jpg",
+    "director": "Clyde Geronimi, Уилфред Джексон, Hamilton Luske"
   },
   {
     "title": "The Girl on the Train",
@@ -12771,7 +13286,8 @@ var movieDB = [
     "why": "Каждый день поезд проносит Рэйчел мимо очаровательного коттеджа, где живет идеальная на первый взгляд пара. Но однажды идиллия разрушится — прекрасная незнакомка бесследно исчезнет. Рэйчел окажется втянута в весьма запутанную историю, ведь только она видела из окна то, что было скрыто от всех.",
     "title_ru": "Девушка в поезде",
     "tmdb_id": 346685,
-    "poster_path": "/cAeByv8sdrce1LvOxnc820Ufqbs.jpg"
+    "poster_path": "/cAeByv8sdrce1LvOxnc820Ufqbs.jpg",
+    "director": "Tate Taylor"
   },
   {
     "title": "The Prince of Egypt",
@@ -12796,7 +13312,8 @@ var movieDB = [
     "why": "Эта история случилась на заре цивилизации в Древнем Египте. Стремительный и величавый Нил вынес на берег перед дворцом фараона корзину с младенцем. Могущественный правитель усыновил крошечного мальчика и дал ему имя Моисей.  Шли годы… Моисей и его брат Рамзес росли вместе. Но придет день, когда один...",
     "title_ru": "Принц Египта",
     "tmdb_id": 9837,
-    "poster_path": "/wY8kCEgMhhxDTmVh8OUfVNeS6hN.jpg"
+    "poster_path": "/wY8kCEgMhhxDTmVh8OUfVNeS6hN.jpg",
+    "director": "Brenda Chapman, Стив Хикнер, Simon Wells"
   },
   {
     "title": "National Lampoon's Christmas Vacation",
@@ -12813,7 +13330,8 @@ var movieDB = [
     "why": "В доме Грисуолдов празднуют Рождество. Время, когда дарят подарки, звучат гимны, радостно мерцают огоньки рождественской елки… Но погодите-ка: эта елка вовсе не мерцает. Она вся в огне! Рождество — прекрасное время для Кларка Грисуолда и его семьи.  Кларк — это стихийное бедствие, которое может обру...",
     "title_ru": "Рождественские каникулы",
     "tmdb_id": 5825,
-    "poster_path": "/pbCj0ASDSB7rhWmK4n4HLYCPZA2.jpg"
+    "poster_path": "/pbCj0ASDSB7rhWmK4n4HLYCPZA2.jpg",
+    "director": "Jeremiah S. Chechik"
   },
   {
     "title": "The Mist",
@@ -12833,7 +13351,8 @@ var movieDB = [
     "why": "Маленький городок накрывает сверхъестественный туман, отрезая людей от внешнего мира. Группе героев, оказавшихся в этот момент в супермаркете, приходится вступить в неравный бой с обитающими в тумане монстрами.",
     "title_ru": "Мгла",
     "tmdb_id": 5876,
-    "poster_path": "/pCoraG5JrOtHujzbTy78zcCJKsJ.jpg"
+    "poster_path": "/pCoraG5JrOtHujzbTy78zcCJKsJ.jpg",
+    "director": "Фрэнк Дарабонт"
   },
   {
     "title": "2 Fast 2 Furious",
@@ -12858,7 +13377,8 @@ var movieDB = [
     "why": "Несмотря на то, что после невероятных приключений в первом фильме герой картины, детектив Брайан О'Коннор (Уокер), был уволен со службы, - его страсть к гонкам и быстрым машинам не исчезла. А тут, как раз кстати, появляется заманчивое предложение снова поработать «под прикрытием» в Майами. Здесь О'К...",
     "title_ru": "Двойной форсаж",
     "tmdb_id": 584,
-    "poster_path": "/8Rr94aL7VPnkf9HGqIozpbg2sb2.jpg"
+    "poster_path": "/8Rr94aL7VPnkf9HGqIozpbg2sb2.jpg",
+    "director": "Джон Синглтон"
   },
   {
     "title": "Mission: Impossible II",
@@ -12883,7 +13403,8 @@ var movieDB = [
     "why": "Если мир внезапно оказывается перед лицом ужасной катастрофы, есть лишь один человек, который может исправить это ужасное положение. Его имя Итан Хант, он прирожденный специалист по разрешению самых неразрешимых ситуаций.Теперь у Итана — новый, строгий начальник, новая очаровательная возлюбленная, н...",
     "title_ru": "Миссия невыполнима 2",
     "tmdb_id": 955,
-    "poster_path": "/er6j9Gh6cX2na9B0wXMcPAD2tbl.jpg"
+    "poster_path": "/er6j9Gh6cX2na9B0wXMcPAD2tbl.jpg",
+    "director": "Джон Ву"
   },
   {
     "title": "Extraction",
@@ -12902,7 +13423,8 @@ var movieDB = [
     "why": "И без того непростая миссия наёмника превращается в отчаянную борьбу за жизнь, когда его отправляют в Бангладеш спасти похищенного сына наркобарона.",
     "title_ru": "Тайлер Рейк: Операция по спасению",
     "tmdb_id": 545609,
-    "poster_path": "/zD9fW1g5gB6mirfX8Wk3FhdlzBn.jpg"
+    "poster_path": "/zD9fW1g5gB6mirfX8Wk3FhdlzBn.jpg",
+    "director": "Сэм Харгрейв"
   },
   {
     "title": "Tomb Raider",
@@ -12924,7 +13446,8 @@ var movieDB = [
     "why": "Лара Крофт - весьма самостоятельная дочь эксцентричного искателя приключений, который пропал, едва она стала подростком. Теперь ей двадцать один, она бесцельно проживает свою жизнь, курьером рассекая на байке по забитым улицам восточного Лондона, а ее заработка едва хватает на оплату квартиры и заня...",
     "title_ru": "Tomb Raider: Лара Крофт",
     "tmdb_id": 338970,
-    "poster_path": "/7glwwEgA0uivcjINQG95gnPsIyD.jpg"
+    "poster_path": "/7glwwEgA0uivcjINQG95gnPsIyD.jpg",
+    "director": "Роар Утхауг"
   },
   {
     "title": "Treasure Planet",
@@ -12950,7 +13473,8 @@ var movieDB = [
     "why": "16-летний Джим Хоукинс отправляется на поиски таинственной Планеты Сокровищ в компании настоящих космических пиратов. Под руководством корабельного кока, киборга Джона Сильвера, он становится умелым «космоплавателем» и не раз спасает космический галеон от самых серьезных опасностей: черных дыр, взры...",
     "title_ru": "Планета сокровищ",
     "tmdb_id": 9016,
-    "poster_path": "/bAEJQgE2Xq9Deny9pTqTTxUZDzr.jpg"
+    "poster_path": "/bAEJQgE2Xq9Deny9pTqTTxUZDzr.jpg",
+    "director": "Рон Клементс, Джон Маскер"
   },
   {
     "title": "The Other Guys",
@@ -12969,7 +13493,8 @@ var movieDB = [
     "why": "Нью-Йоркские детективы Аллен Гэмбл и Терри Хойтз ведут полицейскую бухгалтерию. Гэмблу такая работа в радость, Хойтзу — наказание. Когда напарникам представится шанс выйти из тени — прийти на помощь своим кумирам, детективам Дэнсону и Манцетти — станет ясно, что в бухгалтерию Гэмбла и Хойтза сослали...",
     "title_ru": "Копы в Глубоком Запасе",
     "tmdb_id": 27581,
-    "poster_path": "/4uNROZ3j57RNi9Y6CkAvArKkVvI.jpg"
+    "poster_path": "/4uNROZ3j57RNi9Y6CkAvArKkVvI.jpg",
+    "director": "Адам Маккей"
   },
   {
     "title": "Happy Feet",
@@ -12991,7 +13516,8 @@ var movieDB = [
     "why": "В музыкальном мире императорских пингвинов, которые находят себе пару благодаря пению, рождается пингвиненок по имени Мамбл, который не может издать ни одной ноты… зато может отплясывать ту еще чечетку. Его родители, Норма Джин и Мемфис в отчаянии, но надеются, что их лишенный музыкального слуха мал...",
     "title_ru": "Делай ноги",
     "tmdb_id": 9836,
-    "poster_path": "/pizZFGeqKDn3bwRcIiqxrxCUBvv.jpg"
+    "poster_path": "/pizZFGeqKDn3bwRcIiqxrxCUBvv.jpg",
+    "director": "Джордж Миллер"
   },
   {
     "title": "Dumbo",
@@ -13010,7 +13536,8 @@ var movieDB = [
     "why": "История о маленьком слоненке из цирка, родившемся с очень большими ушами, что было рассмотрено как позорное явление среди цирковых слонов. Но зато он научился летать.",
     "title_ru": "Дамбо",
     "tmdb_id": 11360,
-    "poster_path": "/f6L0W4MndVXRTSXfrbHivtC7vFA.jpg"
+    "poster_path": "/f6L0W4MndVXRTSXfrbHivtC7vFA.jpg",
+    "director": "Ben Sharpsteen, Bill Roberts, Samuel Armstrong, Уилфред Джексон, Jack Kinney, Norman Ferguson"
   },
   {
     "title": "War Dogs",
@@ -13033,7 +13560,8 @@ var movieDB = [
     "why": "Реальная история о приятелях-планокурах из Майами, умудрившихся выбить в Пентагоне контракт на 300 миллионов долларов на поставку оружия.",
     "title_ru": "Парни со стволами",
     "tmdb_id": 308266,
-    "poster_path": "/4B8eiy4zIliE5sGLktkmQBnOStG.jpg"
+    "poster_path": "/4B8eiy4zIliE5sGLktkmQBnOStG.jpg",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Troy",
@@ -13059,7 +13587,8 @@ var movieDB = [
     "why": "Гомер: Троянская война. Брэд Питт — Ахиллес. Эрик Бана — Гектор. Деревянный конь.",
     "title_ru": "Троя",
     "tmdb_id": 652,
-    "poster_path": "/bUd8lcSzYjruaQR9nNAQbTg99LV.jpg"
+    "poster_path": "/bUd8lcSzYjruaQR9nNAQbTg99LV.jpg",
+    "director": "Вольфганг Петерсен"
   },
   {
     "title": "The Secret Life of Pets",
@@ -13084,7 +13613,8 @@ var movieDB = [
     "why": "Что делают домашние животные пока хозяева пропадают на работе? С тоской смотрят в окно? Смиренно дремлют на коврике у двери? Как бы не так. Они ведут свою тайную жизнь.",
     "title_ru": "Тайная жизнь домашних животных",
     "tmdb_id": 328111,
-    "poster_path": "/qmfuTRM3vQkXty85zqY7xfdQQjQ.jpg"
+    "poster_path": "/qmfuTRM3vQkXty85zqY7xfdQQjQ.jpg",
+    "director": "Крис Рено"
   },
   {
     "title": "The Nun",
@@ -13104,7 +13634,8 @@ var movieDB = [
     "why": "Когда в уединенном монастыре в Румынии совершает самоубийство молодая монахиня, расследовать происшествие Ватикан отправляет священника с туманным прошлым и послушницу на пороге невозвратных обетов. Рискуя не только жизнями, но и верой, и даже своими душами, они сталкиваются со злобной силой, приняв...",
     "title_ru": "Проклятие монахини",
     "tmdb_id": 439079,
-    "poster_path": "/rheiph1J5YIAKhXaShVRYZGII8y.jpg"
+    "poster_path": "/rheiph1J5YIAKhXaShVRYZGII8y.jpg",
+    "director": "Корин Харди"
   },
   {
     "title": "The Intern",
@@ -13120,7 +13651,8 @@ var movieDB = [
     "why": "70-летний вдовец Бен Уитакер обнаруживает, что выход на пенсию — еще не конец. Пользуясь случаем, он становится старшим стажером в интернет-магазине модной одежды под руководством Джулс Остин.",
     "title_ru": "Стажёр",
     "tmdb_id": 257211,
-    "poster_path": "/WT7mDImTIHzFrtZunY9EGGwMty.jpg"
+    "poster_path": "/WT7mDImTIHzFrtZunY9EGGwMty.jpg",
+    "director": "Нэнси Мейерс"
   },
   {
     "title": "City Lights",
@@ -13143,7 +13675,8 @@ var movieDB = [
     "why": "Маленький Бродяга встречает красивую слепую девушку, торгующую цветами на улице, которая по ошибке принимает его за богатого герцога. Узнав о том, что операция может вернуть ей зрение, маленький Бродяга пускается на поиски денег.",
     "title_ru": "Огни большого города",
     "tmdb_id": 901,
-    "poster_path": "/skBxSF1UaiwDl2SWMqfsDRYIqos.jpg"
+    "poster_path": "/skBxSF1UaiwDl2SWMqfsDRYIqos.jpg",
+    "director": "Чарли Чаплин"
   },
   {
     "title": "Chicken Little",
@@ -13165,7 +13698,8 @@ var movieDB = [
     "why": "В основе фильма лежит старая басня про цыпленка, который вопил о том, что небеса падают на землю каждый раз, когда ему на голову падал желудь. Вот уже год, как Цыпленок пытается преодолеть позор своей ошибки (про падающие небеса) и жить как ни в чем не бывало.Но — увы! — желающих дружить с неудачник...",
     "title_ru": "Цыплёнок цыпа",
     "tmdb_id": 9982,
-    "poster_path": "/vK8iEI4O7FMMdqMX5tdTOF27YR7.jpg"
+    "poster_path": "/vK8iEI4O7FMMdqMX5tdTOF27YR7.jpg",
+    "director": "Марк Диндал"
   },
   {
     "title": "Minions",
@@ -13191,7 +13725,8 @@ var movieDB = [
     "why": "Миньонов Стюарта, Кевина и Боба нанимает Скарлетт Оверкилл, суперзлодейка, которая вместе со своим мужем-изобретателем Хербом замышляет захватить мир.",
     "title_ru": "Миньоны",
     "tmdb_id": 211672,
-    "poster_path": "/l2RkNtUBhIYDqRUzTx71fzH2O3g.jpg"
+    "poster_path": "/l2RkNtUBhIYDqRUzTx71fzH2O3g.jpg",
+    "director": "Кайл Балда, Пьер Коффен"
   },
   {
     "title": "Batman Forever",
@@ -13218,7 +13753,8 @@ var movieDB = [
     "why": "Бэтмен продолжает войну со злом. На этот раз ему предстоит биться с двумя объединёнными злодеями: бывшим окружным прокурором пострадавшим от кислоты Двуликим и сумасшедшим гением Загадочником. А помогать ему станет юный акробат по имени Робин.",
     "title_ru": "Бэтмен навсегда",
     "tmdb_id": 414,
-    "poster_path": "/yQumBMAuJOhr3xJ34qqoUAoOxGi.jpg"
+    "poster_path": "/yQumBMAuJOhr3xJ34qqoUAoOxGi.jpg",
+    "director": "Джоэл Шумахер"
   },
   {
     "title": "The Bourne Supremacy",
@@ -13243,7 +13779,8 @@ var movieDB = [
     "why": "Суперагент ЦРУ Джейсон Борн вновь оказывается подставленным и вынужден помимо возложенной на него задачи государственного значения спасать себя, а заодно и других небезразличных ему людей.В процессе выполнения миссии судьба заносит Борна в Россию, где его ждет множество характерных для страны, но не...",
     "title_ru": "Превосходство Борна",
     "tmdb_id": 2502,
-    "poster_path": "/7s3z2rWg6J3HTwepQODWUghitjl.jpg"
+    "poster_path": "/7s3z2rWg6J3HTwepQODWUghitjl.jpg",
+    "director": "Пол Гринграсс"
   },
   {
     "title": "Miss Peregrine's Home for Peculiar Children",
@@ -13262,7 +13799,8 @@ var movieDB = [
     "why": "Детство Джейкоба прошло под рассказы дедушки о приюте для необычных детей. Среди его обитателей девочка, которая умела держать в руках огонь, девочка, чьи ноги не касались земли, невидимый мальчик и близнецы, умевшие общаться без слов. Когда дедушка умирает, 16-летний Джейкоб получает загадочное пис...",
     "title_ru": "Дом странных детей Мисс Перегрин",
     "tmdb_id": 283366,
-    "poster_path": "/dnEoeRcpMVfcEBkGL2i4xm1CPv4.jpg"
+    "poster_path": "/dnEoeRcpMVfcEBkGL2i4xm1CPv4.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "White Chicks",
@@ -13281,7 +13819,8 @@ var movieDB = [
     "why": "Изрядно проштрафившиеся агенты ФБР (братья афро-американцы) решают обелить себя перед руководством. Причем как в переносном, так и в прямом смыслах. Их миссией становится защита двух сестер Уилтон, наследниц огромной гостиничной империи, от похищения во время их переезда из нью-йоркского аэропорта в...",
     "title_ru": "Белые цыпочки",
     "tmdb_id": 12153,
-    "poster_path": "/4D7E4tvKsoYsRyN7O44PMfjLR3w.jpg"
+    "poster_path": "/4D7E4tvKsoYsRyN7O44PMfjLR3w.jpg",
+    "director": "Кинен Айвори Уэйанс"
   },
   {
     "title": "Sing",
@@ -13306,7 +13845,8 @@ var movieDB = [
     "why": "Неважно кто ты: грабитель банков или домохозяйка - все рвутся к славе. Овца, горилла, бык или даже свинья - каждое животное мечтает стать звездой. Всё как у людей.",
     "title_ru": "Зверопой",
     "tmdb_id": 335797,
-    "poster_path": "/vlXBtiqwNrcheDh4TB5kHTRnlUY.jpg"
+    "poster_path": "/vlXBtiqwNrcheDh4TB5kHTRnlUY.jpg",
+    "director": "Garth Jennings"
   },
   {
     "title": "Child's Play",
@@ -13322,7 +13862,8 @@ var movieDB = [
     "why": "Никто не поверил шестилетнему Энди Барклаю, когда он сказал, что его новая кукла по имени Чаки — живая. А когда няня мальчика погибла, выпав из окна, он сказал своей матери и следователю чистую правду: «Это сделал Чаки».  Когда душа убийцы вселяется в невинно выглядящую куклу, никто, кроме маленьког...",
     "title_ru": "Детские игры",
     "tmdb_id": 10585,
-    "poster_path": "/7EUkD9lyzfhGl1hNhbaHIl2wIsc.jpg"
+    "poster_path": "/7EUkD9lyzfhGl1hNhbaHIl2wIsc.jpg",
+    "director": "Tom Holland"
   },
   {
     "title": "Mr. Nobody",
@@ -13342,7 +13883,8 @@ var movieDB = [
     "why": "Действие картины происходит в не слишком отдалённом будущем. Главный герой внезапно просыпается в 2092 году дряхлым стариком и понимает, что он является 120-летним последним смертным на планете, доживающим свой век среди счастливых бессмертных людей.",
     "title_ru": "Господин Никто",
     "tmdb_id": 31011,
-    "poster_path": "/6j1TfRRDuoHFc36kx3vob1NxZmp.jpg"
+    "poster_path": "/6j1TfRRDuoHFc36kx3vob1NxZmp.jpg",
+    "director": "Jaco Van Dormael"
   },
   {
     "title": "Lemony Snicket's A Series of Unfortunate Events",
@@ -13364,7 +13906,8 @@ var movieDB = [
     "why": "В один скверный пасмурный день на юных Бодлеров — Вайолет, Клауса и их маленькую сестричку Солнышко — обрушились несчастья. Страшный пожар лишил их дома и любящих родителей. В жизни сирот появился опекун Граф Олаф, который, как оказалось, совсем не граф, а злой гений, актёр и мастер переодеваний, ст...",
     "title_ru": "Лемони Сникет: 33 несчастья",
     "tmdb_id": 11774,
-    "poster_path": "/5Z05EExtGfzavnIDtJk3YmULwDA.jpg"
+    "poster_path": "/5Z05EExtGfzavnIDtJk3YmULwDA.jpg",
+    "director": "Brad Silberling"
   },
   {
     "title": "Mars Attacks!",
@@ -13385,7 +13928,8 @@ var movieDB = [
     "why": "Наша планета подверглась чудовищному нападению. Марсиане, бесстрастные и бездушные существа, эти маленькие зеленые создания, высаживаются в пустыне со своих космических кораблей, а затем наступают на всех направлениях. Столичный Вашингтон, Лас-Вегас и другие города сотрясаются от мощнейших взрывов, ...",
     "title_ru": "Марс атакует!",
     "tmdb_id": 75,
-    "poster_path": "/mykFNavsUD8KgGImmSXNMpyrqRn.jpg"
+    "poster_path": "/mykFNavsUD8KgGImmSXNMpyrqRn.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "How to Lose a Guy in 10 Days",
@@ -13404,7 +13948,8 @@ var movieDB = [
     "why": "Журналистка Энди Андерсон из журнала получает довольно необычное редакционное задание, которое к тому же надо сделать очень быстро. Ей вменяется в обязанность написать статью о том, что выдумывают женщины для того, чтобы отделаться от мужчины, когда они его больше не хотят лицезреть рядом. На все пр...",
     "title_ru": "Как отделаться от парня за 10 дней",
     "tmdb_id": 9919,
-    "poster_path": "/8klZGbj1Nuiq84bGcwycbDL2UTy.jpg"
+    "poster_path": "/8klZGbj1Nuiq84bGcwycbDL2UTy.jpg",
+    "director": "Donald Petrie"
   },
   {
     "title": "In Time",
@@ -13424,7 +13969,8 @@ var movieDB = [
     "why": "Добро пожаловать в мир, где время стало единственной и самой твердой валютой, где люди генетически запрограммированы так, что в 25 лет перестают стареть. Правда, последующие годы стоят денег. И вот богатые становятся практически бессмертными, а бедные, как всегда, обречены сражаться за жизнь. Уилл, ...",
     "title_ru": "Время",
     "tmdb_id": 49530,
-    "poster_path": "/ip4GMRyHjDkfSt3PTp6rrTYSClK.jpg"
+    "poster_path": "/ip4GMRyHjDkfSt3PTp6rrTYSClK.jpg",
+    "director": "Эндрю Никкол"
   },
   {
     "title": "Charlie's Angels",
@@ -13446,7 +13992,8 @@ var movieDB = [
     "why": "Ангелы Чарли - суперсекретное элитное спецподразделение, которому доверяют только невыполнимые задания. С помощью новейших технологий, современного оружия, боевых искусств и убийственного женского очарования Ангелы Чарли творят чудеса. Но настоящим испытанием станет лишь это последнее задание.",
     "title_ru": "Ангелы Чарли",
     "tmdb_id": 4327,
-    "poster_path": "/jcxkc9n8tIpZBVgexP8NXW8zzJX.jpg"
+    "poster_path": "/jcxkc9n8tIpZBVgexP8NXW8zzJX.jpg",
+    "director": "МакДжи"
   },
   {
     "title": "Ghost in the Shell",
@@ -13466,7 +14013,8 @@ var movieDB = [
     "why": "К 2029 году, благодаря повсеместно распространившимся компьютерным сетям и кибер-технологиям, практически все люди вживили себе разнообразные нейронные имплантаты. Но кибер-технологии принесли и новую опасность для человека: стал возможным так называемый «взлом мозга» и ряд других преступлений, связ...",
     "title_ru": "Призрак в доспехах",
     "tmdb_id": 315837,
-    "poster_path": "/39mzdx7kENZ4yGammJCMY2ZvOYp.jpg"
+    "poster_path": "/39mzdx7kENZ4yGammJCMY2ZvOYp.jpg",
+    "director": "Руперт Сандерс"
   },
   {
     "title": "Oblivion",
@@ -13489,7 +14037,8 @@ var movieDB = [
     "why": "Можно ли скучать по месту, в котором никогда не был, мечтать о девушке, которую никогда не видел? Добро пожаловать в будущее! Мы больше не можем называть Землю своим домом. Мы выиграли войну, но не смогли сохранить планету…",
     "title_ru": "Обливион",
     "tmdb_id": 75612,
-    "poster_path": "/56xLv14jx6qvKWMCrF6C96Hs0cl.jpg"
+    "poster_path": "/56xLv14jx6qvKWMCrF6C96Hs0cl.jpg",
+    "director": "Джозеф Косински"
   },
   {
     "title": "Tag",
@@ -13508,7 +14057,8 @@ var movieDB = [
     "why": "Каждый год в течение месяца пять друзей участвуют в беспощадно-навороченной версии игры в «кошки-мышки». Они играют в нее с первого класса, чтобы, рискуя собственной шеей, работой и отношениями, одолеть противника с победоносным криком: «Ты водишь!» В этом году «кошки-мышки» приходятся на свадьбу ед...",
     "title_ru": "Ты водишь!",
     "tmdb_id": 455980,
-    "poster_path": "/4GTpZgK5ijNGzJSB6tXjz8Xz7t2.jpg"
+    "poster_path": "/4GTpZgK5ijNGzJSB6tXjz8Xz7t2.jpg",
+    "director": "Джефф Томсич"
   },
   {
     "title": "Robots",
@@ -13531,7 +14081,8 @@ var movieDB = [
     "why": "Действие фильма разворачивается в мире, населённом исключительно роботами. Как и в мире людей у них есть своя социальная лестница, свои герои и изгои. Молодой гений Родни мечтает сделать мир роботов лучше. А ещё ему очень нравится одна молоденькая сексапильная роботша Каппи. Но на пути всех его план...",
     "title_ru": "Роботы",
     "tmdb_id": 9928,
-    "poster_path": "/uKyn6Nu2BjVPxZQuoSQR9711y5Y.jpg"
+    "poster_path": "/uKyn6Nu2BjVPxZQuoSQR9711y5Y.jpg",
+    "director": "Крис Уэдж"
   },
   {
     "title": "Christopher Robin",
@@ -13556,7 +14107,8 @@ var movieDB = [
     "why": "В жизни повзрослевшего Кристофера Робина царит повседневная рутина. Однажды он встречает друга детства — медвежонка Винни. Вместе им предстоит вернуться в Стоакровый лес, чтобы не только отыскать потерявшихся друзей, но и вновь обрести счастье.",
     "title_ru": "Кристофер Робин",
     "tmdb_id": 420814,
-    "poster_path": "/jK7kRtJdVNMWPkxXzR3D6TnViR.jpg"
+    "poster_path": "/jK7kRtJdVNMWPkxXzR3D6TnViR.jpg",
+    "director": "Марк Форстер"
   },
   {
     "title": "Project X",
@@ -13572,7 +14124,8 @@ var movieDB = [
     "why": "Сюжет вращается вокруг троих одноклассников, решивших устроить крутую вечеринку и прославиться на всю округу — правда, удержать события под контролем у них не получилось.",
     "title_ru": "Проект X: Дорвались",
     "tmdb_id": 57214,
-    "poster_path": "/tYk4TGtQqtXDrxVDshmLzkNHMkR.jpg"
+    "poster_path": "/tYk4TGtQqtXDrxVDshmLzkNHMkR.jpg",
+    "director": "Нима Нуризаде"
   },
   {
     "title": "Brother Bear",
@@ -13594,7 +14147,8 @@ var movieDB = [
     "why": "Давным-давно, в те времена, когда по Земле ходили мамонты, а вечные льды достигали южных морей, жил охотник по имени Кенаи. Он был храбр и ловок, но однажды прогневил Великих Духов, убив медведицу — священного для него зверя, чей тотем он носил на шее. Тогда духи предков в наказание превратили в мед...",
     "title_ru": "Братец медвежонок",
     "tmdb_id": 10009,
-    "poster_path": "/aIaI8nZiomenehuu7XchabfYbMJ.jpg"
+    "poster_path": "/aIaI8nZiomenehuu7XchabfYbMJ.jpg",
+    "director": "Aaron Blaise, Robert Walker"
   },
   {
     "title": "Elysium",
@@ -13617,7 +14171,8 @@ var movieDB = [
     "why": "В 2159 году существует два класса людей: очень богатые, живущие на чистой, созданной руками человека, космической станции под названием Элизиум и остальные, живущие на перенаселённой разрушенной Земле. Безжалостный правительственный чиновник Министр Роудс не остановится ни перед чем для применения а...",
     "title_ru": "Элизиум: Рай не на Земле",
     "tmdb_id": 68724,
-    "poster_path": "/qGukYUL7afMP0RDrlrP1EtQiobd.jpg"
+    "poster_path": "/qGukYUL7afMP0RDrlrP1EtQiobd.jpg",
+    "director": "Нил Бломкамп"
   },
   {
     "title": "Dark Shadows",
@@ -13636,7 +14191,8 @@ var movieDB = [
     "why": "Барнабас Коллинз, владелец поместья Коллинвуд, богат, властен и слывет неисправимым Казановой, пока не совершает роковую ошибку, разбив сердце Анжелики Бошар. Будучи ведьмой в буквальном смысле этого слова, женщина обрекает его на судьбу худшую, чем сама смерть — обращает его в вампира и хоронит заж...",
     "title_ru": "Мрачные тени",
     "tmdb_id": 62213,
-    "poster_path": "/peMQNapB0pVkO6v7Kx0lJ3z405Z.jpg"
+    "poster_path": "/peMQNapB0pVkO6v7Kx0lJ3z405Z.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "The Little Things",
@@ -13658,7 +14214,8 @@ var movieDB = [
     "why": "Октябрь 1990 года. Уже немолодого заместителя окружного шерифа Джо Дикона по прозвищу Дики отправляют с мелким поручением в Лос-Анджелес. Именно тут пять лет назад он был уважаемым детективом, но одно расследование испортило ему жизнь и подорвало здоровье. Дики знакомится с молодым амбициозным колле...",
     "title_ru": "Дьявол в деталях",
     "tmdb_id": 602269,
-    "poster_path": "/sdjeUisE7waxhvGiaQGcNONMGqi.jpg"
+    "poster_path": "/sdjeUisE7waxhvGiaQGcNONMGqi.jpg",
+    "director": "Джон Ли Хэнкок"
   },
   {
     "title": "Ice Age: The Meltdown",
@@ -13683,7 +14240,8 @@ var movieDB = [
     "why": "Саблезубый тигр Диего, мамонт Мэнни, грызун Скрат и ленивец Сид дожили до глобального потепления. Но появилась новая беда: стремительный паводок идет прямиком к их родной долине. Теперь ответственным животным придётся спасать соседей от потопа, что довольно проблематично — строить ковчег совершенно ...",
     "title_ru": "Ледниковый период 2: Глобальное потепление",
     "tmdb_id": 950,
-    "poster_path": "/fWYoDDMEV107ue6QWUc10RbEF0R.jpg"
+    "poster_path": "/fWYoDDMEV107ue6QWUc10RbEF0R.jpg",
+    "director": "Carlos Saldanha"
   },
   {
     "title": "Hannibal",
@@ -13705,7 +14263,8 @@ var movieDB = [
     "why": "По прошествии десяти лет тревожного молчания гениальный Ганнибал Лектер пишет письмо агенту ФБР Кларисе Старлинг, предлагая ей возобновить их прервавшуюся интеллектуальную дуэль.С помощью миллионера Мейсона Верджера, ставшего очередной жертвой безумного доктора и мечтающего теперь скормить Лектера с...",
     "title_ru": "Ганнибал",
     "tmdb_id": 9740,
-    "poster_path": "/wREoFla1ptLk446qldRoH5Mmhhf.jpg"
+    "poster_path": "/wREoFla1ptLk446qldRoH5Mmhhf.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Liar Liar",
@@ -13724,7 +14283,8 @@ var movieDB = [
     "why": "Флетчер Рид — блестящий адвокат и неисправимый лжец. Он по привычке врет жене Одри, сыну Максу и учит клиентов подстраивать правду под свои нужды, перекраивать истину ради своей выгоды. Жена бросает Флетчера из-за его вредной привычки лгать, а сын Макс в свой день рождения, задувая свечи на торте, з...",
     "title_ru": "Лжец, лжец",
     "tmdb_id": 1624,
-    "poster_path": "/alLrEgaSMHdxBLVEvphxmblpbAN.jpg"
+    "poster_path": "/alLrEgaSMHdxBLVEvphxmblpbAN.jpg",
+    "director": "Tom Shadyac"
   },
   {
     "title": "The Lego Movie 2: The Second Part",
@@ -13751,7 +14311,8 @@ var movieDB = [
     "why": "Прошло несколько лет с того момента, как в последний раз все было прекрасно. На мир надвигается новая угроза из космоса. Теперь Эммет обязан спасти Люси и других героев от печальной участи.",
     "title_ru": "ЛЕГО Фильм 2",
     "tmdb_id": 280217,
-    "poster_path": "/7tzu62WY1W3whNAvs5Ih2qszLvh.jpg"
+    "poster_path": "/7tzu62WY1W3whNAvs5Ih2qszLvh.jpg",
+    "director": "Майк Митчелл"
   },
   {
     "title": "Lady and the Tramp",
@@ -13777,7 +14338,8 @@ var movieDB = [
     "why": "Трогательная и захватывающая история сближения двух абсолютно разных собак — породистой комнатной неженки и бездомного дворняги. Изящная и пушистая как игрушка, коккер-спаниельша Леди была любимицей хозяев, пока в их семье не появился младенец. Надетый намордник стал последней каплей, подтолкнувшей ...",
     "title_ru": "Леди и Бродяга",
     "tmdb_id": 10340,
-    "poster_path": "/tqimmwkEPSFHTXvY63kCmY6TfSU.jpg"
+    "poster_path": "/tqimmwkEPSFHTXvY63kCmY6TfSU.jpg",
+    "director": "Hamilton Luske, Clyde Geronimi, Уилфред Джексон"
   },
   {
     "title": "Warm Bodies",
@@ -13800,7 +14362,8 @@ var movieDB = [
     "why": "Мир поражен чумой и стоит на грани вымирания. Покойники ходят по земле и норовят употребить в пищу живых, которые, оставшись в катастрофическом меньшинстве, с трудом держат оборону. Перемены начинаются, когда один зомби, чье имя при жизни начиналось на «Р», спасает девушку вместо того, чтобы ее съес...",
     "title_ru": "Тепло наших тел",
     "tmdb_id": 82654,
-    "poster_path": "/t9Y49pYbXBAv2jQQQGpzKGZZt6Q.jpg"
+    "poster_path": "/t9Y49pYbXBAv2jQQQGpzKGZZt6Q.jpg",
+    "director": "Jonathan Levine"
   },
   {
     "title": "Madagascar: Escape 2 Africa",
@@ -13826,7 +14389,8 @@ var movieDB = [
     "why": "Полная опасностей жизнь на Мадагаскаре не оправдала ожиданий привыкших к комфорту Нью-Йоркского зоопарка животных — льва Алекса, зебры Марти, жирафа Мелмана и бегемотихи Глории — и друзья решают сбежать с острова. По случайности, всю компанию заносит в Африку, где Алекс встречает свою семью, с котор...",
     "title_ru": "Мадагаскар 2",
     "tmdb_id": 10527,
-    "poster_path": "/rfwloSBRAZCrWwsJcXd1iveI59n.jpg"
+    "poster_path": "/rfwloSBRAZCrWwsJcXd1iveI59n.jpg",
+    "director": "Эрик Дарнелл, Том МакГрат"
   },
   {
     "title": "Chronicle",
@@ -13846,7 +14410,8 @@ var movieDB = [
     "why": "Три школьника получают супер способности после обнаружения упавшего метеорита. Скоро они попадут в водоворот событий, в котором откроются их темные стороны.",
     "title_ru": "Хроника",
     "tmdb_id": 76726,
-    "poster_path": "/8gik6OwbWuhUAKctvGRHUgYZJOm.jpg"
+    "poster_path": "/8gik6OwbWuhUAKctvGRHUgYZJOm.jpg",
+    "director": "Josh Trank"
   },
   {
     "title": "Coming to America",
@@ -13865,7 +14430,8 @@ var movieDB = [
     "why": "Наследный принц африканского государства Замунда хочет сам найти себе жену и едет для этого в Америку. Там он представляется обычным человеком и устраивается на работу в закусочную, так как его выбор пал на дочь хозяина.",
     "title_ru": "Поездка в Америку",
     "tmdb_id": 9602,
-    "poster_path": "/1Az2Fq0uC46iWrpoYrsBXYzm6ZA.jpg"
+    "poster_path": "/1Az2Fq0uC46iWrpoYrsBXYzm6ZA.jpg",
+    "director": "Джон Лэндис"
   },
   {
     "title": "Percy Jackson & the Olympians: The Lightning Thief",
@@ -13887,7 +14453,8 @@ var movieDB = [
     "why": "Главный персонаж — мальчик, узнавший, что его род берет начало от греческого бога. В сопровождении сатира и дочери Афины он отправляется в опасное путешествие, чтобы примирить богов. На протяжении всего фильма храбреца пытается остановить целый сонм мифологических врагов. Его также ждет встреча с от...",
     "title_ru": "Перси Джексон и похититель молний",
     "tmdb_id": 32657,
-    "poster_path": "/xQazS5kqxp9Wpsll3KYs5z4Prqh.jpg"
+    "poster_path": "/xQazS5kqxp9Wpsll3KYs5z4Prqh.jpg",
+    "director": "Крис Коламбус"
   },
   {
     "title": "The Fountain",
@@ -13910,7 +14477,8 @@ var movieDB = [
     "why": "Томас Крео ищет Древо Жизни, сок которого, как говорят легенды, дарует вечную жизнь. Томасу же необходимо спасти свою смертельно больную жену Изабель.",
     "title_ru": "Фонтан",
     "tmdb_id": 1381,
-    "poster_path": "/iIqkq2XlWAw0ICiXiGuJTiX4sxz.jpg"
+    "poster_path": "/iIqkq2XlWAw0ICiXiGuJTiX4sxz.jpg",
+    "director": "Даррен Аронофски"
   },
   {
     "title": "Atlantis: The Lost Empire",
@@ -13928,7 +14496,8 @@ var movieDB = [
     "why": "Скромный картограф музея и эксперт лингвистики Майло Тэтч продолжает поиски Атлантиды, начатые еще его дедушкой. В 1914 году Тэтч, основываясь на дедушкином журнале, узнает точное расположение затерянной Атлантиды. К Майло обращается эксцентричный миллионер, друг его дедушки, который соглашается про...",
     "title_ru": "Атлантида Затерянный мир",
     "tmdb_id": 10865,
-    "poster_path": "/tZrPWSM80B2zpByjtUcrzDCaHlb.jpg"
+    "poster_path": "/tZrPWSM80B2zpByjtUcrzDCaHlb.jpg",
+    "director": "Гари Труздейл, Kirk Wise"
   },
   {
     "title": "First Blood",
@@ -13943,7 +14512,8 @@ var movieDB = [
     "why": "Он — эксперт. Эксперт по оружию, ножам и собственному телу. Он человек, специально обученный не замечать боль и погодные условия. Во Вьетнаме его задание было уничтожать вражеский личный состав. Много убивать. Истощать силы врага до полной победы. Рэмбо был лучший. На войне он был героем, а на родин...",
     "title_ru": "Рэмбо: Первая кровь",
     "tmdb_id": 1368,
-    "poster_path": "/6J0PejIiR8d4CGsRbWBHMisgjOf.jpg"
+    "poster_path": "/6J0PejIiR8d4CGsRbWBHMisgjOf.jpg",
+    "director": "Ted Kotcheff"
   },
   {
     "title": "Red Sparrow",
@@ -13957,7 +14527,8 @@ var movieDB = [
     "why": "Завербованная и обученная секретными российскими спецслужбами Доминика Егорова на одном из заданий должна вывести на чистую воду агента ЦРУ, однако дальнейшие события ставят под угрозу выполнение важного поручения.",
     "title_ru": "Красный воробей",
     "tmdb_id": 401981,
-    "poster_path": "/rkMuZ4c4OdElYL1M8cyttRHKV1J.jpg"
+    "poster_path": "/rkMuZ4c4OdElYL1M8cyttRHKV1J.jpg",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Grown Ups",
@@ -13970,7 +14541,8 @@ var movieDB = [
     "why": "5 друзей детства встречаются после 30 лет разлуки в летнем доме у озера на уик-энд в День независимости. Они приехали сюда с семьями, чтобы почтить память школьного тренера по баскетболу и отпраздновать тридцатую годовщину чемпионата, в котором они вместе выиграли.",
     "title_ru": "Одноклассники",
     "tmdb_id": 38365,
-    "poster_path": "/n7Hx7Arnv3SmfTv3Kli9NSPalHd.jpg"
+    "poster_path": "/n7Hx7Arnv3SmfTv3Kli9NSPalHd.jpg",
+    "director": "Деннис Дуган"
   },
   {
     "title": "Rush Hour",
@@ -13992,7 +14564,8 @@ var movieDB = [
     "why": "В Лос-Анджелесе злодеи похищают маленькую дочь китайского консула, которую в Гонконге учил кунг-фу инспектор Ли. Консул вызывает Ли в Америку, чтобы тот принял участие в освобождении девочки. Агенты ФБР обратились к полиции с просьбой выделить им самого никчемного сотрудника, чтобы тот взял китайца ...",
     "title_ru": "Час пик",
     "tmdb_id": 2109,
-    "poster_path": "/wGwBIpObDxLVM4a6Qt0XmcoHnRf.jpg"
+    "poster_path": "/wGwBIpObDxLVM4a6Qt0XmcoHnRf.jpg",
+    "director": "Бретт Ратнер"
   },
   {
     "title": "Cars 3",
@@ -14015,7 +14588,8 @@ var movieDB = [
     "why": "После череды побед Молния МакКуин сталкивается с новым поколением сверхбыстрых гоночных машин. Во главе с амбициозным Джексоном Штормом они используют современные технологии и методики подготовки, которые делают ветеранов трассы устаревшими. Во время одной из гонок МакКуин терпит тяжёлую аварию, и е...",
     "title_ru": "Тачки 3",
     "tmdb_id": 260514,
-    "poster_path": "/k4Xue1QlhhuG3M9jJB1mD8dhtEM.jpg"
+    "poster_path": "/k4Xue1QlhhuG3M9jJB1mD8dhtEM.jpg",
+    "director": "Brian Fee"
   },
   {
     "title": "A Cure for Wellness",
@@ -14029,7 +14603,8 @@ var movieDB = [
     "vibes": [],
     "why": "Молодой, но перспективный брокер из динамично развивающейся компании приезжает в закрытый санаторий в Альпах, чтобы срочно забрать и вернуть в лоно родного офиса своего босса. Но тот категорически не хочет никуда уезжать, так как давно и плотно подсел на местную лечебную воду с витаминами и биодобав...",
     "tmdb_id": 340837,
-    "poster_path": "/qN67d5SCiilDe8caBHi4GH6Ih8o.jpg"
+    "poster_path": "/qN67d5SCiilDe8caBHi4GH6Ih8o.jpg",
+    "director": "Гор Вербински"
   },
   {
     "title": "Spy Kids",
@@ -14055,7 +14630,8 @@ var movieDB = [
     "why": "Два самых крутых шпиона в мире: Грегорио Кортес и Ингрид, имели одно и то же секретное задание — уничтожить друг друга. Но личная встреча не принесла им ничего хорошего: они поженились и завязали со своим ремеслом… Через несколько лет исчезновение семерых спецагентов вынуждает их снова вернуться в и...",
     "title_ru": "Дети шпионов",
     "tmdb_id": 10054,
-    "poster_path": "/g7xqSOaWHAweW17YEO34cSzCOqx.jpg"
+    "poster_path": "/g7xqSOaWHAweW17YEO34cSzCOqx.jpg",
+    "director": "Роберт Родригес"
   },
   {
     "title": "Stuart Little",
@@ -14071,7 +14647,8 @@ var movieDB = [
     "why": "Когда Джордж попросил своих родителей усыновить ему маленького братишку, чета Литтл восприняла его просьбу слишком буквально. И в один прекрасный день в их большом доме появился… крошечный мышонок Стюарт, который одет в модный костюмчик и умеет разговаривать.С этого момента начинаются непредсказуемы...",
     "title_ru": "Стюарт Литтл",
     "tmdb_id": 10137,
-    "poster_path": "/w7Izo70NSfqqC72sNoDsWGF22Eh.jpg"
+    "poster_path": "/w7Izo70NSfqqC72sNoDsWGF22Eh.jpg",
+    "director": "Роб Минкофф"
   },
   {
     "title": "Kick-Ass 2",
@@ -14085,7 +14662,8 @@ var movieDB = [
     "vibes": [],
     "why": "У Пипца появились последователи, мстители в масках во главе которых стоит обезбашенный Полковник. К несчастью за ними начинает охотиться Кровавый Угар, и только Убивашка способна этому противостоять. Супергерои попытались стать обычными подростками — Дэйвом и Минди. Но в виду неопределенного будущег...",
     "tmdb_id": 59859,
-    "poster_path": "/rGXuwZ1CfywSXZjvZPNu811i7FH.jpg"
+    "poster_path": "/rGXuwZ1CfywSXZjvZPNu811i7FH.jpg",
+    "director": "Джефф Уодлоу"
   },
   {
     "title": "Anastasia",
@@ -14100,7 +14678,8 @@ var movieDB = [
     "vibes": [],
     "why": "Анастасия — дочка последнего русского царя Николая, погубленного зловещим Распутиным. Ей удается спастись, добраться вместе с бабушкой до переполненного вокзала и… потеряться в толпе. Проходит десять лет. Анастасия стала взрослой красавицей и теперь хочет попасть в Париж. Сможет ли царевна осуществи...",
     "tmdb_id": 9444,
-    "poster_path": "/mB35WDmG2IBMxH4ZfQA14JOtwzZ.jpg"
+    "poster_path": "/mB35WDmG2IBMxH4ZfQA14JOtwzZ.jpg",
+    "director": "Don Bluth, Gary Goldman"
   },
   {
     "title": "Happy Gilmore",
@@ -14116,7 +14695,8 @@ var movieDB = [
     "why": "Гилмор с детства обожал хоккей, но, кроме пушечного удара, способностей у него к этой игре не было. Случай дал ему в руки клюшку для гольфа, и удар его был самым мощным за всю историю этого вида спорта, который он так презирал. Но на одном презрении далеко не уедешь, а вот за победу в гольф платят б...",
     "title_ru": "Счастливчик Гилмор",
     "tmdb_id": 9614,
-    "poster_path": "/z0FxccTbbe51HbGzteQxtN2yy5l.jpg"
+    "poster_path": "/z0FxccTbbe51HbGzteQxtN2yy5l.jpg",
+    "director": "Деннис Дуган"
   },
   {
     "title": "Armageddon",
@@ -14136,7 +14716,8 @@ var movieDB = [
     "why": "Тень гигантского астероида легла на Землю. До рокового столкновения остаются считанные дни. Наступает Армагеддон, трагический финал мировой истории. Чтобы предотвратить катастрофу, необходимо чудо - или совместные усилия лучших из лучших вместе с технологической мощью всего созданного человеком. Смо...",
     "title_ru": "Армагеддон",
     "tmdb_id": 95,
-    "poster_path": "/hBqulht5ABP77gsNBMhoSW8KkaV.jpg"
+    "poster_path": "/hBqulht5ABP77gsNBMhoSW8KkaV.jpg",
+    "director": "Майкл Бэй"
   },
   {
     "title": "The Dictator",
@@ -14152,7 +14733,8 @@ var movieDB = [
     "why": "Героическая история диктатора, который рискует своей жизнью, чтобы ни в коем случае не допустить демократию в свою столь любовно угнетаемую страну.",
     "title_ru": "Диктатор",
     "tmdb_id": 76493,
-    "poster_path": "/A3qwdM42DU4rX4u99NbYrHrZWn1.jpg"
+    "poster_path": "/A3qwdM42DU4rX4u99NbYrHrZWn1.jpg",
+    "director": "Ларри Чарльз"
   },
   {
     "title": "Sucker Punch",
@@ -14174,7 +14756,8 @@ var movieDB = [
     "why": "Действие развернется в 1950 году. Молодую девушку по настоянию ее злодейского отчима определяют в больницу для душевнобольных, где спустя пять дней главную героиню лоботомируют. Чтобы оградиться от боли, она выдумывает сказочный мир, где и начинает планировать свой побег — для этого ей нужно раздобы...",
     "title_ru": "Запрещенный прием",
     "tmdb_id": 23629,
-    "poster_path": "/2euubYDsiT0qRs4vGPWq0jC27gC.jpg"
+    "poster_path": "/2euubYDsiT0qRs4vGPWq0jC27gC.jpg",
+    "director": "Зак Снайдер"
   },
   {
     "title": "Fifty Shades of Grey",
@@ -14189,7 +14772,8 @@ var movieDB = [
     "why": "В центре сюжета сложные взаимоотношения выпускницы колледжа Анастейши Стил и молодого бизнесмена Кристиана Грея, который убеждает девушку подписать с ним контракт, позволяющий ему фактически контролировать всю ее жизнь. Условия контракта подразумевают также подписание соглашения о неразглашении, в р...",
     "title_ru": "Пятьдесят оттенков серого",
     "tmdb_id": 216015,
-    "poster_path": "/tZTzJm9ZpOL61ZdqSQSrTadWFGG.jpg"
+    "poster_path": "/tZTzJm9ZpOL61ZdqSQSrTadWFGG.jpg",
+    "director": "Sam Taylor-Johnson"
   },
   {
     "title": "Murder Mystery",
@@ -14210,7 +14794,8 @@ var movieDB = [
     "why": "После посещения яхты миллиардера во время европейских каникул полицейский из Нью-Йорка и его жена становятся главными подозреваемыми в убийстве богача.",
     "title_ru": "Убийство на яхте",
     "tmdb_id": 514999,
-    "poster_path": "/7GfIYH4FB42dI2yqMNX3zVsXZPu.jpg"
+    "poster_path": "/7GfIYH4FB42dI2yqMNX3zVsXZPu.jpg",
+    "director": "Кайл Ньюачек"
   },
   {
     "title": "Valerian and the City of a Thousand Planets",
@@ -14231,7 +14816,8 @@ var movieDB = [
     "why": "2700 год, Валериан и Лорелин — космические спецагенты, которые по долгу службы впутались в подозрительное дело и стали невольными участниками то ли межгалактического заговора, то ли аферы самых причудливых обитателей планеты Альфа, где живут тысячи обитателей различных миров со всех уголков галактик...",
     "title_ru": "Валериан и город тысячи планет",
     "tmdb_id": 339964,
-    "poster_path": "/oDRX8zwhNJt3ae4aENkhBxj2IMN.jpg"
+    "poster_path": "/oDRX8zwhNJt3ae4aENkhBxj2IMN.jpg",
+    "director": "Люк Бессон"
   },
   {
     "title": "DodgeBall: A True Underdog Story",
@@ -14247,7 +14833,8 @@ var movieDB = [
     "why": "Владелец мега-сети фитнесс-центров готовит очередное поглощение. На очереди — районный спортзал, принадлежащий группе друзей. Чтобы сохранить зал, друзьям нужно срочно найти $50 тыс. Единственная здравая мысль — это срубить главный приз в национальном чемпионате вышибал…",
     "title_ru": "Вышибалы",
     "tmdb_id": 9472,
-    "poster_path": "/45R5j9VNuFUt7NtJgP9qeCq45Qa.jpg"
+    "poster_path": "/45R5j9VNuFUt7NtJgP9qeCq45Qa.jpg",
+    "director": "Роусон Маршалл Тёрбер"
   },
   {
     "title": "Knocked Up",
@@ -14269,7 +14856,8 @@ var movieDB = [
     "why": "Эллисон Скотт — молодая и перспективная журналистка, живущая в бешеном ритме. Но всё идёт под откос, когда результатом пьяного свидания на одну ночь с бездельником Беном Стоуном становится беременность. Перед героиней стоит выбор: пройти через всё в одиночку или узнать поближе отца ребёнка. И Эллисо...",
     "title_ru": "Немножко беременна",
     "tmdb_id": 4964,
-    "poster_path": "/jecEpqsvC1r3UhRFue1Sl6apO3m.jpg"
+    "poster_path": "/jecEpqsvC1r3UhRFue1Sl6apO3m.jpg",
+    "director": "Джадд Апатоу"
   },
   {
     "title": "Wayne's World",
@@ -14288,7 +14876,8 @@ var movieDB = [
     "why": "Гарф и Уэйн — молодые отвязные ребята, авторы и ведущие молодежной телепрограммы «Мир Уэйна». Преуспевающий бизнесмен, случайно увидев эту полулюбительскую передачу местного кабельного ТВ, понял, что на этом можно сделать деньги. Он заключает с ними грабительский контракт, но ребята не могут идти на...",
     "title_ru": "Мир Уэйна",
     "tmdb_id": 8872,
-    "poster_path": "/9lPD58XA9Vcg5JclLFxtnWUQNZP.jpg"
+    "poster_path": "/9lPD58XA9Vcg5JclLFxtnWUQNZP.jpg",
+    "director": "Penelope Spheeris"
   },
   {
     "title": "Night at the Museum: Battle of the Smithsonian",
@@ -14314,7 +14903,8 @@ var movieDB = [
     "why": "Экспонаты Музея Естественной истории живут обычной жизнью. По коридорам бегает скелет динозавра, герои гражданской войны сражаются друг с другом, древние люди добывают огонь, миниатюрные ковбои выясняют отношения с древними Римлянами, Теодор Рузвельт философствует о смысле жизни и ухаживает за индиа...",
     "title_ru": "Ночь в музее 2",
     "tmdb_id": 18360,
-    "poster_path": "/8tBcC6WUEpL5yOfc2GUE2nQ8Qnt.jpg"
+    "poster_path": "/8tBcC6WUEpL5yOfc2GUE2nQ8Qnt.jpg",
+    "director": "Шон Леви"
   },
   {
     "title": "Transformers: Revenge of the Fallen",
@@ -14338,7 +14928,8 @@ var movieDB = [
     "why": "Прошло 2 года с тех пор, как юный Сэм Уитвикки спас Вселенную, предотвратив глобальную битву между враждующими воинственными расами инопланетных роботов. Несмотря на свои героические подвиги, Сэм остаётся обычным подростком с обычными проблемами — поступление в колледж и родителями. Разумеется, отъе...",
     "title_ru": "Трансформеры 2: Месть Падших",
     "tmdb_id": 8373,
-    "poster_path": "/faLkNsOPqiw2ijqDOfEy2GUscw2.jpg"
+    "poster_path": "/faLkNsOPqiw2ijqDOfEy2GUscw2.jpg",
+    "director": "Майкл Бэй"
   },
   {
     "title": "17 Again",
@@ -14357,7 +14948,8 @@ var movieDB = [
     "why": "Вы хотели бы начать жизнь сначала? Отец двоих детей Майк О`Доннелл хотел бы. И вот внезапно ему выпадает волшебный шанс вернуться в родную школу Хэйден Хай. Теперь Майк — звезда баскетбольной команды, мечта девчонок и одноклассник собственных отпрысков, превратившийся из нерадивого папаши в отличног...",
     "title_ru": "Папе снова 17",
     "tmdb_id": 16996,
-    "poster_path": "/aUmtg6A6yEntiI7gqNfBDSE7nh8.jpg"
+    "poster_path": "/aUmtg6A6yEntiI7gqNfBDSE7nh8.jpg",
+    "director": "Бёрр Стирс"
   },
   {
     "title": "Fast & Furious",
@@ -14382,7 +14974,8 @@ var movieDB = [
     "why": "Когда кривая дорожка заставляет скрывающегося от правосудия Дома Торетто вернуться в Лос-Анджелес, вражда с агентом Брайаном О’Коннером вспыхивает с новой силой. Но у парочки обнаруживается общий противник, и Дому с Брайаном приходится заключить перемирие в надежде одержать над ним победу. Грабя кон...",
     "title_ru": "Форсаж 4",
     "tmdb_id": 13804,
-    "poster_path": "/A0HOGMFp4mphOCqwt5YNWbuSMJe.jpg"
+    "poster_path": "/A0HOGMFp4mphOCqwt5YNWbuSMJe.jpg",
+    "director": "Джастин Лин"
   },
   {
     "title": "Bridge to Terabithia",
@@ -14404,7 +14997,8 @@ var movieDB = [
     "why": "Надежды ученика пятого класса Джесса Аарона стать самым быстрым бегуном в классе разбились после того, как новичок Лесли Берк одержала победу в соревнованиях. Оснований для враждебности по отношению друг к друг у Джесса и Лесли более чем достаточно, и тем не менее между ними завязывается дружба. Как...",
     "title_ru": "Мост в Терабитию",
     "tmdb_id": 1265,
-    "poster_path": "/wrjb8LodEnIDxNcENrVJfkYbrHJ.jpg"
+    "poster_path": "/wrjb8LodEnIDxNcENrVJfkYbrHJ.jpg",
+    "director": "Gábor Csupó"
   },
   {
     "title": "The Naked Gun: From the Files of Police Squad!",
@@ -14425,7 +15019,8 @@ var movieDB = [
     "why": "После миссии в Бейруте лейтенант полиции Лос-Анджелеса Фрэнк Дребин возвращается на родину. Здесь он узнаёт, что его бросила девушка, а коллега Нордберг получил тяжёлые ранения. Дребин берётся за расследование, постоянно попадая в нелепые ситуации. Он ещё не подозревает, что вскоре окажется в эпицен...",
     "title_ru": "Голый пистолет",
     "tmdb_id": 37136,
-    "poster_path": "/nJ8R3BrbFd8xnlS7GgYrHtp6GU4.jpg"
+    "poster_path": "/nJ8R3BrbFd8xnlS7GgYrHtp6GU4.jpg",
+    "director": "Дэвид Цукер"
   },
   {
     "title": "The Last Samurai",
@@ -14448,7 +15043,8 @@ var movieDB = [
     "why": "Действие разворачивается в Японии 70-ых годов девятнадцатого века. Капитан Нейтон Альгрен, уважаемый американский военный офицер, нанят Императором Японии для обучения первой армии Страны Восходящего Солнца современному искусству ведения боевых действий. Император пытается искоренить древних воинов-...",
     "title_ru": "Последний самурай",
     "tmdb_id": 616,
-    "poster_path": "/nSHIbNiJrFpmFPzlff3sAy94kjE.jpg"
+    "poster_path": "/nSHIbNiJrFpmFPzlff3sAy94kjE.jpg",
+    "director": "Эдвард Цвик"
   },
   {
     "title": "She's the Man",
@@ -14467,7 +15063,8 @@ var movieDB = [
     "why": "17-летняя Виола играет в футбол лучше, чем любой мальчишка. Когда футбольные тренировки для девушек отменяются, она решается на отчаянный шаг — выдает себя за брата-близнеца Себастьяна. Живя в образе юноши, Виола влюбляется в своего соседа по комнате Дюка, который в свою очередь влюблен в студентку ...",
     "title_ru": "Она - мужчина",
     "tmdb_id": 9655,
-    "poster_path": "/5Aw6fhTUuDCcSvOtqnxpqEBoXgV.jpg"
+    "poster_path": "/5Aw6fhTUuDCcSvOtqnxpqEBoXgV.jpg",
+    "director": "Andy Fickman"
   },
   {
     "title": "Fantastic Four: Rise of the Silver Surfer",
@@ -14487,7 +15084,8 @@ var movieDB = [
     "why": "Фантастическая четвёрка узнаёт, что есть во вселенной и другие существа, наделенные сверхъестественными способностями. Теперь супергероям предстоит схватка с могущественным Серебряным Серфером и поедающим планеты Галактусом.",
     "title_ru": "Фантастическая четвёрка: Вторжение Серебряного сёрфера",
     "tmdb_id": 1979,
-    "poster_path": "/vYvuKMkUWVW4UuPAE5vSmm5orBB.jpg"
+    "poster_path": "/vYvuKMkUWVW4UuPAE5vSmm5orBB.jpg",
+    "director": "Тим Стори"
   },
   {
     "title": "Big Little Lies",
@@ -14506,7 +15104,8 @@ var movieDB = [
     ],
     "why": "Риз Уизерспун, Николь Кидман и Шейлин Вудли. Монтерей, океан и убийство на благотворительном вечере.",
     "title_ru": "Confession of a Florist",
-    "tmdb_id": 501189
+    "tmdb_id": 501189,
+    "director": "Frank Patterson"
   },
   {
     "title": "The Muppets",
@@ -14528,7 +15127,8 @@ var movieDB = [
     "why": "Сюжет объединяет потрепанных кукол для финального шоу, которое призвано спасти киностудию от разорения.",
     "title_ru": "Маппеты",
     "tmdb_id": 64328,
-    "poster_path": "/kXPVvlRw5PzceJNKVqrdwRJaSXY.jpg"
+    "poster_path": "/kXPVvlRw5PzceJNKVqrdwRJaSXY.jpg",
+    "director": "Джеймс Бобин"
   },
   {
     "title": "Warrior",
@@ -14548,7 +15148,8 @@ var movieDB = [
     "why": "Младший сын спившегося боксера возвращается домой, чтобы отец тренировал его для предстоящего турнира по боевым искусствам. Однако, на этом пути бойцу придется столкнуться со своим старшим братом.",
     "title_ru": "Воин",
     "tmdb_id": 59440,
-    "poster_path": "/2q2x5OCpf6yQPkI8n9Y95isEKPJ.jpg"
+    "poster_path": "/2q2x5OCpf6yQPkI8n9Y95isEKPJ.jpg",
+    "director": "Гэвин О'Коннор"
   },
   {
     "title": "Men in Black: International",
@@ -14571,7 +15172,8 @@ var movieDB = [
     "why": "Фильм рассказывает о новом агенте, которая вступает в ряды секретной организации по взаимодействию с инопланетянами. Неопытной Эм предстоит стать напарницей агента Эйч и найти шпиона, проникшего в самое сердце тайного бюро.",
     "title_ru": "Люди в чёрном: Интернэшнл",
     "tmdb_id": 479455,
-    "poster_path": "/zSpaTBgxiP2HXq34OMwjxm3lp9D.jpg"
+    "poster_path": "/zSpaTBgxiP2HXq34OMwjxm3lp9D.jpg",
+    "director": "Ф. Гэри Грей"
   },
   {
     "title": "Weathering with You",
@@ -14596,7 +15198,8 @@ var movieDB = [
     "why": "16-летний Ходака Морисима убегает из дома в Токио, где у него сразу кончаются деньги. Мало того, что без документов он не может найти работу, так ещё на улице идёт бесконечный дождь, и небо постоянно затянуто тучами. В отчаянии парень обращается к бывшему попутчику, а тот не только берёт его в свой ...",
     "title_ru": "Дитя погоды",
     "tmdb_id": 568160,
-    "poster_path": "/koEIzx6yaqrLkmmScO68s5oDAyc.jpg"
+    "poster_path": "/koEIzx6yaqrLkmmScO68s5oDAyc.jpg",
+    "director": "Макото Синкай"
   },
   {
     "title": "ParaNorman",
@@ -14621,7 +15224,8 @@ var movieDB = [
     "why": "Норман, Паранорман. Единственная надежда полусонного городка в борьбе с полчищами нечисти. Его оружие — супер-мега-дар: умение общаться с призраками. Впрочем, мертвецы — не главная опасность, куда хуже — глупые взрослые с дробовиками наперевес.",
     "title_ru": "Паранорман, или Как приручить зомби",
     "tmdb_id": 77174,
-    "poster_path": "/rVNMuZkNQHQgwccWKcJawoohiam.jpg"
+    "poster_path": "/rVNMuZkNQHQgwccWKcJawoohiam.jpg",
+    "director": "Сэм Фелл, Крис Батлер"
   },
   {
     "title": "Adventureland",
@@ -14643,7 +15247,8 @@ var movieDB = [
     "why": "Из-за финансовых трудностей Джеймсу Бреннану приходится отменить свое летнее путешествие, о котором он так давно мечтал! Чтобы заработать хоть немного денег, он вынужден устроиться в местный парк аттракционов на самую нудную и низкооплачиваемую работу. Но однажды в жизни Джеймса все меняется, и это ...",
     "title_ru": "Страна приключений",
     "tmdb_id": 16614,
-    "poster_path": "/f3ZOMDmWRZz9GNlBtlC5untgUg7.jpg"
+    "poster_path": "/f3ZOMDmWRZz9GNlBtlC5untgUg7.jpg",
+    "director": "Грег Моттола"
   },
   {
     "title": "Frankenstein",
@@ -14663,7 +15268,8 @@ var movieDB = [
     "why": "Доктор Франкенштейн решил сыграть в азартную игру с жизнью и смертью, создав жуткое чудовище из частей тела, позаимствованных у мертвецов.",
     "title_ru": "Франкенштейн",
     "tmdb_id": 3035,
-    "poster_path": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg"
+    "poster_path": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+    "director": "James Whale"
   },
   {
     "title": "The Karate Kid",
@@ -14688,7 +15294,8 @@ var movieDB = [
     "why": "Двенадцатилетний Дре Паркер вместе с матерью-одиночкой переезжает из Детройта в незнакомый Пекин, не зная языка и местных традиций. Здесь он встречает китайскую девочку Мей Ин. Однако кроме её отца, не одобряющего их дружбу из-за культурных предрассудков, на его пути встаёт банда хулиганов во главе ...",
     "title_ru": "Каратэ-пацан",
     "tmdb_id": 38575,
-    "poster_path": "/jZs6kX6JCzjJBkTUoMPdaQSFjFa.jpg"
+    "poster_path": "/jZs6kX6JCzjJBkTUoMPdaQSFjFa.jpg",
+    "director": "Харольд Цварт"
   },
   {
     "title": "Don Jon",
@@ -14710,7 +15317,8 @@ var movieDB = [
     "why": "Комичная история современного ловеласа, который из каждого любовного приключения спасается бегством. Он хочет, но не может освободиться от своего пагубного пристрастия, но однажды, на очередном витке судьбы, ему просто приходится остепениться.",
     "title_ru": "Страсти Дон Жуана",
     "tmdb_id": 138697,
-    "poster_path": "/buugbXhbNSqwcc8ny6Ik1pNmkRC.jpg"
+    "poster_path": "/buugbXhbNSqwcc8ny6Ik1pNmkRC.jpg",
+    "director": "Джозеф Гордон-Левитт"
   },
   {
     "title": "Austin Powers: The Spy Who Shagged Me",
@@ -14732,7 +15340,8 @@ var movieDB = [
     "why": "Мечтающий о мировом господстве Доктор Зло отправляется назад в свингующие 60 е, чтобы похитить «моджо» плейбоя и суперагента Остина Пауэрса – талисман, гарантирующий ему успех у женщин. Смертельная схватка неизбежна. Остин бросается в погоню за своим врагом, чтобы вместе с соблазнительной помощницей...",
     "title_ru": "Остин Пауэрс: Шпион, который меня соблазнил",
     "tmdb_id": 817,
-    "poster_path": "/bOiDzLFYp4HzPB8H1CiwROSHcTU.jpg"
+    "poster_path": "/bOiDzLFYp4HzPB8H1CiwROSHcTU.jpg",
+    "director": "Джей Роуч"
   },
   {
     "title": "Love & Other Drugs",
@@ -14755,7 +15364,8 @@ var movieDB = [
     "why": "Девушка широких взглядов Мэгги встречает мужчину своей мечты в лице обаятельного продавца Виагры, Джеми. Они начинают легкую интрижку, но оказывается, что надвигающаяся трагедия переворачивает их жизни. Но между Мэгги и Джеми существует особая «химия», они находятся под влиянием абсолютного наркотик...",
     "title_ru": "Любовь и другие лекарства",
     "tmdb_id": 43347,
-    "poster_path": "/zys6uLVuwh2o7epNMYj45cylDxl.jpg"
+    "poster_path": "/zys6uLVuwh2o7epNMYj45cylDxl.jpg",
+    "director": "Эдвард Цвик"
   },
   {
     "title": "Frankenweenie",
@@ -14777,7 +15387,8 @@ var movieDB = [
     "why": "Обожаемый мальчиком Виктором пес Спарки погибает в результате несчастного случая. Мальчик, не желая мириться с потерей друга, призывает науку на помощь и…возвращает питомца к жизни! Казалось бы, все не так уж плохо, но когда Спарки сбегает от Виктора, его друзья, родители, учителя и жители городка у...",
     "title_ru": "Франкенвини",
     "tmdb_id": 62214,
-    "poster_path": "/pzqDbpshw50ulrSM5Sdc2AY70tq.jpg"
+    "poster_path": "/pzqDbpshw50ulrSM5Sdc2AY70tq.jpg",
+    "director": "Тим Бёртон"
   },
   {
     "title": "Lethal Weapon",
@@ -14799,7 +15410,8 @@ var movieDB = [
     "why": "Обаяние этого вечного приключенческого сюжета о паре полицейских — в великолепной игре Гибсона и Гловера.\r Первый — слегка чокнутый смельчак Риггз, которому из-за его легендарного вьетнамского прошлого и не менее легендарного настоящего дали уважительную кличку «смертельное оружие». Его чернокожий н...",
     "title_ru": "Смертельное оружие",
     "tmdb_id": 941,
-    "poster_path": "/g1II923AlGO0wT4KTY89o2zCk6M.jpg"
+    "poster_path": "/g1II923AlGO0wT4KTY89o2zCk6M.jpg",
+    "director": "Richard Donner"
   },
   {
     "title": "Terminator: Dark Fate",
@@ -14823,7 +15435,8 @@ var movieDB = [
     "why": "Мексика. Милая девушка Даниэла Рамос, а для друзей просто Дани, вместе с братом приходит с утра работать на завод, но там выясняется, что их вскоре заменят автоматикой. И это не единственная угроза, которую представляют для девушки машины: тут же на неё нападает присланная из будущего и практически ...",
     "title_ru": "Терминатор: Тёмные судьбы",
     "tmdb_id": 290859,
-    "poster_path": "/ffULB4SNiMuTbEl8dGPnU185hfe.jpg"
+    "poster_path": "/ffULB4SNiMuTbEl8dGPnU185hfe.jpg",
+    "director": "Тим Миллер"
   },
   {
     "title": "When Marnie Was There",
@@ -14845,7 +15458,8 @@ var movieDB = [
     "why": "12-летняя Анна — замкнутая и необщительная девочка. У неё нет друзей, и единственная её отдушина — это рисование. Из-за слабого здоровья Анну отправляют на лето в небольшой городок на Хоккайдо. Там она встречает Марни — девочку, живущую в большом богатом доме на отмели. Постепенно они становятся хор...",
     "title_ru": "Воспоминания о Марни",
     "tmdb_id": 242828,
-    "poster_path": "/g39Suu7TBROtvHeWx4J4ROvJCan.jpg"
+    "poster_path": "/g39Suu7TBROtvHeWx4J4ROvJCan.jpg",
+    "director": "Хиромаса Ёнэбаяси"
   },
   {
     "title": "Rise of the Guardians",
@@ -14872,7 +15486,8 @@ var movieDB = [
     "why": "Когда злой дух Кромешник посягает на самое дорогое — детские мечты, Северянин, Ледяной Джек, Кролик, Зубная Фея и Песочный Человек впервые объединяются, чтобы создать команду Хранителей снов…",
     "title_ru": "Хранители Снов",
     "tmdb_id": 81188,
-    "poster_path": "/338JxTywTCKqel7RsGgMIqmYooJ.jpg"
+    "poster_path": "/338JxTywTCKqel7RsGgMIqmYooJ.jpg",
+    "director": "Питер Рэмси"
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -14899,7 +15514,8 @@ var movieDB = [
     "why": "Знаменитая история о скупом и черством Эбенизере Скрудже. Но здесь почти все роли играют знаменитые персонажи Маппет-шоу. Однажды рождественской ночью дядюшке Скруджу являются Дух Прошлых Лет, Дух Нынешних Святок и Дух Будущих Святок, которые заставляют его по-другому взглянуть на свою жизнь.",
     "title_ru": "Рождественская сказка Маппетов",
     "tmdb_id": 10437,
-    "poster_path": "/kXEFaMwsK7fotYaf71DEu5Vt7qO.jpg"
+    "poster_path": "/kXEFaMwsK7fotYaf71DEu5Vt7qO.jpg",
+    "director": "Брайан Хенсон"
   },
   {
     "title": "The Hangover Part III",
@@ -14915,7 +15531,8 @@ var movieDB = [
     "why": "Картина продолжает рассказывать о похождениях давно всем полюбившейся четверки друзей. Правда на этот раз, никаких свадеб и мальчишников не будет. Фил, Стюарт приезжают на похороны отца Алана. Алан очень тяжело переживает случившееся: перестал принимать назначенные врачом препараты, и постоянно что-...",
     "title_ru": "Мальчишник: Часть III",
     "tmdb_id": 109439,
-    "poster_path": "/tKKCvtupZ9QNF9CjnIQ4kLA2Frf.jpg"
+    "poster_path": "/tKKCvtupZ9QNF9CjnIQ4kLA2Frf.jpg",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Maze Runner: The Scorch Trials",
@@ -14939,7 +15556,8 @@ var movieDB = [
     "why": "Лабиринт пройден, но Томасу, Терезе, Минхо и прочим глэйдерам не приходится расслабляться. Таинственное руководство ПОРОКА — секретной организации, устроившей гонки на выживание — назначает ребятам новые, смертельно опасные испытания. На сей раз их ждет переход по раскаленной пустыне и встреча с жер...",
     "title_ru": "Бегущий в лабиринте: Испытание огнём",
     "tmdb_id": 294254,
-    "poster_path": "/tA3uIM8dnZqwJnFyR9A7zLE5Wd1.jpg"
+    "poster_path": "/tA3uIM8dnZqwJnFyR9A7zLE5Wd1.jpg",
+    "director": "Уэс Болл"
   },
   {
     "title": "Vanilla Sky",
@@ -14959,7 +15577,8 @@ var movieDB = [
     "why": "У Дэвида было всё: деньги, свой собственный издательский дом, дорогая машина и квартира в респектабельном районе Нью-Йорка, друг-писатель и подружка Джулианна, и даже враги в лице семи управляющих его компанией. Так он и жил без оглядки, пока в один прекрасный момент не попал в автокатастрофу и очну...",
     "title_ru": "Ванильное небо",
     "tmdb_id": 1903,
-    "poster_path": "/733VBxHUiMGSSfDMXRmpJabrHVE.jpg"
+    "poster_path": "/733VBxHUiMGSSfDMXRmpJabrHVE.jpg",
+    "director": "Кэмерон Кроу"
   },
   {
     "title": "Bad Education",
@@ -14981,7 +15600,8 @@ var movieDB = [
     "why": "Фрэнк — умный, сильный и харизматичный директор престижной школы в богатом пригороде Нью-Йорка. Его выпускники с легкостью поступают в лучшие университеты страны, а от родителей и фондов в бюджет льются рекой многомиллионные суммы. Газеты пестрят его фотографиями в компании со знаменитыми политиками...",
     "title_ru": "Безупречный",
     "tmdb_id": 530723,
-    "poster_path": "/mOBb19wiTSXSgdMljZEKQ5idv7t.jpg"
+    "poster_path": "/mOBb19wiTSXSgdMljZEKQ5idv7t.jpg",
+    "director": "Cory Finley"
   },
   {
     "title": "Transformers: Dark of the Moon",
@@ -15006,7 +15626,8 @@ var movieDB = [
     "why": "Для наших героев наступили печальные будни: Сэм потерял Микаэлу, правительство выпускает законодательный акт о выселении Автоботов с Земли, а пока Мегатрон скрывается после позорного поражения Фоллена, десептикон Шокуэйв, правитель Кибертрона, готовится нанести визит нашей планете с совсем недобрыми...",
     "title_ru": "Трансформеры 3: Тёмная сторона Луны",
     "tmdb_id": 38356,
-    "poster_path": "/9wamNeMspa2wLWyZW1af6PMhfCa.jpg"
+    "poster_path": "/9wamNeMspa2wLWyZW1af6PMhfCa.jpg",
+    "director": "Майкл Бэй"
   },
   {
     "title": "Chappie",
@@ -15026,7 +15647,8 @@ var movieDB = [
     "why": "В футуристическом обществе, где полиция из несокрушимых роботов держит преступность в узде, одинокий дроид переходит на новую ступень эволюции.",
     "title_ru": "Робот по имени Чаппи",
     "tmdb_id": 198184,
-    "poster_path": "/gEYz6t7RqsseZrJgjD0wR77p3T7.jpg"
+    "poster_path": "/gEYz6t7RqsseZrJgjD0wR77p3T7.jpg",
+    "director": "Нил Бломкамп"
   },
   {
     "title": "Die Hard With a Vengeance",
@@ -15045,7 +15667,8 @@ var movieDB = [
     "why": "На улицах Нью-Йорка офицер полиции Джон Макклейн видел всё, что только возможно. На этот раз для того, чтобы отомстить Макклейну, террорист Саймон, виртуозно устраивающий взрывы, заставляет героя - полицейского играть в смертельную игру. Ставка - город Нью-Йорк. Макклейн вынужден метаться по городу,...",
     "title_ru": "Крепкий орешек 3: Возмездие",
     "tmdb_id": 1572,
-    "poster_path": "/2Cd6d7cbK7hWGNJvDR6Tp2jPM2D.jpg"
+    "poster_path": "/2Cd6d7cbK7hWGNJvDR6Tp2jPM2D.jpg",
+    "director": "Джон МакТирнан"
   },
   {
     "title": "Death Becomes Her",
@@ -15067,7 +15690,8 @@ var movieDB = [
     "why": "Черная комедия. Героиня Мэрил Стрип - легкомысленная актриса Маделин - отбивает у своей подруги Хелен (Голди Хоун) жениха - знаменитого пластического хирурга (Брюс Уиллис). Через несколько лет Хелен, располневшая и совершенно опустившаяся, попадает в сумасшедший дом, где, наконец, приходит в себя и ...",
     "title_ru": "Смерть ей к лицу",
     "tmdb_id": 9374,
-    "poster_path": "/vtT5I3TTp85fbFqJFGjCzXYWnIt.jpg"
+    "poster_path": "/vtT5I3TTp85fbFqJFGjCzXYWnIt.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Green Lantern",
@@ -15087,7 +15711,8 @@ var movieDB = [
     "why": "Во Вселенной, столь же бесконечной, сколь и загадочной, многие века существовал отряд воинов, обладающих огромной силой. Защитники мира и справедливости, их называют Корпус Зеленых Фонарей. Братство воинов, поклявшихся защищать межгалактический закон, где каждый из них носит кольцо, дарующее ему све...",
     "title_ru": "Зелёный Фонарь",
     "tmdb_id": 44912,
-    "poster_path": "/b45kSKCLaGKol4cn3bXpOMFqUE8.jpg"
+    "poster_path": "/b45kSKCLaGKol4cn3bXpOMFqUE8.jpg",
+    "director": "Мартин Кэмпбелл"
   },
   {
     "title": "Ghost",
@@ -15109,7 +15734,8 @@ var movieDB = [
     "why": "Счастливая парочка возвращается домой после вечера в театре. На тёмной аллее на них нападает грабитель… Защищаясь, Сэм погибает. Теперь он только призрак, но всё еще может помочь своей возлюбленной! Сэм-привидение узнаёт, что его смерть не была случайной, а над Молли нависла смертельная опасность! Н...",
     "title_ru": "Привидение",
     "tmdb_id": 251,
-    "poster_path": "/684PPkWfczma004WFg7cq2Yqefg.jpg"
+    "poster_path": "/684PPkWfczma004WFg7cq2Yqefg.jpg",
+    "director": "Джерри Цукер"
   },
   {
     "title": "The Accountant",
@@ -15131,7 +15757,8 @@ var movieDB = [
     "why": "Лента расскажет историю математического гения Кристиана Вульфа, который подрабатывает аудитором для самых опасных преступных организаций. Когда ему «на хвост» садится отдел по борьбе с преступностью Министерства финансов во главе с Рэем Кингом Кристиан решает найти себе законопослушного клиента и пр...",
     "title_ru": "Расплата",
     "tmdb_id": 302946,
-    "poster_path": "/xsuqYQBt3CGYMhOxtJkkRuNY60B.jpg"
+    "poster_path": "/xsuqYQBt3CGYMhOxtJkkRuNY60B.jpg",
+    "director": "Гэвин О'Коннор"
   },
   {
     "title": "It",
@@ -15155,7 +15782,8 @@ var movieDB = [
     "why": "Пеннивайз в Дерри. You'll float too. Клуб неудачников. Страх и дружба.",
     "title_ru": "Strike It Rich",
     "tmdb_id": 123781,
-    "poster_path": "/m2OgpThvdC8AhJOhQ9qE0nxYacn.jpg"
+    "poster_path": "/m2OgpThvdC8AhJOhQ9qE0nxYacn.jpg",
+    "director": "James Scott"
   },
   {
     "title": "Dope",
@@ -15177,7 +15805,8 @@ var movieDB = [
     "why": "В центре истории подросток, мечтающий учиться в Гарварде, однако на дворе 90-е годы и живет он в преступном района Инглвуда, откуда выбраться не так уж и просто.",
     "title_ru": "Наркотик",
     "tmdb_id": 308639,
-    "poster_path": "/qZyKTxHgurAPB5UF9QiiF2ruyxQ.jpg"
+    "poster_path": "/qZyKTxHgurAPB5UF9QiiF2ruyxQ.jpg",
+    "director": "Рик Фамуйива"
   },
   {
     "title": "As Good as It Gets",
@@ -15199,7 +15828,8 @@ var movieDB = [
     "why": "Мелвин Адал, психически неуравновешенный эксцентричный писатель, ненавидит буквально всех вокруг. Из-за своего странного поведения он одинок и часто попадает в комичные ситуации. Но неожиданно его уединение нарушается. Мелвину приходится ухаживать за соседской собакой, и незаметно для себя он учится...",
     "title_ru": "Лучше не бывает",
     "tmdb_id": 2898,
-    "poster_path": "/76GO7Wwsnq2RSuFl2FQRhtaIbSv.jpg"
+    "poster_path": "/76GO7Wwsnq2RSuFl2FQRhtaIbSv.jpg",
+    "director": "Джеймс Брукс"
   },
   {
     "title": "Bad Boys",
@@ -15224,7 +15854,8 @@ var movieDB = [
     "why": "Они - полная противоположность друг друга. Один из них - примерный семьянин и не имеет состояния, другой богат и пользуется всеми благами холостяцкой жизни. Помимо дружбы их объединяет работа в полиции. Их новое задание - поймать жестокого преступника, укравшего наркотики с секретного склада, а такж...",
     "title_ru": "Плохие парни",
     "tmdb_id": 9737,
-    "poster_path": "/5tQUDEku5vY1aB6jFaOsAwjkzUL.jpg"
+    "poster_path": "/5tQUDEku5vY1aB6jFaOsAwjkzUL.jpg",
+    "director": "Майкл Бэй"
   },
   {
     "title": "There's Something About Mary",
@@ -15243,7 +15874,8 @@ var movieDB = [
     "why": "Все началось 13 лет назад с ущемленного «достоинства» Теда, хронического неудачника, постоянно ставящего себя в комические ситуации: он настолько труслив, что способен вывести из себя собственного психиатра, настолько нелеп, что способен в самый ответственный момент прищемить свое мужское достоинств...",
     "title_ru": "Все без ума от Мэри",
     "tmdb_id": 544,
-    "poster_path": "/487VaRBc9Tk7GhlsbiNVE16S5z.jpg"
+    "poster_path": "/487VaRBc9Tk7GhlsbiNVE16S5z.jpg",
+    "director": "Bobby Farrelly, Peter Farrelly"
   },
   {
     "title": "I Know What You Did Last Summer",
@@ -15265,7 +15897,8 @@ var movieDB = [
     "why": "Компания выпускников весело провела вечер на берегу моря. Возвращаясь на машине домой, они сбивают непонятно откуда взявшегося человека. Решив, что он мёртв, и не желая лишних неприятностей, они сбрасывают тело в море.  А ровно через год получают письмо... Кто-то знает их тайну. Кто-то знает, что он...",
     "title_ru": "Я знаю, что вы сделали прошлым летом",
     "tmdb_id": 3597,
-    "poster_path": "/t17AWul1fJ5pac6mI48qZRYE4zZ.jpg"
+    "poster_path": "/t17AWul1fJ5pac6mI48qZRYE4zZ.jpg",
+    "director": "Jim Gillespie"
   },
   {
     "title": "Die Hard 2",
@@ -15284,7 +15917,8 @@ var movieDB = [
     "why": "В канун Рождества группа террористов захватила международный аэропорт и теперь удерживает тысячи путешествующих в качестве заложников. Террористы - банда отступников из первоклассно вооружённых коммандос, возглавляемых одержимым жестокостью офицером. Их цель - спасти наркобарона. Банда подготовлена ...",
     "title_ru": "Крепкий орешек 2",
     "tmdb_id": 1573,
-    "poster_path": "/1ttjEhzFhrFIjcSx0s0fozmCQRW.jpg"
+    "poster_path": "/1ttjEhzFhrFIjcSx0s0fozmCQRW.jpg",
+    "director": "Ренни Харлин"
   },
   {
     "title": "Ghostbusters II",
@@ -15303,7 +15937,8 @@ var movieDB = [
     "why": "Через пять лет все забыли о знаменитых охотниках, равно как и о самих привидениях. Но они и не думали исчезать… А это значит, что для отважной четвёрки снова есть работа. Теперь в их распоряжении новое современное оружие, которое поможет им одолеть даже самого страшного монстра. Облако чёрной энерги...",
     "title_ru": "Охотники за привидениями 2",
     "tmdb_id": 2978,
-    "poster_path": "/sNVd1heRFJFlwgOZEvQpLOsNusG.jpg"
+    "poster_path": "/sNVd1heRFJFlwgOZEvQpLOsNusG.jpg",
+    "director": "Ivan Reitman"
   },
   {
     "title": "Over the Hedge",
@@ -15328,7 +15963,8 @@ var movieDB = [
     "why": "После долгой зимней спячки черепаха Верн просыпается и обнаруживает, что прямо у леса вырос огромный жилой квартал, а привычные запасы еды исчезли. В это же время появляется хитрый енот ЭрДжей, который убеждает зверей отправиться к людям за лёгкой добычей — горой вкусной, но незнакомой пищи. Для оби...",
     "title_ru": "Лесная братва",
     "tmdb_id": 7518,
-    "poster_path": "/5nKlGj40vB0GufKvnD687blTN0d.jpg"
+    "poster_path": "/5nKlGj40vB0GufKvnD687blTN0d.jpg",
+    "director": "Кэри Киркпатрик, Тимоти Джонсон"
   },
   {
     "title": "Annabelle",
@@ -15348,7 +15984,8 @@ var movieDB = [
     "why": "Джон находит идеальный подарок для своей будущей жены — это редкая старинная кукла в белом свадебном платье. Но восторг от подарка продлился не долго. Однажды ночью в их дом вторгаются члены сатанинского культа…",
     "title_ru": "Проклятие Аннабель",
     "tmdb_id": 250546,
-    "poster_path": "/i12HsW8jXnCoy5IieQEpFLush7O.jpg"
+    "poster_path": "/i12HsW8jXnCoy5IieQEpFLush7O.jpg",
+    "director": "Джон Р. Леонетти"
   },
   {
     "title": "Wedding Crashers",
@@ -15367,7 +16004,8 @@ var movieDB = [
     "why": "Приключения 2-ух холостяков: Джона и Джереми, которые изобрели потрясающий способ знакомства с девушками. Они проникают на чужие свадьбы и получают удовольствие от бесплатной еды, шампанского и множества красивых девушек, которые готовы на всё, чтобы найти себе мужа.  Но лучшая часть плана - это вов...",
     "title_ru": "Незваные гости",
     "tmdb_id": 9522,
-    "poster_path": "/px6T9biyoB4xuJk6QnqtCpoCN9k.jpg"
+    "poster_path": "/px6T9biyoB4xuJk6QnqtCpoCN9k.jpg",
+    "director": "Дэвид Добкин"
   },
   {
     "title": "The Fog",
@@ -15383,7 +16021,8 @@ var movieDB = [
     "why": "В маленьком рыбацком городке обитают духи погибших моряков. Ровно сто лет назад у скал разбилось судно с рыбаками, и вот теперь город окутывает плотный туман, который разрывают буйные призраки прошлого.",
     "title_ru": "Туман",
     "tmdb_id": 790,
-    "poster_path": "/84Veq1qhovA3cOE3hMrgSicvP4s.jpg"
+    "poster_path": "/84Veq1qhovA3cOE3hMrgSicvP4s.jpg",
+    "director": "Джон Карпентер"
   },
   {
     "title": "Robin Hood",
@@ -15405,7 +16044,8 @@ var movieDB = [
     "why": "Добро пожаловать в дремучий Шервудский лес, где ты встретишь храброго и забавного лисенка по имени Робин Гуд и его лучшего друга Крошку Джона — большого добродушного медведя.  Эту веселую компанию давно разыскивает шериф Нотингема. Он готовит друзьям ловушку: на турнире лучников Робин Гуда будет жда...",
     "title_ru": "Робин Гуд",
     "tmdb_id": 11886,
-    "poster_path": "/2uvKBsTxJj0XNVoCnkmIx3OwiI7.jpg"
+    "poster_path": "/2uvKBsTxJj0XNVoCnkmIx3OwiI7.jpg",
+    "director": "Wolfgang Reitherman"
   },
   {
     "title": "Baywatch",
@@ -15427,7 +16067,8 @@ var movieDB = [
     "why": "Группа пляжных спасателей работает на побережье Тихого океана. Они всегда находятся на своём посту и охраняют отдыхающих от несчастных случаев на воде. Главный герой, опытный спасатель Митч Бьюкеннон, и его молодой коллега Мэтт Броди случайно узнают, что их пляж находится под угрозой исчезновения. Б...",
     "title_ru": "Спасатели Малибу",
     "tmdb_id": 339846,
-    "poster_path": "/s4T3R588ESvNTEuIizFyftzz8Kt.jpg"
+    "poster_path": "/s4T3R588ESvNTEuIizFyftzz8Kt.jpg",
+    "director": "Сет Гордон"
   },
   {
     "title": "The Hitman's Bodyguard",
@@ -15452,7 +16093,8 @@ var movieDB = [
     "why": "Он — телохранитель мирового уровня. Его новая работа — охранять киллера, которого все мечтают убить. Он и сам с удовольствием прикончил бы этого гада. Но работа — есть работа: смертельные враги в прошлом, они вынуждены объединиться в настоящем, чтобы выжить. Однако их методы настолько различны, а пр...",
     "title_ru": "Телохранитель киллера",
     "tmdb_id": 390043,
-    "poster_path": "/i8WMBQtoyug6Twa1RP8QHLCxVdH.jpg"
+    "poster_path": "/i8WMBQtoyug6Twa1RP8QHLCxVdH.jpg",
+    "director": "Патрик Хьюз"
   },
   {
     "title": "Wanted",
@@ -15474,7 +16116,8 @@ var movieDB = [
     "why": "Уэсли Гибсон — зануда и нытик, целыми днями торчащий в офисе. Босс его унижает, подружка ему изменяет. Его жизнь катится в никуда! Обнаружив, что отец, бросивший его в раннем детстве, зверски убит, Уэс оказывается втянут в тайное общество киллеров под названием «Братство». За его обучение берётся оп...",
     "title_ru": "Особо опасен",
     "tmdb_id": 8909,
-    "poster_path": "/h1nIsaU2onwtHhAzEJ2rd5nzf6S.jpg"
+    "poster_path": "/h1nIsaU2onwtHhAzEJ2rd5nzf6S.jpg",
+    "director": "Тимур Бекмамбетов"
   },
   {
     "title": "The Lorax",
@@ -15493,7 +16136,8 @@ var movieDB = [
     "why": "Недалекое будущее. Стоит нажать на кнопку — и мир изменится по твоему желанию: прямо под окном вырастут горы, во дворе зашумит океан. Единственная неприятность — все вокруг сделано из пластика. Но для влюбленного нет преград. Одно желание прекрасной девушки — увидеть последнее живое дерево — и он пу...",
     "title_ru": "Лоракс",
     "tmdb_id": 73723,
-    "poster_path": "/pCq2zMcfyC0METerLKJahBmlR0v.jpg"
+    "poster_path": "/pCq2zMcfyC0METerLKJahBmlR0v.jpg",
+    "director": "Крис Рено"
   },
   {
     "title": "Mud",
@@ -15516,7 +16160,8 @@ var movieDB = [
     "why": "Мэттью МакКонахи — беглец на острове. Двое мальчиков помогают ему. Река Миссисипи и первая любовь.",
     "title_ru": "Muddy Waters and The Rolling Stones: Live at the Checkerboard Lounge",
     "tmdb_id": 123908,
-    "poster_path": "/gRUiZrUAS8vctIJvnbMpR6GsxtW.jpg"
+    "poster_path": "/gRUiZrUAS8vctIJvnbMpR6GsxtW.jpg",
+    "director": "David Hewitt"
   },
   {
     "title": "Tucker and Dale vs. Evil",
@@ -15535,7 +16180,8 @@ var movieDB = [
     "why": "Группа студентов колледжа отправляется за город, чтобы вовсю оторваться на выходных: попить пивка, поплавать в озере и подышать чистым лесным воздухом. Но уже в 1-ый день они сталкиваются с неотёсанными фермерами Такером и Дэйлом. Приняв этих диковатых ребят за маньяков, горожане решают дать деревен...",
     "title_ru": "Убойные каникулы",
     "tmdb_id": 46838,
-    "poster_path": "/oId9WDFgTJGLrXz7RAvnjSrn5PX.jpg"
+    "poster_path": "/oId9WDFgTJGLrXz7RAvnjSrn5PX.jpg",
+    "director": "Eli Craig"
   },
   {
     "title": "Manhunter",
@@ -15557,7 +16203,8 @@ var movieDB = [
     "why": "Основой для фильма является роман «Красный дракон» Томаса Харриса. Агент ФБР пытается идти по следу опасного преступника, которому дали прозвище «Зубная Фея». Чтобы поиски были более эффективны, детектив вступает в контакт с Ганнибалом Лектером, заключённым в тюремную психиатрическую клинику, с тем ...",
     "title_ru": "Охотник на людей",
     "tmdb_id": 11454,
-    "poster_path": "/9od0BRkYYf5qBPnH5auvZia6got.jpg"
+    "poster_path": "/9od0BRkYYf5qBPnH5auvZia6got.jpg",
+    "director": "Michael Mann"
   },
   {
     "title": "Annabelle: Creation",
@@ -15577,7 +16224,8 @@ var movieDB = [
     "why": "Через несколько лет после трагической гибели их маленькой дочери кукольник и его жена приглашают в свой дом монахиню и нескольких девочек из приюта, вскоре становящихся мишенью для одержимого создания кукольника — Аннабель.",
     "title_ru": "Проклятие Аннабель: Зарождение зла",
     "tmdb_id": 396422,
-    "poster_path": "/5Omlys7hQXOKFDdueBq63roIhVE.jpg"
+    "poster_path": "/5Omlys7hQXOKFDdueBq63roIhVE.jpg",
+    "director": "Дэвид Ф. Сандберг"
   },
   {
     "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
@@ -15602,7 +16250,8 @@ var movieDB = [
     "why": "Ежегодный конкурс гигантских овощей приближается. Два предприимчивых друга решили заработать денег на борьбе с грызунами. Но внезапно огромное таинственное животное начало терроризировать округу, уничтожая овощи, которые могли претендовать на главный приз конкурса. В отчаянье, пытаясь спасти меропри...",
     "title_ru": "Уоллес и Громит: Проклятие Кролика-Оборотня",
     "tmdb_id": 533,
-    "poster_path": "/cBplUaSSl7lJYca9dZzzXZS9ZG5.jpg"
+    "poster_path": "/cBplUaSSl7lJYca9dZzzXZS9ZG5.jpg",
+    "director": "Steve Box, Ник Парк"
   },
   {
     "title": "Southpaw",
@@ -15626,7 +16275,8 @@ var movieDB = [
     "why": "Джейк Джилленхол — боксёр, потерявший всё. Эминем саундтрек. Дорога назад.",
     "title_ru": "Левша",
     "tmdb_id": 307081,
-    "poster_path": "/jsPdRIpDwHbmrTUZuEM9fHzLtDT.jpg"
+    "poster_path": "/jsPdRIpDwHbmrTUZuEM9fHzLtDT.jpg",
+    "director": "Антуан Фукуа"
   },
   {
     "title": "The Mummy Returns",
@@ -15648,7 +16298,8 @@ var movieDB = [
     "why": "Прошло 10 лет... Наш отважный герой, искатель приключений Рик, теперь богат, счастливо женат на прекрасной Эвелин и воспитывает своего 8-летнего сына Алекса. Но злой рок не даёт очаровательной семье насладиться спокойной жизнью. Зловещий жрец Имхотеп снова восстал из мертвых! Теперь у Рика, Эвелин и...",
     "title_ru": "Мумия возвращается",
     "tmdb_id": 1734,
-    "poster_path": "/xvr0yOUvymowA6bIhSxny737Chp.jpg"
+    "poster_path": "/xvr0yOUvymowA6bIhSxny737Chp.jpg",
+    "director": "Стивен Соммерс"
   },
   {
     "title": "Kung Fu Panda 3",
@@ -15675,7 +16326,8 @@ var movieDB = [
     "why": "Воссоединившись со своим давно потерянным отцом, По отправляется в тайный рай для панд, где его ожидает встреча с множеством веселых сородичей. Однако вскоре злодей Кай начинает зачистку - он уничтожает кунг-фу мастеров по всему Китаю.\r По предстоит сделать невозможное - обучить боевому искусству де...",
     "title_ru": "Кунг-фу Панда 3",
     "tmdb_id": 140300,
-    "poster_path": "/usLvCu3kF40Im3yutgqUAweXwjo.jpg"
+    "poster_path": "/usLvCu3kF40Im3yutgqUAweXwjo.jpg",
+    "director": "Jennifer Yuh Nelson, Alessandro Carloni"
   },
   {
     "title": "The Sisters Brothers",
@@ -15697,7 +16349,8 @@ var movieDB = [
     "why": "Братья-беспредельщики по фамилии Систерс по заданию таинственного Командора должны прикончить некоего Уорма, золотоискателя-авантюриста. Удачливые по жизни охотники за головами гонятся за новой жертвой, не подозревая, что их разведчик не так прост. Начинается игра на выживание — острый ум против без...",
     "title_ru": "Братья Систерс",
     "tmdb_id": 440161,
-    "poster_path": "/tjfrLqIiSPMAP4jx9rh3fPcIK8M.jpg"
+    "poster_path": "/tjfrLqIiSPMAP4jx9rh3fPcIK8M.jpg",
+    "director": "Жак Одиар"
   },
   {
     "title": "Maze Runner: The Death Cure",
@@ -15722,7 +16375,8 @@ var movieDB = [
     "why": "Томас возглавляет отряд выживших глейдеров, чтобы выполнить последнюю и самую опасную миссию. Ради спасения своих друзей они должны проникнуть в легендарный Последний город, смертоносный лабиринт, контролируемый ПОРОКом. Каждый, кто выживет там, наконец-то получит ответы на все вопросы, которые мучи...",
     "title_ru": "Бегущий в лабиринте: Лекарство от смерти",
     "tmdb_id": 336843,
-    "poster_path": "/6ps20wVKQghAx0KBTQvPcLPdLlc.jpg"
+    "poster_path": "/6ps20wVKQghAx0KBTQvPcLPdLlc.jpg",
+    "director": "Уэс Болл"
   },
   {
     "title": "Resident Evil",
@@ -15747,7 +16401,8 @@ var movieDB = [
     "why": "В гигантской подземной лаборатории на волю вырывается опаснейший вирус, мгновенно превращая своих жертв в прожорливых зомби. Достаточно одного их укуса или царапины страшных когтей, чтобы человек стал обезумевшим пожирателем живой плоти.\r Военные посылают в секретный комплекс, кишащий ужасными мутир...",
     "title_ru": "Обитель зла",
     "tmdb_id": 1576,
-    "poster_path": "/5gEtXQXsv7DjtJSWwgLHQatzRZc.jpg"
+    "poster_path": "/5gEtXQXsv7DjtJSWwgLHQatzRZc.jpg",
+    "director": "Пол У. С. Андерсон"
   },
   {
     "title": "The Princess Diaries 2: Royal Engagement",
@@ -15772,7 +16427,8 @@ var movieDB = [
     "why": "Миа — принцесса вымышленной страны Женовии. Вскоре ей придется стать королевой, но перед коронацией ее ждут непростые испытания, среди которых выбор кавалера на праздничный бал и экзамен на умение мудро править государством…",
     "title_ru": "Дневники принцессы 2: Как стать королевой",
     "tmdb_id": 11130,
-    "poster_path": "/msY07eRTUbkHD8o21JLda3ae202.jpg"
+    "poster_path": "/msY07eRTUbkHD8o21JLda3ae202.jpg",
+    "director": "Garry Marshall"
   },
   {
     "title": "Rio",
@@ -15797,7 +16453,8 @@ var movieDB = [
     "why": "Попугай-зануда оставляет свою уютную сытую жизнь в клетке и из Миннесоты отправляется в Рио-де-Жанейро, город грез всех и каждого. Неминуемые встречи, препятствия, опасности и любовь к последней представительнице его рода заставляют нашего героя по-другому посмотреть на мир и из скучного домоседа пр...",
     "title_ru": "Рио",
     "tmdb_id": 46195,
-    "poster_path": "/jZKvmnpqKNZmgo8VX7WIzzA6i3C.jpg"
+    "poster_path": "/jZKvmnpqKNZmgo8VX7WIzzA6i3C.jpg",
+    "director": "Carlos Saldanha"
   },
   {
     "title": "Ice Age: Dawn of the Dinosaurs",
@@ -15824,7 +16481,8 @@ var movieDB = [
     "why": "Ленивец Сид, бредя желанием создать собственное племя, решился приютить несколько найденных яиц, не подозревая кто в них находится. Но вскоре за ними пришла их мама и забрала Сида и детёнышей с собой. Отправившись на помощь, друзья попадают в таинственный мир, скрытый под толщами льда, где они сталк...",
     "title_ru": "Ледниковый период 3: Эра динозавров",
     "tmdb_id": 8355,
-    "poster_path": "/d9mrt80EbMSaWoaZ6Ytfmuq7cJv.jpg"
+    "poster_path": "/d9mrt80EbMSaWoaZ6Ytfmuq7cJv.jpg",
+    "director": "Carlos Saldanha"
   },
   {
     "title": "The Cat in the Hat",
@@ -15849,7 +16507,8 @@ var movieDB = [
     "why": "Конрад и Салли Валден дома со своей рыбкой одни. На улице дождь и делать решительно нечего. Пока не появляется Кот в Шляпе. Он знакомит детей с их воображением.  Поначалу это игры и развлечения, но затем всё выходит из под контроля, и ему надо исчезнуть до прихода родителей…",
     "title_ru": "Кот",
     "tmdb_id": 10588,
-    "poster_path": "/xS9ROhWuDRVISGArruDFYnj0cik.jpg"
+    "poster_path": "/xS9ROhWuDRVISGArruDFYnj0cik.jpg",
+    "director": "Bo Welch"
   },
   {
     "title": "Alien Resurrection",
@@ -15871,7 +16530,8 @@ var movieDB = [
     "why": "Спустя двести лет после событий, произошедших на планете-тюрьме, группа ученых, опекаемых военным командованием, клонирует Эллен Рипли, чтобы с ее помощью заполучить детеныша инопланетного монстра. Вскоре он уже сам начинает плодиться, производя на свет новую породу — помесь кровожадного пришельца и...",
     "title_ru": "Чужой: Воскрешение",
     "tmdb_id": 8078,
-    "poster_path": "/pkiOQmiRtm0JbvBPtbz4PjrZQM3.jpg"
+    "poster_path": "/pkiOQmiRtm0JbvBPtbz4PjrZQM3.jpg",
+    "director": "Жан-Пьер Жёне"
   },
   {
     "title": "Addams Family Values",
@@ -15893,7 +16553,8 @@ var movieDB = [
     "why": "У Гомеса и Мортиши Аддамсов рождается сын. Они нанимают для ухода за новорождённым няню Дебби Джелински, которая, соблазнившись богатством дяди Фестера, влюбляет его в себя и начинает плести интриги против остальной семьи. Юная Уэнсди Аддамс обнаруживает коварные замыслы няни и начинает слежку за не...",
     "title_ru": "Моральные ценности семейки Аддамс",
     "tmdb_id": 2758,
-    "poster_path": "/hHzRLSQ2wgoG9N7ywPJDGlTonV2.jpg"
+    "poster_path": "/hHzRLSQ2wgoG9N7ywPJDGlTonV2.jpg",
+    "director": "Барри Зонненфельд"
   },
   {
     "title": "A Knight's Tale",
@@ -15918,7 +16579,8 @@ var movieDB = [
     "why": "Он не подчинялся ни одному правилу, ибо был создан для того, чтобы их нарушать. После гибели своего господина слуга Уильям решается на отчаянную авантюру. Юноше удается изменить свою родословную и, присвоив себе доспехи и оружие ушедшего хозяина, предстать перед публикой молодым и родовитым рыцарем ...",
     "title_ru": "История рыцаря",
     "tmdb_id": 9476,
-    "poster_path": "/btSZdQCtzFNh8GXa8xKhLA5i43F.jpg"
+    "poster_path": "/btSZdQCtzFNh8GXa8xKhLA5i43F.jpg",
+    "director": "Брайан Хелгеленд"
   },
   {
     "title": "Paul",
@@ -15938,7 +16600,8 @@ var movieDB = [
     "why": "Два британских гика отправляются на одно из самых значимых фанатских событий в области фантастики — конвент ComicCon в Америке. По пути, неподалёку от известной Зоны 51, они встречают сбежавшего инопланетянина по имени Пол, который просит помочь ему добраться домой.",
     "title_ru": "Пол: Секретный материальчик",
     "tmdb_id": 39513,
-    "poster_path": "/xIczxziFzGfkIKHpeExI8TvR0Nb.jpg"
+    "poster_path": "/xIczxziFzGfkIKHpeExI8TvR0Nb.jpg",
+    "director": "Грег Моттола"
   },
   {
     "title": "Flushed Away",
@@ -15963,7 +16626,8 @@ var movieDB = [
     "why": "Родди — привилегированная крыса, живущая жизнью любимого домашнего животного в престижном пентхаусе. Однажды засорившаяся раковина «выплевывает» в квартиру канализационную крысу Сида, которому приходятся по душе роскошные апартаменты.Чтобы избавиться от надоедливого гостя, Родди решает смыть его в у...",
     "title_ru": "Смывайся",
     "tmdb_id": 11619,
-    "poster_path": "/iLn3yRCxj54QiuluSdYuVydIgKk.jpg"
+    "poster_path": "/iLn3yRCxj54QiuluSdYuVydIgKk.jpg",
+    "director": "David Bowers, Сэм Фелл"
   },
   {
     "title": "Speed Racer",
@@ -15988,7 +16652,8 @@ var movieDB = [
     "why": "Гонщик Спиди — один из лучших молодых гонщиков. Его болид «Мак 5» всегда первый, что вызывает законный интерес у компании «Ройялтон Индастриз», специализирующейся на производстве гоночных машин и владеющей самой успешной командой в ВГЛ (Всемирная Гоночная Лига). Арнольд Ройялтон лично приезжает в го...",
     "title_ru": "Спиди гонщик",
     "tmdb_id": 7459,
-    "poster_path": "/iUEq5ilwZmbfaPRrBhqlvuK07fZ.jpg"
+    "poster_path": "/iUEq5ilwZmbfaPRrBhqlvuK07fZ.jpg",
+    "director": "Ларри Вачовски, Энди Вачовски"
   },
   {
     "title": "The Santa Clause",
@@ -16013,7 +16678,8 @@ var movieDB = [
     "why": "Он соглашается, но одно дело — напялить на себя костюм и плясать с детишками, и совсем другое — быть настоящим Сантой, когда у тебя на самом деле растет борода, пузо, и на глазах седеют волосы. Такого веселого Рождества у него еще не было…",
     "title_ru": "Санта-Клаус",
     "tmdb_id": 11395,
-    "poster_path": "/lRHFHQzHoK1xl17Vy1cl4i81B50.jpg"
+    "poster_path": "/lRHFHQzHoK1xl17Vy1cl4i81B50.jpg",
+    "director": "John Pasquin"
   },
   {
     "title": "Austin Powers in Goldmember",
@@ -16032,7 +16698,8 @@ var movieDB = [
     "why": "В 1975 году отец Остина Пауэрса - знаменитый английский шпион Нейджел Пауэрс - был похищен голландским злодеем Голдмембером. Теперь, в 21-ом веке, знаменитый шпион Остин Пауэрс решает помочь своему отцу. Заручившись поддержкой своего давнего врага - Доктора Зла, с помощью его машины времени Остин со...",
     "title_ru": "Остин Пауэрс: Голдмембер",
     "tmdb_id": 818,
-    "poster_path": "/ghvZ3Dd9hkDVRuZF31Zz3W5H4TP.jpg"
+    "poster_path": "/ghvZ3Dd9hkDVRuZF31Zz3W5H4TP.jpg",
+    "director": "Джей Роуч"
   },
   {
     "title": "Hellboy II: The Golden Army",
@@ -16051,7 +16718,8 @@ var movieDB = [
     "why": "Древнее перемирие между человечеством и тайным миром было нарушено, на Земле вот-вот разверзнется ад. Безжалостный лидер, вхожий в оба мира, бросает вызов своей крови и пробуждает на свет неодолимую армию чудовищ.\r Настало время самому Хэллбою сразиться с беспощадным диктатором и его воинами. Вместе...",
     "title_ru": "Хеллбой II: Золотая армия",
     "tmdb_id": 11253,
-    "poster_path": "/2BVQ1ZpCNcZMkHWz7G90p50XT5j.jpg"
+    "poster_path": "/2BVQ1ZpCNcZMkHWz7G90p50XT5j.jpg",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Superman",
@@ -16072,7 +16740,8 @@ var movieDB = [
     "why": "Цивилизация планеты Криптон стоит на грани гибели. Ученый Джор-Эл, чтобы спасти своему ребенку жизнь, отправляет его на Землю. Маленький мальчик вырастает и открывает в себе неземные возможности. Он — Супермен!  Огромная сила и способность летать помогают ему в борьбе с любыми проявлениями зла. И ко...",
     "title_ru": "Супермен",
     "tmdb_id": 1924,
-    "poster_path": "/axvTpYi18MDngJJ6ruc98P862OM.jpg"
+    "poster_path": "/axvTpYi18MDngJJ6ruc98P862OM.jpg",
+    "director": "Richard Donner"
   },
   {
     "title": "Bad Boys for Life",
@@ -16094,7 +16763,8 @@ var movieDB = [
     "why": "Детективы Майк и Маркус снова в деле! Правда, их отстраняют от всех операций, но разве отчаянных друзей когда-нибудь что-либо останавливало? Ведь на этот раз на Майка открывает охоту некто из его прошлой жизни. Так что парням придётся отжечь по полной!",
     "title_ru": "Плохие парни навсегда",
     "tmdb_id": 38700,
-    "poster_path": "/s9Ooa2ZkZ0sccg295no1FR89Hfo.jpg"
+    "poster_path": "/s9Ooa2ZkZ0sccg295no1FR89Hfo.jpg",
+    "director": "Адиль Эль Арби, Билал Фалла"
   },
   {
     "title": "The Chronicles of Narnia: Prince Caspian",
@@ -16116,7 +16786,8 @@ var movieDB = [
     "why": "Люси, Сьюзен, Эдмунд и Питер возвращаются в Нарнию. В Англии прошло совсем немного времени, а в Нарнии - века. Страна находится под гнётом зловещего короля Мираза. Но у волшебного королевства есть одна надежда - юный принц Каспиан. Чтобы помочь Каспиану отвоевать трон, четверо героев собирают армию ...",
     "title_ru": "Хроники Нарнии: Принц Каспиан",
     "tmdb_id": 2454,
-    "poster_path": "/n43CryBQ330tXklFURAjh7iwtn1.jpg"
+    "poster_path": "/n43CryBQ330tXklFURAjh7iwtn1.jpg",
+    "director": "Эндрю Адамсон"
   },
   {
     "title": "Monsters vs Aliens",
@@ -16141,7 +16812,8 @@ var movieDB = [
     "why": "В Сюзан Мёрфи, девушку из Калифорнии, прямо в день ее свадьбы попадает метеорит, полный всякой дряни из космоса, в результате чего она вдруг начинает расти и вырастает до пятнадцати метров. Встревоженные появлением нового монстра, военные сразу берутся за дело: Сюзан отлавливают и увозят на секретну...",
     "title_ru": "Монстры против пришельцев",
     "tmdb_id": 15512,
-    "poster_path": "/gbFV5OH4HSIQedUVAHAtrRU5mb1.jpg"
+    "poster_path": "/gbFV5OH4HSIQedUVAHAtrRU5mb1.jpg",
+    "director": "Роб Леттерман, Конрад Вернон"
   },
   {
     "title": "The Boss Baby",
@@ -16163,7 +16835,8 @@ var movieDB = [
     "why": "Существует множество пособий, рекомендаций, советов по воспитанию детей. Но вот что делать, если ребенок родился с задатками самого въедливого начальника и видит вокруг себя только подчиненных — ленивых, безалаберных и бездарных?",
     "title_ru": "Босс-молокосос",
     "tmdb_id": 295693,
-    "poster_path": "/3kD6yrPx59TRvYXSCZgAB23CzQK.jpg"
+    "poster_path": "/3kD6yrPx59TRvYXSCZgAB23CzQK.jpg",
+    "director": "Том МакГрат"
   },
   {
     "title": "Noah",
@@ -16182,7 +16855,8 @@ var movieDB = [
     "why": "Много-много лет назад. Ной — набожный отец семейства, которого начинают посещать ужасные видения конца света. Поняв, что людей ждет неминуемая гибель, он начинает строить ковчег — гигантский корабль, который должен защитить его семью и его самого от бушующих волн. Однако Ною приходится бороться не т...",
     "title_ru": "Ной",
     "tmdb_id": 86834,
-    "poster_path": "/iYllEA6A2bAjMse6QAfCqGT7O03.jpg"
+    "poster_path": "/iYllEA6A2bAjMse6QAfCqGT7O03.jpg",
+    "director": "Даррен Аронофски"
   },
   {
     "title": "The Croods",
@@ -16207,7 +16881,8 @@ var movieDB = [
     "why": "Землетрясение уничтожило дом доисторической семьи, и теперь Крудсам придётся искать другое пристанище. А вокруг новый и опасный мир! Им на помощь приходит молодой кочевник Малой, передовые взгляды которого наталкиваются на консервативность главы семьи Груга. Но только вместе они смогут выжить и дост...",
     "title_ru": "Семейка Крудс",
     "tmdb_id": 49519,
-    "poster_path": "/bYF0aegBQBHfc1Lva7mChj4cPLM.jpg"
+    "poster_path": "/bYF0aegBQBHfc1Lva7mChj4cPLM.jpg",
+    "director": "Крис Сандерс, Kirk DeMicco"
   },
   {
     "title": "The Equalizer",
@@ -16229,7 +16904,8 @@ var movieDB = [
     "why": "Роберт МакКолл — бывший спецназовец. После увольнения сослужбы он собирается начать нормальную мирнуюжизнь, дав себеобещание больше никогда не брать в руки оружия. Но водин прекрасный момент он встречает молодую девушку, зарабатывающую на жизнь проституцией, которую на его глазах избивают бандиты и ...",
     "title_ru": "Великий уравнитель",
     "tmdb_id": 156022,
-    "poster_path": "/hc1tXFITduL2nm5CqORSmlwAOlI.jpg"
+    "poster_path": "/hc1tXFITduL2nm5CqORSmlwAOlI.jpg",
+    "director": "Антуан Фукуа"
   },
   {
     "title": "The Road to El Dorado",
@@ -16255,7 +16931,8 @@ var movieDB = [
     "why": "Тульо и Мигель, герои этой полнометражной мультипликационной картины, предпочитают не зарабатывать деньги тяжелым трудом. Эти два отпетых мошенника обожают, когда золотишко само идет к ним в руки. Случилось так, что этим проходимцам крупно повезло. Им посчастливилось найти таинственную карту, на кот...",
     "title_ru": "Дорога на Эльдорадо",
     "tmdb_id": 10501,
-    "poster_path": "/kbXR4E6xhi6MFcyEvz1VKQaRhc9.jpg"
+    "poster_path": "/kbXR4E6xhi6MFcyEvz1VKQaRhc9.jpg",
+    "director": "Bibo Bergeron, Don Paul"
   },
   {
     "title": "Hulk",
@@ -16275,7 +16952,8 @@ var movieDB = [
     "why": "Доктор Брюс Бэннер (ученый, работающий над изобретением новой бомбы) подвергся воздействию гамма-лучей и превратился в Халка — существо невероятной физической силы, которое в состоянии ярости становится огромным зеленым монстром.Его преследуют военные под предводительством генерала Росса, ему приход...",
     "title_ru": "Халк",
     "tmdb_id": 1927,
-    "poster_path": "/vezFYjkl6PdKSZKkurCfN33ycbU.jpg"
+    "poster_path": "/vezFYjkl6PdKSZKkurCfN33ycbU.jpg",
+    "director": "李安"
   },
   {
     "title": "Maleficent: Mistress of Evil",
@@ -16298,7 +16976,8 @@ var movieDB = [
     "why": "Действие происходит через несколько лет после того, как Малефисента наложила злые чары на принцессу Аврору. Фильм рассказывает про сложную взаимосвязь между тёмной феей и будущей королевой, о новых союзниках и противниках в деле защиты волшебного леса и магических существах, которые в нем обитают.",
     "title_ru": "Малефисента: Владычица тьмы",
     "tmdb_id": 420809,
-    "poster_path": "/2X47NabGhQePjFcd1em2uyUp090.jpg"
+    "poster_path": "/2X47NabGhQePjFcd1em2uyUp090.jpg",
+    "director": "Йоахим Реннинг"
   },
   {
     "title": "Amy",
@@ -16317,7 +16996,8 @@ var movieDB = [
     "why": "Уникальный талант Эми Уайнхаус сделал ей мировую славу среди современников. Будучи профессиональной джазовой певицей, Эми черпала вдохновение для своих песен и интерпретаций в своей собственной жизни. В ее песнях, одних из самых ярких музыкальных творений нашей эпохи, звучат пронзительная искренност...",
     "title_ru": "Эми",
     "tmdb_id": 331781,
-    "poster_path": "/9UyveRt14MX9KgvU85Ftv3Vr8o1.jpg"
+    "poster_path": "/9UyveRt14MX9KgvU85Ftv3Vr8o1.jpg",
+    "director": "Асиф Кападиa"
   },
   {
     "title": "Scooby-Doo 2: Monsters Unleashed",
@@ -16339,7 +17019,8 @@ var movieDB = [
     "why": "На этот раз Скуби-Ду и его приятелям предстоит сразиться с замаскированным злодеем, который замышляет захватить город Кулсвиль, наводнив его привидениями. Эти существа, появляющиеся на свет благодаря специальной машине по генерированию монстров, должны устроить в городке настоящий переполох. Но благ...",
     "title_ru": "Скуби-Ду 2: Монстры на свободе",
     "tmdb_id": 11024,
-    "poster_path": "/2Kd5AnEpUBnBKY1EE0khxLzZSGR.jpg"
+    "poster_path": "/2Kd5AnEpUBnBKY1EE0khxLzZSGR.jpg",
+    "director": "Раджа Госнелл"
   },
   {
     "title": "Public Enemies",
@@ -16361,7 +17042,8 @@ var movieDB = [
     "why": "Сюжет фильма повествует о легендарном грабителе банков Джоне Диллинджере. Дерзкие нападения сделали его выдающимся героем для всех угнетенных и главной мишенью для лучшего агента ФБР Мелвиса Первиса и его молодого напарника Джея Эдгара Гувера. Никто не мог остановить банду Диллинджера. Ни одна тюрьм...",
     "title_ru": "Джонни Д.",
     "tmdb_id": 11322,
-    "poster_path": "/qoy7q0ZYCvQcjZNlw23ur7Piy30.jpg"
+    "poster_path": "/qoy7q0ZYCvQcjZNlw23ur7Piy30.jpg",
+    "director": "Michael Mann"
   },
   {
     "title": "Mary Queen of Scots",
@@ -16380,7 +17062,8 @@ var movieDB = [
     "why": "Фильм рассказывает о насыщенной событиями жизни харизматичной королевы Марии Стюарт. Став королевой Франции в 16 лет и овдовев в 18, Мария отказывается вступить в новый брак и возвращается в родную Шотландию, чтобы вступить на свой законный трон. По праву рождения она может претендовать также на тро...",
     "title_ru": "Две королевы",
     "tmdb_id": 457136,
-    "poster_path": "/qZ1OKjBIPsz1iFYEb9Suj14wEgZ.jpg"
+    "poster_path": "/qZ1OKjBIPsz1iFYEb9Suj14wEgZ.jpg",
+    "director": "Josie Rourke"
   },
   {
     "title": "Wrath of Man",
@@ -16402,7 +17085,8 @@ var movieDB = [
     "why": "Грузовики лос-анджелесской инкассаторской компании Fortico Security часто подвергаются нападениям, и во время очередного ограбления погибают оба охранника. Через некоторое время в компанию устраивается крепкий немногословный британец Патрик Хилл. Он получает от босса прозвище Эйч и, впритык к необхо...",
     "title_ru": "Гнев человеческий",
     "tmdb_id": 637649,
-    "poster_path": "/nRE9zOfzdp4uQMeDOgCvMf6izNh.jpg"
+    "poster_path": "/nRE9zOfzdp4uQMeDOgCvMf6izNh.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "The Last Airbender",
@@ -16424,7 +17108,8 @@ var movieDB = [
     "why": "Воздушные кочевники, Племя Воды, Царство Земли и Народ Огня. Четыре нации были связаны судьбой, когда Народ Огня начал жестокую войну против всех. Прошло сто лет без надежды что-то изменить в этом мире. Народ Огня почти близок к победе в войне.Оказавшись между борьбой и храбростью, юный Аанг понимае...",
     "title_ru": "Повелитель стихий",
     "tmdb_id": 10196,
-    "poster_path": "/izK8ajqcwa2zyaxJqNOR6MO3g5u.jpg"
+    "poster_path": "/izK8ajqcwa2zyaxJqNOR6MO3g5u.jpg",
+    "director": "М. Найт Шьямалан"
   },
   {
     "title": "Talladega Nights: The Ballad of Ricky Bobby",
@@ -16440,7 +17125,8 @@ var movieDB = [
     "why": "Рикки Бобби — автогонщик мирового класса, участвующий в соревнованиях серии NASCAR. Рикки придерживается принципа «победа любой ценой», что делает его национальным героем.  Он и его верный друг Кэл Нотон-мл. всегда занимают соответственно первые и вторые места; восхищаясь бесстрашными гонщиками, их ...",
     "title_ru": "Рики Бобби: Король дороги",
     "tmdb_id": 9718,
-    "poster_path": "/11XYJcgsfx2D68qs9s5m6O03Rw7.jpg"
+    "poster_path": "/11XYJcgsfx2D68qs9s5m6O03Rw7.jpg",
+    "director": "Адам Маккей"
   },
   {
     "title": "Focus",
@@ -16462,7 +17148,8 @@ var movieDB = [
     "why": "История об опытном мошеннике, который влюбляется в девушку, делающую первые шаги на поприще нелегального отъема средств у граждан. Отношения становятся для них проблемой, когда обнаруживается, что романтика мешает их нечестному бизнесу.",
     "title_ru": "Фокус",
     "tmdb_id": 256591,
-    "poster_path": "/zqgYuwxxqKWtdbljthoWejtYOR6.jpg"
+    "poster_path": "/zqgYuwxxqKWtdbljthoWejtYOR6.jpg",
+    "director": "Джон Рекуа, Гленн Фикарра"
   },
   {
     "title": "Bright",
@@ -16484,7 +17171,8 @@ var movieDB = [
     "why": "Действие разворачивается в Лос-Анджелесе, в вымышленном фантастическом мире, где царствуют не только высокие технологии, но и магия. В городе бок о бок с людьми живут эльфы, орки и другие сверхъестественные существа. Главный герой служит в полицейском департаменте, в специальном отделе, занимающимся...",
     "title_ru": "Яркость",
     "tmdb_id": 400106,
-    "poster_path": "/3rqaO3CkcMqejUkXZqzpIEo56fl.jpg"
+    "poster_path": "/3rqaO3CkcMqejUkXZqzpIEo56fl.jpg",
+    "director": "Дэвид Эйер"
   },
   {
     "title": "Anna Karenina",
@@ -16506,7 +17194,8 @@ var movieDB = [
     "why": "Встречая приехавшую из Петербурга мать, молодой блистательный офицер граф Вронский знакомится с женой влиятельного петербургского чиновника Анной Карениной. Огонь страсти вспыхивает мгновенно, но их любовь шокирует высшее общество. В мире, где правят предрассудки и стереотипы, ей придётся сделать по...",
     "title_ru": "Анна Каренина",
     "tmdb_id": 96724,
-    "poster_path": "/8Evij4nArb6xgXLNjpF1Z2zp3Og.jpg"
+    "poster_path": "/8Evij4nArb6xgXLNjpF1Z2zp3Og.jpg",
+    "director": "Джо Райт"
   },
   {
     "title": "Sky High",
@@ -16528,7 +17217,8 @@ var movieDB = [
     "why": "Уилл Стронгхолд — типичный подросток, собирающийся поступать в колледж, из довольно нетипичной семьи. Его родители — Командор Стронгхолд и Джетстрим — супергерои, причем самые «успешные» и горячелюбимые.  А Уилл, соответственно, продолжатель семейного дела и ему предстоит пойти не в обычный колледж,...",
     "title_ru": "Высший пилотаж",
     "tmdb_id": 11459,
-    "poster_path": "/tnYyemjSRFvURNZYJplsSMTe08D.jpg"
+    "poster_path": "/tnYyemjSRFvURNZYJplsSMTe08D.jpg",
+    "director": "Майк Митчелл"
   },
   {
     "title": "Bring It On",
@@ -16544,7 +17234,8 @@ var movieDB = [
     "why": "Между девчонками из групп поддержки спортивных команд разгорается нешуточная борьба за звание лучшей. В ход идут самые неожиданные приёмы и ухищрения. Но чтобы стать первой, команде нужно победить в национальном чемпионате, а этого смогут добиться только самые красивые, талантливые, задорные и сексу...",
     "title_ru": "Добейся успеха",
     "tmdb_id": 1588,
-    "poster_path": "/gFFbQhORZa79rPJqwJPBoKElPEt.jpg"
+    "poster_path": "/gFFbQhORZa79rPJqwJPBoKElPEt.jpg",
+    "director": "Пейтон Рид"
   },
   {
     "title": "Alvin and the Chipmunks",
@@ -16569,7 +17260,8 @@ var movieDB = [
     "why": "Элвин и бурундуки, как это ни смешно, — настоящий бренд и легенда. Писклявое трио бурундуков и Дэйв Севиль за время своей музыкальной карьеры стали настоящей иконой. Более 43 миллионов проданных альбомов, несколько премий «Грэмми», популярный телевизионный анимационный сериал, рейтинговые субботние ...",
     "title_ru": "Элвин и бурундуки",
     "tmdb_id": 6477,
-    "poster_path": "/wA7ElNFCZZ95UDQi3d40s6whpnn.jpg"
+    "poster_path": "/wA7ElNFCZZ95UDQi3d40s6whpnn.jpg",
+    "director": "Тим Хилл"
   },
   {
     "title": "Big Daddy",
@@ -16588,7 +17280,8 @@ var movieDB = [
     "why": "Если бы дети могли выбирать себе родителей, все малыши попросили бы, чтобы тридцатилетний Санни был их папой. Ведь он разрешает делать абсолютно все: есть кетчупа вдоволь, плеваться, где хочешь, ходить по улице в ластах, не спать, не мыть руки и не убирать постель.Когда человек, который сам так и не...",
     "title_ru": "Большой папа",
     "tmdb_id": 9032,
-    "poster_path": "/lUitI79GqkUMfey8Z3vDAZgyxgd.jpg"
+    "poster_path": "/lUitI79GqkUMfey8Z3vDAZgyxgd.jpg",
+    "director": "Деннис Дуган"
   },
   {
     "title": "The King's Man",
@@ -16610,7 +17303,8 @@ var movieDB = [
     "why": "1914 год. Несколько лет назад герцог Оксфордский потерял любимую жену, поэтому теперь трясётся над единственным сыном Конрадом и пытается уберечь его ото всякого рода опасностей. Но парень горит желанием служить короне и напрашивается с отцом в командировку в Сараево, где прямо у них на глазах убива...",
     "title_ru": "King’s Man: Начало",
     "tmdb_id": 476669,
-    "poster_path": "/9NyzS42sc9mvNLyPJtYqTqpkEoY.jpg"
+    "poster_path": "/9NyzS42sc9mvNLyPJtYqTqpkEoY.jpg",
+    "director": "Мэттью Вон"
   },
   {
     "title": "Casper",
@@ -16632,7 +17326,8 @@ var movieDB = [
     "why": "Каспер, маленькое дружелюбное привидение, не желает походить на своих хулиганствующих собратьев. Его дружба с девочкой-подростком Кэт помогает ей и ее отцу, доктору Харви, справиться с опасностями, поджидающими их в населенном призраками доме.",
     "title_ru": "Каспер",
     "tmdb_id": 8839,
-    "poster_path": "/382GzaBBdJBLYJQgdi9k9fg0QID.jpg"
+    "poster_path": "/382GzaBBdJBLYJQgdi9k9fg0QID.jpg",
+    "director": "Brad Silberling"
   },
   {
     "title": "Hitch",
@@ -16654,7 +17349,8 @@ var movieDB = [
     "why": "Алекс «Хитч» - легендарный нью-йоркский «доктор-сват». Множеству мужчин он помог добиться взаимности от женщин их мечты. Хитч не бескорыстен, он получает за свою работу гонорар, но предусмотрительно хранит в тайне свой способ зарабатывать на жизнь.Новый клиент Хитча - Альберт, робкий бухгалтер, без ...",
     "title_ru": "Правила съёма: Метод Хитча",
     "tmdb_id": 8488,
-    "poster_path": "/10fgHJ8SD4qBLvl7AhWXjV2zIm6.jpg"
+    "poster_path": "/10fgHJ8SD4qBLvl7AhWXjV2zIm6.jpg",
+    "director": "Энди Теннант"
   },
   {
     "title": "South Park: Bigger, Longer & Uncut",
@@ -16673,7 +17369,8 @@ var movieDB = [
     "why": "В кинопрокате города Южного Парка появляется художественный фильм для взрослых «Пламенные жопы». Стэн, Кайл, Кенни и Картман хитростью проникают на просмотр и знакомятся с чудовищными ругательствами, которые изрыгают знатные канадские юмористы сортирного толка - Терренс и Филлип. По окончании просмо...",
     "title_ru": "Южный Парк: Большой, длинный и необрезанный",
     "tmdb_id": 9473,
-    "poster_path": "/pXIvqiOqcZ9vvDWPDpZJuOXTvqb.jpg"
+    "poster_path": "/pXIvqiOqcZ9vvDWPDpZJuOXTvqb.jpg",
+    "director": "Трей Паркер"
   },
   {
     "title": "Just Go with It",
@@ -16692,7 +17389,8 @@ var movieDB = [
     "why": "Главный герой Дэнни встретил Палмер, и чтобы произвести впечатление, рассказал о своей несуществующей жене и тяготах семейной жизни. Вместо ожидаемого сочувствия, Палмер хочет познакомится с его женой, и Дэнни необходимо срочно придумать, как выпутаться из столь интересного положения. К счастью, у н...",
     "title_ru": "Притворись моей женой",
     "tmdb_id": 50546,
-    "poster_path": "/sn085yZBrbQdbYo1LDAwsQ4P6ba.jpg"
+    "poster_path": "/sn085yZBrbQdbYo1LDAwsQ4P6ba.jpg",
+    "director": "Деннис Дуган"
   },
   {
     "title": "Charlie's Angels",
@@ -16714,7 +17412,8 @@ var movieDB = [
     "why": "Частное детективное агентство Таунсенд, возглавляемое таинственным Чарли, открывает свои офисы по всему миру, и теперь в разных уголках земного шара команды суперпрофессиональных Ангелов под началом Босли обеспечивают покой и безопасность своим клиентам.",
     "title_ru": "Ангелы Чарли",
     "tmdb_id": 458897,
-    "poster_path": "/fFvHx6DazV8wbYcZ2oJCHeuSuAM.jpg"
+    "poster_path": "/fFvHx6DazV8wbYcZ2oJCHeuSuAM.jpg",
+    "director": "Элизабет Бэнкс"
   },
   {
     "title": "Babe",
@@ -16739,7 +17438,8 @@ var movieDB = [
     "why": "История о приключениях маленького необыкновенно умного поросенка йоркширской породы. Все животные на ферме Хоггетов имеют ярко выраженную индивидуальность и общаются между собой на человеческом языке. Люди при этом, разумеется, совершенно не в курсе дела.\r Когда же хозяин начинает что-то подозревать...",
     "title_ru": "Бэйб: Четвероногий малыш",
     "tmdb_id": 9598,
-    "poster_path": "/f3Cezs17GNNC1HyGeseJ74slPNx.jpg"
+    "poster_path": "/f3Cezs17GNNC1HyGeseJ74slPNx.jpg",
+    "director": "Chris Noonan"
   },
   {
     "title": "The Predator",
@@ -16759,7 +17459,8 @@ var movieDB = [
     "why": "Главный герой, бывший морпех, обнаруживает злобную инопланетную расу на Земле, но никто не верит ему, что эти твари существуют. Его сын-аутист, которого все обижают в школе, становится ключевой фигурой в схватке с Хищниками, поскольку мальчик умеет невероятно быстро учить языки и, судя по всему, смо...",
     "title_ru": "Хищник",
     "tmdb_id": 346910,
-    "poster_path": "/iFPCByJjLivNpfHWcF8M7aPNd62.jpg"
+    "poster_path": "/iFPCByJjLivNpfHWcF8M7aPNd62.jpg",
+    "director": "Шейн Блэк"
   },
   {
     "title": "Madagascar 3: Europe's Most Wanted",
@@ -16785,7 +17486,8 @@ var movieDB = [
     "why": "Лев Алекс, зебра Марти, бегемотиха Глория и жираф Мелман, а также король Джулиан, Морис, Морт и Пингвины всё ещё пытаются вернуться в Нью-Йорк. На этот раз их путь пройдёт через Европу, где они откроют свой цирк.",
     "title_ru": "Мадагаскар 3",
     "tmdb_id": 80321,
-    "poster_path": "/aOKn2A1Ve0rKd6u8nTS1kXYSR65.jpg"
+    "poster_path": "/aOKn2A1Ve0rKd6u8nTS1kXYSR65.jpg",
+    "director": "Эрик Дарнелл, Том МакГрат, Конрад Вернон"
   },
   {
     "title": "Isn't It Romantic",
@@ -16807,7 +17509,8 @@ var movieDB = [
     "why": "Разочаровавшаяся в любви молодая женщина осознает, что мистическим образом оказалась в своего рода романтической комедии.",
     "title_ru": "Ну разве не романтично?",
     "tmdb_id": 449563,
-    "poster_path": "/cRjn0B4M9Idrax8ZoUjsL6Oacqa.jpg"
+    "poster_path": "/cRjn0B4M9Idrax8ZoUjsL6Oacqa.jpg",
+    "director": "Todd Strauss-Schulson"
   },
   {
     "title": "Battleship Potemkin",
@@ -16829,7 +17532,8 @@ var movieDB = [
     "why": "Немой художественный фильм, снятый режиссёром Сергеем Эйзенштейном на киностудии «Мосфильм» в 1925 году. Неоднократно в разные годы признавался лучшим или одним из лучших фильмов всех времён и народов по итогам опросов критиков, кинорежиссёров и публики. Сценарий, по которому снимался фильм, основан...",
     "title_ru": "Броненосец Потёмкин",
     "tmdb_id": 643,
-    "poster_path": "/zP52DTxAVgdc3q7pURqiNrvBfWK.jpg"
+    "poster_path": "/zP52DTxAVgdc3q7pURqiNrvBfWK.jpg",
+    "director": "Сергей Эйзенштейн"
   },
   {
     "title": "Ghost Rider",
@@ -16851,7 +17555,8 @@ var movieDB = [
     "why": "Как только на город спускается ночь, в ущельях улиц раздается рев мощного мотора, и все в ужасе пытаются скрыться, заслышав этот звук. Ведь он возвещает приближение Призрачного Ездока - жуткого демона мщения с пылающим черепом вместо головы, рассекающего на объятом адским пламенем черном мотоцикле. ...",
     "title_ru": "Призрачный гонщик",
     "tmdb_id": 1250,
-    "poster_path": "/4ULbCH7RO1bkCCsBEI9gAOm9cWp.jpg"
+    "poster_path": "/4ULbCH7RO1bkCCsBEI9gAOm9cWp.jpg",
+    "director": "Mark Steven Johnson"
   },
   {
     "title": "Christine",
@@ -16867,7 +17572,8 @@ var movieDB = [
     "why": "Ее зовут Кристина. Ее классические формы вызывают восхищение. Она соблазняет 17-летнего Арни Каннингэма и делает его своим слугой. У нее нет и не может быть соперниц, ибо она их убивает. Она требует беспрекословного подчинения.Она… автомобиль! Чтобы сохранить свою жизнь, юноша должен посвятить ее же...",
     "title_ru": "Кристина",
     "tmdb_id": 8769,
-    "poster_path": "/y9Q0jDpPp71efgbYfivKNnEKzUK.jpg"
+    "poster_path": "/y9Q0jDpPp71efgbYfivKNnEKzUK.jpg",
+    "director": "Джон Карпентер"
   },
   {
     "title": "The Cat Returns",
@@ -16889,7 +17595,8 @@ var movieDB = [
     "why": "Ghibli: девушка спасает кошачьего принца и попадает в Кошачье королевство. Барон и Мута. Лёгкое и очаровательное.",
     "title_ru": "猫の恩返し- 誕生物語",
     "tmdb_id": 729191,
-    "poster_path": "/iWuacy2b0Cn4GPGEwLpbwl9rl7S.jpg"
+    "poster_path": "/iWuacy2b0Cn4GPGEwLpbwl9rl7S.jpg",
+    "director": "Хироюки Морита"
   },
   {
     "title": "Transformers: Age of Extinction",
@@ -16913,7 +17620,8 @@ var movieDB = [
     "why": "Автоботы и десептиконы покинули планету, оставив человечество собирать её по кусочкам. Между тем группа могущественных бизнесменов и гениальных учёных пытается извлечь уроки из ошибок прошлого и улучшить технологии до такой степени, чтобы выйти за пределы контролируемого ранее. В это время другая гр...",
     "title_ru": "Трансформеры 4: Эпоха истребления",
     "tmdb_id": 91314,
-    "poster_path": "/egU3gts1IFjixpQGHZ9g7fmgBiR.jpg"
+    "poster_path": "/egU3gts1IFjixpQGHZ9g7fmgBiR.jpg",
+    "director": "Майкл Бэй"
   },
   {
     "title": "King Arthur: Legend of the Sword",
@@ -16935,7 +17643,8 @@ var movieDB = [
     "why": "Молодой Артур живёт на задворках Лондиниума вместе со своей бандой. Он и понятия не имел о своём королевском происхождении, пока однажды не взял в руки меч Эскалибур. Меч начинает менять Артура. В результате он присоединяется к сопротивлению и таинственной молодой девушке по имени Гвиневра. Ему пред...",
     "title_ru": "Меч короля Артура",
     "tmdb_id": 274857,
-    "poster_path": "/pR5liuSzUesiYhe80yTpigUce73.jpg"
+    "poster_path": "/pR5liuSzUesiYhe80yTpigUce73.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "Rocky IV",
@@ -16958,7 +17667,8 @@ var movieDB = [
     "why": "Рокки Бальбоа счастлив в своей семейной жизни, и даже вечное напускное бурчанье Поли Пеннино, брата Адрианы, не способно испортить Рокки хорошее настроение. Но в жизнь Бальбоа все-таки врывается новая трагедия… Его друг и тренер Аполло Крид соглашается принять участие в показательном поединке с чемп...",
     "title_ru": "Рокки 4",
     "tmdb_id": 1374,
-    "poster_path": "/9HJvXMX2NqE8qrwvdFbC0ocy6u5.jpg"
+    "poster_path": "/9HJvXMX2NqE8qrwvdFbC0ocy6u5.jpg",
+    "director": "Сильвестр Сталлоне"
   },
   {
     "title": "Jason Bourne",
@@ -16984,7 +17694,8 @@ var movieDB = [
     "why": "Мир на грани катастрофы, а значит пришло время ему вернуться. Неаполь, Мюнхен, Нью-Йорк — его имя знают повсюду. Элитный суперагент, лучший из лучших, даже в Лас-Вегасе игра пойдет по его правилам. Он — Джейсон Борн.",
     "title_ru": "Джейсон Борн",
     "tmdb_id": 324668,
-    "poster_path": "/8L7HBQXZQVW2V0GnlBKnZGCnosO.jpg"
+    "poster_path": "/8L7HBQXZQVW2V0GnlBKnZGCnosO.jpg",
+    "director": "Пол Гринграсс"
   },
   {
     "title": "Insurgent",
@@ -17004,7 +17715,8 @@ var movieDB = [
     "why": "В новой главе антиутопии об обществе, где все расставлено по полочкам, а любая индивидуальность подлежит искоренению, Трис должна найти способ борьбы со страшной системой, уничтожающей ее близких. Кто из них на очереди? Она узнает все больше страшных подробностей, стоящих за кажущимся порядком, и уж...",
     "title_ru": "Дивергент, глава 2: Инсургент",
     "tmdb_id": 262500,
-    "poster_path": "/i3v2kcuvjoT35rnddLu7dl5B81o.jpg"
+    "poster_path": "/i3v2kcuvjoT35rnddLu7dl5B81o.jpg",
+    "director": "Роберт Швентке"
   },
   {
     "title": "Jack Reacher",
@@ -17029,7 +17741,8 @@ var movieDB = [
     "why": "Снайпер убивает нескольких случайных прохожих. Его находят и арестовывают. Все улики указывают на него. На допросе вместо признания он пишет имя — Джек Ричер. Больше обвиняемый не может ничего сказать, поскольку после избиения заключёнными впадает в кому. Загадочный Джек Ричер появляется незамедлите...",
     "title_ru": "Джек Ричер",
     "tmdb_id": 75780,
-    "poster_path": "/qw1RGKZDasgyJIA4yUbaQxAgxD8.jpg"
+    "poster_path": "/qw1RGKZDasgyJIA4yUbaQxAgxD8.jpg",
+    "director": "Кристофер МакКуорри"
   },
   {
     "title": "Jingle All the Way",
@@ -17051,7 +17764,8 @@ var movieDB = [
     "why": "Ужасно занятый на работе отец постоянно опаздывает на семейные мероприятия. После очередной неявки на выступление собственного сына по карате он обещает купить ему на Рождество суперигрушку — Турбомена и, естественно, в суете рождественских хлопот благополучно забывает об обещании.  И вот начинается...",
     "title_ru": "Подарок на Рождество",
     "tmdb_id": 9279,
-    "poster_path": "/pvtBqCJTfrAgGk6GY1InurtsUiX.jpg"
+    "poster_path": "/pvtBqCJTfrAgGk6GY1InurtsUiX.jpg",
+    "director": "Brian Levant"
   },
   {
     "title": "Rampage",
@@ -17071,7 +17785,8 @@ var movieDB = [
     "why": "Приматолог Дэвис Окойи предпочитает держаться подальше от людей и дружит с Джорджем, удивительно умным альфа-самцом — гориллой, которого он воспитывал с самого рождения. Но вышедший из-под контроля генетический эксперимент превращает послушную обезьяну в яростного монстра. Более того, вскоре обнаруж...",
     "title_ru": "Рэмпейдж",
     "tmdb_id": 427641,
-    "poster_path": "/tZays7crj8VTskXUMwE6N7jeulx.jpg"
+    "poster_path": "/tZays7crj8VTskXUMwE6N7jeulx.jpg",
+    "director": "Брэд Пейтон"
   },
   {
     "title": "Holidate",
@@ -17090,7 +17805,8 @@ var movieDB = [
     "why": "Сытые по горло одиночеством по праздникам, незнакомые до этого девушка и парень соглашаются быть парой на праздники в течение всего года, но неожиданно они попутно начинают испытывать к друг другу настоящие чувства.",
     "title_ru": "Пара на праздники",
     "tmdb_id": 615665,
-    "poster_path": "/aCdJsARgdVj2URgoXlpvjibSuv7.jpg"
+    "poster_path": "/aCdJsARgdVj2URgoXlpvjibSuv7.jpg",
+    "director": "John Whitesell"
   },
   {
     "title": "True Lies",
@@ -17109,7 +17825,8 @@ var movieDB = [
     "why": "Для своей семьи Гарри Таскер - любящий муж и отец, человек скромный и рассеянный, обыкновенный продавец компьютеров, «не вылезающий» с работы ни днем, ни ночью. Но лишь немногие знают, что на самом деле Гарри - специальный агент тайной правительственной службы, специализирующийся на особо опасных за...",
     "title_ru": "Правдивая ложь",
     "tmdb_id": 36955,
-    "poster_path": "/ef1W30VcCkN94UIzMfJNts0spE.jpg"
+    "poster_path": "/ef1W30VcCkN94UIzMfJNts0spE.jpg",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Despicable Me 3",
@@ -17136,7 +17853,8 @@ var movieDB = [
     "why": "Грю остепенился, отошёл от нелегальных дел, стал работать на секретную государственную организацию и превратился в образцового семьянина. Вместе с Люси, они стараются дать своим 3-ём дочерям счастливое детство. Но негодяй Бальтазар Брейк внезапно нападает на корабль, перевозящий самый большой в мире...",
     "title_ru": "Гадкий я 3",
     "tmdb_id": 324852,
-    "poster_path": "/wlSfRcfo2mkHwegiXCoeiQnQ874.jpg"
+    "poster_path": "/wlSfRcfo2mkHwegiXCoeiQnQ874.jpg",
+    "director": "Кайл Балда, Пьер Коффен"
   },
   {
     "title": "Rocky II",
@@ -17159,7 +17877,8 @@ var movieDB = [
     "why": "Проиграв по очкам в незабываемом поединке за звание чемпиона мира в первой части, Рокки Бальбоа пытается бросить спорт и начать новую спокойную жизнь. Однако, это у него не получается, ведь бокс — его призвание. В итоге, несмотря на протесты молодой жены, Рокки принимает вызов своего старого соперни...",
     "title_ru": "Рокки 2",
     "tmdb_id": 1367,
-    "poster_path": "/dhfJVIcQwuTK0DQXmaxEeCjJCnH.jpg"
+    "poster_path": "/dhfJVIcQwuTK0DQXmaxEeCjJCnH.jpg",
+    "director": "Сильвестр Сталлоне"
   },
   {
     "title": "Annabelle Comes Home",
@@ -17179,7 +17898,8 @@ var movieDB = [
     "why": "Преисполнившись решимости удержать Аннабель от дальнейших разрушений и хаоса, демонологи Эд и Лоррейн Уоррены приносят одержимую куклу в запертую комнату артефактов в своем доме, поместив ее под «надежное» освященное стекло и заручившись благословением священника. Однако беспросветная ночь ужаса жде...",
     "title_ru": "Проклятие Аннабель 3",
     "tmdb_id": 521029,
-    "poster_path": "/jLqJCkyepldyxQhp28Kr6zsKcF3.jpg"
+    "poster_path": "/jLqJCkyepldyxQhp28Kr6zsKcF3.jpg",
+    "director": "Гэри Доберман"
   },
   {
     "title": "Blade II",
@@ -17204,7 +17924,8 @@ var movieDB = [
     "why": "Мир вампиров в ужасе от появления новой расы суперкровососов. Именно благодаря этому легендарный Блэйд и его учитель Уистлер вынуждены объединиться со своими кровными врагами - Кровавой Стаей, элитным отрядом вампиров-воинов.",
     "title_ru": "Блэйд 2",
     "tmdb_id": 36586,
-    "poster_path": "/bHXgmHFyUFVh861TTxc7O0PCF6G.jpg"
+    "poster_path": "/bHXgmHFyUFVh861TTxc7O0PCF6G.jpg",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "The Mummy",
@@ -17230,7 +17951,8 @@ var movieDB = [
     "why": "Отряд специального назначения проводит в пустыне операцию по обезвреживанию группы террористов. Спустившись в бункер, они не обнаруживают врага, но находят древний саркофаг, который решают доставить на базу для дальнейшего изучения. Однако во время перелёта происходит череда странных событий, в резу...",
     "title_ru": "Мумия",
     "tmdb_id": 282035,
-    "poster_path": "/it3GF74zccZJLZQg1OfsgSJRrVH.jpg"
+    "poster_path": "/it3GF74zccZJLZQg1OfsgSJRrVH.jpg",
+    "director": "Алекс Курцман"
   },
   {
     "title": "Terminator 3: Rise of the Machines",
@@ -17251,7 +17973,8 @@ var movieDB = [
     "why": "Прошло десять лет с тех пор, как Джон Коннор помог предотвратить Судный День и спасти человечество от массового уничтожения. Теперь ему 25, Коннор не живет «как все» - у него нет дома, нет кредитных карт, нет сотового телефона и никакой работы. Его существование нигде не зарегистрировано. Он не може...",
     "title_ru": "Терминатор 3: Восстание машин",
     "tmdb_id": 296,
-    "poster_path": "/nnZlp31UgvkRuIzSmCTHO1SkvQ.jpg"
+    "poster_path": "/nnZlp31UgvkRuIzSmCTHO1SkvQ.jpg",
+    "director": "Джонатан Мостоу"
   },
   {
     "title": "The Grinch",
@@ -17276,7 +17999,8 @@ var movieDB = [
     "why": "Любой бы на месте Гринча позеленел и взбесился. Как порядочный интроверт, он живёт в тёмной пещере на самой вершине горы подальше ото всех, но эти \"все\" готовят грандиознейшее празднование нового года. Они шумят, всё украшают и дико бесят. Кто бы отказал себе в удовольствии испортить праздник? Гринч...",
     "title_ru": "Гринч",
     "tmdb_id": 360920,
-    "poster_path": "/t1f5cF0QHTxT4I9PZmjCUF8EPSs.jpg"
+    "poster_path": "/t1f5cF0QHTxT4I9PZmjCUF8EPSs.jpg",
+    "director": "Yarrow Cheney, Scott Mosier"
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -17298,7 +18022,8 @@ var movieDB = [
     "why": "Охотник за сокровищами Бен Гейтс, вооружившись поддержкой любимой женщины, верного друга Райли, а также своих родителей, отправляется на поиски затерянного золотого города. Только пройдя сквозь череду невероятных и увлекательных приключений, Бену удастся очистить имя своего предка от обвинений в уби...",
     "title_ru": "Сокровище нации 2: Книга тайн",
     "tmdb_id": 6637,
-    "poster_path": "/hSSFO2sbZ8WfdgjunwzCh9s0dt1.jpg"
+    "poster_path": "/hSSFO2sbZ8WfdgjunwzCh9s0dt1.jpg",
+    "director": "Джон Тёртелтауб"
   },
   {
     "title": "The Beach",
@@ -17329,7 +18054,8 @@ var movieDB = [
     ],
     "title_ru": "Пляж",
     "tmdb_id": 1907,
-    "poster_path": "/tGP1STASvHKdFnHl3He7mWvVcRg.jpg"
+    "poster_path": "/tGP1STASvHKdFnHl3He7mWvVcRg.jpg",
+    "director": "Дэнни Бойл"
   },
   {
     "title": "Hero",
@@ -17356,7 +18082,8 @@ var movieDB = [
     "why": "Чжан Имоу: цвета рассказывают историю. Джет Ли против армии. Каждая битва — симфония цвета.",
     "title_ru": "Lone Hero",
     "tmdb_id": 77845,
-    "poster_path": "/sI0ywWUENQIoxWhnGrD7d3JOZdM.jpg"
+    "poster_path": "/sI0ywWUENQIoxWhnGrD7d3JOZdM.jpg",
+    "director": "Ken Sanzel"
   },
   {
     "title": "Pet Sematary",
@@ -17372,7 +18099,8 @@ var movieDB = [
     "why": "Доктор Луис Крид переезжает в маленький городок, где его семью ждет большой дом, а самого Луиса - скромная должность врача. Несчастье приходит в дом Кридов: кот Черч, домашний любимец, по нелепой случайности попадает под колеса грузовика. Гибель Черча повергает семью доктора в шок, и Луис решается н...",
     "title_ru": "Кладбище домашних животных",
     "tmdb_id": 8913,
-    "poster_path": "/6Xa3dKMx5CmKcJjx0IHijEkKCxW.jpg"
+    "poster_path": "/6Xa3dKMx5CmKcJjx0IHijEkKCxW.jpg",
+    "director": "Mary Lambert"
   },
   {
     "title": "Snowden",
@@ -17397,7 +18125,8 @@ var movieDB = [
     "why": "Он мечтал продолжить семейную традицию и посвятить свою жизнь служению Родине. Он безоговорочно верил в правительство США и поддерживал антитеррористическую программу. На заре его карьеры в спецслужбах никто, даже он сам, не мог бы предположить, что именно он, Эдвард Сноуден, совершит самое крупное ...",
     "title_ru": "Сноуден",
     "tmdb_id": 302401,
-    "poster_path": "/lZmcl9RT3EphrvR0AdQ06sGL7mL.jpg"
+    "poster_path": "/lZmcl9RT3EphrvR0AdQ06sGL7mL.jpg",
+    "director": "Оливер Стоун"
   },
   {
     "title": "Gemini Man",
@@ -17423,7 +18152,8 @@ var movieDB = [
     "why": "Генри Броган, первоклассный киллер, становится мишенью таинственного оперативника, который, кажется, знает каждый его шаг наперед…",
     "title_ru": "Гемини",
     "tmdb_id": 453405,
-    "poster_path": "/675Byk1w1KV0k0G0Vg57iM2T1ya.jpg"
+    "poster_path": "/675Byk1w1KV0k0G0Vg57iM2T1ya.jpg",
+    "director": "李安"
   },
   {
     "title": "A Goofy Movie",
@@ -17449,7 +18179,8 @@ var movieDB = [
     "why": "Макс — сын Гуфи, он учится в обычной американской школе. Макс влюбляется в свою одноклассницу Роксанну, которая кажется ему самой красивой и самой лучшей на свете. Он хочет произвести на Роксанну впечатление, и придумывает всевозможные способы, чтобы выделиться. Гуфи по мере возможностей помогает св...",
     "title_ru": "Каникулы Гуфи",
     "tmdb_id": 15789,
-    "poster_path": "/hj8gWFvOrEBL44fF5FPZbHOZoJe.jpg"
+    "poster_path": "/hj8gWFvOrEBL44fF5FPZbHOZoJe.jpg",
+    "director": "Кевин Лима"
   },
   {
     "title": "Song of the Sea",
@@ -17472,7 +18203,8 @@ var movieDB = [
     "why": "Невероятная история Бена и его сестрёнки Сирши. Вместе они пускаются в фантастическое путешествие сквозь исчезающий мир древних легенд и магии.",
     "title_ru": "Песнь моря",
     "tmdb_id": 110416,
-    "poster_path": "/nta3pFZkEwxKoR0tIXFdijXZMPy.jpg"
+    "poster_path": "/nta3pFZkEwxKoR0tIXFdijXZMPy.jpg",
+    "director": "Tomm Moore"
   },
   {
     "title": "Pixels",
@@ -17492,7 +18224,8 @@ var movieDB = [
     "why": "В 80-ых, Сэм, Уилл, Ладлоу и Эдди были настоящими профессионалами в аркадных видеоиграх, проводя за виртуальными сражениями дни напролёт и выигрывая различные турниры. В наши дни инопланетяне, бороздящие просторы космоса, натыкаются на отправленную правительством США капсулу времени с видеоиграми вн...",
     "title_ru": "Пиксели",
     "tmdb_id": 257344,
-    "poster_path": "/hpZKgjYqY9Fy0glIvQrddvgz9Ov.jpg"
+    "poster_path": "/hpZKgjYqY9Fy0glIvQrddvgz9Ov.jpg",
+    "director": "Крис Коламбус"
   },
   {
     "title": "Enter the Dragon",
@@ -17508,7 +18241,8 @@ var movieDB = [
     "why": "На острове, превращённом в неприступную крепость, боевики открыли школу боевых искусств, которая является лишь ширмой для прикрытия бизнеса по контрабанде. В эту цитадель проникает Ли и становится участником жестокого турнира.",
     "title_ru": "Выход дракона",
     "tmdb_id": 9461,
-    "poster_path": "/qc2bu0LyrJtJmXZxX6fVP6HTvV4.jpg"
+    "poster_path": "/qc2bu0LyrJtJmXZxX6fVP6HTvV4.jpg",
+    "director": "Robert Clouse"
   },
   {
     "title": "Marley & Me",
@@ -17527,7 +18261,8 @@ var movieDB = [
     "why": "Молодой журналист со своей женой переезжает в другой город на новое место работы. У них грандиозные планы: покупка дома, дети… Но сначала они заводят собаку. Кто бы мог подумать, что именно она станет главным испытанием в их жизни.",
     "title_ru": "Марли и я",
     "tmdb_id": 14306,
-    "poster_path": "/xb7GQZ1ttzYCKmHAAXfsr7C3Me2.jpg"
+    "poster_path": "/xb7GQZ1ttzYCKmHAAXfsr7C3Me2.jpg",
+    "director": "Дэвид Фрэнкел"
   },
   {
     "title": "Surf's Up",
@@ -17549,7 +18284,8 @@ var movieDB = [
     "why": "Команда пингвинов-документалистов приглашает зрителей взглянуть за кулисы самого спортивного, драматичного и опасного соревнования серфингистов на планете — Ежегодного Пингвиньего чемпионата мира по серфингу.",
     "title_ru": "Лови волну",
     "tmdb_id": 9408,
-    "poster_path": "/8WN7i6RfPJLpx7K4FausJdCShBm.jpg"
+    "poster_path": "/8WN7i6RfPJLpx7K4FausJdCShBm.jpg",
+    "director": "Ash Brannon, Крис Бак"
   },
   {
     "title": "101 Dalmatians",
@@ -17568,7 +18304,8 @@ var movieDB = [
     "why": "Эта забавная история произошла в Англии на Рождество… Злодейка Круэлла Дэ Вил решает украсть ровно 101 далматинца, чтобы пополнить коллекцию своих меховых изделий. Однако она еще не представляет, что ее ждет, ведь хозяева и родители маленьких пятнистых щенков не будут сидеть сложа руки…",
     "title_ru": "101 далматинец",
     "tmdb_id": 11674,
-    "poster_path": "/jW9YEvExHz8MrYGdu9a3UJs08cC.jpg"
+    "poster_path": "/jW9YEvExHz8MrYGdu9a3UJs08cC.jpg",
+    "director": "Stephen Herek"
   },
   {
     "title": "Pacific Rim: Uprising",
@@ -17595,7 +18332,8 @@ var movieDB = [
     "why": "Команда пилотируемых роботов-защитников остановила вторжение гигантских инопланетных монстров. Великая битва за Тихоокеанский рубеж ознаменовала новую главу в истории человечества. Однако война только начинается… Пришло время нового поколения отстаивать своё право на Землю.",
     "title_ru": "Тихоокеанский рубеж 2",
     "tmdb_id": 268896,
-    "poster_path": "/hAR6AdEKMVQXrcTt1hnaEU7YvSX.jpg"
+    "poster_path": "/hAR6AdEKMVQXrcTt1hnaEU7YvSX.jpg",
+    "director": "Стивен С. ДеНайт"
   },
   {
     "title": "Carrie",
@@ -17615,7 +18353,8 @@ var movieDB = [
     "why": "Невзрачная старшеклассница по имени Кэрри с рождения обладает способностями телекинеза. Давление со стороны фанатично религиозной мамочки и постоянные издевки сверстников лишь способствует развитию ее сверхъестественных способностей. На выпускном одноклассники решают жестоко подшутить над ней, что п...",
     "title_ru": "Телекинез",
     "tmdb_id": 133805,
-    "poster_path": "/vmVDaf9H93IrXWkW8KaT2WTZNoY.jpg"
+    "poster_path": "/vmVDaf9H93IrXWkW8KaT2WTZNoY.jpg",
+    "director": "Кимберли Пирс"
   },
   {
     "title": "Daredevil",
@@ -17635,7 +18374,8 @@ var movieDB = [
     "why": "Он живёт в мире вечной ночи, но эта темнота заполнена звуками и запахами, её можно попробовать на вкус и потрогать руками. Адвокат Мэтт Мердок слеп, но остальные органы чувств у него работают, как у супермэна.Днём Мердок защищает униженных и оскорблённых в зале суда, а ночью превращается в сорвиголо...",
     "title_ru": "Сорвиголова",
     "tmdb_id": 9480,
-    "poster_path": "/ArqASwh1zcP1XlDuQiWjwVoKg88.jpg"
+    "poster_path": "/ArqASwh1zcP1XlDuQiWjwVoKg88.jpg",
+    "director": "Mark Steven Johnson"
   },
   {
     "title": "The Wedding Singer",
@@ -17654,7 +18394,8 @@ var movieDB = [
     "why": "Во время свадебного торжества солист оркестра Робби Харт знакомится с начинающей официанткой Джулией. Выясняется, что каждый из них готовится к собственной свадьбе.  Однако, волею случая женитьба Робби расстраивается, а Джулия просит его помощь в организации своей свадьбы. И еще она просит Робби нау...",
     "title_ru": "Певец на свадьбе",
     "tmdb_id": 11003,
-    "poster_path": "/zVvyTrcZQb7kC2DPDzyo25WcxXp.jpg"
+    "poster_path": "/zVvyTrcZQb7kC2DPDzyo25WcxXp.jpg",
+    "director": "Frank Coraci"
   },
   {
     "title": "The Purge: Election Year",
@@ -17676,7 +18417,8 @@ var movieDB = [
     "why": "Сенатору США Чарли Роан надоело, что раз в год в стране проходят так называемые «Судные ночи», 12 часов беззакония и убийств, за которые никого не наказывают. Женщина баллотируется в президенты и планирует остановить традицию, но сильные мира сего против ее затеи.  В результате предательства Роан ок...",
     "title_ru": "Судная ночь 3",
     "tmdb_id": 316727,
-    "poster_path": "/tMYV9l8KLQYPYlXtEuLKnROkNyJ.jpg"
+    "poster_path": "/tMYV9l8KLQYPYlXtEuLKnROkNyJ.jpg",
+    "director": "Джеймс ДеМонако"
   },
   {
     "title": "San Andreas",
@@ -17698,7 +18440,8 @@ var movieDB = [
     "why": "Рэй — пилот спасательного вертолёта, который всю свою жизнь помогал другим людям. За всё время работы он насмотрелся на множество жутких вещей и не раз оказывался в очень сложных ситуациях. Несмотря на все преграды он спешил на помощь, даже не предполагая, что самое страшное ждёт его впереди. На Кал...",
     "title_ru": "Разлом Сан-Андреас",
     "tmdb_id": 254128,
-    "poster_path": "/y6QnREbCTPmI4TvkqIsfydDjrns.jpg"
+    "poster_path": "/y6QnREbCTPmI4TvkqIsfydDjrns.jpg",
+    "director": "Брэд Пейтон"
   },
   {
     "title": "American Made",
@@ -17720,7 +18463,8 @@ var movieDB = [
     "why": "Он был самым юным пилотом Боинга 747 в США, а уже через несколько лет стал одним из богатейших людей в Америке. Его стиль жизни был столь же экстремальным, как и его бизнес. Закрытые приемы, роскошные блондинки, крутые тачки и рисковые сделки. Он обладал талантом делать деньги из воздуха.",
     "title_ru": "Сделано в Америке",
     "tmdb_id": 337170,
-    "poster_path": "/uq91WJ0q9G2ai1rpTbDxEnhKmt1.jpg"
+    "poster_path": "/uq91WJ0q9G2ai1rpTbDxEnhKmt1.jpg",
+    "director": "Даг Лайман"
   },
   {
     "title": "Meet the Fockers",
@@ -17739,7 +18483,8 @@ var movieDB = [
     "why": "Дав разрешение санитару Грэгу Факеру на свадьбу с их дочерью, бывший ЦэРэУшник Джек Бернс и его жена отправляются в Детройт к родителям жениха. У них в голове много вопросов. Что это за семейка такая — Факеры? И что это вообще за родители, которые назвали сына Гей (Гейлард) М. Факер?",
     "title_ru": "Знакомство с Факерами",
     "tmdb_id": 693,
-    "poster_path": "/xkIFs7mbVszvidXFkLXjuYvzSLS.jpg"
+    "poster_path": "/xkIFs7mbVszvidXFkLXjuYvzSLS.jpg",
+    "director": "Джей Роуч"
   },
   {
     "title": "25th Hour",
@@ -17758,7 +18503,8 @@ var movieDB = [
     "why": "В фильме описывается последний день свободной жизни молодого бруклинца Монти Брогана (Эдвард Нортон), осужденного на семь лет тюрьмы за торговлю наркотиками. Оставшиеся 24 часа он проводит в компании своих родных, друзей, деловых партнеров и любимой девушки Натурель. Монти, мечтавший в свое время ст...",
     "title_ru": "25-й час",
     "tmdb_id": 1429,
-    "poster_path": "/77H8mdbgaONICdvPhsjehOfaQEA.jpg"
+    "poster_path": "/77H8mdbgaONICdvPhsjehOfaQEA.jpg",
+    "director": "Спайк Ли"
   },
   {
     "title": "Ted 2",
@@ -17777,7 +18523,8 @@ var movieDB = [
     "why": "Тед стал более сдержанным, и больше не ведёт разгульный образ жизни. Он женился на своей подруге Тэмми-Линн, и молодая парочка серьёзно задумывается о том, чтобы завести малыша. Вот только им приходится столкнуться с бюрократической машиной, потому что суд запрещает Теду заниматься опекой ребёнка, с...",
     "title_ru": "Третий лишний 2",
     "tmdb_id": 214756,
-    "poster_path": "/AqBPjVypcAsuuktWqPm6SyIb1PG.jpg"
+    "poster_path": "/AqBPjVypcAsuuktWqPm6SyIb1PG.jpg",
+    "director": "Сет МакФарлейн"
   },
   {
     "title": "Gremlins 2: The New Batch",
@@ -17799,7 +18546,8 @@ var movieDB = [
     "why": "На месте старого дома в центре Манхэттена выстроен супернебоскреб, в котором есть все: от телевизионной компании до биологической лаборатории. Сюда попадает и Гизмо – забавный и страннный зверек. По оплошности персонала здание захватывают гремлины – чудовища, порожденные Гизмо. Начинается новое наше...",
     "title_ru": "Гремлины 2: Новенькая Партия",
     "tmdb_id": 928,
-    "poster_path": "/twjM36ThHItIbQUhX48JgHgFOEe.jpg"
+    "poster_path": "/twjM36ThHItIbQUhX48JgHgFOEe.jpg",
+    "director": "Джо Данте"
   },
   {
     "title": "Assassin's Creed",
@@ -17825,7 +18573,8 @@ var movieDB = [
     "why": "Благодаря революционной технологии, которая высвобождает генетическую память, Каллум Линч переживает приключения своего предка Агилара в Испании XV столетия. Заполучив невероятные знания и способности, Каллум сразится с рыцарями ордена тамплиеров в наше время.",
     "title_ru": "Кредо убийцы",
     "tmdb_id": 121856,
-    "poster_path": "/wT03h6OwpigfgFiK11RruS520j9.jpg"
+    "poster_path": "/wT03h6OwpigfgFiK11RruS520j9.jpg",
+    "director": "Джастин Курзель"
   },
   {
     "title": "The Book of Eli",
@@ -17845,7 +18594,8 @@ var movieDB = [
     "why": "После вселенской катастрофы Америка превратилась в выжженную пустыню. По бескрайним дорогам, кишащим бандами, враждующими между собой за воду и еду, странствует мудрый Илай. Однажды он прибывает в мрачные края, где когда-то была цветущая Калифорния, а теперь это сущий ад, где бесчинствует тиран Карн...",
     "title_ru": "Книга Илая",
     "tmdb_id": 20504,
-    "poster_path": "/yvSuA19vWHK1Hi4fgtSCWAUG9pQ.jpg"
+    "poster_path": "/yvSuA19vWHK1Hi4fgtSCWAUG9pQ.jpg",
+    "director": "Аллен Хьюз, Альберт Хьюз"
   },
   {
     "title": "Real Steel",
@@ -17865,7 +18615,8 @@ var movieDB = [
     "why": "События фильма происходят в будущем, где бокс запрещен за негуманностью и заменен боями 2000-фунтовых роботов, управляемых людьми. Бывший боксер, а теперь промоутер, переметнувшийся в Робобокс, решает, что наконец нашел своего чемпиона, когда ему попадается выбракованный, но очень способный робот. О...",
     "title_ru": "Живая сталь",
     "tmdb_id": 39254,
-    "poster_path": "/3y9qKKMO8wJuw1UHnIgWm7LVr4p.jpg"
+    "poster_path": "/3y9qKKMO8wJuw1UHnIgWm7LVr4p.jpg",
+    "director": "Шон Леви"
   },
   {
     "title": "Scary Movie 2",
@@ -17882,7 +18633,8 @@ var movieDB = [
     "why": "Студентка Синди Кэмпбелл пытается оправиться от пережитых событий и поступает в колледж, надеясь начать спокойную жизнь. Однако вокруг неё снова начинают происходить странные и пугающие вещи: появляются зловещие видеозаписи, после просмотра которых люди умирают, а в доме её друзей будто обитает нечт...",
     "title_ru": "Очень страшное кино 2",
     "tmdb_id": 4248,
-    "poster_path": "/rra2vGpmqa7MpJAiQwxI084noxz.jpg"
+    "poster_path": "/rra2vGpmqa7MpJAiQwxI084noxz.jpg",
+    "director": "Кинен Айвори Уэйанс"
   },
   {
     "title": "The Expendables",
@@ -17904,7 +18656,8 @@ var movieDB = [
     "why": "Отряд профессиональных наёмников и отчаянных парней во главе с Барни Россом получает непростое задание - любой ценой найти и уничтожить кровавого тирана-диктатора, нагнетающего страх на мирное население и сеющего хаос в южноамериканской стране.\r Отправляясь на выполнение нелёгкой миссии, закалённые ...",
     "title_ru": "Неудержимые",
     "tmdb_id": 27578,
-    "poster_path": "/kx6qXzlYwM6lYi8PvU3XhBcmPDq.jpg"
+    "poster_path": "/kx6qXzlYwM6lYi8PvU3XhBcmPDq.jpg",
+    "director": "Сильвестр Сталлоне"
   },
   {
     "title": "Legend",
@@ -17923,7 +18676,8 @@ var movieDB = [
     "why": "Фильм расскажет историю близнецов Реджи и Ронни Крэй, культовых фигур преступного мира Великобритании 1960-х. Братья возглавляли самую влиятельную бандитскую группировку Ист-Энда. В их послужном списке: вооружённые грабежи, рэкет, поджоги, покушения, убийства и собственный ночной клуб, куда доезжали...",
     "title_ru": "Легенда",
     "tmdb_id": 276907,
-    "poster_path": "/vkjHGlBxNgeLQDA8XpxpJDy0iij.jpg"
+    "poster_path": "/vkjHGlBxNgeLQDA8XpxpJDy0iij.jpg",
+    "director": "Брайан Хелгеленд"
   },
   {
     "title": "Terminator Genisys",
@@ -17944,7 +18698,8 @@ var movieDB = [
     "why": "Когда Джон Коннор, лидер сопротивления, посылает сержанта Кайла Риза назад в 1984 год, чтобы защитить Сару Коннор и спасти будущее, неожиданный поворот событий создает разлом во времени. Сержант Риз оказывается в новой, незнакомой версии прошлого, где он встречает неожиданных союзников, в том числе ...",
     "title_ru": "Терминатор: Генезис",
     "tmdb_id": 87101,
-    "poster_path": "/eMUscX52jUbNC1xn4WJthJDUQNq.jpg"
+    "poster_path": "/eMUscX52jUbNC1xn4WJthJDUQNq.jpg",
+    "director": "Алан Тейлор"
   },
   {
     "title": "She's All That",
@@ -17963,7 +18718,8 @@ var movieDB = [
     "why": "Зак Сайлер — самый популярный из старшеклассников, предмет обожания учителей и воздыхания девчонок. Он староста класса, капитан футбольной команды и один из первых по успеваемости. Бесспорно, Зак станет королем выпускного бала, но… этого везунчика предательски подводит королева!  Зак и Тэйлор считал...",
     "title_ru": "Это всё она",
     "tmdb_id": 10314,
-    "poster_path": "/kvVP558v64Obp3DS0IZJ5Xc1K44.jpg"
+    "poster_path": "/kvVP558v64Obp3DS0IZJ5Xc1K44.jpg",
+    "director": "Robert Iscove"
   },
   {
     "title": "Neighbors 2: Sorority Rising",
@@ -17979,7 +18735,8 @@ var movieDB = [
     "why": "На этот раз в дом по соседству с Маком и Келли въезжает университетский женский клуб. Чтобы разобраться с новыми соседями, которые не дают им покоя, Мак и Келли решают обратиться за помощью к их бывшему врагу — Тедди Сандерсу.",
     "title_ru": "Соседи: На тропе войны 2",
     "tmdb_id": 325133,
-    "poster_path": "/rWWp4mH8vGUxhQCEffUFaw2yhDi.jpg"
+    "poster_path": "/rWWp4mH8vGUxhQCEffUFaw2yhDi.jpg",
+    "director": "Николас Столлер"
   },
   {
     "title": "Bad Boys II",
@@ -18001,7 +18758,8 @@ var movieDB = [
     "why": "Детективы отдела по борьбе с незаконным оборотом наркотиков Майк и Маркус получают задание расследовать схему доставки нового наркотика в Майами. Это расследование выводит их на искусный заговор, сплетённый местным наркобароном с целью поставить под контроль всю торговлю наркотиками в городе.",
     "title_ru": "Плохие парни 2",
     "tmdb_id": 8961,
-    "poster_path": "/rdklR2012mYA6m6yzhxJdOL5VQu.jpg"
+    "poster_path": "/rdklR2012mYA6m6yzhxJdOL5VQu.jpg",
+    "director": "Майкл Бэй"
   },
   {
     "title": "Hotel Transylvania 2",
@@ -18026,7 +18784,8 @@ var movieDB = [
     "why": "На протяжении долгого времени главным занятием монстров было пугать людей. Однако наступили времена, когда их перестали бояться, после чего они решили укрыться от внешнего мира. Но однажды в их владения совершенно случайно проник человек. Более того, в него влюбилась дочь самого графа Дракулы, и у п...",
     "title_ru": "Монстры на каникулах 2",
     "tmdb_id": 159824,
-    "poster_path": "/75lGCEnBRD26y2fZq45k4tgwWTQ.jpg"
+    "poster_path": "/75lGCEnBRD26y2fZq45k4tgwWTQ.jpg",
+    "director": "Геннди Тартаковски"
   },
   {
     "title": "Team America: World Police",
@@ -18048,7 +18807,8 @@ var movieDB = [
     "why": "Команда «Америка»! Круче ребят отродясь не бывало! Команда «Америка» всегда готова прийти на помощь! Если где террористы замышляют чёрное дело — команда тут как тут! Эти бравые парни и девчонки наведут порядок во всём мире, даже если… их об этом никто не просит. Когда очередная угроза нависла над ми...",
     "title_ru": "Отряд «Америка»: Всемирная полиция",
     "tmdb_id": 3989,
-    "poster_path": "/gz1PNS809A4i9KgObGjS4IkpdmY.jpg"
+    "poster_path": "/gz1PNS809A4i9KgObGjS4IkpdmY.jpg",
+    "director": "Трей Паркер"
   },
   {
     "title": "Van Helsing",
@@ -18063,7 +18823,8 @@ var movieDB = [
     "why": "Глубоко в Карпатах лежит таинственная страна Трансильвания — мир, в котором зло встречается на каждом шагу, мир, в котором опасность оживает с заходом солнца, и где монстры, живущие в глубине человеческих кошмаров, обретают форму. В этот мир попадает легендарный охотник на чудовищ Ван Хельсинг, рожд...",
     "title_ru": "Ван Хельсинг",
     "tmdb_id": 7131,
-    "poster_path": "/8qMrEp95arejdje8MgCFzKLBOUR.jpg"
+    "poster_path": "/8qMrEp95arejdje8MgCFzKLBOUR.jpg",
+    "director": "Стивен Соммерс"
   },
   {
     "title": "Rocky III",
@@ -18084,7 +18845,8 @@ var movieDB = [
     "why": "Одержав сокрушительную победу над Аполло Кридом, Рокки купается в лучах славы. Его окружает роскошь и престиж. Он с легкостью разделывается со всеми претендентами на его чемпионский пояс. Гонорары велики, а тренировки непродолжительны, и в результате Рокки начинает терять свою знаменитую скорость и ...",
     "title_ru": "Рокки 3",
     "tmdb_id": 1371,
-    "poster_path": "/4hG7pSchVxwahNT0fmv4qEMET4O.jpg"
+    "poster_path": "/4hG7pSchVxwahNT0fmv4qEMET4O.jpg",
+    "director": "Сильвестр Сталлоне"
   },
   {
     "title": "Friends: The Reunion",
@@ -18099,7 +18861,8 @@ var movieDB = [
     "why": "Наши любимые Друзья вернулись на съемочную площадку, с которой все началось. Дженнифер Энистон, Кортни Кокс, Лиза Кудроу, Мэтт Леблан, Мэттью Перри, Дэвид Швиммер и специальные гости воссоединились, чтобы обсудить все, от процесса отбора до того, действительно ли у Росса и Рэйчел был разрыв. Специал...",
     "title_ru": "Друзья: Воссоединение",
     "tmdb_id": 691179,
-    "poster_path": "/tbupBORpfTaZ4u9dtBpWSaPC0tK.jpg"
+    "poster_path": "/tbupBORpfTaZ4u9dtBpWSaPC0tK.jpg",
+    "director": "Бен Уинстон"
   },
   {
     "title": "The Fox and the Hound",
@@ -18124,7 +18887,8 @@ var movieDB = [
     "why": "Экранизация книги Дэниэла П. Мэнникса. История про лисенка Тодда и щенка Коппера. Малыши были очень дружны, но когда подросли, одному природа уготовила роль охотника, другому, увы, объекта охоты.",
     "title_ru": "Лис и пёс",
     "tmdb_id": 10948,
-    "poster_path": "/1Dl0VS4ExlFm4ZwrcWs3zuO4m18.jpg"
+    "poster_path": "/1Dl0VS4ExlFm4ZwrcWs3zuO4m18.jpg",
+    "director": "Ted Berman, Art Stevens, Ричард Рич"
   },
   {
     "title": "Police Story",
@@ -18139,7 +18903,8 @@ var movieDB = [
     "why": "В результате удачно проведенной облавы в руки полиции попадает босс наркомафии Чи. Одному из полицейских, Кевину, принимавшему непосредственное участие в аресте, поручают охрану секретарши преступника, которая проходит по делу в качестве главного свидетеля. Но в день суда она исчезает. Только разыск...",
     "title_ru": "Police Story",
     "tmdb_id": 9056,
-    "poster_path": "/pxlGuppVcXz89z1IIBA5YJKLoQ3.jpg"
+    "poster_path": "/pxlGuppVcXz89z1IIBA5YJKLoQ3.jpg",
+    "director": "Джеки Чан"
   },
   {
     "title": "Pain & Gain",
@@ -18153,7 +18918,8 @@ var movieDB = [
     "vibes": [],
     "why": "Однажды тренеру по фитнесу надоело ходить в трениках. Он решил круто изменить свою судьбу и разбогатеть. Нашел двух других незадачливых качков и предложил им план похищения своего клиента-миллионера. Но если в организме мышц больше, чем мозгов, то даже самый лучший план, подсмотренный в экшен-боевик...",
     "tmdb_id": 134374,
-    "poster_path": "/yHfQWJbIrKi4hpmvNG3X8MY4TJz.jpg"
+    "poster_path": "/yHfQWJbIrKi4hpmvNG3X8MY4TJz.jpg",
+    "director": "Майкл Бэй"
   },
   {
     "title": "No Strings Attached",
@@ -18166,7 +18932,8 @@ var movieDB = [
     "vibes": [],
     "why": "Романтическая комедия о том, как легко мужчины и женщины вступают в сексуальную связь, но как трудно им достичь эмоциональной близости. Главных героев связывают только сексуальные отношения, но со временем они понимают, что на смену физиологическим инстинктам приходит нечто большее.",
     "tmdb_id": 41630,
-    "poster_path": "/dM0BadAlEj2ZoHvARBqoTwC1kBZ.jpg"
+    "poster_path": "/dM0BadAlEj2ZoHvARBqoTwC1kBZ.jpg",
+    "director": "Ivan Reitman"
   },
   {
     "title": "Mama",
@@ -18178,7 +18945,8 @@ var movieDB = [
     "vibes": [],
     "why": "В заброшенной хижине в чаще леса найдены две девочки. Таинственным образом они прожили в пустом доме пять лет. Найденных сирот забирают единственные родственники, молодая супружеская пара. Но девочки не одиноки, у них есть мама, и она приходит из тьмы…",
     "tmdb_id": 132232,
-    "poster_path": "/ahMqF353szhxtdzltopouUJLJhY.jpg"
+    "poster_path": "/ahMqF353szhxtdzltopouUJLJhY.jpg",
+    "director": "Энди Мускетти"
   },
   {
     "title": "Brief Encounter",
@@ -18197,7 +18965,8 @@ var movieDB = [
     "why": "Лора Джессон и доктор Алек Харви познакомились в кафе на вокзале и стали встречаться здесь каждую неделю, прекрасно зная, что у их любви нет будущего…",
     "title_ru": "Короткая встреча",
     "tmdb_id": 851,
-    "poster_path": "/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg"
+    "poster_path": "/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+    "director": "David Lean"
   },
   {
     "title": "RED",
@@ -18223,7 +18992,8 @@ var movieDB = [
     "why": "Фрэнк Мозес, экс-агент супергруппы ЦРУ, живет теперь мирной и тихой жизнью. Но прошлое настигает его: как-то утром загадочный киллер пытается лишить его жизни. Опытный Фрэнк, конечно, сумел увернуться от пули, но сразу понял, что дело «табак». Кто же поможет справиться с командой ликвидаторов? Конеч...",
     "title_ru": "РЭД",
     "tmdb_id": 39514,
-    "poster_path": "/nya7bMu8E55r5NqaJyW9JG9hIjq.jpg"
+    "poster_path": "/nya7bMu8E55r5NqaJyW9JG9hIjq.jpg",
+    "director": "Роберт Швентке"
   },
   {
     "title": "Alice Through the Looking Glass",
@@ -18237,7 +19007,8 @@ var movieDB = [
     "vibes": [],
     "why": "На этот раз главной героине предстоит отправиться в путешествие во времени, полное неожиданностей и ярких открытий, чтобы спасти своего друга, Безумного Шляпника.",
     "tmdb_id": 241259,
-    "poster_path": "/mmEXHC8m3wQLO0IE7nSd4ZGpNqj.jpg"
+    "poster_path": "/mmEXHC8m3wQLO0IE7nSd4ZGpNqj.jpg",
+    "director": "Джеймс Бобин"
   },
   {
     "title": "Salt",
@@ -18259,7 +19030,8 @@ var movieDB = [
     "why": "Эвелин Солт — сотрудница ЦРУ. Ей чудом удаётся избежать тюрьмы: собственное агентство выдвигает против неё необоснованные обвинения в том, что она работает на русскую разведку. Теперь Солт необходимо восстановить своё доброе имя.",
     "title_ru": "Солт",
     "tmdb_id": 27576,
-    "poster_path": "/gd7oyofwqEgBhur6XLiGoqMQm2e.jpg"
+    "poster_path": "/gd7oyofwqEgBhur6XLiGoqMQm2e.jpg",
+    "director": "Phillip Noyce"
   },
   {
     "title": "Watchmen",
@@ -18285,7 +19057,8 @@ var movieDB = [
     "why": "Зак Снайдер: супергерои в альтернативной реальности. Роршах. Кто наблюдает за Наблюдателями?",
     "title_ru": "Хранители",
     "tmdb_id": 684453,
-    "poster_path": "/lLFA42mBVpQ0NZDg8ONv9a0onKm.jpg"
+    "poster_path": "/lLFA42mBVpQ0NZDg8ONv9a0onKm.jpg",
+    "director": "Madeleine Leroyer"
   },
   {
     "title": "Honey, I Shrunk the Kids",
@@ -18300,7 +19073,8 @@ var movieDB = [
     "vibes": [],
     "why": "Последнее изобретение великого новатора профессора Залински — электромагнитная машина которая может уменьшать предметы. Когда чудо техники, наконец, заработало, этими предметами оказались… дети изобретателя, попавшие в поле действия прибора.  Они и так не отличались гигантским ростом, а теперь еще и...",
     "tmdb_id": 9354,
-    "poster_path": "/iyM0c72R2IcT6JELaHt9YPdJRQn.jpg"
+    "poster_path": "/iyM0c72R2IcT6JELaHt9YPdJRQn.jpg",
+    "director": "Джо Джонстон"
   },
   {
     "title": "Ender's Game",
@@ -18320,7 +19094,8 @@ var movieDB = [
     "why": "Действие происходит в 2135 году. Человечество пережило два вторжения инопланетной расы «жукеров» (англ. buggers), лишь чудом уцелев, и готовится к очередному вторжению. Для поиска пилотов и военачальников, способных принести Земле победу, создаётся военная школа, в которую отправляют самых талантлив...",
     "title_ru": "Игра Эндера",
     "tmdb_id": 80274,
-    "poster_path": "/28hxGKSqeLweJSa5q3q0GSieeXE.jpg"
+    "poster_path": "/28hxGKSqeLweJSa5q3q0GSieeXE.jpg",
+    "director": "Гэвин Худ"
   },
   {
     "title": "It's Kind of a Funny Story",
@@ -18337,7 +19112,8 @@ var movieDB = [
     "why": "16-летний Крэйг переживает кризис подросткового возраста и пытается найти помощь в клинике для душевнобольных. Там он случайно попадает в отделение для взрослых, а один из пациентов Бобби вскоре становится наставником Крэйга и одновременно — его протеже. Юноша также проникается симпатией к одной из ...",
     "title_ru": "Это очень забавная история",
     "tmdb_id": 43923,
-    "poster_path": "/47BfKvd7xHFyuPbuaBdB08NeXJR.jpg"
+    "poster_path": "/47BfKvd7xHFyuPbuaBdB08NeXJR.jpg",
+    "director": "Анна Боден, Райан Флек"
   },
   {
     "title": "Spirit: Stallion of the Cimarron",
@@ -18363,7 +19139,8 @@ var movieDB = [
     "why": "История дикого жеребца мустанга, Спирита, путешествующего по территории всей Америки. Храбрый Спирит заводит дружбу с молодым индейцем Ручейком и находит любовь с красивой кобылой по имени Гроза.  Все счастливы до тех пор, пока на жеребца не положили глаз люди, которые хотят сделать из него военную ...",
     "title_ru": "Спирит: Душа прерий",
     "tmdb_id": 9023,
-    "poster_path": "/rOUvDmeJFgYyR6cZwowJsRUVZS6.jpg"
+    "poster_path": "/rOUvDmeJFgYyR6cZwowJsRUVZS6.jpg",
+    "director": "Келли Эсбёри, Lorna Cook"
   },
   {
     "title": "Ice Age: Continental Drift",
@@ -18388,7 +19165,8 @@ var movieDB = [
     "why": "После приключений под землёй прошло 7 лет. Случился дрейф континентов. Главные герои, отделённые от стада, вынуждены использовать айсберг в качестве плота. Они пересекают океан и попадают в неизвестные им ранее земли с экзотическими животными и пиратами, враждебно настроенными к ним. А Скрату удаётс...",
     "title_ru": "Ледниковый период 4: Континентальный дрейф",
     "tmdb_id": 57800,
-    "poster_path": "/bZRHz4bV5WHVlpLjmYbrkOAQhyT.jpg"
+    "poster_path": "/bZRHz4bV5WHVlpLjmYbrkOAQhyT.jpg",
+    "director": "Steve Martino, Michael Thurmeier"
   },
   {
     "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
@@ -18411,7 +19189,8 @@ var movieDB = [
     "why": "Тандзиро с друзьями из отряда уничтожителей демонов расследует серию загадочных исчезновений внутри мчащегося поезда. Но компания ещё не знает, что в составе находится один из двенадцати Лунных демонов, и он приготовил для них ловушку.",
     "title_ru": "Истребитель демонов: Поезд «Бесконечный»",
     "tmdb_id": 635302,
-    "poster_path": "/sFXMvI0I5GEiXRCJDIuzBBXpkiZ.jpg"
+    "poster_path": "/sFXMvI0I5GEiXRCJDIuzBBXpkiZ.jpg",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Terminator Salvation",
@@ -18432,7 +19211,8 @@ var movieDB = [
     "why": "2018 год. В мире наступила война с машинами. Джон Коннор — человек, чья судьба — возглавить Сопротивление электронному мозгу Скайнет и армии Терминаторов. Но в будущее, с верой в которое он возвращён, вклинивается таинственный Маркус Райт: незнакомец, чьи последние воспоминания рисуют камеру смертни...",
     "title_ru": "Терминатор: Да придёт спаситель",
     "tmdb_id": 534,
-    "poster_path": "/irfM3I3nm9aVRN09HGQc18TJOyP.jpg"
+    "poster_path": "/irfM3I3nm9aVRN09HGQc18TJOyP.jpg",
+    "director": "МакДжи"
   },
   {
     "title": "9",
@@ -18445,7 +19225,8 @@ var movieDB = [
     "why": "Более 20 лет назад инопланетяне установили первый контакт с Землей. Люди были готовы ко всему — от враждебного вторжения до невероятного технологического прорыва. Ни того, ни другого не произошло. Пришельцы оказались беженцами со своей собственной планеты, и пока мировое сообщество решало, что с ним...",
     "title_ru": "Район №9",
     "tmdb_id": 17654,
-    "poster_path": "/dIsWr91mFfVvQsTgd0I6hfmyS8B.jpg"
+    "poster_path": "/dIsWr91mFfVvQsTgd0I6hfmyS8B.jpg",
+    "director": "Нил Бломкамп"
   },
   {
     "title": "Lara Croft: Tomb Raider",
@@ -18460,7 +19241,8 @@ var movieDB = [
     "why": "Она владеет всеми видами рукопашного боя, стреляет из любых видов оружия и способна выжить в самых экстремальных условиях. Эта девушка - дочь лорда, леди Лара Крофт. Однажды под лестницей она обнаруживает вход в секретную комнату, где находятся старинные часы с удивительным устройством внутри.",
     "title_ru": "Лара Крофт: Расхитительница гробниц",
     "tmdb_id": 1995,
-    "poster_path": "/56AAEb7VfGrE2WAiOWVTLYR2SLd.jpg"
+    "poster_path": "/56AAEb7VfGrE2WAiOWVTLYR2SLd.jpg",
+    "director": "Саймон Уэст"
   },
   {
     "title": "Wet Hot American Summer",
@@ -18473,7 +19255,8 @@ var movieDB = [
     "why": "1981 год. Летний лагерь должен стать эпицентром крушения обломков космической станции. Тем временем все, и взрослые, и подростки, пытаются успеть завершить свои дела в последний день перед отъездом.",
     "title_ru": "Жаркое американское лето",
     "tmdb_id": 2171,
-    "poster_path": "/skKRPj1Cdsxqzn8BwKxvNV20rRW.jpg"
+    "poster_path": "/skKRPj1Cdsxqzn8BwKxvNV20rRW.jpg",
+    "director": "David Wain"
   },
   {
     "title": "Superman Returns",
@@ -18488,7 +19271,8 @@ var movieDB = [
     "vibes": [],
     "why": "Возвратившись на Землю после своего многолетнего и загадочного отсутствия, Супермен обнаруживает, что его заклятый враг Лекс Лютор опять строит ему козни, а его возлюбленная Лоис Лэйн вроде бы уже устроила свою личную жизнь. Кроме того, Супермен понимает, что за то время, когда его не было, люди нау...",
     "tmdb_id": 1452,
-    "poster_path": "/6C6ku1McHHOdSxWcZi830hoeaoY.jpg"
+    "poster_path": "/6C6ku1McHHOdSxWcZi830hoeaoY.jpg",
+    "director": "Брайан Сингер"
   },
   {
     "title": "I Origins",
@@ -18502,7 +19286,8 @@ var movieDB = [
     "why": "Молекулярный биолог и его напарница по лаборатории делают потрясающее открытие, способное коренным образом изменить современное общество.",
     "title_ru": "Я — начало",
     "tmdb_id": 244267,
-    "poster_path": "/s3F1Rn5RRWpIz4GjxjuJRFmZCZC.jpg"
+    "poster_path": "/s3F1Rn5RRWpIz4GjxjuJRFmZCZC.jpg",
+    "director": "Mike Cahill"
   },
   {
     "title": "1408",
@@ -18521,7 +19306,8 @@ var movieDB = [
     "why": "Известный писатель Майк Энслин, сочиняющий свои романы в жанре «ужасы», пишет очередную книгу о необычных явлениях и полтергейсте в отелях. Не верящий в существование загробной жизни, Энслин решает поселиться в печально известном номере 1408 гостиницы «Дельфин», который пустует многие годы: по слуха...",
     "title_ru": "1408",
     "tmdb_id": 3021,
-    "poster_path": "/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg"
+    "poster_path": "/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg",
+    "director": "Микаэль Хофстрём"
   },
   {
     "title": "The Lone Ranger",
@@ -18543,7 +19329,8 @@ var movieDB = [
     "why": "История блюстителя закона Джона Рейда, который с помощью индейца Тонто стал легендарным мстителем в маске, стоящим на защите справедливости. Тонто с юмором и небылицами повествует о тех приключениях, которые пришлось пережить двум непохожим друг на друга героям, сведенным судьбой для того чтобы вмес...",
     "title_ru": "Одинокий рейнджер",
     "tmdb_id": 57201,
-    "poster_path": "/4W9ersKupsJJedtar1Yv4rImxyT.jpg"
+    "poster_path": "/4W9ersKupsJJedtar1Yv4rImxyT.jpg",
+    "director": "Гор Вербински"
   },
   {
     "title": "The First Purge",
@@ -18565,7 +19352,8 @@ var movieDB = [
     "why": "Хотели бы вы жить в идеальном мире, где нет преступности, безработицы и войн? Единственная плата за такое счастливое будущее – это одна ночь абсолютного беззакония в году. Ночь, когда дозволено всё. Согласны поучаствовать в таком социальном эксперименте?",
     "title_ru": "Судная ночь. Начало",
     "tmdb_id": 442249,
-    "poster_path": "/7n4rvSYJFC3agan9GELwGPVjX86.jpg"
+    "poster_path": "/7n4rvSYJFC3agan9GELwGPVjX86.jpg",
+    "director": "Джерард МакМюррей"
   },
   {
     "title": "The Adventures of Sharkboy and Lavagirl",
@@ -18585,7 +19373,8 @@ var movieDB = [
     "why": "Из-за трудностей в общении со сверстниками 10-летний герой картины оказывается вынужден проводить очередные каникулы в одиночестве. Чтобы хоть как-то скрасить тяготы одинокого времяпрепровождения, он придумывает себе двух несуществующих друзей, мальчика-акулу и девочку-лаву, вместе с которыми пускае...",
     "title_ru": "Приключения Шаркбоя и Лавы",
     "tmdb_id": 14199,
-    "poster_path": "/xxCTOo3hA9cE5Kgq4Sn1ecYfyh0.jpg"
+    "poster_path": "/xxCTOo3hA9cE5Kgq4Sn1ecYfyh0.jpg",
+    "director": "Роберт Родригес"
   },
   {
     "title": "The Illusionist",
@@ -18610,7 +19399,8 @@ var movieDB = [
     "why": "Вена. Начало 20 века. В городе появляется загадочный человек, называвший себя иллюзионистом Эйзенхаймом. Он показывает публике невиданные фокусы, которые кажутся не иначе как волшебством. Слава о необыкновенном чародее доходит до кронпринца Леопольда, который почтил своим присутствием одно из предст...",
     "title_ru": "Иллюзионист",
     "tmdb_id": 1491,
-    "poster_path": "/oJOkOVBAA0SJGbOX3UoAs2o3xvQ.jpg"
+    "poster_path": "/oJOkOVBAA0SJGbOX3UoAs2o3xvQ.jpg",
+    "director": "Нил Бёргер"
   },
   {
     "title": "Night at the Museum: Secret of the Tomb",
@@ -18626,7 +19416,8 @@ var movieDB = [
     "why": "И всё-таки не повезло Ларри с работой — того и гляди кто-нибудь да оживёт в этом музейном царстве. На сей раз ему придётся столкнуться не с Рузвельтом и не с Наполеоном, а практически сойти в преисподнюю, портал в которую открыл фараон Ахкменра, чтобы вызвать своего злобного брата.",
     "title_ru": "Ночь в музее: Секрет гробницы",
     "tmdb_id": 181533,
-    "poster_path": "/p7okGJ64qJWhyV7a8lYxrqcbFNT.jpg"
+    "poster_path": "/p7okGJ64qJWhyV7a8lYxrqcbFNT.jpg",
+    "director": "Шон Леви"
   },
   {
     "title": "Bad Teacher",
@@ -18642,7 +19433,8 @@ var movieDB = [
     "why": "Учительница средних классов живет гламурной жизнью светской львицы, ходит на работу как на вечеринку и мечтает об увеличении объема собственного бюста. Однако после внезапного разрыва с богатым бойфрендом ее образ жизни резко меняется, хотя сама она это осознает не сразу. Но когда в их школу приходи...",
     "title_ru": "Очень плохая училка",
     "tmdb_id": 52449,
-    "poster_path": "/nMocqDobbX16n6VuzJWPIPuQ0sE.jpg"
+    "poster_path": "/nMocqDobbX16n6VuzJWPIPuQ0sE.jpg",
+    "director": "Джейк Кэздан"
   },
   {
     "title": "Hellboy",
@@ -18663,7 +19455,8 @@ var movieDB = [
     "why": "Хеллбой отправляется в Англию на встречу с женой Мерлина - Кровавой королевой. От исхода этой битвы зависит судьба всего мира.",
     "title_ru": "Хеллбой: Герой из пекла",
     "tmdb_id": 456740,
-    "poster_path": "/unkaLpGMMyy2BjWKbSNEKtnF8pw.jpg"
+    "poster_path": "/unkaLpGMMyy2BjWKbSNEKtnF8pw.jpg",
+    "director": "Нил Маршалл"
   },
   {
     "title": "The Heat",
@@ -18685,7 +19478,8 @@ var movieDB = [
     "why": "Сандра Буллок и Мелисса МакКарти: агент ФБР и уличный коп против мафии.",
     "title_ru": "Копы в юбках",
     "tmdb_id": 136795,
-    "poster_path": "/1Y4i1o83tCOFRGKjTB4Jd197trU.jpg"
+    "poster_path": "/1Y4i1o83tCOFRGKjTB4Jd197trU.jpg",
+    "director": "Пол Фиг"
   },
   {
     "title": "Die Another Day",
@@ -18707,7 +19501,8 @@ var movieDB = [
     "why": "На этот раз Джеймс Бонд в глубокой конспирации проводит операцию в Северной Корее. Однако его разоблачают, после чего Бонд оказывается за решеткой.Сумев выбраться из плена только через несколько месяцев 007 возвращается к своей привычной жизни, однако вскоре ему вновь приходится вступить в противобо...",
     "title_ru": "007: Умри, но не сейчас",
     "tmdb_id": 36669,
-    "poster_path": "/mlY4YWN7iD8zCuluZUtAxwlqWEu.jpg"
+    "poster_path": "/mlY4YWN7iD8zCuluZUtAxwlqWEu.jpg",
+    "director": "Ли Тамахори"
   },
   {
     "title": "Rush Hour 2",
@@ -18729,7 +19524,8 @@ var movieDB = [
     "why": "История начинается непосредственно с того момента, на котором закончилась первая часть — полицейские Ли и Картер прибывают в Гонконг по следам преступников, замышляющих похищение китайский сокровищ и продажи их в штатах. По мере того, как детективы Картер и Ли становятся все больше и больше запутанн...",
     "title_ru": "Час пик 2",
     "tmdb_id": 5175,
-    "poster_path": "/sLtnTxXYxkuTxXfTDngpWsVKhrH.jpg"
+    "poster_path": "/sLtnTxXYxkuTxXfTDngpWsVKhrH.jpg",
+    "director": "Бретт Ратнер"
   },
   {
     "title": "Prince of Persia: The Sands of Time",
@@ -18751,7 +19547,8 @@ var movieDB = [
     "why": "Главный герой этой экранизации культовой компьютерной игры, юный принц Дастан всегда побеждал врагов в бою, но потерял королевство из-за козней коварного царедворца. Теперь Дастану предстоит похитить из рук злодеев могущественный магический артефакт, способный повернуть время вспять и сделать своего...",
     "title_ru": "Принц Персии: Пески времени",
     "tmdb_id": 9543,
-    "poster_path": "/bWKddjnlp2yF6zjy9kopvuUClk4.jpg"
+    "poster_path": "/bWKddjnlp2yF6zjy9kopvuUClk4.jpg",
+    "director": "Mike Newell"
   },
   {
     "title": "Not Another Teen Movie",
@@ -18767,7 +19564,8 @@ var movieDB = [
     "why": "Популярный в школе парень и звезда футбольной команды Джейк Уилер, ослепленный собственной славой и успехом, заключает пари со своими друзьями.  Уилер делает ставку на то, что может сделать из любой девушки, посещающей их школу королеву школьного бала. Друзья сразу же выбирают предмет своей шутки — ...",
     "title_ru": "Недетское кино",
     "tmdb_id": 11397,
-    "poster_path": "/mu2s1Qjkfu5VnoisVmr7iBQ9Num.jpg"
+    "poster_path": "/mu2s1Qjkfu5VnoisVmr7iBQ9Num.jpg",
+    "director": "Joel Gallen"
   },
   {
     "title": "Hostiles",
@@ -18792,7 +19590,8 @@ var movieDB = [
     "why": "После долгих лет войны легендарный капитан армии Джозеф Блокер дышал злобой на всех краснокожих. В каждом из них он видел врага. В 1892 году, на исходе войны, Блокер получает приказ доставить на родину в Монтану умирающего вождя Шайенов, известного как Жёлтый Ястреб, и его семью. По пути из армейско...",
     "title_ru": "Недруги",
     "tmdb_id": 384680,
-    "poster_path": "/fmrPwIpwUoODw2CM9PVd1HcSfIw.jpg"
+    "poster_path": "/fmrPwIpwUoODw2CM9PVd1HcSfIw.jpg",
+    "director": "Scott Cooper"
   },
   {
     "title": "Roald Dahl's The Witches",
@@ -18817,7 +19616,8 @@ var movieDB = [
     "why": "В конце 1967 года после гибели родителей мальчик переезжает жить к бабушке. Та вскоре замечает, что в их городке отираются ведьмы, которые не прочь превратить её внука в какое-нибудь животное, поэтому решает спрятаться в самом шикарном отеле Алабамы, где работает её кузен. Бабуля думала, что там они...",
     "title_ru": "Ведьмы",
     "tmdb_id": 531219,
-    "poster_path": "/r9VdNiTthYxjB5ClRzf4CcnZ1Av.jpg"
+    "poster_path": "/r9VdNiTthYxjB5ClRzf4CcnZ1Av.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Paul Blart: Mall Cop",
@@ -18842,7 +19642,8 @@ var movieDB = [
     "why": "Торговый центр захватывает банда организованных преступников, и спасти ситуацию приходится мягкотелому охраннику.",
     "title_ru": "Шопо-коп",
     "tmdb_id": 14560,
-    "poster_path": "/dmy3KOu41wa1Jma9VCrwBJPAXng.jpg"
+    "poster_path": "/dmy3KOu41wa1Jma9VCrwBJPAXng.jpg",
+    "director": "Стив Карр"
   },
   {
     "title": "Ella Enchanted",
@@ -18864,7 +19665,8 @@ var movieDB = [
     "why": "В детстве Элла получила от феи необычный «подарок» — повиновение. Теперь она не может отказаться ни от какой просьбы или указания, от кого бы они не исходили. Повзрослев, Элла отправляется на поиски коварной Люсинды, чтобы освободиться от чар. Кто только не встретиться ей в пути: и эльфы, и орки и в...",
     "title_ru": "Заколдованная Элла",
     "tmdb_id": 14442,
-    "poster_path": "/tfl1oCJTTFX4NHiA5kgjmQqAyzh.jpg"
+    "poster_path": "/tfl1oCJTTFX4NHiA5kgjmQqAyzh.jpg",
+    "director": "Tommy O'Haver"
   },
   {
     "title": "Billy Madison",
@@ -18881,7 +19683,8 @@ var movieDB = [
     "why": "Великовозрастный балбес Билли Мэдисон, наследник невероятно богатого владельца сети отелей, проводит круглые сутки в разглядывании непристойных журнальчиков, поглощая пиво и устраивая идиотские розыгрыши. Правда, довольно скоро ему приходится взяться за ум: Мэдисон-старший сообщает Билли, что собира...",
     "title_ru": "Билли Мэдисон",
     "tmdb_id": 11017,
-    "poster_path": "/dK9btAJRc59977YwKMjUU62uCz5.jpg"
+    "poster_path": "/dK9btAJRc59977YwKMjUU62uCz5.jpg",
+    "director": "Tamra Davis"
   },
   {
     "title": "Black Mass",
@@ -18903,7 +19706,8 @@ var movieDB = [
     "why": "Картина расскажет об Уайти Балджере, знаменитом бостонском гангстере, который 16 лет находился в бегах и был арестован в июне 2011 года в Санта-Монике. Балджер, которому уже за 80, обвинялся в рэкете, был замешан в 19 убийствах и в то же время работал информатором на ФБР. Чтобы не попасть за решетку...",
     "title_ru": "Чёрная месса",
     "tmdb_id": 261023,
-    "poster_path": "/8mv6nd1XaJtpiC7xdhPHty0RiN5.jpg"
+    "poster_path": "/8mv6nd1XaJtpiC7xdhPHty0RiN5.jpg",
+    "director": "Scott Cooper"
   },
   {
     "title": "Cry-Baby",
@@ -18923,7 +19727,8 @@ var movieDB = [
     "why": "Уэйд «Плакса» Уокер самый беззастенчивый и наглый хулиган в школе. Его умопомрачительная способность ронять одну единственную слезу доводит до исступления всех девчонок, особенно красавицу Эллисон. Вскоре Эллисон попадает в окружение «Плаксы» и его дружков и с жадностью постигает мир рок-музыки и бе...",
     "title_ru": "Плакса",
     "tmdb_id": 9768,
-    "poster_path": "/6r9F1rh9K4RhEsx8hm6rxxrvQ8.jpg"
+    "poster_path": "/6r9F1rh9K4RhEsx8hm6rxxrvQ8.jpg",
+    "director": "Джон С. Уотерс"
   },
   {
     "title": "Grown Ups 2",
@@ -18939,7 +19744,8 @@ var movieDB = [
     "why": "После того как Ленни Федер переезжает с семьёй обратно в родной город, он и его друзья извлекут немало уроков, когда их дети окончат школу…",
     "title_ru": "Одноклассники 2",
     "tmdb_id": 109418,
-    "poster_path": "/6k9aQ1Nfb6MUFAYi98R4YDjj20C.jpg"
+    "poster_path": "/6k9aQ1Nfb6MUFAYi98R4YDjj20C.jpg",
+    "director": "Деннис Дуган"
   },
   {
     "title": "Warcraft",
@@ -18962,7 +19768,8 @@ var movieDB = [
     "why": "Веками магия и неприступные стены защищали людей от любых напастей. Но древнее зло, побеждённое и забытое тысячелетия назад, пробудилось.  В самом сердце королевства открылся темный портал, и раса невиданных существ наводнила земли Азерота. Так начались события, призванные навсегда изменить судьбу э...",
     "title_ru": "Варкрафт",
     "tmdb_id": 68735,
-    "poster_path": "/gPFQZIbWk5VukScCCfMPbGZ80g8.jpg"
+    "poster_path": "/gPFQZIbWk5VukScCCfMPbGZ80g8.jpg",
+    "director": "Данкан Джонс"
   },
   {
     "title": "Live Free or Die Hard",
@@ -18981,7 +19788,8 @@ var movieDB = [
     "why": "На этот раз Джону Макклейну предстоит спасти родную страну от группы компьютерных террористов, собирающихся в буквальном смысле «отключить» Соединённые Штаты Америки. А если учесть, что Джон - человек прежней формации, то в борьбе, в которую вовлечены новейшие технологии, ему, кроме старой доброй «Б...",
     "title_ru": "Крепкий орешек 4.0",
     "tmdb_id": 1571,
-    "poster_path": "/tpE0ZzGYTQuSdFV7LwmIvtCIyUg.jpg"
+    "poster_path": "/tpE0ZzGYTQuSdFV7LwmIvtCIyUg.jpg",
+    "director": "Лен Уайзман"
   },
   {
     "title": "The Way Back",
@@ -18997,7 +19805,8 @@ var movieDB = [
     "why": "Джек Каннингэм в школе был восходящей баскетбольной звездой, но в какой-то момент покончил со спортом. Из-за пристрастия к таблеткам и алкоголю он в одночасье лишился всего — славы, денег и семьи. Вскоре жизнь даёт Джеку второй шанс — он берётся тренировать баскетбольную команду своей родной школы, ...",
     "title_ru": "Вне игры",
     "tmdb_id": 529485,
-    "poster_path": "/keZOzvHjf9wrH7JnyUs8ZlCsH7m.jpg"
+    "poster_path": "/keZOzvHjf9wrH7JnyUs8ZlCsH7m.jpg",
+    "director": "Гэвин О'Коннор"
   },
   {
     "title": "AVP: Alien vs. Predator",
@@ -19022,7 +19831,8 @@ var movieDB = [
     "why": "Наши дни. Группа ученых отправляется в Антарктиду, чтобы отыскать колыбель цивилизации, царившей на Земле многие тысячелетия назад. Под толщей льда они находят пирамиды, в которых обнаруживают человеческие скелеты и следы жизнедеятельности чужих.Однако они еще не знают, что уже находятся под колпако...",
     "title_ru": "Чужой против Хищника",
     "tmdb_id": 395,
-    "poster_path": "/uIhgEqmO1Zd9uNJkJzoyvPcgHfA.jpg"
+    "poster_path": "/uIhgEqmO1Zd9uNJkJzoyvPcgHfA.jpg",
+    "director": "Пол У. С. Андерсон"
   },
   {
     "title": "Transformers: The Last Knight",
@@ -19046,7 +19856,8 @@ var movieDB = [
     "why": "Оптимус Прайм исчез. Люди ведут войну с Трансформерами. Ключ к нашему будущему погребён в тайнах прошлого, в скрытой истории Трансформеров на Земле… Миссия по спасению мира ложится на плечи разношёрстной компании, состоящей из Кейда Йегера, Бамблби, английского лорда и профессора из Оксфорда. Пришла...",
     "title_ru": "Трансформеры 5: Последний рыцарь",
     "tmdb_id": 335988,
-    "poster_path": "/ne5PH0nU3tiCjEG5sogaOztr86k.jpg"
+    "poster_path": "/ne5PH0nU3tiCjEG5sogaOztr86k.jpg",
+    "director": "Майкл Бэй"
   },
   {
     "title": "Garfield",
@@ -19065,7 +19876,8 @@ var movieDB = [
     "why": "Он циничен, ленив и вообще, он - жирный оранжевый котяра Гарфилд, который живет в мире и довольстве в доме своего хозяина. Все переворачивается в тот момент, когда хозяин обзаводится еще одним любимцем - щенком Одди. Жизнь Гарфилда идёт наперекосяк. Он хочет только одного - чтобы Одди исчез из его ж...",
     "title_ru": "Гарфилд",
     "tmdb_id": 8920,
-    "poster_path": "/hIiRlxqv8gUOg7geGjGY0Z7QVmi.jpg"
+    "poster_path": "/hIiRlxqv8gUOg7geGjGY0Z7QVmi.jpg",
+    "director": "Peter Hewitt"
   },
   {
     "title": "American Pie 2",
@@ -19087,7 +19899,8 @@ var movieDB = [
     "why": "Со времен первого фильма прошел год, все герои теперь учатся в колледже, и летом на каникулы решают снять загородный дом, где можно весело провести время. Впрочем, проблемы себе найдет каждый из героев: к Джиму собирается приехать та самая «студентка по обмену» Надя, с которой он публично облажался,...",
     "title_ru": "Американский пирог 2",
     "tmdb_id": 2770,
-    "poster_path": "/3FVhJqAuALn0l6xWUVCgUTiqVOG.jpg"
+    "poster_path": "/3FVhJqAuALn0l6xWUVCgUTiqVOG.jpg",
+    "director": "J.B. Rogers"
   },
   {
     "title": "Puss in Boots",
@@ -19113,7 +19926,8 @@ var movieDB = [
     "why": "Мечи пересекутся и сердца будут разбиты в приключениях с одним из самых любимых персонажей из Шрэка — котом в сапогах. Это удалая поездка ранних лет кота в сапогах, когда он объединяется с умным Шалтай-Болтаем и сообразительной Кисой, чтобы украсть знаменитую Гусыню, несущую золотые яйца.",
     "title_ru": "Кот в сапогах",
     "tmdb_id": 417859,
-    "poster_path": "/4iuuvaCYNswlhG5f73JqX976a9d.jpg"
+    "poster_path": "/4iuuvaCYNswlhG5f73JqX976a9d.jpg",
+    "director": "Крис Миллер"
   },
   {
     "title": "Hachi: A Dog's Tale",
@@ -19133,7 +19947,8 @@ var movieDB = [
     "why": "В основе сюжета — реальная история, случившаяся в Японии в 20-х годах и потрясшая весь мир. Однажды, возвращаясь с работы, профессор колледжа нашел на вокзале симпатичного щенка породы акита-ину. Профессор и Хатико стали верными друзьями. Каждый день пес провожал и встречал профессора на вокзале. И ...",
     "title_ru": "Хатико: Самый верный друг",
     "tmdb_id": 28178,
-    "poster_path": "/gYfdHi4GvfEn1ksGpRX1YryihD4.jpg"
+    "poster_path": "/gYfdHi4GvfEn1ksGpRX1YryihD4.jpg",
+    "director": "Lasse Hallström"
   },
   {
     "title": "You Don't Mess with the Zohan",
@@ -19152,7 +19967,8 @@ var movieDB = [
     "why": "Зохан - израильский коммандос, агент Моссада и антитеррорист - во время захвата известного мирового преступника инсценирует собственную гибель, дабы завязать с героическим прошлым и осуществить свою давнюю мечту: стать стилистом в Нью-Йорке. Вооружившись ножницами и желанным руководством, он решает ...",
     "title_ru": "Не шутите с Зоханом!",
     "tmdb_id": 10661,
-    "poster_path": "/mNNbM7WGyElUpX13WDLwPgs4PPO.jpg"
+    "poster_path": "/mNNbM7WGyElUpX13WDLwPgs4PPO.jpg",
+    "director": "Деннис Дуган"
   },
   {
     "title": "Scary Movie 3",
@@ -19169,7 +19985,8 @@ var movieDB = [
     "why": "Журналистка Синди Кэмпбелл охвачена желанием сделать скандальный репортаж о каком-нибудь мировом заговоре и открыть самые секретные материалы. Вскоре она становится свидетельницей необъяснимых явлений. На Землю вот-вот высадится десант зловещих инопланетян, на полях появились странные концентрически...",
     "title_ru": "Очень страшное кино 3",
     "tmdb_id": 4256,
-    "poster_path": "/viF6jgzIJyKRucdPOkdloK95ntj.jpg"
+    "poster_path": "/viF6jgzIJyKRucdPOkdloK95ntj.jpg",
+    "director": "Дэвид Цукер"
   },
   {
     "title": "Cowboys & Aliens",
@@ -19194,7 +20011,8 @@ var movieDB = [
     "why": "1873, Абсолюшен, штат Аризона. В эту глухую американскую провинцию прибывает потерявший память незнакомец. Единственный намёк на его прошлое - это странные кандалы на одном из его запястий. Странник быстро узнаёт, что жители городка не рады незнакомцам и вообще выходят на улицы лишь по приказу полко...",
     "title_ru": "Ковбои против пришельцев",
     "tmdb_id": 49849,
-    "poster_path": "/A394jIrRPChMCsErfkGVQCKp9Kq.jpg"
+    "poster_path": "/A394jIrRPChMCsErfkGVQCKp9Kq.jpg",
+    "director": "Джон Фавро"
   },
   {
     "title": "Scoob!",
@@ -19219,7 +20037,8 @@ var movieDB = [
     "why": "Умный пёс Скуби-Ду знакомится с Шэгги, Фредом, Дафной и Велмой. Вместе они основывают компанию \"Mistery Inc\". Новые друзья столкнутся с проблемой – они должны разоблачить заговор, целью которого является вызов страшного призрака – пса Цербера.",
     "title_ru": "Скуби-Ду!",
     "tmdb_id": 385103,
-    "poster_path": "/t4VDqVusBNYIGWVP19RYyccDYpv.jpg"
+    "poster_path": "/t4VDqVusBNYIGWVP19RYyccDYpv.jpg",
+    "director": "Тони Червоне"
   },
   {
     "title": "Inferno",
@@ -19241,7 +20060,8 @@ var movieDB = [
     "why": "Профессор Роберт Лэнгдон приходит в сознание в одной из итальянских больниц, полностью потеряв память. Местный врач Сиенна Брукс пытается помочь Роберту не только восстановить воспоминания, но и остановить загадочных злоумышленников, которые намерены распространить смертоносный вирус.",
     "title_ru": "Инферно",
     "tmdb_id": 207932,
-    "poster_path": "/cEy0Kydt8t2F5yAeJ558NApETYo.jpg"
+    "poster_path": "/cEy0Kydt8t2F5yAeJ558NApETYo.jpg",
+    "director": "Рон Ховард"
   },
   {
     "title": "The Mask of Zorro",
@@ -19260,7 +20080,8 @@ var movieDB = [
     "why": "Стареющий герой, отдавший все силы борьбе за справедливость, проведший десятилетия в темнице, потерявший жену и дочь, передает свои знания, умения и черную маску молодому отчаянному бойцу, который отныне и будет сражаться с теми, кто вершит зло.",
     "title_ru": "Маска Зорро",
     "tmdb_id": 9342,
-    "poster_path": "/2sFwK3OE3nuG2DjsXdKVLl9rIfY.jpg"
+    "poster_path": "/2sFwK3OE3nuG2DjsXdKVLl9rIfY.jpg",
+    "director": "Мартин Кэмпбелл"
   },
   {
     "title": "Ace Ventura: When Nature Calls",
@@ -19283,7 +20104,8 @@ var movieDB = [
     "why": "Уронив енота в пропасть и успокоив сердце в высокогорном буддийском монастыре, Эйс Вентура приступает к новому заданию. Его приглашают найти пропавшую священную летучую мышь (единственное животное, которого боится главный герой) африканского племени в Нибии. Если мышь не найти, племя уверено, что их...",
     "title_ru": "Эйс Вентура 2: Когда зовёт природа",
     "tmdb_id": 9273,
-    "poster_path": "/jzwz4S1xLDOnRsn7cLFwC2zh1Og.jpg"
+    "poster_path": "/jzwz4S1xLDOnRsn7cLFwC2zh1Og.jpg",
+    "director": "Steve Oedekerk"
   },
   {
     "title": "Skyscraper",
@@ -19305,7 +20127,8 @@ var movieDB = [
     "why": "Самый высокий и технологичный небоскрёб в мире становится центром огненной катастрофы. Только бывший агент ФБР, а теперь эксперт по безопасности Уилл Сойер может спасти вертикальный город под небесами. Когда нельзя доверять никому, а жизнь семьи в опасности, каждая секунда на счету.",
     "title_ru": "Небоскрёб",
     "tmdb_id": 447200,
-    "poster_path": "/gYkFq7xUy4sRuuADQjB6vEnVzJ1.jpg"
+    "poster_path": "/gYkFq7xUy4sRuuADQjB6vEnVzJ1.jpg",
+    "director": "Роусон Маршалл Тёрбер"
   },
   {
     "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
@@ -19327,7 +20150,8 @@ var movieDB = [
     "why": "Эдмунд, Люси, их кузен Юстас и король Каспиан отплывают на корабле «Покоритель Зари» на поиски друзей отца Каспиана - семи лордов: Ревелиана, Берна, Аргоза, Мавроморна, Октезиана, Рестимара и Рупа, изгнанных во время недолгого правления тирана Мираза...",
     "title_ru": "Хроники Нарнии: Покоритель Зари",
     "tmdb_id": 10140,
-    "poster_path": "/u3dV7HsWEEYNcjZVJ4JJdhBLsSE.jpg"
+    "poster_path": "/u3dV7HsWEEYNcjZVJ4JJdhBLsSE.jpg",
+    "director": "Майкл Эптед"
   },
   {
     "title": "The Bourne Legacy",
@@ -19349,7 +20173,8 @@ var movieDB = [
     "why": "В игре всегда несколько фигур. Одна из них — Джейсон Борн, другая — совершенный агент Кеннет Китсом. Их возможности безграничны. Но даже у идеального оружия бывают сбои…",
     "title_ru": "Эволюция Борна",
     "tmdb_id": 49040,
-    "poster_path": "/xz3qfClb5XTBcaLbPCt5gnhX6Xn.jpg"
+    "poster_path": "/xz3qfClb5XTBcaLbPCt5gnhX6Xn.jpg",
+    "director": "Тони Гилрой"
   },
   {
     "title": "Equilibrium",
@@ -19369,7 +20194,8 @@ var movieDB = [
     "why": "Действие происходит в будущем, когда люди лишены возможности выражать какие-то эмоции, потому, что они… запрещены. Это - та цена, которую человечество платит за устранение из своей жизни войны. Теперь книги, искусство и музыка находятся вне закона. А любое чувство - уже преступление, наказуемое смер...",
     "title_ru": "Эквилибриум",
     "tmdb_id": 7299,
-    "poster_path": "/3L8uAS38M7sgehBoZ7ao2FooG2j.jpg"
+    "poster_path": "/3L8uAS38M7sgehBoZ7ao2FooG2j.jpg",
+    "director": "Курт Уиммер"
   },
   {
     "title": "Blades of Glory",
@@ -19385,7 +20211,8 @@ var movieDB = [
     "why": "Каждый раз, когда самовлюбленный Чазз Майкл Майклс выходит на каток, он сразу показывает, что он — рок-звезда арены, окруженный вихрем ледяной крошки и толпой поклонниц. Его единственный соперник на льду — бывший вундеркинд Джимми МакЭлрой. Воспитанник детдома, он был замечен тренером фигурного ката...",
     "title_ru": "Лезвия славы: Звездуны на льду",
     "tmdb_id": 9955,
-    "poster_path": "/jVJiRx4oWlAsUWpVhhWFDNEsQRq.jpg"
+    "poster_path": "/jVJiRx4oWlAsUWpVhhWFDNEsQRq.jpg",
+    "director": "Уилл Спек, Джош Гордон"
   },
   {
     "title": "Spy Kids 3-D: Game Over",
@@ -19411,7 +20238,8 @@ var movieDB = [
     "why": "Шпионы становятся старше, но и враги — все сильнее и изощреннее. Теперь им предстоит вступить в схватку с самим Сильвестром Сталлоне, чтобы спасти не только свои жизни, но и целый мир… Несовершеннолетние агенты Джуни и Кармен Кортез отправляются на выполнение нового задания. На этот раз их ждет путе...",
     "title_ru": "Дети шпионов 3: Игра окончена",
     "tmdb_id": 12279,
-    "poster_path": "/lmeVdsU8YKBT33snvwH5yGlc8P9.jpg"
+    "poster_path": "/lmeVdsU8YKBT33snvwH5yGlc8P9.jpg",
+    "director": "Роберт Родригес"
   },
   {
     "title": "GoodFellas",
@@ -19442,7 +20270,8 @@ var movieDB = [
     ],
     "title_ru": "Славные парни",
     "tmdb_id": 769,
-    "poster_path": "/ft6opiB2onxZe8PhSTba53wYpFb.jpg"
+    "poster_path": "/ft6opiB2onxZe8PhSTba53wYpFb.jpg",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "The Irishman",
@@ -19466,7 +20295,8 @@ var movieDB = [
     "why": "В доме престарелых сильно пожилой мужчина по имени Фрэнк Ширан вспоминает свою жизнь. В 1950-е он работал простым водителем грузовика, совсем не хотел быть гангстером и думал, что маляры — это те, кто красят дома, когда случайно познакомился с криминальным авторитетом Расселом Буфалино. Тот взял пар...",
     "title_ru": "Ирландец",
     "tmdb_id": 398978,
-    "poster_path": "/4ZXfScDPpnTvPTHPT05ulDWqOfk.jpg"
+    "poster_path": "/4ZXfScDPpnTvPTHPT05ulDWqOfk.jpg",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "Red Notice",
@@ -19488,7 +20318,8 @@ var movieDB = [
     "why": "Действие фильма начинает своё развитие в тот момент, когда подходит к своему завершению выпущенное Интерполом «Красное уведомление». Оно предполагает высший ордер, требующий активизировать охоту и поимку самых разыскиваемых в мире людей.  В центре истории оказывается опытный сотрудник ФБР по имени Д...",
     "title_ru": "Красное уведомление",
     "tmdb_id": 512195,
-    "poster_path": "/u6m4JTp9ZEAF25mSo0xfStmXSHh.jpg"
+    "poster_path": "/u6m4JTp9ZEAF25mSo0xfStmXSHh.jpg",
+    "director": "Роусон Маршалл Тёрбер"
   },
   {
     "title": "The Highwaymen",
@@ -19510,7 +20341,8 @@ var movieDB = [
     "why": "В 1930-е годы техасский рейнджер Фрэнк Хеймер получает задание поймать и обезвредить двух опасных грабителей банков. Вместе с напарником Мэнни Голтом он возглавляет охоту за парочкой молодых неуловимых преступников, которых зовут Бонни и Клайд.",
     "title_ru": "В погоне за Бонни и Клайдом",
     "tmdb_id": 500682,
-    "poster_path": "/2gDAPDgWmiW2riBtMJu3UBTh0S2.jpg"
+    "poster_path": "/2gDAPDgWmiW2riBtMJu3UBTh0S2.jpg",
+    "director": "Джон Ли Хэнкок"
   },
   {
     "title": "tick, tick... BOOM!",
@@ -19529,7 +20361,8 @@ var movieDB = [
     "why": "1990 год. Молодой композитор Джон работает официантом в нью-йоркской забегаловке. Параллельно он пишет мюзикл «Супербия», который, как он рассчитывает, в будущем станет новым хитом Бродвея и позволит ему вырваться из нищеты. В жизни Джона всё непросто. Его девушка Сюзан устала ждать, пока бойфренд д...",
     "title_ru": "Тик-так... БУМ!",
     "tmdb_id": 537116,
-    "poster_path": "/5WJVoaPGxCHK40yiZlz7KfL07hH.jpg"
+    "poster_path": "/5WJVoaPGxCHK40yiZlz7KfL07hH.jpg",
+    "director": "Лин-Мануэль Миранда"
   },
   {
     "title": "The Guilty",
@@ -19548,7 +20381,8 @@ var movieDB = [
     "why": "Оператор службы 911 Джо Бэйлер принимает звонок от женщины, оказавшейся в смертельной опасности. Пытаясь спасти звонившую, герой понимает, что на самом деле всё не то, чем кажется, и выяснить правду — единственно верный выход из ситуации.",
     "title_ru": "Виновный",
     "tmdb_id": 567748,
-    "poster_path": "/szSt5wkQ7wUSmpDE0SaSeeLtPQk.jpg"
+    "poster_path": "/szSt5wkQ7wUSmpDE0SaSeeLtPQk.jpg",
+    "director": "Антуан Фукуа"
   },
   {
     "title": "Home",
@@ -19574,7 +20408,8 @@ var movieDB = [
     "why": "Группа пришельцев, скрываясь от своих врагов, пытается найти прибежище на Земле.",
     "title_ru": "Дом",
     "tmdb_id": 228161,
-    "poster_path": "/wQKIypqTQotFbduy3I809FPTo53.jpg"
+    "poster_path": "/wQKIypqTQotFbduy3I809FPTo53.jpg",
+    "director": "Тимоти Джонсон"
   },
   {
     "title": "Uncharted",
@@ -19596,7 +20431,8 @@ var movieDB = [
     "why": "Нейтан Дрейк и Виктор «Салли» Салливан, два искателя приключений, отправляются на поиски величайшего сокровища мира. Кроме того, они надеются найти улики, которые приведут их к давно потерянному брату Нейтана.",
     "title_ru": "Анчартед: На картах не значится",
     "tmdb_id": 335787,
-    "poster_path": "/gCeTyPG6g03DGsSvNOjEIAjmC9j.jpg"
+    "poster_path": "/gCeTyPG6g03DGsSvNOjEIAjmC9j.jpg",
+    "director": "Рубен Фляйшер"
   },
   {
     "title": "The King",
@@ -19621,7 +20457,8 @@ var movieDB = [
     "why": "История об отважном львенке по имени Симба. Знакомые с детства герои взрослеют, влюбляются, познают себя и окружающий мир, совершают ошибки и делают правильный выбор.",
     "title_ru": "Король Лев",
     "tmdb_id": 420818,
-    "poster_path": "/lD4Hy3ibzvA9byY2uyUNGeRNzaj.jpg"
+    "poster_path": "/lD4Hy3ibzvA9byY2uyUNGeRNzaj.jpg",
+    "director": "Джон Фавро"
   },
   {
     "title": "The Adam Project",
@@ -19641,7 +20478,8 @@ var movieDB = [
     "why": "12-летний Адам Рид все еще скорбит по своему отцу, который умер год назад. Однажды он заходит в свой гараж и обнаруживает там раненого пилота, который оказывается самим Адамом из будущего. Взрослый Адам рассказывает маленькому себе о том, что в будущем только-только появилась возможность путешествов...",
     "title_ru": "Проект «Адам»",
     "tmdb_id": 696806,
-    "poster_path": "/2we1SegemOvGnJ27bhspny4kX04.jpg"
+    "poster_path": "/2we1SegemOvGnJ27bhspny4kX04.jpg",
+    "director": "Шон Леви"
   },
   {
     "title": "The Tomorrow War",
@@ -19662,7 +20500,8 @@ var movieDB = [
     "why": "Декабрь 2022 года. Во время финала чемпионата мира по футболу в Катаре на поле высаживается десант из будущего. Прибывшие заявляют, что через 30 лет Земля подвергнется инопланетному вторжению, и, если люди настоящего не помогут людям будущего, то человечество прекратит существование. Так начинается ...",
     "title_ru": "Война будущего",
     "tmdb_id": 588228,
-    "poster_path": "/hrEOz8DAnAo29S6maXlvWd4TB06.jpg"
+    "poster_path": "/hrEOz8DAnAo29S6maXlvWd4TB06.jpg",
+    "director": "Крис МакКей"
   },
   {
     "title": "BlacKkKlansman",
@@ -19687,7 +20526,8 @@ var movieDB = [
     "why": "Внедриться в Ку-Клукс-Клан – задача не из легких, особенно если ты чернокожий. Но целеустремленного полицейского из Колорадо такие мелочи не смущают. Вместе с напарником-евреем он вступает в неравный бой с опаснейшими противниками.",
     "title_ru": "Чёрный клановец",
     "tmdb_id": 487558,
-    "poster_path": "/1JRAYERtxSWbUh3jI4t3poECR2c.jpg"
+    "poster_path": "/1JRAYERtxSWbUh3jI4t3poECR2c.jpg",
+    "director": "Спайк Ли"
   },
   {
     "title": "The Founder",
@@ -19706,7 +20546,8 @@ var movieDB = [
     "why": "Как создавалась самая известная в мире сеть ресторанов МакДоналдс? Зрителю предстоит узнать яркую и загадочную историю Рэя Крока, который из продавца-неудачника превратился в миллиардера и легенду.",
     "title_ru": "Основатель",
     "tmdb_id": 310307,
-    "poster_path": "/ru0cmaiUSnlKkqLSg4ugV0iu9nN.jpg"
+    "poster_path": "/ru0cmaiUSnlKkqLSg4ugV0iu9nN.jpg",
+    "director": "Джон Ли Хэнкок"
   },
   {
     "title": "The Usual Suspects",
@@ -19729,7 +20570,8 @@ var movieDB = [
     "why": "Если есть преступление, есть и мотив. Если проводится опознание, то по крайней мере есть один подозреваемый. Но это было необычное преступление. Пять преступников столкнулись в одном необычном месте и решили прокрутить одно дельце. Но некто более сильный и влиятельный, некто, чье имя пугает всех пре...",
     "title_ru": "Подозрительные лица",
     "tmdb_id": 629,
-    "poster_path": "/kfJCvzT19srQaGzQaTx8ltD7CjM.jpg"
+    "poster_path": "/kfJCvzT19srQaGzQaTx8ltD7CjM.jpg",
+    "director": "Брайан Сингер"
   },
   {
     "title": "The King's Speech",
@@ -19758,7 +20600,8 @@ var movieDB = [
     ],
     "title_ru": "Король говорит!",
     "tmdb_id": 45269,
-    "poster_path": "/kUfqQ1LTFhJzfeg3zpuz4NBhl7p.jpg"
+    "poster_path": "/kUfqQ1LTFhJzfeg3zpuz4NBhl7p.jpg",
+    "director": "Tom Hooper"
   },
   {
     "title": "The Suicide Squad",
@@ -19781,7 +20624,8 @@ var movieDB = [
     "why": "Отобрав наиболее перспективных заключенных из тюрьмы, в которой содержатся не только самые опасные преступники, но и люди со свехрспособностями, и даже не люди, правительственный агент отправляет их на самоубийственное задание в одну латиноамериканскую страну, где недавно произошел военный переворот...",
     "title_ru": "Отряд самоубийц: Миссия навылет",
     "tmdb_id": 436969,
-    "poster_path": "/asD8pGLw2uI3HzPtjuX8ls8RNsg.jpg"
+    "poster_path": "/asD8pGLw2uI3HzPtjuX8ls8RNsg.jpg",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "Castle in the Sky",
@@ -19807,7 +20651,8 @@ var movieDB = [
     "why": "Альтернативная реальность, соответствующая началу XX века. В руках девочки по имени Сита находится Летающий Камень. За ним охотятся агенты правительства и пираты, потому что Камень представляет огромную ценность. Пытаясь скрыться от преследователей, Сита встречает Падзу, своего ровесника, работающег...",
     "title_ru": "Небесный замок Лапута",
     "tmdb_id": 10515,
-    "poster_path": "/xuwx6CQxGxjDSKGF3RCqeU2wPd.jpg"
+    "poster_path": "/xuwx6CQxGxjDSKGF3RCqeU2wPd.jpg",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Jojo Rabbit",
@@ -19833,7 +20678,8 @@ var movieDB = [
     "why": "Тайка Вайтити: мальчик в гитлерюгенде, его друг — воображаемый Гитлер. Смешно до слёз в обоих смыслах.",
     "title_ru": "Кролик Джоджо",
     "tmdb_id": 515001,
-    "poster_path": "/cXJLP7ArBs9AKliXMDYaFTg4YNf.jpg"
+    "poster_path": "/cXJLP7ArBs9AKliXMDYaFTg4YNf.jpg",
+    "director": "Тайка Вайтити"
   },
   {
     "title": "The Tinder Swindler",
@@ -19852,7 +20698,8 @@ var movieDB = [
     "why": "Притворяясь богатым и успешным бриллиантовым магнатом, он обольщал женщин в интернете, а потом выманивал у них миллионы долларов. Теперь его жертвы обдумывают план мести.",
     "title_ru": "Аферист из Tinder",
     "tmdb_id": 923632,
-    "poster_path": "/sxdOybTzavbNAorG9nYBSX3FUAf.jpg"
+    "poster_path": "/sxdOybTzavbNAorG9nYBSX3FUAf.jpg",
+    "director": "Felicity Morris"
   },
   {
     "title": "The Green Knight",
@@ -19874,7 +20721,8 @@ var movieDB = [
     "why": "Король празднует Рождество в замке в окружении двора и верных рыцарей, куда вдруг заявляется загадочный Зелёный Рыцарь и предлагает принять его вызов. Любой из присутствующих может нанести ему удар, но через год и один день он должен будет встретиться с Зелёным Рыцарем в зелёной часовне в девяти дня...",
     "title_ru": "Легенда о Зелёном Рыцаре",
     "tmdb_id": 559907,
-    "poster_path": "/32VBwdt4mkcgwxWKuFzNPm3sccN.jpg"
+    "poster_path": "/32VBwdt4mkcgwxWKuFzNPm3sccN.jpg",
+    "director": "David Lowery"
   },
   {
     "title": "Death on the Nile",
@@ -19897,7 +20745,8 @@ var movieDB = [
     "why": "На этот раз необходимость расследовать загадочное убийство, отвлекаясь от собственного отдыха, настигает Пуаро на борту роскошного круизного парохода, следующего вдоль по Нилу.",
     "title_ru": "Смерть на Ниле",
     "tmdb_id": 505026,
-    "poster_path": "/iFseuSAGkldPtMbvpap2VM0xqnc.jpg"
+    "poster_path": "/iFseuSAGkldPtMbvpap2VM0xqnc.jpg",
+    "director": "Кеннет Брана"
   },
   {
     "title": "The Batman",
@@ -19927,7 +20776,8 @@ var movieDB = [
     ],
     "title_ru": "Бэтмен",
     "tmdb_id": 414906,
-    "poster_path": "/3EXgl14Wmr5NcbYnBy1kavGHnvh.jpg"
+    "poster_path": "/3EXgl14Wmr5NcbYnBy1kavGHnvh.jpg",
+    "director": "Мэтт Ривз"
   },
   {
     "title": "Fallen Angels",
@@ -19949,7 +20799,8 @@ var movieDB = [
     "why": "Вонг Кар-Вай: ночной Гонконг, киллер и странная девушка. Широкий угол, неон, одиночество.",
     "title_ru": "Red Wind",
     "tmdb_id": 1325180,
-    "poster_path": "/nIeKgFXOcIhzXCj15aAIL7t89Kh.jpg"
+    "poster_path": "/nIeKgFXOcIhzXCj15aAIL7t89Kh.jpg",
+    "director": "Agnieszka Holland"
   },
   {
     "title": "Good Time",
@@ -19971,7 +20822,8 @@ var movieDB = [
     "why": "После неудачного ограбления банка младший брат Константина Никаса попадает в тюрьму. Конни отправляется в причудливую одиссею, полную насилия и хаоса; у него есть одна ночь, чтобы попробовать обогнать время и спасти брата, а заодно и себя, оказавшегося на грани гибели.",
     "title_ru": "Хорошее время",
     "tmdb_id": 429200,
-    "poster_path": "/7Pq3O6EBOZv4qisO5vKHtq5WCI6.jpg"
+    "poster_path": "/7Pq3O6EBOZv4qisO5vKHtq5WCI6.jpg",
+    "director": "Бенни Сафди, Джош Сафди"
   },
   {
     "title": "99 Francs",
@@ -19990,7 +20842,8 @@ var movieDB = [
     "why": "Октаву нет равных во вселенной: ведь он занимается рекламой! Это он решает, чего вам захочется завтра. Для него «человек — это такой же продукт, как и все остальные». Октав трудится в крупнейшем рекламном агентстве. У него полно денег, женщин и кокаина, но, тем не менее, его терзают сомнения. Две ве...",
     "title_ru": "99 франков",
     "tmdb_id": 8827,
-    "poster_path": "/7odEy5IesHCjCALEm0V5Fnu7VDQ.jpg"
+    "poster_path": "/7odEy5IesHCjCALEm0V5Fnu7VDQ.jpg",
+    "director": "Jan Kounen"
   },
   {
     "title": "Hot Summer Nights",
@@ -20009,7 +20862,8 @@ var movieDB = [
     "why": "Жизнь подростка идёт кувырком после знакомства с главным бунтарём города. Ситуация усугубляется, когда парень одновременно ухитряется и влюбиться, и стать наркоторговцем, и всё это — в течение одного лета, проведённого на полуострове Кейп-Код в штате Массачусетс.",
     "title_ru": "Жаркие летние ночи",
     "tmdb_id": 347866,
-    "poster_path": "/cpP2xgjRGrJxqMgiWTvx7MKZ780.jpg"
+    "poster_path": "/cpP2xgjRGrJxqMgiWTvx7MKZ780.jpg",
+    "director": "Elijah Bynum"
   },
   {
     "title": "After Earth",
@@ -20029,7 +20883,8 @@ var movieDB = [
     "why": "События разворачиваются через тысячу лет после катастрофы, вынудившей человечество покинуть Землю. Новым домом становится планета под названием Нова Прайм. Легендарный генерал Сайфер Рейдж возвращается с очередного боевого задания в семью, которая раньше обходилась без его родительского внимания, чт...",
     "title_ru": "После нашей эры",
     "tmdb_id": 82700,
-    "poster_path": "/jZgt1m7WPYZl694igXDrpRB8EE8.jpg"
+    "poster_path": "/jZgt1m7WPYZl694igXDrpRB8EE8.jpg",
+    "director": "М. Найт Шьямалан"
   },
   {
     "title": "Morbius",
@@ -20049,7 +20904,8 @@ var movieDB = [
     "why": "Майкл Морбиус с детства страдает от редкого заболевания крови и всю свою сознательную жизнь посвятил поискам лекарства. В какой-то момент Майкл видит возможное спасение в крови летучих мышей и решается на рискованный эксперимент. Опыт вызывает неожиданную реакцию: вступив в связь с больными клетками...",
     "title_ru": "Морбиус",
     "tmdb_id": 526896,
-    "poster_path": "/887tIQVg619TdJVnlQfqPmk8Na6.jpg"
+    "poster_path": "/887tIQVg619TdJVnlQfqPmk8Na6.jpg",
+    "director": "Даниэль Эспиноса"
   },
   {
     "title": "The Trial of the Chicago 7",
@@ -20068,7 +20924,8 @@ var movieDB = [
     "why": "Мирный протест превратился в жестокую битву с полицией, а последующий суд стал одним из самых скандальных процессов в истории.",
     "title_ru": "Суд над чикагской семеркой",
     "tmdb_id": 556984,
-    "poster_path": "/r1aTPgHlaiGSeegnqrwGKIWP4Xg.jpg"
+    "poster_path": "/r1aTPgHlaiGSeegnqrwGKIWP4Xg.jpg",
+    "director": "Aaron Sorkin"
   },
   {
     "title": "The World's End",
@@ -20096,7 +20953,8 @@ var movieDB = [
     ],
     "title_ru": "Армагеддец",
     "tmdb_id": 107985,
-    "poster_path": "/bTojpZ7qdagGza3MWsrZ0ZRv5l4.jpg"
+    "poster_path": "/bTojpZ7qdagGza3MWsrZ0ZRv5l4.jpg",
+    "director": "Эдгар Райт"
   },
   {
     "title": "The Adventures of Tintin",
@@ -20118,7 +20976,8 @@ var movieDB = [
     "why": "Главный герой — молодой газетный репортёр Тинтин. Благодаря своей профессии он путешествует по всему миру и становится участником увлекательных приключений.",
     "title_ru": "Приключения Тинтина: Тайна Единорога",
     "tmdb_id": 17578,
-    "poster_path": "/4vT7WJD3kPw7dX9RQEqm4XGFNV5.jpg"
+    "poster_path": "/4vT7WJD3kPw7dX9RQEqm4XGFNV5.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Last Night in Soho",
@@ -20137,7 +20996,8 @@ var movieDB = [
     "why": "Молодая провинциалка Элоиз без ума от 1960-х. Всю жизнь она прожила с бабушкой, но теперь едет учиться в Лондон на дизайнера одежды. Не сумев приспособиться к шумной жизни в общежитии, девушка переезжает в более привычную обстановку — снимает давно не видавшую ремонта комнату у пожилой хозяйки. В пе...",
     "title_ru": "Прошлой ночью в Сохо",
     "tmdb_id": 576845,
-    "poster_path": "/nlrLkzJFh3i4BkHJRn5qVuSMmgv.jpg"
+    "poster_path": "/nlrLkzJFh3i4BkHJRn5qVuSMmgv.jpg",
+    "director": "Эдгар Райт"
   },
   {
     "title": "Fantastic Beasts: The Secrets of Dumbledore",
@@ -20159,7 +21019,8 @@ var movieDB = [
     "why": "Профессор Альбус Дамблдор узнает, что могущественный темный волшебник Геллерт Грин-де-Вальд планирует захватить власть над миром. Понимая, что не сможет остановить его в одиночку, Дамблдор просит магозоолога Ньюта Саламандера возглавить команду из выдающихся волшебников и одного отважного магла-пека...",
     "title_ru": "Фантастические твари: Тайны Дамблдора",
     "tmdb_id": 338953,
-    "poster_path": "/8LIpVm3uvoGrHYrtmIzxlRt31zn.jpg"
+    "poster_path": "/8LIpVm3uvoGrHYrtmIzxlRt31zn.jpg",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Fantastic Beasts: The Crimes of Grindelwald",
@@ -20182,7 +21043,8 @@ var movieDB = [
     "why": "В конце первого фильма могущественный темный волшебник Геллерт Грин-де-Вальд был пойман сотрудниками МАКУСА (Магического Конгресса Управления по Северной Америке), не без помощи Ньюта Саламандера. Выполняя свое обещание, темный маг устраивает грандиозный побег и начинает собирать сторонников, больши...",
     "title_ru": "Фантастические твари: Преступления Грин-де-Вальда",
     "tmdb_id": 338952,
-    "poster_path": "/st03eTWNNcVTX5je7mRxjbgEDAq.jpg"
+    "poster_path": "/st03eTWNNcVTX5je7mRxjbgEDAq.jpg",
+    "director": "Дэвид Йейтс"
   },
   {
     "title": "Moon Knight",
@@ -20199,7 +21061,8 @@ var movieDB = [
     "why": "Присоединяйтесь к Оскару Айзеку и Итану Хоуку, когда они расскажут, как кропотливо воплощался в жизнь \"Лунный рыцарь\" студии Marvel. Благодаря содержательным интервью с актерами и съемочной группой, а также захватывающим кадрам со съемочной площадки и откровенной \"дискуссии за круглым столом\" с режи...",
     "title_ru": "Общий сбор: Создание сериала \"Лунный рыцарь\"",
     "tmdb_id": 964943,
-    "poster_path": "/dM6Y4uLzeF4rqbmKBzR0wAsTxby.jpg"
+    "poster_path": "/dM6Y4uLzeF4rqbmKBzR0wAsTxby.jpg",
+    "director": "Brad Baruh"
   },
   {
     "title": "Tombstone",
@@ -20218,7 +21081,8 @@ var movieDB = [
     "why": "1871 год. В США закончилась гражданская война. Фермеры, грабители, золотоискатели, убийцы, воры — все отправились на поиски состояний. Нам расскажут легенду о шерифе Эрпе, который отказался от своей работы, чтобы начать нормальную жизнь со своей семьей. Его друг Док Холлидей, южанин и игрок, тоже ре...",
     "title_ru": "Тумстоун: Легенда дикого запада",
     "tmdb_id": 11969,
-    "poster_path": "/hSHheD5v8esxZqF9lOT1wnEseY1.jpg"
+    "poster_path": "/hSHheD5v8esxZqF9lOT1wnEseY1.jpg",
+    "director": "George P. Cosmatos"
   },
   {
     "title": "Due Date",
@@ -20238,7 +21102,8 @@ var movieDB = [
     "why": "Питер готовится стать отцом и находится на грани нервного срыва. И его нервам не идет на пользу тот факт, что ему предстоит предпринять целое путешествие, да еще и в компании честолюбивого актера, чтобы успеть добраться домой к рождению собственного ребенка.",
     "title_ru": "Впритык",
     "tmdb_id": 41733,
-    "poster_path": "/zIZC8DYGxFxuQkV6IPGmSAc3mQ.jpg"
+    "poster_path": "/zIZC8DYGxFxuQkV6IPGmSAc3mQ.jpg",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "The Professor",
@@ -20258,7 +21123,8 @@ var movieDB = [
     "why": "Джонни Депп: профессор с неизлечимым диагнозом решает жить на полную. Fuck it.",
     "title_ru": "Aldo Moro - il Professore",
     "tmdb_id": 525021,
-    "poster_path": "/bcVPCeTwro9MyZAsWUIF8p0TSaa.jpg"
+    "poster_path": "/bcVPCeTwro9MyZAsWUIF8p0TSaa.jpg",
+    "director": "Francesco Miccichè"
   },
   {
     "title": "The Hummingbird Project",
@@ -20277,7 +21143,8 @@ var movieDB = [
     "why": "Как заработать миллионы на бирже? Можно долго учиться на трейдера, а можно протянуть кабель через всю страну и получать котировки раньше остальных. Антон и Винсент решают провернуть аферу века, но на их пути встаёт Эва Торрес — роковая женщина и беспринципный злой гений.",
     "title_ru": "Операция «Колибри»",
     "tmdb_id": 489243,
-    "poster_path": "/rOpTXlredfSSvRiY1zHtBv7xbvf.jpg"
+    "poster_path": "/rOpTXlredfSSvRiY1zHtBv7xbvf.jpg",
+    "director": "Kim Nguyen"
   },
   {
     "title": "Guns Akimbo",
@@ -20299,7 +21166,8 @@ var movieDB = [
     "why": "Майлз небезосновательно считает себя неудачником: девушка бросила, а сам он работает в заштатной конторе разработчиком мобильных игр. Единственная отдушина в жизни парня — интернет-троллинг. Каждый вечер он провоцирует кого-нибудь в сети и, хорошенько поругавшись, спокойно засыпает. Однажды Майлз ха...",
     "title_ru": "Пушки Акимбо",
     "tmdb_id": 457335,
-    "poster_path": "/77GhVrsZA8T43Q3zBpoOWJh0fHQ.jpg"
+    "poster_path": "/77GhVrsZA8T43Q3zBpoOWJh0fHQ.jpg",
+    "director": "Jason Lei Howden"
   },
   {
     "title": "Official Competition",
@@ -20318,7 +21186,8 @@ var movieDB = [
     "why": "Тщеславный миллиардер задался целью вписать свое имя в историю, взявшись за создание идеального фильма. Сценарий — книга Нобелевского лауреата, режиссер — модная и эксцентричная, в главных ролях — разбитной секс-символ кумир миллионов и высоколобый драматический актер. Ждать шедевра или ждать беды?",
     "title_ru": "Главная роль",
     "tmdb_id": 668640,
-    "poster_path": "/63MOmIbPRnTerB8EkvKMAR0PCVb.jpg"
+    "poster_path": "/63MOmIbPRnTerB8EkvKMAR0PCVb.jpg",
+    "director": "Гастон Дюпра, Мариано Кон"
   },
   {
     "title": "Doctor Strange in the Multiverse of Madness",
@@ -20344,7 +21213,8 @@ var movieDB = [
     "why": "Продолжение истории величайшего мага Земли доктора Стивена Стрэнджа. С помощью старых и новых мистических союзников Стрэндж отправляется в мультивселенную, чтобы сразиться с новым таинственным противником.",
     "title_ru": "Доктор Стрэндж: В мультивселенной безумия",
     "tmdb_id": 453395,
-    "poster_path": "/sfeDNbQgEgzgM81cbPnRss6Acs4.jpg"
+    "poster_path": "/sfeDNbQgEgzgM81cbPnRss6Acs4.jpg",
+    "director": "Сэм Рэйми"
   },
   {
     "title": "Everything Everywhere All at Once",
@@ -20370,7 +21240,8 @@ var movieDB = [
     "why": "Женщина из прачечной спасает мультивселенную через кунг-фу и бублик. Позвонишь маме.",
     "title_ru": "Всё везде и сразу",
     "tmdb_id": 545611,
-    "poster_path": "/oFiudghfudYUtW3yHgvv82xgoXP.jpg"
+    "poster_path": "/oFiudghfudYUtW3yHgvv82xgoXP.jpg",
+    "director": "Daniel Scheinert, Daniel Kwan"
   },
   {
     "title": "The Gray Man",
@@ -20389,7 +21260,8 @@ var movieDB = [
     "why": "Бывший агент ЦРУ Курт Джентри после конфликта с начальством уходит со службы и становится наемным убийцей. Используя свои навыки, он с лёгкостью справляется со своей работой и быстро становится самым востребованным киллером в мире, получив прозвище Серый человек. Его истинная личность неизвестна ник...",
     "title_ru": "Серый человек",
     "tmdb_id": 725201,
-    "poster_path": "/28qaUGkPKDPRlGwHVuy88cu8QgY.jpg"
+    "poster_path": "/28qaUGkPKDPRlGwHVuy88cu8QgY.jpg",
+    "director": "Джо Руссо, Энтони Руссо"
   },
   {
     "title": "Thor: Love and Thunder",
@@ -20415,7 +21287,8 @@ var movieDB = [
     "why": "Джейн Фостер берет на себя обязанности Бога-громовержца и становится обладательницей молота Мьёльнира.",
     "title_ru": "Тор: Любовь и гром",
     "tmdb_id": 616037,
-    "poster_path": "/xWA0Av3mO7uH2bqGU7QMfckY9si.jpg"
+    "poster_path": "/xWA0Av3mO7uH2bqGU7QMfckY9si.jpg",
+    "director": "Тайка Вайтити"
   },
   {
     "title": "She-Hulk: Attorney at Law",
@@ -20437,7 +21310,8 @@ var movieDB = [
     "why": "Татьяна Маслани — адвокат-Халк. Ломает четвёртую стену. Тверк с Меган.",
     "title_ru": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
     "tmdb_id": 1026208,
-    "poster_path": "/yhFN7yvskzm1Tsknkg46eQbQr9w.jpg"
+    "poster_path": "/yhFN7yvskzm1Tsknkg46eQbQr9w.jpg",
+    "director": "Brad Baruh"
   },
   {
     "title": "No Time to Die",
@@ -20459,7 +21333,8 @@ var movieDB = [
     "why": "Джеймс Бонд оставил оперативную службу и наслаждается спокойной жизнью на Ямайке. Все меняется, когда на острове появляется его старый друг Феликс Лейтер из ЦРУ с просьбой о помощи. Миссия по спасению похищенного ученого оказывается опаснее, чем предполагалось изначально. Бонд попадает в ловушку таи...",
     "title_ru": "007: Не время умирать",
     "tmdb_id": 370172,
-    "poster_path": "/9tVXdsT12YhwOPpmrIYzU9m1dQ6.jpg"
+    "poster_path": "/9tVXdsT12YhwOPpmrIYzU9m1dQ6.jpg",
+    "director": "Кэри Фукунага"
   },
   {
     "title": "Skyfall",
@@ -20492,7 +21367,8 @@ var movieDB = [
     ],
     "title_ru": "007: Координаты «Скайфолл»",
     "tmdb_id": 37724,
-    "poster_path": "/3okWlsWLJyftpaTEzPFO015aBl.jpg"
+    "poster_path": "/3okWlsWLJyftpaTEzPFO015aBl.jpg",
+    "director": "Sam Mendes"
   },
   {
     "title": "Quantum of Solace",
@@ -20514,7 +21390,8 @@ var movieDB = [
     "why": "После предательства Веспер, агент 007 борется с желанием превратить последнее задание в личную вендетту. В поисках истины, Бонд и М допрашивают Мистера Уайта, от которого узнают, что шантажировавшая Веспер Организация намного сложнее и опаснее, чем можно было подумать.",
     "title_ru": "Квант милосердия",
     "tmdb_id": 10764,
-    "poster_path": "/noZH5UK5Kv884iGXRGpXlNXjxQh.jpg"
+    "poster_path": "/noZH5UK5Kv884iGXRGpXlNXjxQh.jpg",
+    "director": "Марк Форстер"
   },
   {
     "title": "Hawkeye",
@@ -20536,7 +21413,8 @@ var movieDB = [
     "why": "Джереми Реннер и Хейли Стайнфелд — лучники в рождественском Нью-Йорке. Мюзикл про Мстителей.",
     "title_ru": "Hawkeye",
     "tmdb_id": 132769,
-    "poster_path": "/sM5meMPMjr6nmw9bu17Jq0zga9s.jpg"
+    "poster_path": "/sM5meMPMjr6nmw9bu17Jq0zga9s.jpg",
+    "director": "George Chung, Leo Fong"
   },
   {
     "title": "The Ides of March",
@@ -20552,7 +21430,8 @@ var movieDB = [
     "why": "В фильме рассказывается об избирательной кампании Говарда Дина, проводившейся во время первичных выборов кандидата на пост президента США от демократической партии в 2004 году.",
     "title_ru": "Мартовские иды",
     "tmdb_id": 10316,
-    "poster_path": "/32zu0exr5Q8glQxwV2GZATgP8xl.jpg"
+    "poster_path": "/32zu0exr5Q8glQxwV2GZATgP8xl.jpg",
+    "director": "Джордж Клуни"
   },
   {
     "title": "The Last Duel",
@@ -20574,7 +21453,8 @@ var movieDB = [
     "why": "Франция, конец XIV века. Отношения между рыцарем Жаном де Карружем и его соратником и соседом Жаком Ле Гри постепенно портятся, и дело доходит до неразрешимого конфликта. Оскорблённый Карруж обращается за помощью к королю Франции Карлу VI, и тот постановляет — противники должны решить спор в смертел...",
     "title_ru": "Последняя дуэль",
     "tmdb_id": 617653,
-    "poster_path": "/jaezt5pX7quwXF1vCr4wvNqYWBc.jpg"
+    "poster_path": "/jaezt5pX7quwXF1vCr4wvNqYWBc.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Postal",
@@ -20596,7 +21476,8 @@ var movieDB = [
     "why": "По мотивам компьютерной трэш-игры Postal. В городе Парадиз строят огромный развлекательный центр, и в один из магазинов завозят партии игрушек Крочи. Эти игрушки в форме задницы становятся объектом пристального внимания двух группировок.  Террористы хотят выкрасть их, чтобы зашить в каждую штамм вир...",
     "title_ru": "Постал",
     "tmdb_id": 2728,
-    "poster_path": "/siRSGpRBvMJi2MDbLlzCqRj9R8u.jpg"
+    "poster_path": "/siRSGpRBvMJi2MDbLlzCqRj9R8u.jpg",
+    "director": "Уве Болл"
   },
   {
     "title": "Alone in the Dark",
@@ -20619,7 +21500,8 @@ var movieDB = [
     "why": "Частный детектив Эдвард Карнби — специалист по паранормальным явлениям, пытаясь найти истинную причину смерти своего друга, сталкивается со множеством необъяснимых загадок. Расследование приводит детектива на «Остров Теней», где Карнби оказывается перед лицом смертельной опасности, грозящей не тольк...",
     "title_ru": "Один в темноте",
     "tmdb_id": 12142,
-    "poster_path": "/7FEbDv1t49XjcjPev8iOwUsM6kN.jpg"
+    "poster_path": "/7FEbDv1t49XjcjPev8iOwUsM6kN.jpg",
+    "director": "Уве Болл"
   },
   {
     "title": "BloodRayne",
@@ -20641,7 +21523,8 @@ var movieDB = [
     "why": "Румыния, 18 век. Рейн — совершенное создание, обладающее силой Бессмертных и душой человека. Наполовину вампир, наполовину земная женщина, она поклялась истреблять кровожадных упырей. Она жаждет возмездия за смерть матери. Рейн вступает в отчаянные схватки с Иными, отправляя тех в мир тьмы. Рейн мст...",
     "title_ru": "Бладрейн",
     "tmdb_id": 168705,
-    "poster_path": "/1Xy9uu5INNMnyF7W6BTEQkkGOZC.jpg"
+    "poster_path": "/1Xy9uu5INNMnyF7W6BTEQkkGOZC.jpg",
+    "director": "Уве Болл"
   },
   {
     "title": "Far Cry",
@@ -20662,7 +21545,8 @@ var movieDB = [
     "why": "Джек Карвер оказывается на тропическом острове после того, как его катер потерпел крушение во время шторма. На небольшом кусочке суши много секретных объектов, которые используются коварным профессором для выведения супер-мутантов. Главному герою придется столкнуться лицом к лицу со смертью и избави...",
     "title_ru": "Фар Край",
     "tmdb_id": 7916,
-    "poster_path": "/akmxhZRNs4S5KFW8LJKZALT2QFS.jpg"
+    "poster_path": "/akmxhZRNs4S5KFW8LJKZALT2QFS.jpg",
+    "director": "Уве Болл"
   },
   {
     "title": "BloodRayne: The Third Reich",
@@ -20687,7 +21571,8 @@ var movieDB = [
     "why": "Рейн борется против нацистов в Европе во время Второй мировой войны, сталкиваясь с Экартом Брэндом, нацистским лидером, цель которого ввести в Адольфа Гитлера кровь Рейн для того, чтобы превратить его в вампира и сделать бессмертным.",
     "title_ru": "Бладрейн 3: Третий Рейх",
     "tmdb_id": 12685,
-    "poster_path": "/iET1hfMvF7CETghqR4ULpHK0HKh.jpg"
+    "poster_path": "/iET1hfMvF7CETghqR4ULpHK0HKh.jpg",
+    "director": "Уве Болл"
   },
   {
     "title": "BloodRayne II: Deliverance",
@@ -20709,7 +21594,8 @@ var movieDB = [
     "why": "Репортер Chicago Chronicle приезжает в богом забытый городок для репортажа о Диком Западе, попадая в эпицентр мистического противостояния. Банда под предводительством 357-летнего вампира Билли Кида терроризирует местных жителей, обращая мужчин в кровососов — Билли создает армию вампиров, необходимую...",
     "title_ru": "Бладрейн 2: Освобождение",
     "tmdb_id": 17456,
-    "poster_path": "/o7kx4ppzsBvNU0QriESvslcpWve.jpg"
+    "poster_path": "/o7kx4ppzsBvNU0QriESvslcpWve.jpg",
+    "director": "Уве Болл"
   },
   {
     "title": "Jumper",
@@ -20729,7 +21615,8 @@ var movieDB = [
     "why": "Подросток из неблагополучного района Дэвид Райс всегда считал себя обычным парнем, пока однажды он не узнал, что он может телепортироваться с места на место. Новые способности открыли перед ним весь мир. Он может побывать в Нью-Йорке и Токио, посетить античные развалины в Риме, увидеть «крышу мира» ...",
     "title_ru": "Телепорт",
     "tmdb_id": 8247,
-    "poster_path": "/uCuhUKLF7K9uk6ItSxX2YsR8Ohp.jpg"
+    "poster_path": "/uCuhUKLF7K9uk6ItSxX2YsR8Ohp.jpg",
+    "director": "Даг Лайман"
   },
   {
     "title": "22 Jump Street",
@@ -20751,7 +21638,8 @@ var movieDB = [
     "why": "Удачно выполнившие свое первое задание, Дженко и Шмидт получают новое. На этот раз, чтобы раскрыть преступление и наказать виновных, им придется на время стать студентами одного из американских колледжей…",
     "title_ru": "Мачо и ботан 2",
     "tmdb_id": 187017,
-    "poster_path": "/iwtNmSFyePLX9CdZ4iXy5kw6wCq.jpg"
+    "poster_path": "/iwtNmSFyePLX9CdZ4iXy5kw6wCq.jpg",
+    "director": "Фил Лорд, Крис Миллер"
   },
   {
     "title": "Jack and Jill",
@@ -20770,7 +21658,8 @@ var movieDB = [
     "why": "В центре сюжета — семейный мужчина по имени Джек, к которому на День Благодарения нагрянула в гости его взбалмошная сестра-близняшка Джилл. И ладно бы погостила да махнула ручкой, так ведь нет: Джилл прочно обосновалась в доме братца и, кажется, в ближайшее время не собирается уезжать.",
     "title_ru": "Такие разные близнецы",
     "tmdb_id": 71880,
-    "poster_path": "/bl4eyeZ1wKkWMsyivPGh3Pw12vn.jpg"
+    "poster_path": "/bl4eyeZ1wKkWMsyivPGh3Pw12vn.jpg",
+    "director": "Деннис Дуган"
   },
   {
     "title": "The Longest Yard",
@@ -20792,7 +21681,8 @@ var movieDB = [
     "why": "Профессиональный футболист, бывший игрок Национальной Футбольной Лиги Пол Кру, попадает в тюрьму за вождение автомобиля в нетрезвом состоянии. Начальник тюрьмы Хэйзен, задумавший организовать футбольный матч между охранниками и заключенными, предлагает Полу собрать свою команду. При этом он обещает ...",
     "title_ru": "Всё или ничего",
     "tmdb_id": 9291,
-    "poster_path": "/smKZlpwrpgb85bopsA2eMVYLjPl.jpg"
+    "poster_path": "/smKZlpwrpgb85bopsA2eMVYLjPl.jpg",
+    "director": "Питер Сигал"
   },
   {
     "title": "Anger Management",
@@ -20808,7 +21698,8 @@ var movieDB = [
     "why": "У вас все в порядке с нервами? Дэйв Базник тоже думал, что он - абсолютно нормальный человек. Ну, подумаешь, разок нагрубил стюардессе - бывает, не сдержался. И чтобы за такую малость человека определяли на курсы «управления гневом»?!",
     "title_ru": "Управление гневом",
     "tmdb_id": 9506,
-    "poster_path": "/jU29iFzxFPxBi8ry6of8L0CdsQ7.jpg"
+    "poster_path": "/jU29iFzxFPxBi8ry6of8L0CdsQ7.jpg",
+    "director": "Питер Сигал"
   },
   {
     "title": "Little Nicky",
@@ -20827,7 +21718,8 @@ var movieDB = [
     "why": "Когда подошло время Дьяволу передать ад одному из своих наследников и уйти на покой, он решил оставить власть за собой. Но двоим из них это не понравилось и они решают бежать на Землю, чтобы там сотворить свой ад. От того, что дети оказались на Земле, дьявол стал распадаться на части. Он посылает за...",
     "title_ru": "Никки, дьявол - младший",
     "tmdb_id": 9678,
-    "poster_path": "/zij1gsryVrjoks1iMI3T38ij4U0.jpg"
+    "poster_path": "/zij1gsryVrjoks1iMI3T38ij4U0.jpg",
+    "director": "Steven Brill"
   },
   {
     "title": "Underworld",
@@ -20849,7 +21741,8 @@ var movieDB = [
     "why": "Столетиями властители царства мрака, вампиры и оборотни ведут беспощадную войну, невидимую человеческому взору. Бесстрашная Селина, воин-вампир, каждую ночь истребляет оборотней, влекомая неутолимой жаждой мести. Ее клан уверен, что вампирам удалось одержать верх над заклятыми врагами, но Селина под...",
     "title_ru": "Другой мир",
     "tmdb_id": 277,
-    "poster_path": "/vI5AuR54fGNintObkluq4xdqThH.jpg"
+    "poster_path": "/vI5AuR54fGNintObkluq4xdqThH.jpg",
+    "director": "Лен Уайзман"
   },
   {
     "title": "Aliens vs Predator: Requiem",
@@ -20874,7 +21767,8 @@ var movieDB = [
     "why": "Атакованный «Предалиеном», жутким гибридом Хищника и Чужого, корабль Хищников терпит крушение в лесах, окружающих маленький техасский городок. И пока на сигнал о помощи, посланный в момент падения, спешит подкрепление, Чужие успевают инфицировать половину населения города.",
     "title_ru": "Чужие против Хищника: Реквием",
     "tmdb_id": 440,
-    "poster_path": "/A7vfsc9IcLgi63KaBFeOvio0yRY.jpg"
+    "poster_path": "/A7vfsc9IcLgi63KaBFeOvio0yRY.jpg",
+    "director": "Колин Штраус, Грег Штраус"
   },
   {
     "title": "Night at the Museum",
@@ -20896,7 +21790,8 @@ var movieDB = [
     "why": "Молодой человек в поисках работы попадает в музей, где приступает к обязанностям ночного сторожа. Оказывается, не такая это простая работа, как могло показаться на первый взгляд. Ведь самое главное — не только не дать никому войти в музей, но и не позволить никому и ничему из музея выйти….",
     "title_ru": "Ночь в Музее",
     "tmdb_id": 1593,
-    "poster_path": "/75HwWDOjLxtdt852zul07zyngaI.jpg"
+    "poster_path": "/75HwWDOjLxtdt852zul07zyngaI.jpg",
+    "director": "Шон Леви"
   },
   {
     "title": "Anchorman: The Legend of Ron Burgundy",
@@ -20913,7 +21808,8 @@ var movieDB = [
     "why": "Рон Бургунди - самый популярный телеведущий 1970-х в Сан-Диего, который уверен, что женщинам место в студии только в том случае, если они рассказывают о моде, либо делятся кулинарными рецептами. Когда Рон узнаёт, что будет работать с молодой телеведущей - красивой, амбициозной и достаточно умной, чт...",
     "title_ru": "Телеведущий: Легенда о Роне Бургунди",
     "tmdb_id": 8699,
-    "poster_path": "/xxdBGj0NMdMyLPgWv0ChlhzDT1K.jpg"
+    "poster_path": "/xxdBGj0NMdMyLPgWv0ChlhzDT1K.jpg",
+    "director": "Адам Маккей"
   },
   {
     "title": "Zoolander",
@@ -20929,7 +21825,8 @@ var movieDB = [
     "why": "Дерек Зуландер — мужчина-модель №1 в мире. Точнее, он был лучшим в течение последних лет. На церемонии вручения премии мужчинам-моделям в этом году приз у него отобрал главный конкурент Хэнсел.\r Ещё через несколько дней по нелепому стечению обстоятельств при взрыве бензоколонки погибают три лучших д...",
     "title_ru": "Образцовый самец",
     "tmdb_id": 9398,
-    "poster_path": "/7PPWHLcJF7pjuYjorUX8HzmsESu.jpg"
+    "poster_path": "/7PPWHLcJF7pjuYjorUX8HzmsESu.jpg",
+    "director": "Бен Стиллер"
   },
   {
     "title": "Meet the Parents",
@@ -20949,7 +21846,8 @@ var movieDB = [
     "why": "Обладатель замечательной фамилии, санитар Грэг Трахер, отправляется за город, чтобы познакомиться с родителями своей девушки Пэм. Здесь Грэг собирается торжественно просить руки возлюбленной. Но, к несчастью, Грэг — парень невезучий, и любые благие начинания в его исполнении превращаются в сущий кош...",
     "title_ru": "Знакомство с родителями",
     "tmdb_id": 1597,
-    "poster_path": "/fB3cz1MbkqxXr97oSTVFT46aJUV.jpg"
+    "poster_path": "/fB3cz1MbkqxXr97oSTVFT46aJUV.jpg",
+    "director": "Джей Роуч"
   },
   {
     "title": "Starsky & Hutch",
@@ -20968,7 +21866,8 @@ var movieDB = [
     "why": "Детектив Дэвид Старски — самый опытный агент, работающий под прикрытием на улицах Бэй Сити в Калифорнии. Он маниакально предан своей работе, и ни одно преступление не останется безнаказанным, пока он на дежурстве… а дежурство у него не прекращается никогда. Причиной подобной усердности является насл...",
     "title_ru": "Старски и Хатч",
     "tmdb_id": 9384,
-    "poster_path": "/zR6R236QE0C3ZWffXRgCzdu2FHG.jpg"
+    "poster_path": "/zR6R236QE0C3ZWffXRgCzdu2FHG.jpg",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Zoolander 2",
@@ -20990,7 +21889,8 @@ var movieDB = [
     "why": "По миру катится волна убийств знаменитостей. Специальный агент модной полиции Монтана Гроссо обращается за помощью в расследовании к когда-то топовому, а ныне слегка потрепанному мужчине-модели Дереку Зуландеру. Сможет ли он в компании своего заклятого друга Ханселя остановить преступления на модной...",
     "title_ru": "Образцовый самец 2",
     "tmdb_id": 329833,
-    "poster_path": "/hSAbrO3FYcvzyBiUHXLflIbSIGZ.jpg"
+    "poster_path": "/hSAbrO3FYcvzyBiUHXLflIbSIGZ.jpg",
+    "director": "Бен Стиллер"
   },
   {
     "title": "Little Fockers",
@@ -21009,7 +21909,8 @@ var movieDB = [
     "why": "10 лет, двое детей и бесчисленные испытания понадобились Грегу для того, чтобы тесть частично примирился с его существованием. Но после того как Грег, оказавшись на мели, находит себе халтуру в фармацевтической компании, подозрения Джека увеличиваются в геометрической прогрессии.",
     "title_ru": "Знакомство с Факерами 2",
     "tmdb_id": 39451,
-    "poster_path": "/9qlGTvvQDkcZNtvvSILzQssgGzl.jpg"
+    "poster_path": "/9qlGTvvQDkcZNtvvSILzQssgGzl.jpg",
+    "director": "Пол Вайц"
   },
   {
     "title": "The Watch",
@@ -21029,7 +21930,8 @@ var movieDB = [
     "why": "Сюжет фильма разворачивается вокруг дружной компании соседей, организовавших дружину ради патрулирования окрестностей и поддержания порядка. В действительности благие намерения были лишь поводом хотя бы изредка сбегать от семьи, дабы покутить вечерком в сугубо мужской компании. Безоблачная жизнь зак...",
     "title_ru": "Дружинники",
     "tmdb_id": 80035,
-    "poster_path": "/aElZBz3W96KpFaEEJT0j5T14Pep.jpg"
+    "poster_path": "/aElZBz3W96KpFaEEJT0j5T14Pep.jpg",
+    "director": "Акива Шаффер"
   },
   {
     "title": "Duplex",
@@ -21045,7 +21947,8 @@ var movieDB = [
     "why": "Алекс и Нэнси наконец-то нашли квартиру своей мечты — двухэтажные апартаменты в тихом районе. Но покупка оказалось с нагрузкой: дряхлой старушкой, которая не собирается съезжать! Супруги решают немного подождать, пока вынужденная соседка съедет на тот свет по естественным причинам. Но бодрость стару...",
     "title_ru": "Дюплекс",
     "tmdb_id": 7288,
-    "poster_path": "/qZxjkcHFOkWSZm6i1SdtWIEmZfD.jpg"
+    "poster_path": "/qZxjkcHFOkWSZm6i1SdtWIEmZfD.jpg",
+    "director": "Дэнни Де Вито"
   },
   {
     "title": "Anaconda",
@@ -21067,7 +21970,8 @@ var movieDB = [
     "why": "Команда исследователей отправляется на поиски затерянных индейских племен в самое сердце таинственных джунглей Амазонки. Наслаждаясь пейзажами великой реки, они не подозревают, что их проводник — сумасшедший охотник, помешавшийся на идее поймать гигантскую змею.  Никто не верит его рассказам о мисти...",
     "title_ru": "Анаконда",
     "tmdb_id": 9360,
-    "poster_path": "/ukXo9dtJDu2AHse6eaZvH97B7Qx.jpg"
+    "poster_path": "/ukXo9dtJDu2AHse6eaZvH97B7Qx.jpg",
+    "director": "Luis Llosa"
   },
   {
     "title": "Shanghai Noon",
@@ -21092,7 +21996,8 @@ var movieDB = [
     "why": "Когда прекрасную китайскую принцессу похищают, Император отправляет на Дикий Запад троих самых верных и искусных телохранителей. Чон Ванг, естественно… не оказывается в их числе. Но тайными путями ему все-таки удается попасть в воинственную делегацию и оказаться в самом сердце Америки и непредсказуе...",
     "title_ru": "Шанхайский полдень",
     "tmdb_id": 8584,
-    "poster_path": "/kiVvkmGVEX60Zd8IGJ4lcMBaYtF.jpg"
+    "poster_path": "/kiVvkmGVEX60Zd8IGJ4lcMBaYtF.jpg",
+    "director": "Tom Dey"
   },
   {
     "title": "Shanghai Knights",
@@ -21117,7 +22022,8 @@ var movieDB = [
     "why": "После приручения Дикого Запада в комедии «Шанхайский полдень», Чон Ванг и Рой О`Баннон — опять в седле, но на сей раз совсем в другом месте — они оказались в цивилизованном Лондоне в продолжении этого фильма, «Шанхайских Рыцарях».  Когда китайский предатель убивает отца Чона и убегает в Англию, Чон ...",
     "title_ru": "Шанхайские рыцари",
     "tmdb_id": 6038,
-    "poster_path": "/3L46B1yaparQpsgUbhiBWIr9Reh.jpg"
+    "poster_path": "/3L46B1yaparQpsgUbhiBWIr9Reh.jpg",
+    "director": "Дэвид Добкин"
   },
   {
     "title": "The Mask",
@@ -21142,7 +22048,8 @@ var movieDB = [
     "why": "Скромный и застенчивый служащий банка чувствует себя неуверенно с красивыми девушками и вообще рядом с людьми. Волей судьбы к нему попадает волшебная маска, и Стенли Ипкис приобретает способность превращаться в неуязвимое мультяшное существо с озорным характером.",
     "title_ru": "Маска",
     "tmdb_id": 854,
-    "poster_path": "/q1lEcpir3jbKFv4nnoze95GBpVx.jpg"
+    "poster_path": "/q1lEcpir3jbKFv4nnoze95GBpVx.jpg",
+    "director": "Чак Рассел"
   },
   {
     "title": "Fear and Loathing in Las Vegas",
@@ -21164,7 +22071,8 @@ var movieDB = [
     "why": "Два приятеля едут в Лас-Вегас. Спортивный обозреватель Рауль Дьюк едет, чтобы осветить знаменитую «Минт 400». Его спутника зовут Доктор Гонзо, и он адвокат. Обзор «Минт 400» из-за непогоды и отсутствия интереса у рецензента оборачивается полным провалом, и Дьюк и Гонзо отправляются в казино.",
     "title_ru": "Страх и ненависть в Лас-Вегасе",
     "tmdb_id": 1878,
-    "poster_path": "/aiyjiGaVbmYnMD4EQCjNPpvSzK2.jpg"
+    "poster_path": "/aiyjiGaVbmYnMD4EQCjNPpvSzK2.jpg",
+    "director": "Терри Гиллиам"
   },
   {
     "title": "Gangs of New York",
@@ -21195,7 +22103,8 @@ var movieDB = [
     ],
     "title_ru": "Банды Нью-Йорка",
     "tmdb_id": 3131,
-    "poster_path": "/8kV6Em9DvtjPyTpdHEVu4BPVm34.jpg"
+    "poster_path": "/8kV6Em9DvtjPyTpdHEVu4BPVm34.jpg",
+    "director": "Мартин Скорсезе"
   },
   {
     "title": "Charlie's Angels: Full Throttle",
@@ -21217,7 +22126,8 @@ var movieDB = [
     "why": "Самое мощное секретное оружие Америки снова в действии! Ангелы Чарли готовы к новым подвигам! На сей раз главный злодей практически неотразим. Он красив, сексапилен, все умеет — серфинг, мотогонки.Девчонкам придется нелегко, им нужно найти похищенные титановые кольца. Это не простые украшения, а осо...",
     "title_ru": "Ангелы Чарли 2: Только вперёд",
     "tmdb_id": 9471,
-    "poster_path": "/57ChsrCu9HVkXJ06xtZaqd0zGsB.jpg"
+    "poster_path": "/57ChsrCu9HVkXJ06xtZaqd0zGsB.jpg",
+    "director": "МакДжи"
   },
   {
     "title": "The Green Hornet",
@@ -21239,7 +22149,8 @@ var movieDB = [
     "why": "Сын медиа-магната «прожигает» свою жизнь в вечных пьянках и бесчисленных случайных связях. Но после неожиданной смерти отца он, наконец, осознает бесцельность своего существования и решает все изменить. Вместе с другом они становятся супергероями, которые борются с преступностью ее же методами, сове...",
     "title_ru": "Зеленый Шершень",
     "tmdb_id": 40805,
-    "poster_path": "/xblgSwDxoItYJ5ucqTh2Es3c5BI.jpg"
+    "poster_path": "/xblgSwDxoItYJ5ucqTh2Es3c5BI.jpg",
+    "director": "Michel Gondry"
   },
   {
     "title": "Knight and Day",
@@ -21264,7 +22175,8 @@ var movieDB = [
     ],
     "title_ru": "Рыцарь дня",
     "tmdb_id": 37834,
-    "poster_path": "/zJpAFWLLz2diBtz9E8RgmAd0g4z.jpg"
+    "poster_path": "/zJpAFWLLz2diBtz9E8RgmAd0g4z.jpg",
+    "director": "Джеймс Мэнголд"
   },
   {
     "title": "What Happens in Vegas",
@@ -21283,7 +22195,8 @@ var movieDB = [
     "why": "После ночи кутежа в Городе Грехов двое совершенно незнакомых людей просыпаются в одной постели и пытаются восстановить ход событий вечера. Оказывается, они поженились и взяли огромный джек-пот. И вот на свежую голову молодожены (каждый сам про себя) разрабатывают план, как отделаться от своей «второ...",
     "title_ru": "Однажды в Вегасе",
     "tmdb_id": 9029,
-    "poster_path": "/wu9qZz4D3xlSUGWJ5BrEgi99QBh.jpg"
+    "poster_path": "/wu9qZz4D3xlSUGWJ5BrEgi99QBh.jpg",
+    "director": "Tom Vaughan"
   },
   {
     "title": "Shrek the Halls",
@@ -21310,7 +22223,8 @@ var movieDB = [
     "why": "На этот раз Шрэк стремится устроить идеальный праздник, удивить Фиону и своих замечательных сорванцов. Только вот незадача: прямо в разгар мероприятия появляются незванные гости — Осёл и Кот в Сапогах. Они рушат все планы Шрэка и он, сам того не желая, превращается в настоящего скрягу, сказочную раз...",
     "title_ru": "Шрэк Мороз, Зелёный Нос",
     "tmdb_id": 13394,
-    "poster_path": "/9YLQGpmtHwssK9MIjPOa9JKaQHS.jpg"
+    "poster_path": "/9YLQGpmtHwssK9MIjPOa9JKaQHS.jpg",
+    "director": "Гари Труздейл"
   },
   {
     "title": "Far Far Away Idol",
@@ -21336,7 +22250,8 @@ var movieDB = [
     "why": "Пародия на популярное ТВ-шоу «Американский идол». В конкурсе на лучшего исполнителя Тридевятого королевства принимают участие Шрэк, Фиона, Осёл, Кот в сапогах, Капитан Крюк, Дорис и многие другие сказочные персонажи. Выбор победителя обещает быть непредсказуемым, ведь каждый из участников подготовил...",
     "title_ru": "Шрэк: Кумир Тридевятого Королевства",
     "tmdb_id": 58508,
-    "poster_path": "/6CBUwR0uerQ740mmIj4dI0c8MJY.jpg"
+    "poster_path": "/6CBUwR0uerQ740mmIj4dI0c8MJY.jpg",
+    "director": "Саймон Дж. Смит"
   },
   {
     "title": "Scared Shrekless",
@@ -21363,7 +22278,8 @@ var movieDB = [
     "why": "Шрэк с друзьями решили устроить конкурс на самую страшную Хэллоуинскую историю. Но прежде чем выяснится кто же победил, им придётся всю ночь пробыть в замке лорда Фаркуада.",
     "title_ru": "Шрэк: Хэллоуин",
     "tmdb_id": 48466,
-    "poster_path": "/lsYHABSP9IoLWeDJjvuTBbf5zTW.jpg"
+    "poster_path": "/lsYHABSP9IoLWeDJjvuTBbf5zTW.jpg",
+    "director": "Гари Труздейл"
   },
   {
     "title": "Shrek 3-D",
@@ -21390,7 +22306,8 @@ var movieDB = [
     "why": "Лорд Фаркуад был съеден драконом, но его дух всё ещё жив и все так же зол. Он похищает Фиону, а Шрэк и Осёл отправляются в путешествие, чтобы спасти принцессу.",
     "title_ru": "Призрак Лорда Фаркуада (Шрэк 4D)",
     "tmdb_id": 25523,
-    "poster_path": "/xqRoj2HUPZ3k33KxnGoBBfK7OMu.jpg"
+    "poster_path": "/xqRoj2HUPZ3k33KxnGoBBfK7OMu.jpg",
+    "director": "Саймон Дж. Смит"
   },
   {
     "title": "Donkey's Christmas Shrektacular",
@@ -21417,7 +22334,8 @@ var movieDB = [
     "why": "Что может быть лучше чем собраться на Рождество всем друзьям дома у горящего камина? Осёл представляет собственное рождественское представление с участием своих друзей из Тридевятого королевства со всеми необходимыми украшениями!",
     "title_ru": "Рождественский Шрэктакль Осла",
     "tmdb_id": 51256,
-    "poster_path": "/2K1MpYWudbxDuHzoDUYdRlvZJrG.jpg"
+    "poster_path": "/2K1MpYWudbxDuHzoDUYdRlvZJrG.jpg",
+    "director": "Уолт Дорн"
   },
   {
     "title": "The Invisible Circus",
@@ -21437,7 +22355,8 @@ var movieDB = [
     "why": "Кэмерон Диаз: сестра ищет правду о гибели старшей в Европе 70-х.",
     "title_ru": "The Invisible Circus",
     "tmdb_id": 18856,
-    "poster_path": "/fJD7zRuGJ9HbgbmKSTRkKysWhu7.jpg"
+    "poster_path": "/fJD7zRuGJ9HbgbmKSTRkKysWhu7.jpg",
+    "director": "Adam Brooks"
   },
   {
     "title": "Finding Dory",
@@ -21459,7 +22378,8 @@ var movieDB = [
     "why": "Дори - добродушная синяя рыбка, страдающая провалами в памяти, которая живёт среди обитателей Большого Барьерного рифа вместе со своими друзьями Марлином и Немо. Однажды её начинают посещать воспоминания о родителях, которых она потеряла ещё в детстве. Решив найти свою семью, Дори отправляется в дал...",
     "title_ru": "В поисках Дори",
     "tmdb_id": 127380,
-    "poster_path": "/xBUhR52S1RQHYEY40Yo04ner32I.jpg"
+    "poster_path": "/xBUhR52S1RQHYEY40Yo04ner32I.jpg",
+    "director": "Эндрю Стэнтон"
   },
   {
     "title": "The Tale of Despereaux",
@@ -21481,7 +22401,8 @@ var movieDB = [
     "why": "Это история о трёх существах, менее всего подходящих на роли героев — Мыши, предпочитающей читать книги, вместо того, чтобы есть их; Крысы, плетущей интриги ради того, чтобы навсегда покинуть сырую темницу; и лопоухой девочки — чьи судьбы переплетаются с неисповедимыми путями Принцессы.",
     "title_ru": "Приключения Десперо",
     "tmdb_id": 10199,
-    "poster_path": "/nsx3buIFDtvCzfzsEopFszcnfpn.jpg"
+    "poster_path": "/nsx3buIFDtvCzfzsEopFszcnfpn.jpg",
+    "director": "Сэм Фелл, Robert Stevenhagen"
   },
   {
     "title": "Semi-Pro",
@@ -21497,7 +22418,8 @@ var movieDB = [
     "why": "В середине 70-х Национальная баскетбольная ассоциация не оставила никаких шансов Американской баскетбольной ассоциации, и последнюю было решено упразднить. Лишь четыре лучшие команды доживающей последние деньки АБА имели возможность войти в НБА, и «Флинт Тропикс» — уж точно не из их числа. Однако вл...",
     "title_ru": "Полупрофессионал",
     "tmdb_id": 13260,
-    "poster_path": "/fO22AptB34LRXaeABd0tCPdw20E.jpg"
+    "poster_path": "/fO22AptB34LRXaeABd0tCPdw20E.jpg",
+    "director": "Kent Alterman"
   },
   {
     "title": "Love the Coopers",
@@ -21520,7 +22442,8 @@ var movieDB = [
     "why": "Феерическая рождественская комедия о том, что бывает, когда на праздник собираются представители четырех поколений одной большой семьи…",
     "title_ru": "Любите Куперов",
     "tmdb_id": 333348,
-    "poster_path": "/vsjN3e0rZtgNQJ3G3uHWl5slRzt.jpg"
+    "poster_path": "/vsjN3e0rZtgNQJ3G3uHWl5slRzt.jpg",
+    "director": "Джесси Нельсон"
   },
   {
     "title": "Meet Dave",
@@ -21543,7 +22466,8 @@ var movieDB = [
     "why": "Дэйв Минчэнь, странный незнакомец в безупречном белоснежном костюме - вовсе не человек. На самом деле он звездолет, в котором прибывают на Землю микроскопические пришельцы, чья планета погибает от катаклизма. Миссия пришельцев — найти устройство, затерявшееся в Нью-Йорке и остающееся единственной на...",
     "title_ru": "Знакомьтесь: Дэйв",
     "tmdb_id": 11260,
-    "poster_path": "/2PRZKkjf1xpTNuE4GRKhwi763no.jpg"
+    "poster_path": "/2PRZKkjf1xpTNuE4GRKhwi763no.jpg",
+    "director": "Brian Robbins"
   },
   {
     "title": "Sinbad: Legend of the Seven Seas",
@@ -21569,7 +22493,8 @@ var movieDB = [
     "why": "Мультфильм рассказывает об одном из многочисленных приключений известного аравийского моряка Синдбада. Приключение начинается тогда, когда Эрис, богиня Хаоса, крадет Книгу Мира, подставив тем самым Синдбада и сделав из него преступника.  Намеревающийся доказать свою невиновность, а также спасти жизн...",
     "title_ru": "Синдбад: Легенда семи морей",
     "tmdb_id": 14411,
-    "poster_path": "/4Kux7jKnp2rGbrFIqLxHIIOq3fY.jpg"
+    "poster_path": "/4Kux7jKnp2rGbrFIqLxHIIOq3fY.jpg",
+    "director": "Тимоти Джонсон, Patrick Gilmore"
   },
   {
     "title": "Cool World",
@@ -21591,7 +22516,8 @@ var movieDB = [
     "why": "Автор серии комиксов художник Джек Дибс оказывается в придуманном им мире и теряет голову от собственного персонажа, чрезвычайно сексапильной Холли Вуд. Холли сгорает от желания превратиться из мультяшки в реальную женщину, а единственный путь к этому — переспать с живым мужчиной.  Поначалу Дибс дум...",
     "title_ru": "Параллельный Мир",
     "tmdb_id": 14239,
-    "poster_path": "/mqzRUHNtFwmgJCmSnvq3JnX0xgZ.jpg"
+    "poster_path": "/mqzRUHNtFwmgJCmSnvq3JnX0xgZ.jpg",
+    "director": "Ralph Bakshi"
   },
   {
     "title": "Happy Feet Two",
@@ -21613,7 +22539,8 @@ var movieDB = [
     "why": "Неутомимый пингвин Мамбл, некогда покоривший своим блестящим танцорским талантом целое племя императорских пингвинов, стал отцом. Его малыш — Эрик, в точности такой же свободолюбивый и независимый, как и папа, но в своих амбициях и авантюрах, несмотря на свой юный возраст, уже способен дать хорошую ...",
     "title_ru": "Делай ноги 2",
     "tmdb_id": 65759,
-    "poster_path": "/Avqh5sMTBhdhe0Npm0GynUlZNIY.jpg"
+    "poster_path": "/Avqh5sMTBhdhe0Npm0GynUlZNIY.jpg",
+    "director": "Джордж Миллер"
   },
   {
     "title": "Once Upon a Deadpool",
@@ -21640,7 +22567,8 @@ var movieDB = [
     "why": "Старая история о Болтливом наемнике, пересказанная на новый лад.",
     "title_ru": "Жил-был Дэдпул",
     "tmdb_id": 567604,
-    "poster_path": "/vSOg9MaVoD6JXCryzHfWOwFUg7H.jpg"
+    "poster_path": "/vSOg9MaVoD6JXCryzHfWOwFUg7H.jpg",
+    "director": "Дэвид Литч"
   },
   {
     "title": "Tooth Fairy",
@@ -21662,7 +22590,8 @@ var movieDB = [
     "why": "Жестокого и свирепого хоккеиста Дерека Томпсона часто зовут «Зубной феей» — сами догадайтесь почему. За выбитые на ледовой арене зубы своим соперникам он денег не даёт, а придётся, ведь самые настоящие зубные феи давно точат на него зуб.",
     "title_ru": "Зубная фея",
     "tmdb_id": 23023,
-    "poster_path": "/wiRiKbcKt2nhPJLEUsitHHX7TtE.jpg"
+    "poster_path": "/wiRiKbcKt2nhPJLEUsitHHX7TtE.jpg",
+    "director": "Michael Lembeck"
   },
   {
     "title": "Doom",
@@ -21682,7 +22611,8 @@ var movieDB = [
     "why": "Действие фильма разворачивается приблизительно в 2045 году. После того, как из далёкой научной лаборатории Олдуай был получен сигнал о помощи, на место ― планету Марс ― прибывает отряд космического спецназа и обнаруживает разгромленную станцию. Вскоре выясняется, что на людей здесь охотятся полчища ...",
     "title_ru": "Doom",
     "tmdb_id": 8814,
-    "poster_path": "/8z74F5fU6amoihTvQKpU5X0w8My.jpg"
+    "poster_path": "/8z74F5fU6amoihTvQKpU5X0w8My.jpg",
+    "director": "Анджей Бартковяк"
   },
   {
     "title": "The Scorpion King",
@@ -21704,7 +22634,8 @@ var movieDB = [
     "why": "Еще задолго до того, как были возведены египетские пирамиды, с востока пришел дерзкий и безжалостный завоеватель с ордами кровожадных воинов. Древние земли не устояли перед натиском свирепого захватчика и покорились ему... И когда мир погрузился во мрак и бесправие, лишь один человек отважился броси...",
     "title_ru": "Царь скорпионов",
     "tmdb_id": 9334,
-    "poster_path": "/joECeg9P77KZ2XEFhxTwddvlKuO.jpg"
+    "poster_path": "/joECeg9P77KZ2XEFhxTwddvlKuO.jpg",
+    "director": "Чак Рассел"
   },
   {
     "title": "Planet 51",
@@ -21730,7 +22661,8 @@ var movieDB = [
     "why": "Главный герой — американский астронавт капитан Чарльз «Чак» Бейкер — высаживается на планете 51, которая по началу кажется ему необитаемой. К своему удивлению он обнаруживает, что планету населяют маленькие зелёные человечки. Их сообщество очень напоминает счастливую одноэтажную Америку времён 1950-...",
     "title_ru": "Планета 51",
     "tmdb_id": 16866,
-    "poster_path": "/cRzHYnANfJMR3Pxi9nvG90lCuLE.jpg"
+    "poster_path": "/cRzHYnANfJMR3Pxi9nvG90lCuLE.jpg",
+    "director": "Jorge Blanco"
   },
   {
     "title": "Snitch",
@@ -21752,7 +22684,8 @@ var movieDB = [
     "why": "Ради спасения сына, которому грозит срок за продажу наркотиков, отец идет на сделку с полицией. Он должен внедриться в самое сердце наркомафии.",
     "title_ru": "Стукач",
     "tmdb_id": 134411,
-    "poster_path": "/7YyHbpZ85lingds7A344OWKgoF5.jpg"
+    "poster_path": "/7YyHbpZ85lingds7A344OWKgoF5.jpg",
+    "director": "Рик Роман Во"
   },
   {
     "title": "The Royal Tenenbaums",
@@ -21775,7 +22708,8 @@ var movieDB = [
     "why": "Уэс Андерсон: семья гениев, развалившаяся и собравшаяся. Джин Хэкмен. Needle in the Hay.",
     "title_ru": "Семейка Тененбаум",
     "tmdb_id": 9428,
-    "poster_path": "/w5L97hdsTU2yxD7vtpcMvZq62md.jpg"
+    "poster_path": "/w5L97hdsTU2yxD7vtpcMvZq62md.jpg",
+    "director": "Уэс Андерсон"
   },
   {
     "title": "Three Thousand Years of Longing",
@@ -21797,7 +22731,8 @@ var movieDB = [
     "why": "Британская лингвистка Алетея прилетает из Лондона в Стамбул, чтобы прочитать курс лекций по нарративу. Уже в аэропорту женщина начинает видеть загадочных существ, а когда в одной из многочисленных сувенирных лавочек покупает стеклянную бутылочку и пытается её отмыть, перед ней возникает самый настоя...",
     "title_ru": "Три тысячи лет желаний",
     "tmdb_id": 556694,
-    "poster_path": "/tb3967BJu5QbZgiIh715pAigywF.jpg"
+    "poster_path": "/tb3967BJu5QbZgiIh715pAigywF.jpg",
+    "director": "Джордж Миллер"
   },
   {
     "title": "Minamata",
@@ -21816,7 +22751,8 @@ var movieDB = [
     "why": "1970-е. Военный фотограф Юджин Смит по заданию журнала Life возвращается в Японию, где в небольшом прибрежном городке Минамата разворачивается экологическая катастрофа. Именно оттуда Смит сделает репортаж, который потрясёт весь мир, снимет величайшие кадры в истории фотографии и пройдёт трудный путь...",
     "title_ru": "Великий",
     "tmdb_id": 560008,
-    "poster_path": "/pxJ7WjfdHZA35rkIOsjfsN6EKS7.jpg"
+    "poster_path": "/pxJ7WjfdHZA35rkIOsjfsN6EKS7.jpg",
+    "director": "Andrew Levitas"
   },
   {
     "title": "Black Panther: Wakanda Forever",
@@ -21840,7 +22776,8 @@ var movieDB = [
     "why": "После смерти короля Т`Чаллы королева Рамонда, Шури, М`Баку, Окойе и Накия сражаются, чтобы защитить Ваканду от мировых держав.",
     "title_ru": "Чёрная Пантера: Ваканда навеки",
     "tmdb_id": 505642,
-    "poster_path": "/wSphEs4KKbewWC01NBtmCJnlZ7y.jpg"
+    "poster_path": "/wSphEs4KKbewWC01NBtmCJnlZ7y.jpg",
+    "director": "Райан Куглер"
   },
   {
     "title": "The Hateful Eight",
@@ -21871,7 +22808,8 @@ var movieDB = [
     ],
     "title_ru": "Омерзительная восьмёрка",
     "tmdb_id": 273248,
-    "poster_path": "/7qFSC1xhsHe9wxyTBxQmts7s3n4.jpg"
+    "poster_path": "/7qFSC1xhsHe9wxyTBxQmts7s3n4.jpg",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Planet Terror",
@@ -21894,7 +22832,8 @@ var movieDB = [
     "why": "Полиция крохотного городка вынуждена иметь дело с жертвами смертельного вируса, превращающего людей в зомби. Народное ополчение возглавляет Черри с автоматом вместо ножного протеза и владеющий боевыми искусствами Врэй. Здесь вам и черный юмор, и море кровищи, и красивые девушки с пушками, которые ве...",
     "title_ru": "Планета страха",
     "tmdb_id": 1992,
-    "poster_path": "/1Ex8kI4226Wv1vvGf88FSvL8Bbc.jpg"
+    "poster_path": "/1Ex8kI4226Wv1vvGf88FSvL8Bbc.jpg",
+    "director": "Роберт Родригес"
   },
   {
     "title": "Reservoir Dogs",
@@ -21918,7 +22857,8 @@ var movieDB = [
     "why": "Дебыт Тарантино. Мистеры Цвета, разборки после ограбления и стейк в ухо. Stuck in the Middle with You.",
     "title_ru": "Reservoir Dogs",
     "tmdb_id": 443129,
-    "poster_path": "/oiPx0edR4IoT97KOHDJx4n1dk5U.jpg"
+    "poster_path": "/oiPx0edR4IoT97KOHDJx4n1dk5U.jpg",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Kill Bill: The Whole Bloody Affair",
@@ -21939,7 +22879,8 @@ var movieDB = [
     "why": "Режиссёрская версия культового фильма \"Убить Билла\".  Квентин Тарантино был вынужден разделить фильм на две части, чтобы они попали в прокат, ведь продолжительность полной версии картины более четырех часов",
     "title_ru": "Убить Билла: Кровавое дело целиком",
     "tmdb_id": 414419,
-    "poster_path": "/dCbI4sDGLopb3aod5ADyufwYk5c.jpg"
+    "poster_path": "/dCbI4sDGLopb3aod5ADyufwYk5c.jpg",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Spy Kids: All the Time in the World",
@@ -21964,7 +22905,8 @@ var movieDB = [
     "why": "Брат и сестра поневоле должны стать крутыми шпионами, чтобы помешать мечтающему о мировом господстве злодею, и выручить из беды собственную мачеху — секретного суперагента, удалившегося на покой.",
     "title_ru": "Дети шпионов 4D",
     "tmdb_id": 56288,
-    "poster_path": "/6fQ38IFTkrPrwgxIuyIRQvOcHvu.jpg"
+    "poster_path": "/6fQ38IFTkrPrwgxIuyIRQvOcHvu.jpg",
+    "director": "Роберт Родригес"
   },
   {
     "title": "Mechanic: Resurrection",
@@ -21989,7 +22931,8 @@ var movieDB = [
     "why": "Артура Бишопа, давно оставившего свое криминальное ремесло, вынуждают снова вступить в игру. Чтобы похитители вернули его возлюбленную, он должен сделать то, что у него получается лучше всего: от него требуется совершить три убийства, идеально обставленных как несчастные случаи.",
     "title_ru": "Механик: Воскрешение",
     "tmdb_id": 278924,
-    "poster_path": "/vkeOFOszIS899gnuWkoRCawWjgr.jpg"
+    "poster_path": "/vkeOFOszIS899gnuWkoRCawWjgr.jpg",
+    "director": "Деннис Ганзель"
   },
   {
     "title": "The Sixth Sense",
@@ -22011,7 +22954,8 @@ var movieDB = [
     "why": "Детский психиатр Малкольм Кроу сталкивается со странным случаем: девятилетнего Коула посещают страшные видения — призраки умерших. Все эти люди когда-то были убиты, и теперь они обрушивают на малыша свой гнетущий страх и отчаянный гнев.\r Как врач, Малкольм бессилен помочь. Но как человек, он пытаетс...",
     "title_ru": "Шестое чувство",
     "tmdb_id": 745,
-    "poster_path": "/prITVK0LHHrA1fUK2bP8HZyIcnW.jpg"
+    "poster_path": "/prITVK0LHHrA1fUK2bP8HZyIcnW.jpg",
+    "director": "М. Найт Шьямалан"
   },
   {
     "title": "G.I. Joe: Retaliation",
@@ -22034,7 +22978,8 @@ var movieDB = [
     "why": "Во второй части отряд «G.I. Joe» вновь объявит вызов группировке «Кобра» и вступит в противостояние с правительством…",
     "title_ru": "G.I. Joe: Бросок кобры 2",
     "tmdb_id": 72559,
-    "poster_path": "/hOky0VwgPIwdes61OrF5ckWQNg9.jpg"
+    "poster_path": "/hOky0VwgPIwdes61OrF5ckWQNg9.jpg",
+    "director": "Джон М. Чу"
   },
   {
     "title": "RED 2",
@@ -22059,7 +23004,8 @@ var movieDB = [
     "why": "Новые приключения Фрэнка Мозеса и его разношерстной команды вышедших на пенсию убийц.",
     "title_ru": "РЭД 2",
     "tmdb_id": 146216,
-    "poster_path": "/7Igy22JjapMPJYeSSZoDj4Ezaug.jpg"
+    "poster_path": "/7Igy22JjapMPJYeSSZoDj4Ezaug.jpg",
+    "director": "Dean Parisot"
   },
   {
     "title": "The Golden Compass",
@@ -22078,7 +23024,8 @@ var movieDB = [
     "why": "Двенадцатилетняя Лира отправляется в удивительное путешествие к Северному Полюсу, чтобы спасти своего похищенного друга. В помощь к девочке приходят северные ведьмы под предводительством прекрасной Серафины Пеккала и огромный бронированный медведь. На пути их стоят зловещая Миссис Коултер и армия её...",
     "title_ru": "Золотой Компас",
     "tmdb_id": 2268,
-    "poster_path": "/gT8F02UnUOYqaThQOiY07WOgeBB.jpg"
+    "poster_path": "/gT8F02UnUOYqaThQOiY07WOgeBB.jpg",
+    "director": "Крис Вайц"
   },
   {
     "title": "Last Looks",
@@ -22100,7 +23047,8 @@ var movieDB = [
     "why": "Частный детектив, расследуя убийство супруги эксцентричной звезды, обращается за помощью к бывшему полицейскому Чарли Вальдо, который после громкого скандала ушел со службы и поселился в лесу.",
     "title_ru": "Вальдо",
     "tmdb_id": 557946,
-    "poster_path": "/nGcyzxn4FFWQ6MRKdHZtWM2Jie6.jpg"
+    "poster_path": "/nGcyzxn4FFWQ6MRKdHZtWM2Jie6.jpg",
+    "director": "Tim Kirkby"
   },
   {
     "title": "Death Note",
@@ -22122,7 +23070,8 @@ var movieDB = [
     "why": "Лайт Тёрнер находит сверхъестественную тетрадь, с помощью которой может призывать смерть. Это привлекает внимание его одноклассницы, детектива и дьявола.",
     "title_ru": "Тетрадь смерти",
     "tmdb_id": 351460,
-    "poster_path": "/AkU1W85hrAYABv0oTDMrYaX8T8F.jpg"
+    "poster_path": "/AkU1W85hrAYABv0oTDMrYaX8T8F.jpg",
+    "director": "Адам Вингард"
   },
   {
     "title": "Modern Times",
@@ -22145,7 +23094,8 @@ var movieDB = [
     "why": "Эмоциональный, выдержанный в комическом ключе, отклик на перекосы машинной эпохи. Маленький Бродяга не желает быть «винтиком» в огромной мега-машине промышленного производства и так похожего на него человеческого общества. Чарли сражается с тупыми богачами, всесильными полицейскими, бездушными начал...",
     "title_ru": "Новые времена",
     "tmdb_id": 3082,
-    "poster_path": "/yyEikQUvbB6MwPYlJiysvyoqS8L.jpg"
+    "poster_path": "/yyEikQUvbB6MwPYlJiysvyoqS8L.jpg",
+    "director": "Чарли Чаплин"
   },
   {
     "title": "Bionicle: Mask of Light",
@@ -22172,7 +23122,8 @@ var movieDB = [
     "why": "Затерянный в океане остров Мата Нуи становится ареной очередной грандиозной битвы Добра и Зла. Населяющие его роботы Матораны вновь вынуждены сразиться со своим злейшим врагом, темным владыкой Макутой, мечтающим о неограниченной власти. Всякий раз шести великим кибервоинам Тоа удавалось отстоять Мат...",
     "title_ru": "Бионикл: Маска света",
     "tmdb_id": 19325,
-    "poster_path": "/kcd1HhhOoiMMftKGn4ILgLQ6KrV.jpg"
+    "poster_path": "/kcd1HhhOoiMMftKGn4ILgLQ6KrV.jpg",
+    "director": "David Molina, Terry Shakespeare"
   },
   {
     "title": "Bionicle 2: Legends of Metru Nui",
@@ -22198,7 +23149,8 @@ var movieDB = [
     "why": "Когда таинственные темные силы начинают угрожать великолепному городу Метру Нуи, шести воинам придется быстро овладеть полученной силой и доказать, что они достойны быть под предводительством знаменитого вождя и спасти жителей города!",
     "title_ru": "Бионикл 2: Легенда Метру Нуи",
     "tmdb_id": 21379,
-    "poster_path": "/eWAjOgibBsBAIaEwzc1E6sGZhHK.jpg"
+    "poster_path": "/eWAjOgibBsBAIaEwzc1E6sGZhHK.jpg",
+    "director": "David Molina, Terry Shakespeare"
   },
   {
     "title": "Bionicle 3: Web of Shadows",
@@ -22221,7 +23173,8 @@ var movieDB = [
     "why": "Перед тем, как выполнить свой последний долг и построить свой собственный дом на острове Мата Нуи, шестеро великих героев Тоа возвращаются в Метру Нуи и находят свой, когда-то великий город, окутанный тенью и паучьей сетью, сплел которую коварный Висорак.  Превратившись в странных монстрообразных су...",
     "title_ru": "Бионикл 3: В паутине теней",
     "tmdb_id": 18224,
-    "poster_path": "/aFxHUekr0n4ZHRD4tnzow3oqLBK.jpg"
+    "poster_path": "/aFxHUekr0n4ZHRD4tnzow3oqLBK.jpg",
+    "director": "David Molina, Terry Shakespeare"
   },
   {
     "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
@@ -22246,7 +23199,8 @@ var movieDB = [
     "why": "Фильм начинается с похода в кинотеатр Наруто, Саске и Сакуры, где они смотрели новый фильм про отважную принцессу Фуун. Наруто был настолько впечатлен фильмом, что захотел встретиться с этой прекрасной девушкой при первой же возможности. И его желание вскоре исполнилось... На съемках следующего филь...",
     "title_ru": "Наруто. Фильм 1 — Ниндзя в стране снега",
     "tmdb_id": 16907,
-    "poster_path": "/w4JQR1J8Y256DaP2aQbJXxYhW1Y.jpg"
+    "poster_path": "/w4JQR1J8Y256DaP2aQbJXxYhW1Y.jpg",
+    "director": "Тэнсай Окамура"
   },
   {
     "title": "Naruto Shippuden the Movie",
@@ -22268,7 +23222,8 @@ var movieDB = [
     "why": "Был освобождён древний демон, и если его не запечатать обратно, он разрушит мир. Демон посылает своих приспешников, чтобы убить единственного человека, который способен его запечатать. Но до этого в Конохе узнают о демоне и высылают Наруто, Сакуру, Ли и Неджи, чтобы защитить Шион – монашку, которая ...",
     "title_ru": "Наруто: Ураганные хроники. Фильм 4",
     "tmdb_id": 20982,
-    "poster_path": "/tnTggTJHYbpjt7U6rkEoHPYgz6z.jpg"
+    "poster_path": "/tnTggTJHYbpjt7U6rkEoHPYgz6z.jpg",
+    "director": "Хадзимэ Камэгаки"
   },
   {
     "title": "BLACKPINK: The Movie",
@@ -22288,7 +23243,8 @@ var movieDB = [
     "why": "Blackpink за ​​свою карьеру побили множество онлайн-рекордов. Их музыкальные видеоклипы на песни Kill This Love (2019) и How You Like That (2020) установили рекорды по количеству просмотров видеоклипов в течение первых 24 часов после публикации. Причем последний побил 3 и установил 2 новых рекорда в...",
     "title_ru": "블랙핑크 더 무비",
     "tmdb_id": 843388,
-    "poster_path": "/xvySqR2CM6Rm81j7b6U2Iix5jhH.jpg"
+    "poster_path": "/xvySqR2CM6Rm81j7b6U2Iix5jhH.jpg",
+    "director": "Jung Su-yee, 오윤동"
   },
   {
     "title": "BLACKPINK: Light Up the Sky",
@@ -22308,7 +23264,8 @@ var movieDB = [
     "why": "Рассказ о каждодневной жизни участниц южнокорейской поп-группы Blackpink и их выступлении на музыкальном фестивале Coachella в 2019 году.",
     "title_ru": "BLACKPINK: Озаряя небо",
     "tmdb_id": 740996,
-    "poster_path": "/vXxOhPecWpISTUrj2EB7RIA3aCw.jpg"
+    "poster_path": "/vXxOhPecWpISTUrj2EB7RIA3aCw.jpg",
+    "director": "Кэролин Су"
   },
   {
     "title": "BLACKPINK: The Show",
@@ -22328,7 +23285,8 @@ var movieDB = [
     "why": "Концерт BLACKPINK. К-поп на максимум. Лиса, Дженни, Розэ, Джису.",
     "title_ru": "BLACKPINK: The Show",
     "tmdb_id": 785554,
-    "poster_path": "/l1RcXlhxqaXdPOaO8gDDwtHheLK.jpg"
+    "poster_path": "/l1RcXlhxqaXdPOaO8gDDwtHheLK.jpg",
+    "director": "Jung Young-jun"
   },
   {
     "title": "Brother Bear 2",
@@ -22350,7 +23308,8 @@ var movieDB = [
     "why": "Это снова мы, но уже в новом мультфильме. Но не только мы, лоси, но также и большой медведь (его зовут Кенаи) и его маленький братец медвежонок (его зовут Кода) и еще новая девочка по имени Нита.",
     "title_ru": "Братец медвежонок 2: Лоси в бегах",
     "tmdb_id": 10010,
-    "poster_path": "/1whRJWBBRRsTaRor0xodjtC7yAk.jpg"
+    "poster_path": "/1whRJWBBRRsTaRor0xodjtC7yAk.jpg",
+    "director": "Ben Gluck"
   },
   {
     "title": "Ice Age",
@@ -22375,7 +23334,8 @@ var movieDB = [
     "why": "Весёлые и опасные приключения героев. 20 000 лет назад. Чтобы избежать приближающегося из-за наступления ледникового периода холода, животные мигрируют на юг. Однако некоторые из них все-таки решают остаться - одинокий, угрюмый мамонт Мэнни, а также бесшабашный ленивец Сид. Случайно эта парочка ната...",
     "title_ru": "Ледниковый период",
     "tmdb_id": 425,
-    "poster_path": "/8aIfrY4k8TpchETMMblRZpBgPKo.jpg"
+    "poster_path": "/8aIfrY4k8TpchETMMblRZpBgPKo.jpg",
+    "director": "Крис Уэдж"
   },
   {
     "title": "Smallfoot",
@@ -22401,7 +23361,8 @@ var movieDB = [
     "why": "Йети узнают о том, что мифические существа, которых называют «людьми», существуют на самом деле.",
     "title_ru": "Смолфут",
     "tmdb_id": 446894,
-    "poster_path": "/M89NKto9JxyOs8jHKUTkRThxW7.jpg"
+    "poster_path": "/M89NKto9JxyOs8jHKUTkRThxW7.jpg",
+    "director": "Кэри Киркпатрик"
   },
   {
     "title": "Sing 2",
@@ -22426,7 +23387,8 @@ var movieDB = [
     "why": "Тяжело быть продюсером, когда ты коала и у тебя лапки. Ещё сложнее, когда твоя верная помощница древнее печатной машинки. И совсем весело, когда твоя труппа — это танцующий без остановки пухляш, колючая девочка-панк, застенчивая школьница, верзила-гангстер и многодетная мама, чьи дети — поросята в п...",
     "title_ru": "Зверопой 2",
     "tmdb_id": 438695,
-    "poster_path": "/cYWc9bCi2gprrXnIMa4MqXUTpNu.jpg"
+    "poster_path": "/cYWc9bCi2gprrXnIMa4MqXUTpNu.jpg",
+    "director": "Garth Jennings"
   },
   {
     "title": "Trolls",
@@ -22453,7 +23415,8 @@ var movieDB = [
     "why": "Отправляясь в увлекательное приключение, которое заведёт её далеко от привычного ей мира, Розочка объединяет усилия с самым мрачным троллем на свете по имени Цветан для достижения успеха в своей смелой миссии спасти её друзей из тисков зловещих бергенов и их лидера, короля Хрящ Старший. Невероятные ...",
     "title_ru": "Тролли",
     "tmdb_id": 136799,
-    "poster_path": "/7UIm8u1mLiXhUST1QiGwxlSJkQD.jpg"
+    "poster_path": "/7UIm8u1mLiXhUST1QiGwxlSJkQD.jpg",
+    "director": "Майк Митчелл"
   },
   {
     "title": "Aladdin",
@@ -22478,7 +23441,8 @@ var movieDB = [
     "why": "Молодой воришка по имени Аладдин хочет стать принцем, чтобы жениться на принцессе Жасмин. Тем временем визирь Аграбы Джафар, намеревается захватить власть над Аграбой, а для этого он стремится заполучить волшебную лампу, хранящуюся в пещере чудес, доступ к которой разрешен лишь тому, кого называют \"...",
     "title_ru": "Аладдин",
     "tmdb_id": 420817,
-    "poster_path": "/t7D1Q4qQ4LjlaUXUqB7ny3xdIAy.jpg"
+    "poster_path": "/t7D1Q4qQ4LjlaUXUqB7ny3xdIAy.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "The Wild",
@@ -22504,7 +23468,8 @@ var movieDB = [
     "why": "Львёнка Райана разлучили с его отцом и из нью-йоркского зоопарка отправили на корабле в Африку. Его друзья по зверинцу — коала, крокодил, хамелеон, жираф и белка — решают помочь царю зверей найти сына и, сбежав из зоопарка, отправляются на поиски Райана…",
     "title_ru": "Большое путешествие",
     "tmdb_id": 9904,
-    "poster_path": "/82cjRTHAsrNBRWfMJ8VzrvXcYfX.jpg"
+    "poster_path": "/82cjRTHAsrNBRWfMJ8VzrvXcYfX.jpg",
+    "director": "Стив Уильямс"
   },
   {
     "title": "Horton Hears a Who!",
@@ -22530,7 +23495,8 @@ var movieDB = [
     "why": "У слоненка Хортона такие большие уши, что он, оказывается, может слышать даже то, как с ним говорит цветок. Вернее, существа, которые живут в нем. Но если слоненок начинает говорить и прислушиваться к цветку, наверное он ненормальный? Так посчитали все звери. Но Хортону все равно. Он считает своим д...",
     "title_ru": "Хортон",
     "tmdb_id": 12222,
-    "poster_path": "/ciVYTT18anj3b4djhM1qSfxC7Tv.jpg"
+    "poster_path": "/ciVYTT18anj3b4djhM1qSfxC7Tv.jpg",
+    "director": "Steve Martino, Jimmy Hayward"
   },
   {
     "title": "Cats Don't Dance",
@@ -22555,7 +23521,8 @@ var movieDB = [
     "why": "Это история о бедном коте Денни, который всю свою жизнь мечтал стать звездой сцены. Но оказалось, что роли в Голливуде дают только людям. Животные на сцене могут мяукать, лаять и мычать. Но не больше. Вместе с друзьями Денни разрушает привычные стереотипы и доказывает, что мечты превращаются в реаль...",
     "title_ru": "Коты не танцуют",
     "tmdb_id": 24662,
-    "poster_path": "/8fJnjXqzUbLhLqeZ0oEiuEelLyX.jpg"
+    "poster_path": "/8fJnjXqzUbLhLqeZ0oEiuEelLyX.jpg",
+    "director": "Марк Диндал"
   },
   {
     "title": "Alpha and Omega",
@@ -22581,7 +23548,8 @@ var movieDB = [
     "why": "Омега — волк, далёкий от высших кругов. Он мечтает познакомиться с самой популярной волчицей в стае — Альфой. И вот судьба подбрасывает ему неплохой шанс — работники заповедника отправляют их в Айдахо. Волку и волчице придётся сплотиться, для того, чтобы вернуться на свою родину.",
     "title_ru": "Альфа и Омега: Клыкастая братва",
     "tmdb_id": 12819,
-    "poster_path": "/jMAL9mBgLfdQ0k1DqCAmXNZG3I6.jpg"
+    "poster_path": "/jMAL9mBgLfdQ0k1DqCAmXNZG3I6.jpg",
+    "director": "Anthony Bell, Ben Gluck"
   },
   {
     "title": "The Little Mermaid",
@@ -22603,7 +23571,8 @@ var movieDB = [
     "why": "Таинственные глубины моря хранят немало тайн, а обитатели океана могут рассказать множество удивительных историй. И самой невероятной из них была и остаётся история русалочки Ариэль. Дочь могущественного царя подводного мира Тритона, она однажды влюбляется в прекрасного и мужественного принца. Но ра...",
     "title_ru": "Русалочка",
     "tmdb_id": 10144,
-    "poster_path": "/n3aV3HyfMKcjUdjz5plUBHFM42m.jpg"
+    "poster_path": "/n3aV3HyfMKcjUdjz5plUBHFM42m.jpg",
+    "director": "Джон Маскер, Рон Клементс"
   },
   {
     "title": "Dinosaur",
@@ -22630,7 +23599,8 @@ var movieDB = [
     "why": "Путешествие трехтонного игуанодонта по имени Аладар, который был разбужен из своего яйца племенем лемуров и случайно воссоединившегося с себе подобными. Из-за огненных метеоритов, разрушающих ландшафт и нехватки воды в исчезающих водоемах динозавры оказались в гонке за выживание, где главным их прот...",
     "title_ru": "Динозавр",
     "tmdb_id": 10567,
-    "poster_path": "/dPQavHQ8tCJNhUx0uvhS6WnD4eZ.jpg"
+    "poster_path": "/dPQavHQ8tCJNhUx0uvhS6WnD4eZ.jpg",
+    "director": "Eric Leighton, Ralph Zondag"
   },
   {
     "title": "Barnyard",
@@ -22652,7 +23622,8 @@ var movieDB = [
     "why": "Отвязный бычок Отис любит петь, танцевать и всячески подшучивать над людьми. В отличие от своего отца Бена, уважаемого патриарха скотного двора, а также старого и мудрого мула Майлса, Отис не заботится о том, чтобы никто не узнал о «человеческих» талантах животных. Но когда легкомысленный Отис ощути...",
     "title_ru": "Рога и копыта",
     "tmdb_id": 9907,
-    "poster_path": "/udxcirIhEwNihHtX4leimwnFZe7.jpg"
+    "poster_path": "/udxcirIhEwNihHtX4leimwnFZe7.jpg",
+    "director": "Steve Oedekerk"
   },
   {
     "title": "Charlotte's Web",
@@ -22674,7 +23645,8 @@ var movieDB = [
     "why": "В отличие от всех других людей и животных, девочка Ферн знает, что поросёнок Уилбур — совершенно особенное существо. После переезда на новую ферму Уилбур находит себе ещё одну подругу — паучиху по имени Шарлотта. Их дружба показывает всем животным вокруг, что физические различия не являются преградо...",
     "title_ru": "Паутина Шарлотты",
     "tmdb_id": 9986,
-    "poster_path": "/ps0s2hThPk20bCnoIH6iGYGh4vB.jpg"
+    "poster_path": "/ps0s2hThPk20bCnoIH6iGYGh4vB.jpg",
+    "director": "Гари Виник"
   },
   {
     "title": "Rango",
@@ -22700,7 +23672,8 @@ var movieDB = [
     "why": "Ранго - хамелеон, который живет в террариуме и считает себя героем, которому, к сожалению, никак не удается проявить свое бесстрашие. Но когда он внезапно оказывается в городке Грязь, у него появляется такая возможность. Ранго провозглашает себя борцом за справедливость и начинает вести себя как шер...",
     "title_ru": "Ранго",
     "tmdb_id": 44896,
-    "poster_path": "/qPCEEiU65rdBteudyNFIbbb4gs1.jpg"
+    "poster_path": "/qPCEEiU65rdBteudyNFIbbb4gs1.jpg",
+    "director": "Гор Вербински"
   },
   {
     "title": "Black Adam",
@@ -22720,7 +23693,8 @@ var movieDB = [
     "why": "Спустя почти 5 000 лет после того, как он был наделен всемогущими силами египетских богов и так же быстро заключен в тюрьму, Черный Адам освобождается из своей земной гробницы и готов обрушить свою уникальную форму правосудия на современный мир.",
     "title_ru": "Чёрный Адам",
     "tmdb_id": 436270,
-    "poster_path": "/ebtyQ43I2QSeEJiXYNFgSp4yuYT.jpg"
+    "poster_path": "/ebtyQ43I2QSeEJiXYNFgSp4yuYT.jpg",
+    "director": "Жауме Колет-Серра"
   },
   {
     "title": "Solace",
@@ -22742,7 +23716,8 @@ var movieDB = [
     "why": "Напарники, Джо и Кэтрин, детективы из ФБР расследуют череду загадочных убийств. Все преступления объединяет нечто сверхъестественное — серийный убийца всегда на шаг впереди лучших сыщиков. Тогда на помощь правосудию приходит отставной аналитик спецслужб доктор Джон Кленси. Его исключительная интуици...",
     "title_ru": "Экстрасенсы",
     "tmdb_id": 339527,
-    "poster_path": "/vX6JDRsc0JT6HESqEDe1A8MuvT7.jpg"
+    "poster_path": "/vX6JDRsc0JT6HESqEDe1A8MuvT7.jpg",
+    "director": "Afonso Poyart"
   },
   {
     "title": "Dead Poets Society",
@@ -22760,7 +23735,8 @@ var movieDB = [
     "why": "Джон Китинг - новый преподаватель английской словесности в консервативном американском колледже. От чопорной массы учителей его выгодно отличают легкость общения, эксцентричное поведение и пренебрежение к программе обучения. Однажды он посвящает своих подопечных в тайну Общества мёртвых поэтов. С эт...",
     "title_ru": "Общество мёртвых поэтов",
     "tmdb_id": 207,
-    "poster_path": "/1josLrBovuxYylg6QimE0Y1FUs.jpg"
+    "poster_path": "/1josLrBovuxYylg6QimE0Y1FUs.jpg",
+    "director": "Питер Уир"
   },
   {
     "title": "The One",
@@ -22779,7 +23755,8 @@ var movieDB = [
     "why": "20 лет назад в канун Рождества Гринч убил маму Синди. Повзрослев, она возвращается в родной дом на праздники. В этот раз Гринч нападает на её отца и хочет не просто похитить Рождество, а всех убить. Синди готовится остановить зелёного монстра.",
     "title_ru": "Гринч. Ужасающий Новый год",
     "tmdb_id": 1033052,
-    "poster_path": "/3lSk4bIEmvpSNkJgt2n83PYqKkC.jpg"
+    "poster_path": "/3lSk4bIEmvpSNkJgt2n83PYqKkC.jpg",
+    "director": "Steven LaMorte"
   },
   {
     "title": "Six Degrees of Celebration 8",
@@ -22795,7 +23772,8 @@ var movieDB = [
     "why": "В Саранске Женя устроит настоящий праздник чтобы вывести из уныния друга Борю, и ему не помешает даже лежащий без чувств Дед Мороз. В Тюмени Юля сделает всё, чтобы открытие термального сезона состоялось, и её планам не помешает даже скверный характер приглашенной звезды. В Екатеринбурге геймер Федя ...",
     "title_ru": "Ёлки 8",
     "tmdb_id": 900246,
-    "poster_path": "/zzfWk6aWWBLISy4KEgnpqie824e.jpg"
+    "poster_path": "/zzfWk6aWWBLISy4KEgnpqie824e.jpg",
+    "director": "Александра Лупашко, Varvara Matsenova, Vasily Zorky, Антон Богданов, Yakov Yurovitsky"
   },
   {
     "title": "Night Watch",
@@ -22817,7 +23795,8 @@ var movieDB = [
     "why": "Все знают, что на ночных улицах опасно. Но в данном случае речь идёт не о преступниках и маньяках. Когда наступает ночь, и силы Зла властвуют безраздельно, можно столкнуться с теми, с кем не встретишься днём - тёмными магами, вампирами и прочей нечистью. Их сила столь велика, что справиться с ними о...",
     "title_ru": "Ночной дозор",
     "tmdb_id": 3040,
-    "poster_path": "/v570l9pLhNNZOSjSXhwdGS3rwyt.jpg"
+    "poster_path": "/v570l9pLhNNZOSjSXhwdGS3rwyt.jpg",
+    "director": "Тимур Бекмамбетов"
   },
   {
     "title": "Unfriended",
@@ -22837,7 +23816,8 @@ var movieDB = [
     "why": "Обычный вечер после школы. К скайпу влюбленных Блэра и Митч подключаются друзья — Адам, Джес, Кен и Вэл… и кто-то седьмой с ником Billy227. Все уверены, что это компьютерный глюк, пока неизвестный не начинает им писать. Билли хочет знать, кто выложил в Сеть скандальное видео с их одноклассницей Лоро...",
     "title_ru": "Убрать из друзей",
     "tmdb_id": 277685,
-    "poster_path": "/flScYeELt45mvzMD6P5GhhfoPNH.jpg"
+    "poster_path": "/flScYeELt45mvzMD6P5GhhfoPNH.jpg",
+    "director": "Леван Габриадзе"
   },
   {
     "title": "Sobibor",
@@ -22856,7 +23836,8 @@ var movieDB = [
     "why": "История сопротивления человеческого духа бездушной машине уничтожения. В октябре 1943 года заключённые лагеря Собибор во главе с лейтенантом Красной Армии Александром Печерским поднимают восстание — единственное успешное восстание в нацистском лагере смерти.",
     "title_ru": "Собибор",
     "tmdb_id": 440626,
-    "poster_path": "/q7RwP7JijLk54lXjTKiMpRMyjir.jpg"
+    "poster_path": "/q7RwP7JijLk54lXjTKiMpRMyjir.jpg",
+    "director": "Константин Хабенский"
   },
   {
     "title": "The Geographer Drank His Globe Away",
@@ -22872,7 +23853,8 @@ var movieDB = [
     "why": "Молодой биолог Виктор Служкин от безденежья идет работать учителем географии в обычную пермскую школу. Он борется, а потом и дружит с учениками, конфликтует с завучем, ведет девятиклассников в поход — сплавляться по реке. Еще он пьет с друзьями вино, пытается ужиться с женой и водит в детский сад ма...",
     "title_ru": "Географ глобус пропил",
     "tmdb_id": 225235,
-    "poster_path": "/nzrY3ckWrc72DVPQLdCdN0B7XvS.jpg"
+    "poster_path": "/nzrY3ckWrc72DVPQLdCdN0B7XvS.jpg",
+    "director": "Alexandr Veledinsky"
   },
   {
     "title": "Admiral",
@@ -22891,7 +23873,8 @@ var movieDB = [
     "why": "Фильм, рассказывающий о жизни и любви выдающегося боевого офицера военно-морского флота, полярного исследователя, а затем ставшего адмиралом, верховного правителя России - Александра Васильевича Колчака и Анны Тимиревой. События разворачиваются в период 1916-1920 годов на фоне крушения Российской им...",
     "title_ru": "Адмиралъ",
     "tmdb_id": 13506,
-    "poster_path": "/cgRv1IrrC7QfWBRFJ77ZsgSwSEI.jpg"
+    "poster_path": "/cgRv1IrrC7QfWBRFJ77ZsgSwSEI.jpg",
+    "director": "Андрей Кравчук"
   },
   {
     "title": "Six Degrees of Celebration",
@@ -22907,7 +23890,8 @@ var movieDB = [
     "why": "События самой новогодней комедии ЁЛКИ происходят в 11 городах: Калиниграде, Казани, Перми, Уфе, Бавлах, Екатеринбурге, Красноярске, Якутске, Новосибирске, Санкт-Петербурге и Москве. Герои фильма — таксист и поп-дива, бизнесмен и актер, сноубордист и лыжник, студент и пенсионерка, пожарник и директри...",
     "title_ru": "Ёлки",
     "tmdb_id": 57809,
-    "poster_path": "/3e3lGXn5nvJ42IN5CxXDdCh8AJa.jpg"
+    "poster_path": "/3e3lGXn5nvJ42IN5CxXDdCh8AJa.jpg",
+    "director": "Yaroslav Chevazhevsky, Тимур Бекмамбетов, Ignas Jonynas, Александр Войтинский, Дмитрий Киселёв, Александр Андрющенко"
   },
   {
     "title": "The Irony of Fate: Continuation",
@@ -22926,7 +23910,8 @@ var movieDB = [
     "why": "С того Нового года, когда Женя Лукашин познакомился с Надей, минуло тридцать лет. Время не пощадило их, заставив расстаться и разъехаться по родным городам. Старые друзья продолжают каждый год ходить в баню, но теперь к ним присоединился Костя — сын Жени Лукашина от нового брака, тоже, впрочем, неуд...",
     "title_ru": "Ирония судьбы. Продолжение",
     "tmdb_id": 27046,
-    "poster_path": "/yzjLu5rTsIVHYmvMciUjmT3lJBc.jpg"
+    "poster_path": "/yzjLu5rTsIVHYmvMciUjmT3lJBc.jpg",
+    "director": "Тимур Бекмамбетов"
   },
   {
     "title": "Six Degrees of Celebration 2",
@@ -22945,7 +23930,8 @@ var movieDB = [
     "why": "За этот год много чего произошло, но наступит день, который всё расставит на свои места. Продолжение новогодних историй, которые происходили в жизни героев в фильме «Ёлки».",
     "title_ru": "Ёлки 2",
     "tmdb_id": 85317,
-    "poster_path": "/GaTjRzfITdgkK2ARIQkE4mtoKo.jpg"
+    "poster_path": "/GaTjRzfITdgkK2ARIQkE4mtoKo.jpg",
+    "director": "Александр Котт, Александр Баранов, Дмитрий Киселёв, Леван Габриадзе"
   },
   {
     "title": "Lucky Trouble",
@@ -22964,7 +23950,8 @@ var movieDB = [
     "why": "Комедия о том, как Слава Колотилов, учитель русского языка из маленького городка и Надя — успешная москвичка, случайно познакомившись в столице, через неделю совместных приключений влюбились так сильно, что решили, не откладывая, пожениться. Слава спешил на поезд, который должен был отвезти его на с...",
     "title_ru": "Выкрутасы",
     "tmdb_id": 39253,
-    "poster_path": "/wDCfAioYJuz4DmY7yjKlzleRLVH.jpg"
+    "poster_path": "/wDCfAioYJuz4DmY7yjKlzleRLVH.jpg",
+    "director": "Леван Габриадзе"
   },
   {
     "title": "Six Degrees of Celebration 1914",
@@ -22983,7 +23970,8 @@ var movieDB = [
     "why": "100 лет назад, Российская империя… Канун Рождества. Декабрьские пробки, праздничные гулянья, роскошные балы и скромные праздники, титулованные дворяне и обычные крестьяне, царская семья и солдаты первой мировой войны, прогрессивные поэты и первые фигуристы - все было по-другому, за исключением … пра...",
     "title_ru": "Ёлки 1914",
     "tmdb_id": 313556,
-    "poster_path": "/kwRNp6Pl6GaFi1X6wzSD151tWVb.jpg"
+    "poster_path": "/kwRNp6Pl6GaFi1X6wzSD151tWVb.jpg",
+    "director": "Тимур Бекмамбетов, Александр Карпиловский, Дмитрий Киселёв, Александр Котт, Zaur Zaseyev, Olga Kharina, Юрий Быков, Екатерина Телегина, Андрей Кавун"
   },
   {
     "title": "Six Degrees of Celebration 5",
@@ -22999,7 +23987,8 @@ var movieDB = [
     "why": "В этот новый год любимые герои «Ёлок» всё также делают глупости и надеются на чудо. Боре нужно как-то восстановить семейное счастье и ради этого он готов украсть у лучшего друга Жени пингвина. Лыжник и Сноубордист, так и не повзрослевшие, устраивают сумасшедшую погоню за ёлкой. Баба Маня осваивает и...",
     "title_ru": "Ёлки 5",
     "tmdb_id": 430413,
-    "poster_path": "/dzZQXEO22v1yP0C7q6V7AK0vivd.jpg"
+    "poster_path": "/dzZQXEO22v1yP0C7q6V7AK0vivd.jpg",
+    "director": "Роман Непомнящий, Мария Лихачева, Тимур Бекмамбетов, Андрей Шавкеро, Вадим Перельман, Александр Котт, Indar Dzhendubaev"
   },
   {
     "title": "The Last Six Degrees of Celebration",
@@ -23015,7 +24004,8 @@ var movieDB = [
     "why": "«Ёлки Последние» станут самыми трогательными, добрыми и волшебными из всех, потому что любимые герои будут прощаться со зрителями. В киноальманах войдет пять новогодних историй. В новелле «Сосны» миллениал поможет своему брутальному отчиму дяде Юре сделать предложение руки и сердца. В «Братьях» нера...",
     "title_ru": "Елки последние",
     "tmdb_id": 561265,
-    "poster_path": "/vWSe6YGEIAud2h5ia6qmPMUGwz2.jpg"
+    "poster_path": "/vWSe6YGEIAud2h5ia6qmPMUGwz2.jpg",
+    "director": "Николай Булыгин, Максим Полинский, Егор Баранов, Тимур Бекмамбетов, Александр Котт, Анна Пармас"
   },
   {
     "title": "Six Degrees of Celebration 6",
@@ -23031,7 +24021,8 @@ var movieDB = [
     "why": "В декабре 2017 будет жарко! Дружба Жени и Бори едва не сгорит в огне семейного скандала; глубоко беременная Снегурочка отправится в Одиссею по нижегородским семьям; отчаянная Галя из Новосибирска пойдет на все, чтобы провести ночь с любимым врачом; экстремальный поход в лес за елкой станет проверкой...",
     "title_ru": "Ёлки новые",
     "tmdb_id": 489648,
-    "poster_path": "/rzp3Mtf9xRrud97aLCrZgjFnZTb.jpg"
+    "poster_path": "/rzp3Mtf9xRrud97aLCrZgjFnZTb.jpg",
+    "director": "Александр Карпиловский, Дмитрий Киселёв, Александр Котт, Алексей Нужный, Жора Крыжовников"
   },
   {
     "title": "Fantastic Return to Oz",
@@ -23056,7 +24047,8 @@ var movieDB = [
     "why": "Элли и ее верный пес Тотошка снова оказываются в Волшебной стране в самое подходящее время. Власть в Изумрудном городе опять пытается захватить коварный Урфин Джюс, который хоть и потерял армию деревянных солдат, но не отказался от своей вредной привычки — портить всем жизнь. В руках Урфина теперь в...",
     "title_ru": "Урфин Джюс возвращается",
     "tmdb_id": 518596,
-    "poster_path": "/Ai6CVeXW3XmumgS86kcP07k4Kgq.jpg"
+    "poster_path": "/Ai6CVeXW3XmumgS86kcP07k4Kgq.jpg",
+    "director": "Fedor Dmitriev"
   },
   {
     "title": "The Admirer",
@@ -23078,7 +24070,8 @@ var movieDB = [
     "why": "Родители 13-летней Лены развелись. Героиня устраивается работать на почту, а здесь все разговоры о серийном убийце. Однажды вечером незнакомец защищает Лену от хулиганов и начинает помогать ей и дальше. Девушка думает, что её опекает тот самый маньяк. Отношения со странным поклонником вскоре превращ...",
     "title_ru": "Поклонник",
     "tmdb_id": 612042,
-    "poster_path": "/jKWoPaBmnbszONyya2tKxVvlNsC.jpg"
+    "poster_path": "/jKWoPaBmnbszONyya2tKxVvlNsC.jpg",
+    "director": "Николай Лебедев"
   },
   {
     "title": "Demolition",
@@ -23100,7 +24093,8 @@ var movieDB = [
     "why": "Джейк Джилленхол: банкир крушит всё вокруг после смерти жены. Письма в автомат по продаже конфет.",
     "title_ru": "La démolition familiale",
     "tmdb_id": 478841,
-    "poster_path": "/ma6qucx9aBJaCzUc26f4bf9R21K.jpg"
+    "poster_path": "/ma6qucx9aBJaCzUc26f4bf9R21K.jpg",
+    "director": "Patrick Damien-Roy"
   },
   {
     "title": "Bullet Train",
@@ -23122,7 +24116,8 @@ var movieDB = [
     "why": "Наёмник под кодовым именем Божья Коровка отправляется на новую миссию: вместо заболевшего коллеги он должен сесть в скоростной поезд Токио — Киото, выкрасть чемоданчик и сойти на промежуточной станции. Но выполнение простого задания сильно осложняется, когда выясняется, что состав просто кишит всево...",
     "title_ru": "Быстрее пули",
     "tmdb_id": 718930,
-    "poster_path": "/oK3e4nDFB8lsT8H1D7bMHXoXsRH.jpg"
+    "poster_path": "/oK3e4nDFB8lsT8H1D7bMHXoXsRH.jpg",
+    "director": "Дэвид Литч"
   },
   {
     "title": "How the Grinch Stole Christmas",
@@ -23145,7 +24140,8 @@ var movieDB = [
     "why": "Жил-был в городе Ктограде человечек, и звали его Гринч. Был он весь зеленый и волосатый, никто его не любил. Обиделся Гринч на ктовичей и ушел жить на одинокую, обдуваемую всеми ветрами гору. Сидел там в своей пещере и злился на весь свет. Больше всего Гринч ненавидел Рождество. В то время, как все ...",
     "title_ru": "Гринч - Похититель Рождества",
     "tmdb_id": 8871,
-    "poster_path": "/kBwYWREL3MNw1tnB4akrfUFgxXh.jpg"
+    "poster_path": "/kBwYWREL3MNw1tnB4akrfUFgxXh.jpg",
+    "director": "Рон Ховард"
   },
   {
     "title": "A Christmas Carol",
@@ -23171,7 +24167,8 @@ var movieDB = [
     "why": "История о старом и ожесточившемся скупердяе Эбенезере Скрудже, который в течение одной ночи переживает испытание глубокого очищения.",
     "title_ru": "Рождественская История",
     "tmdb_id": 17979,
-    "poster_path": "/rgPEBq7GXtBJ3CB1ExbFgipiX4k.jpg"
+    "poster_path": "/rgPEBq7GXtBJ3CB1ExbFgipiX4k.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "Mr. Popper's Penguins",
@@ -23191,7 +24188,8 @@ var movieDB = [
     "why": "Какую только свинью порой не подложит судьба! Правда, на этот раз она решила обойтись более экзотическими животными. Преуспевающий бизнесмен получает в наследство шестерых пингвинов и буквально влюбляется в них. Работа оказывается заброшенной, шикарные апартаменты превращаются в заснеженную обитель,...",
     "title_ru": "Пингвины мистера Поппера",
     "tmdb_id": 58224,
-    "poster_path": "/xC0Zx6RsdHaqqNhfKtaQrefMvxa.jpg"
+    "poster_path": "/xC0Zx6RsdHaqqNhfKtaQrefMvxa.jpg",
+    "director": "Марк Уотерс"
   },
   {
     "title": "Dumb and Dumber To",
@@ -23207,7 +24205,8 @@ var movieDB = [
     "why": "Гарри Данн и Ллойд Кристмас отправляются в путешествие, чтобы разыскать ребенка Гарри, о существовании которого он не подозревал.",
     "title_ru": "Тупой и ещё тупее 2",
     "tmdb_id": 100042,
-    "poster_path": "/silm4ZR8vcyDVt3sS9JXZFhyCpy.jpg"
+    "poster_path": "/silm4ZR8vcyDVt3sS9JXZFhyCpy.jpg",
+    "director": "Bobby Farrelly, Peter Farrelly"
   },
   {
     "title": "The A-Team",
@@ -23229,7 +24228,8 @@ var movieDB = [
     "why": "Полнометражная версия сериала 80-х годов «Команда А». Последний вариант истории, написанный Джейсоном Ротуэллом, вращается вокруг группы ветеранов войны в Ираке. Их разыскивают вооруженные силы США по обвинению в преступлении, которого герои не совершали. Скрываясь от преследования, они успевают пом...",
     "title_ru": "Команда «А»",
     "tmdb_id": 34544,
-    "poster_path": "/1AJ0RP1Xhq4WEfFqHKl8tUQlGM1.jpg"
+    "poster_path": "/1AJ0RP1Xhq4WEfFqHKl8tUQlGM1.jpg",
+    "director": "Джо Карнахан"
   },
   {
     "title": "Avatar: The Way of Water",
@@ -23249,7 +24249,8 @@ var movieDB = [
     "why": "Джейк становится предводителем народа на’ви и берёт на себя миссию по защите новых друзей от корыстных бизнесменов с Земли. Теперь ему есть за кого бороться - с Джейком его прекрасная возлюбленная Нейтири. Когда на Пандору возвращаются до зубов вооружённые земляне, Джейк готов дать им отпор.",
     "title_ru": "Аватар: Путь воды",
     "tmdb_id": 76600,
-    "poster_path": "/yFNn7uWudLLWDJqfj3fwh5CcUdR.jpg"
+    "poster_path": "/yFNn7uWudLLWDJqfj3fwh5CcUdR.jpg",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Cooties",
@@ -23275,7 +24276,8 @@ var movieDB = [
     "why": "В одной частной закрытой школе появился страшный вирус! Маленькие хорошенькие детки в одночасье превратились в адских зомби, которые хотят сожрать своих любимых учителей и одноклассников. Война начинается! И не на жизнь, а на смерть.",
     "title_ru": "Кутис",
     "tmdb_id": 241843,
-    "poster_path": "/7CaZHhF96fDLNYalzgTF33DLh9Z.jpg"
+    "poster_path": "/7CaZHhF96fDLNYalzgTF33DLh9Z.jpg",
+    "director": "Cary Murnion, Jonathan Milott"
   },
   {
     "title": "The Tree of Life",
@@ -23300,7 +24302,8 @@ var movieDB = [
     "why": "Терренс Малик: от динозавров до техасского детства. Шёпот, симфония, вселенная.",
     "title_ru": "Древо жизни",
     "tmdb_id": 8967,
-    "poster_path": "/jpIOnrPX6BtRlVj1fYRtIMmvLU5.jpg"
+    "poster_path": "/jpIOnrPX6BtRlVj1fYRtIMmvLU5.jpg",
+    "director": "Терренс Малик"
   },
   {
     "title": "Meet Joe Black",
@@ -23322,7 +24325,8 @@ var movieDB = [
     "why": "В жизни газетного магната Уильяма Пэрриша появляется сама Смерть, принявшая обличье молодого человека по имени Джо Блэк. Смерть, уставшая от своих привычных обязанностей, предлагает Пэрришу необычное соглашение: магнат станет проводником Джо в мире живых, а по окончании каникул Смерть заберет Пэрриш...",
     "title_ru": "Знакомьтесь, Джо Блэк",
     "tmdb_id": 297,
-    "poster_path": "/b0lgdiG0HUOM6iGKralBrl8QQjC.jpg"
+    "poster_path": "/b0lgdiG0HUOM6iGKralBrl8QQjC.jpg",
+    "director": "Мартин Брест"
   },
   {
     "title": "Top Gun: Maverick",
@@ -23342,7 +24346,8 @@ var movieDB = [
     "why": "Пит Митчелл по прозвищу Мэверик более 30 лет остается одним из лучших пилотов ВМФ: бесстрашный летчик-испытатель, он расширяет границы возможного и старательно избегает повышения в звании, которое заставило бы его приземлиться навсегда. Приступив к подготовке отряда выпускников «Топ Ган» для специал...",
     "title_ru": "Топ Ган: Мэверик",
     "tmdb_id": 361743,
-    "poster_path": "/jpVrsq4uZiYcAlQ6phjHbY72uEM.jpg"
+    "poster_path": "/jpVrsq4uZiYcAlQ6phjHbY72uEM.jpg",
+    "director": "Джозеф Косински"
   },
   {
     "title": "The Assassination of Jesse James by the Coward Robert Ford",
@@ -23362,7 +24367,8 @@ var movieDB = [
     "why": "История самого печально известного преступника Америки времен Дикого Запада. Дерзкий и непредсказуемый Джесси Джеймс - легендарный вор. Он всегда тщательно планирует свои нападения, и ведет войну с теми, кто наживается денег и славы, прикрываясь его именем. В 1881 году в ряды банды Джеймса вступает ...",
     "title_ru": "Как трусливый Роберт Форд убил Джесси Джеймса",
     "tmdb_id": 4512,
-    "poster_path": "/c3QwmNDbzlQpg7zEeaKmaTcEXyk.jpg"
+    "poster_path": "/c3QwmNDbzlQpg7zEeaKmaTcEXyk.jpg",
+    "director": "Эндрю Доминик"
   },
   {
     "title": "Puss in Boots: The Last Wish",
@@ -23388,7 +24394,8 @@ var movieDB = [
     "why": "Рыцарь хвоста и шпаги, он же Кот в сапогах, героически побеждает грозного великана, но вместе с тем лишается восьмой из девяти своих жизней. Риск умереть окончательно и безвозвратно побуждает главного героя завязать с авантюрами и стать новой домашней кошкой Мамы Луны, где тот заводит дружбу с собак...",
     "title_ru": "Кот в сапогах 2: Последнее желание",
     "tmdb_id": 315162,
-    "poster_path": "/z2gOE3Z4mNLAcw0dQ1BlGoWLrH7.jpg"
+    "poster_path": "/z2gOE3Z4mNLAcw0dQ1BlGoWLrH7.jpg",
+    "director": "Джоэль Кроуфорд"
   },
   {
     "title": "Whiplash",
@@ -23419,7 +24426,8 @@ var movieDB = [
     ],
     "title_ru": "Одержимость",
     "tmdb_id": 367412,
-    "poster_path": "/wTWTPZSa4YUe9AwoOspJ3MTlRDz.jpg"
+    "poster_path": "/wTWTPZSa4YUe9AwoOspJ3MTlRDz.jpg",
+    "director": "Дэмьен Шазелл"
   },
   {
     "title": "Operation Fortune: Ruse de Guerre",
@@ -23444,7 +24452,8 @@ var movieDB = [
     "why": "Суперагент британской разведки Орсон Форчун наслаждался заслуженным отпуском, когда родине срочно понадобились его услуги. Из секретной лаборатории похищено предположительно смертельное оружие, поэтому собрав команду из лучших оперативников, Орсон выходит на посредника в готовящейся сделке продажи —...",
     "title_ru": "Операция «Фортуна»: Искусство побеждать",
     "tmdb_id": 739405,
-    "poster_path": "/59BOaiC3CAM6sXyKLlMpY1MU1ks.jpg"
+    "poster_path": "/59BOaiC3CAM6sXyKLlMpY1MU1ks.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "Babylon",
@@ -23463,7 +24472,8 @@ var movieDB = [
     "why": "Голливуд, 1926 год. На шумной вечеринке в особняке продюсера знакомятся начинающая актриса Нелли Ларой и парень из обслуживающего персонала Мэнни Торрес. Мероприятие проходит не только весело, но и с пользой для обоих: Нелли получает приглашение на съёмки, а Мэнни отвозит домой пьяную звезду немого ...",
     "title_ru": "Вавилон",
     "tmdb_id": 615777,
-    "poster_path": "/u8Hj5v5x0R4DJFW0yUX4iGTWtDT.jpg"
+    "poster_path": "/u8Hj5v5x0R4DJFW0yUX4iGTWtDT.jpg",
+    "director": "Дэмьен Шазелл"
   },
   {
     "title": "Jerry & Marge Go Large",
@@ -23482,7 +24492,8 @@ var movieDB = [
     "why": "Супруги Джерри и Мардж Селби вычисляют математическую погрешность, которая позволяет им выигрывать одну денежную лотерею за другой. Получив миллионы долларов, они решают дать возможность озолотиться и другим.",
     "title_ru": "Джерри и Мардж играют по-крупному",
     "tmdb_id": 843847,
-    "poster_path": "/sObNIqlneAtO2kzht5zoNBeLRRw.jpg"
+    "poster_path": "/sObNIqlneAtO2kzht5zoNBeLRRw.jpg",
+    "director": "Дэвид Фрэнкел"
   },
   {
     "title": "John Carter",
@@ -23502,7 +24513,8 @@ var movieDB = [
     "why": "Ветеран Гражданской войны в США Джон Картер против своей воли оказывается на Марсе, где попадает в плен к воинственным четырехметровым туземцам. Картеру предстоит не только спастись самому, но и спасти принцессу Дею Торис из Гелиума.  По мотивам первой книги Эдгара Берроуз \"Принцесса Марса\" из трило...",
     "title_ru": "Джон Картер",
     "tmdb_id": 49529,
-    "poster_path": "/h0NtgPWpRH36M9BAk3bKozd7fDo.jpg"
+    "poster_path": "/h0NtgPWpRH36M9BAk3bKozd7fDo.jpg",
+    "director": "Эндрю Стэнтон"
   },
   {
     "title": "Total Recall",
@@ -23522,7 +24534,8 @@ var movieDB = [
     "why": "Он — обычный рабочий-строитель, живущий в маленькой квартирке в захудалом районе города будущего где-то в Новой Азии. Хотя собственная жизнь его в целом устраивает, он не может избавиться от чувства, что ему хочется чего-то большего. Потребность в новых будоражащих впечатлениях приводит его в офис к...",
     "title_ru": "Вспомнить всё",
     "tmdb_id": 64635,
-    "poster_path": "/sZE8SIVapU27uDKQKeMC5eReiFV.jpg"
+    "poster_path": "/sZE8SIVapU27uDKQKeMC5eReiFV.jpg",
+    "director": "Лен Уайзман"
   },
   {
     "title": "The Infiltrator",
@@ -23544,7 +24557,8 @@ var movieDB = [
     "why": "Федеральный агент Боб Мейзур, специалист по внедрению в преступные группировки, ставит себе целью раскрыть схему отмывания денег наркокартеля Пабло Эскобара. В одной команде со вспыльчивым оперативником Эмиром Абреу, а также начинающим агентом Кэти Эртс, исполняющей роль подставной невесты Боба, ему...",
     "title_ru": "Афера под прикрытием",
     "tmdb_id": 325789,
-    "poster_path": "/jlo4Gkxdao0UBygTf4hD5T1eU9o.jpg"
+    "poster_path": "/jlo4Gkxdao0UBygTf4hD5T1eU9o.jpg",
+    "director": "Брэд Фурман"
   },
   {
     "title": "Blackfish",
@@ -23560,7 +24574,8 @@ var movieDB = [
     "why": "Фильм начинается с рассказа о несчастном случае, случившимся в 2010 году в водном парке развлечений Орландо, когда касатка Тиликум утащила под воду и утопила дрессировщика Дауна Браншо. Как выяснилось, он был не единственной жертвой кита-убийцы — за десять лет до этого случая, в 2001 году, Тиликум у...",
     "title_ru": "Чёрный плавник",
     "tmdb_id": 158999,
-    "poster_path": "/yFJiczzDoCpX0F1RS1csjukpwIo.jpg"
+    "poster_path": "/yFJiczzDoCpX0F1RS1csjukpwIo.jpg",
+    "director": "Gabriela Cowperthwaite"
   },
   {
     "title": "Goon",
@@ -23582,7 +24597,8 @@ var movieDB = [
     "why": "Шон Уильям Скотт — добрый здоровяк, который становится тафгаем в хоккее. Gay porn hard!",
     "title_ru": "观音山",
     "tmdb_id": 63064,
-    "poster_path": "/7KtisPY2DOnjlLyJcjtA3dgJaIk.jpg"
+    "poster_path": "/7KtisPY2DOnjlLyJcjtA3dgJaIk.jpg",
+    "director": "Li Yu"
   },
   {
     "title": "Goon: Last of the Enforcers",
@@ -23598,7 +24614,8 @@ var movieDB = [
     "why": "Даг — хоккеист, который совершенно не умеет играть в хоккей, но запросто может положить любого с помощью своих могучих кулаков. В результате травмы ударной правой руки ему приходится покинуть хоккей. Но как смириться со скучной офисной работой, когда капитаном твоей команды становится какой-то наглы...",
     "title_ru": "Вышибала: Эпический замес",
     "tmdb_id": 336890,
-    "poster_path": "/75HqM9U2hIJ00wuo6iCNkAZeMmt.jpg"
+    "poster_path": "/75HqM9U2hIJ00wuo6iCNkAZeMmt.jpg",
+    "director": "Джей Барушель"
   },
   {
     "title": "2036: Nexus Dawn",
@@ -23615,7 +24632,8 @@ var movieDB = [
     "why": "Короткометражный фильм о событиях, происходящих между 2019 и 2049 годами вселенной Blade Runner. Уоллес стремится снять запрет на производство репликантов, введя новую линию «совершенных» репликантов, названных Nexus 9. Это, несомненно, вызовет серьезные последствия, которые будут иметь решающее зна...",
     "title_ru": "2036: Возрождение Nexus",
     "tmdb_id": 473072,
-    "poster_path": "/kFzoW13fpFjEF3DPBv8xV8AF1tL.jpg"
+    "poster_path": "/kFzoW13fpFjEF3DPBv8xV8AF1tL.jpg",
+    "director": "Luke Scott"
   },
   {
     "title": "Shotgun Wedding",
@@ -23637,7 +24655,8 @@ var movieDB = [
     "why": "Дарси и Том готовятся к роскошной свадьбе на острове. Им немного досаждают мама жениха и бывший невесты. Но вскоре пара поймёт, что это были лишь мелочи: прямо на церемонию врываются пираты и берут гостей в заложники. Дарси и Тому предстоит всех спасти.",
     "title_ru": "Моя пиратская свадьба",
     "tmdb_id": 758009,
-    "poster_path": "/3YwG9Gr6bmvvgAfd7cqZuWZXVQF.jpg"
+    "poster_path": "/3YwG9Gr6bmvvgAfd7cqZuWZXVQF.jpg",
+    "director": "Jason Moore"
   },
   {
     "title": "Everest",
@@ -23659,7 +24678,8 @@ var movieDB = [
     "why": "Экспедиция под руководством Роба Холла отправляется на Эверест, сопровождая клиентов, которые хотят подняться на высочайшую вершину мира. Для одних это мечта всей жизни, для других - серьёзное испытание, требующее полной отдачи и доверия к гиду. Подъём проходит через череду лагерей, где каждый шаг д...",
     "title_ru": "Эверест",
     "tmdb_id": 253412,
-    "poster_path": "/cj71FlnvfbC6IH07n4gsI8yiwTY.jpg"
+    "poster_path": "/cj71FlnvfbC6IH07n4gsI8yiwTY.jpg",
+    "director": "Бальтасар Кормакур"
   },
   {
     "title": "Mad Max",
@@ -23680,7 +24700,8 @@ var movieDB = [
     "why": "В недалёком будущем после крупной катастрофы вся жизнь сосредоточилась вдоль бесчисленных магистралей. Банда байкеров, желая рассчитаться за убитого товарища, преследует молодого полицейского Макса. Жертвой их мести становится лучший друг Макса, и теперь эта же участь грозит самому Максу и его семье...",
     "title_ru": "Безумный Макс",
     "tmdb_id": 9659,
-    "poster_path": "/khnAWHcMnn86p3l62X5hdSySh75.jpg"
+    "poster_path": "/khnAWHcMnn86p3l62X5hdSySh75.jpg",
+    "director": "Джордж Миллер"
   },
   {
     "title": "Mad Max 2",
@@ -23701,7 +24722,8 @@ var movieDB = [
     "why": "Катастрофа пострашнее ядерной войны постигла нашу цивилизацию. Энергетический кризис парализовал планету, за топливо теперь дерутся любыми средствами. Потому, что там, где бензин, — там жизнь… Одинокий Макс бороздит пустоши далёкой Австралии в поисках горючего. Наконец Макс находит станцию, превращё...",
     "title_ru": "Безумный Макс 2: Воин дороги",
     "tmdb_id": 8810,
-    "poster_path": "/5qS5Oay0pU6zZR7XYGSkmtM4rSr.jpg"
+    "poster_path": "/5qS5Oay0pU6zZR7XYGSkmtM4rSr.jpg",
+    "director": "Джордж Миллер"
   },
   {
     "title": "What Women Want",
@@ -23720,7 +24742,8 @@ var movieDB = [
     "why": "Сексапильный Ник Маршал, плейбой из Чикаго, должен получить продвижение по службе. Но в агентстве появляется Дарси Макгуайр, которая становится руководителем Ника. Во время проработки задания новой начальницы с Ником происходит несчастный случай, после которого он открывает в себе уникальный дар: чи...",
     "title_ru": "Чего хотят женщины",
     "tmdb_id": 3981,
-    "poster_path": "/uWtrsJr7ahv6jP6Qg5e1wp5Tu2f.jpg"
+    "poster_path": "/uWtrsJr7ahv6jP6Qg5e1wp5Tu2f.jpg",
+    "director": "Нэнси Мейерс"
   },
   {
     "title": "Machete Kills",
@@ -23743,7 +24766,8 @@ var movieDB = [
     "why": "Правительство США вербует Мачете для миссии, невыполнимой для смертного. Мачете прорывается в Мексику, чтобы схватить безумного лидера карательного отряда и эксцентричного миллиардера, торгующего оружием. Последний лелеет мечту начать войну на планете с помощью космического оружия. И только Мачете м...",
     "title_ru": "Мачете убивает",
     "tmdb_id": 106747,
-    "poster_path": "/g9Otj6QtmEbG8Fa0aOcB1cC1FYl.jpg"
+    "poster_path": "/g9Otj6QtmEbG8Fa0aOcB1cC1FYl.jpg",
+    "director": "Роберт Родригес"
   },
   {
     "title": "Sonic the Hedgehog 2",
@@ -23768,7 +24792,8 @@ var movieDB = [
     "why": "Поселившись в Грин Хилз, Соник стремится доказать, что у него есть все задатки настоящего героя. И геройское испытание не заставляет себя долго ждать: злодейский доктор Роботник вновь строит козни. На этот раз с загадочным напарником Наклзом. Вместе они разыскивают бесценный изумруд, в котором заклю...",
     "title_ru": "Соник 2 в Кино",
     "tmdb_id": 675353,
-    "poster_path": "/6gi3bF0Qymv6Ja4FYIInLxa4xDU.jpg"
+    "poster_path": "/6gi3bF0Qymv6Ja4FYIInLxa4xDU.jpg",
+    "director": "Джефф Фаулер"
   },
   {
     "title": "Hardcore Henry",
@@ -23789,7 +24814,8 @@ var movieDB = [
     "why": "Прекрасная супружеская жизнь рядом с очаровательной Эстель - это все, что помнит главный герой после того, как просыпается в неизвестной научной лаборатории, где в чувства его приводит собственная жена. Но супруга тут же оказывается похищенной, и ничего не понимающий главный герой Генри уже вынужден...",
     "title_ru": "Хардкор",
     "tmdb_id": 325348,
-    "poster_path": "/jC0PzGjVfzvyri5UcQrUwwz6otm.jpg"
+    "poster_path": "/jC0PzGjVfzvyri5UcQrUwwz6otm.jpg",
+    "director": "Илья Найшуллер"
   },
   {
     "title": "Abraham Lincoln: Vampire Hunter",
@@ -23812,7 +24838,8 @@ var movieDB = [
     "why": "Сюжет фильма раскрывает тайную жизнь Величайшего Президента Америки Авраама Линкольна — любящего мужа и отца днем и беспощадного убийцу вампиров ночью. Армия кровопийц, которым он бросил вызов, растет с каждым днем. Сможет ли президент великой страны противостоять полчищам вампиров и спасти свою сем...",
     "title_ru": "Президент Линкольн: Охотник на вампиров",
     "tmdb_id": 72331,
-    "poster_path": "/hZMBg3lkKVbrFyZ9U2npK86aeDf.jpg"
+    "poster_path": "/hZMBg3lkKVbrFyZ9U2npK86aeDf.jpg",
+    "director": "Тимур Бекмамбетов"
   },
   {
     "title": "I Am Dragon",
@@ -23831,7 +24858,8 @@ var movieDB = [
     "why": "В разгар свадьбы княжну Мирославу похищает дракон, унося в свой замок на острове. В прошлом остались родные, жених, теперь только каменный плен в компании прекрасного Армана… но кто он и как оказался на острове? Мира поймет это слишком поздно: любовь к нему, человеку-дракону, откроет ей горькую исти...",
     "title_ru": "Он - дракон",
     "tmdb_id": 370964,
-    "poster_path": "/oVKmCtc7VhYsNKlhmNNlJeQgIF3.jpg"
+    "poster_path": "/oVKmCtc7VhYsNKlhmNNlJeQgIF3.jpg",
+    "director": "Indar Dzhendubaev"
   },
   {
     "title": "Black Lightning",
@@ -23851,7 +24879,8 @@ var movieDB = [
     "why": "Действие картины разворачивается в наши дни, где главный герой, двадцатилетний Дима Майков, получает в подарок от отца старенькую «Волгу-21» и внезапно обнаруживает, что его машина летает, как настоящий истребитель. Герой бесцельно парит над столичными пробками и беззаботно наслаждается полетами, по...",
     "title_ru": "Чёрная Молния",
     "tmdb_id": 31162,
-    "poster_path": "/aL0dpOCjNPXGzGn6uMlsunxFPd9.jpg"
+    "poster_path": "/aL0dpOCjNPXGzGn6uMlsunxFPd9.jpg",
+    "director": "Дмитрий Киселёв, Александр Войтинский"
   },
   {
     "title": "Ant-Man and the Wasp: Quantumania",
@@ -23875,7 +24904,8 @@ var movieDB = [
     "why": "О приключениях бывшего мелкого преступника Скотта Лэнга, ставшего обладателем костюма, позволяющего уменьшаться и увеличиваться в размерах. Вместе с напарницей Хоуп ван Дайн, дочерью известного физика и энтомолога Хэнка Пима, разработавшего костюм человека-муравья, Скотт вновь спасает мир от предсто...",
     "title_ru": "Человек-муравей и Оса: Квантомания",
     "tmdb_id": 640146,
-    "poster_path": "/8BoKsen8orEAiFWCmQkwmONjuTX.jpg"
+    "poster_path": "/8BoKsen8orEAiFWCmQkwmONjuTX.jpg",
+    "director": "Пейтон Рид"
   },
   {
     "title": "Two Cars, One Night",
@@ -23899,7 +24929,8 @@ var movieDB = [
     "why": "Тайка Вайтити: мальчик и девочка на парковке бара. Ночь, две машины и зарождение стиля.",
     "title_ru": "Two Cars, One Night",
     "tmdb_id": 51896,
-    "poster_path": "/a3BkwY76IUwadgxeKByxWv5Qukf.jpg"
+    "poster_path": "/a3BkwY76IUwadgxeKByxWv5Qukf.jpg",
+    "director": "Тайка Вайтити"
   },
   {
     "title": "John Wick: Chapter 4",
@@ -23922,7 +24953,8 @@ var movieDB = [
     "why": "Джон Уик находит способ одержать победу над Правлением Кланов. Однако, прежде чем он сможет заслужить свою свободу, ему предстоит сразиться с новым врагом и его могущественными союзниками...",
     "title_ru": "Джон Уик 4",
     "tmdb_id": 603692,
-    "poster_path": "/o29otcx30U3EkqNVGC2feJVz5yr.jpg"
+    "poster_path": "/o29otcx30U3EkqNVGC2feJVz5yr.jpg",
+    "director": "Чад Стахелски"
   },
   {
     "title": "The Fabelmans",
@@ -23938,7 +24970,8 @@ var movieDB = [
     "why": "Выросший в Аризоне после Второй мировой войны, молодой человек по имени Сэмми Фебельман узнает сокрушительную семейную тайну и исследует, как сила кино может помочь ему увидеть правду.",
     "title_ru": "Фабельманы",
     "tmdb_id": 804095,
-    "poster_path": "/6ekL3C96djCeJXWthlK3sUR2EfW.jpg"
+    "poster_path": "/6ekL3C96djCeJXWthlK3sUR2EfW.jpg",
+    "director": "Стивен Спилберг"
   },
   {
     "title": "Love, Death & Robots: Bad Travelling",
@@ -24129,7 +25162,8 @@ var movieDB = [
     "why": "Навальный: расследование дворца в Геленджике. 100 минут деталей, взорвавших интернет.",
     "title_ru": "Дворец для Путина. История самой большой взятки",
     "tmdb_id": 787721,
-    "poster_path": "/x9xbjJyH27pKj8x7yWqsBCkeZsN.jpg"
+    "poster_path": "/x9xbjJyH27pKj8x7yWqsBCkeZsN.jpg",
+    "director": "Алексей Навальный"
   },
   {
     "title": "Son of a Rich",
@@ -24149,7 +25183,8 @@ var movieDB = [
     "why": "Эгоистичный «мажор» Гриша в один не очень прекрасный день после аварии приходит в себя... в 1860 году в барской усадьбе. Теперь он — обычный холоп без связей и связи: о смартфонах здесь не слышали, а все вокруг него — крепостные. Грише предстоит пройти непростой путь, чтобы из наглого сынка богатых ...",
     "title_ru": "Холоп",
     "tmdb_id": 575828,
-    "poster_path": "/f78tgHLtWeVLl4JPygiIbCS8yE2.jpg"
+    "poster_path": "/f78tgHLtWeVLl4JPygiIbCS8yE2.jpg",
+    "director": "Клим Шипенко"
   },
   {
     "title": "Ralph Breaks the Internet",
@@ -24176,7 +25211,8 @@ var movieDB = [
     "why": "На этот раз Ральф и Ванилопа фон Кекс выйдут за пределы зала игровых автоматов и отправятся покорять бескрайние просторы Интернета, который может и не выдержать сокрушительного обаяния громилы.",
     "title_ru": "Ральф против Интернета",
     "tmdb_id": 404368,
-    "poster_path": "/tVmomifGhoJfijkOnSGDDZwRSH5.jpg"
+    "poster_path": "/tVmomifGhoJfijkOnSGDDZwRSH5.jpg",
+    "director": "Рич Мур, Фил Джонстон"
   },
   {
     "title": "Slender Man",
@@ -24198,7 +25234,8 @@ var movieDB = [
     "why": "Слендермен — это худощавая фигура в похоронном костюме, без лица, без красок и без ясных намерений. Он становится кошмаром множества детей и подростков, которые пытаются укрыться от его преследования, пока однажды не исчезают без следа.",
     "title_ru": "Слендермен",
     "tmdb_id": 439015,
-    "poster_path": "/15RD4vz5zhCL9CDImAp2EcoLXfU.jpg"
+    "poster_path": "/15RD4vz5zhCL9CDImAp2EcoLXfU.jpg",
+    "director": "Сильвен Уайт"
   },
   {
     "title": "What Men Talk About 3",
@@ -24214,7 +25251,8 @@ var movieDB = [
     "why": "На этот раз Лёша, Слава, Камиль и Саша едут в Питер. За один день наши герои побеждают немцев, хоронят дядю Борю, переживают за Михаила Прохорова, поют песню из любимого мультфильма и неожиданно для себя вспоминают слово «дендрологический», соглашаются с проводницей поезда «Адлер-Мурманск», что Месс...",
     "title_ru": "О чём говорят мужчины. Продолжение",
     "tmdb_id": 497726,
-    "poster_path": "/lykCw5QmrvDfWcAgoyEsDFpdpeJ.jpg"
+    "poster_path": "/lykCw5QmrvDfWcAgoyEsDFpdpeJ.jpg",
+    "director": "Флюза Фархшатова"
   },
   {
     "title": "Fifty Shades Freed",
@@ -24233,7 +25271,8 @@ var movieDB = [
     "why": "Кристиан и Анастейша поженились и живут в своё удовольствие, наслаждаясь обществом друг друга. Но жизнь новоиспечённой миссис Грей находится в опасности, поскольку объявляется недруг, который собирается мстить, используя свою богатую фантазию. Призраки прошлого Кристиана вновь вернулись, а тучи над ...",
     "title_ru": "Пятьдесят оттенков свободы",
     "tmdb_id": 337167,
-    "poster_path": "/uZ5ERtY6q8GvPZmJmuW6hQRQ1nO.jpg"
+    "poster_path": "/uZ5ERtY6q8GvPZmJmuW6hQRQ1nO.jpg",
+    "director": "James Foley"
   },
   {
     "title": "Murder on the Orient Express",
@@ -24257,7 +25296,8 @@ var movieDB = [
     "why": "Путешествие на одном из самых роскошных поездов Европы неожиданно превращается в одну из самых стильных и захватывающих загадок в истории. Фильм рассказывает историю тринадцати пассажиров поезда, каждый из которых находится под подозрением. И только сыщик должен как можно быстрее разгадать головолом...",
     "title_ru": "Убийство в «Восточном экспрессе»",
     "tmdb_id": 392044,
-    "poster_path": "/c0EHJ8sOgghjgEXw2PCE3j3qV0A.jpg"
+    "poster_path": "/c0EHJ8sOgghjgEXw2PCE3j3qV0A.jpg",
+    "director": "Кеннет Брана"
   },
   {
     "title": "The Kitchen: World Chef Battle",
@@ -24274,7 +25314,8 @@ var movieDB = [
     "why": "Раньше Ивана интересовали только шифровальные коды и хакерские программы, но всё меняется, когда он встречает красотку-француженку Анну со взрывным характером и русскими корнями. Оба летят в Сочи, чтобы принять участие в Чемпионате мира среди поваров: она выступает за Францию, а он — за Россию. Но И...",
     "title_ru": "Кухня. Последняя битва",
     "tmdb_id": 432091,
-    "poster_path": "/21AIv5GpWYA7lqU93JpM3h5bZw6.jpg"
+    "poster_path": "/21AIv5GpWYA7lqU93JpM3h5bZw6.jpg",
+    "director": "Антон Федотов"
   },
   {
     "title": "Fifty Shades Darker",
@@ -24293,7 +25334,8 @@ var movieDB = [
     "why": "Пока Кристиан Грей борется со своими внутренними демонами, Анастейша Стил вынуждена противостоять гневу и зависти тех женщин, что были с Кристианом до нее.",
     "title_ru": "На пятьдесят оттенков темнее",
     "tmdb_id": 341174,
-    "poster_path": "/5ZX9Y6biaDqpdz6vAzH46ydsGec.jpg"
+    "poster_path": "/5ZX9Y6biaDqpdz6vAzH46ydsGec.jpg",
+    "director": "James Foley"
   },
   {
     "title": "Allegiant",
@@ -24316,7 +25358,8 @@ var movieDB = [
     "why": "Трис и Тобиас вместе с компанией друзей выбираются за пределы родного дома. Они хотят узнать правду и обрести свободу. Но попадают прямиком в Бюро Генетической Защиты. Оказывается, в прошлом разгорелась генетическая война за чистоту. В результате мир поделили на «генетически чистых» и «генетически п...",
     "title_ru": "Дивергент, глава 3: За стеной",
     "tmdb_id": 262504,
-    "poster_path": "/afn26Axrs3We3bQMfH8Gyaxjd6i.jpg"
+    "poster_path": "/afn26Axrs3We3bQMfH8Gyaxjd6i.jpg",
+    "director": "Роберт Швентке"
   },
   {
     "title": "The Best Day Ever",
@@ -24332,7 +25375,8 @@ var movieDB = [
     "why": "Успешному сотруднику ДПС Пете Васютину уже давно пора заводить семью, а он живет с мамой, хозяйкой придорожного кафе. И невеста есть — королева бензоколонки, кассирша Оля. В тот самый день, когда Петя решает сделать Оле предложение, в его служебную машину врезается пьяная поп-звезда Алина Шёпот. Что...",
     "title_ru": "Самый лучший день",
     "tmdb_id": 373838,
-    "poster_path": "/iTXX8wIcT66kqm1InEHcGXqK5aG.jpg"
+    "poster_path": "/iTXX8wIcT66kqm1InEHcGXqK5aG.jpg",
+    "director": "Жора Крыжовников"
   },
   {
     "title": "Penguins of Madagascar",
@@ -24358,7 +25402,8 @@ var movieDB = [
     "why": "4 пингвина - Шкипер, Ковальский, Рико и Прапор, объединяются с командой «Северный ветер», помогающей беззащитным животным. Им предстоит остановить злобного осьминога, доктора Октавиуса Брайна, желающего уничтожить мир.",
     "title_ru": "Пингвины Мадагаскара",
     "tmdb_id": 270946,
-    "poster_path": "/uovMwhOMMF31sO9TxGvqjIGvdm8.jpg"
+    "poster_path": "/uovMwhOMMF31sO9TxGvqjIGvdm8.jpg",
+    "director": "Саймон Дж. Смит, Эрик Дарнелл"
   },
   {
     "title": "Who Am I",
@@ -24374,7 +25419,8 @@ var movieDB = [
     "why": "Бенджамин — молодой компьютерный гений. С детства он мечтает стать супергероем из комиксов и покорить мир. Но в реальном мире он — Никто. Его жизнь неожиданно меняется, когда он встречает свою полную противоположность — харизматичного парня Макса.  Не желая жить в жестких рамках системы, они соверша...",
     "title_ru": "Кто я",
     "tmdb_id": 284427,
-    "poster_path": "/501j5fLek6Z75SjHNRkx7JcfWe2.jpg"
+    "poster_path": "/501j5fLek6Z75SjHNRkx7JcfWe2.jpg",
+    "director": "Баран бо Одар"
   },
   {
     "title": "Gazgolder: The Movie",
@@ -24390,7 +25436,8 @@ var movieDB = [
     "why": "У Басты и его друзей произошел серьезный конфликт с могущественным кланом силовиков. Ребятам предстоит найти выход из сложившейся ситуации, включив всю мощь творческой энергии...",
     "title_ru": "Газгольдер",
     "tmdb_id": 310098,
-    "poster_path": "/fQcK1PAPJw3VRxMBOTfe1A8HtyY.jpg"
+    "poster_path": "/fQcK1PAPJw3VRxMBOTfe1A8HtyY.jpg",
+    "director": "Ivan Kurskiy"
   },
   {
     "title": "Predestination",
@@ -24407,7 +25454,8 @@ var movieDB = [
     "why": "Будущее. Ученые создали машину времени, и с этим изобретением мир вошел в новый виток цивилизации. Благодаря изобретению появилась возможность исправлять ошибки прошлого, чтобы сделать настоящее лучше. Так же машина дала возможность предотвращать преступления до их реализации. Для этой цели были ото...",
     "title_ru": "Патруль времени",
     "tmdb_id": 206487,
-    "poster_path": "/mIrmu83OaTmxYhZQUSjQedtz5Cs.jpg"
+    "poster_path": "/mIrmu83OaTmxYhZQUSjQedtz5Cs.jpg",
+    "director": "Питер Спириг, Майкл Спириг"
   },
   {
     "title": "Movie 43",
@@ -24423,7 +25471,8 @@ var movieDB = [
     "why": "25 cуперзвёзд первой величины — в комедийном проекте, который состоит из двух десятков мини-новелл с нескончаемым потоком шуток, острот и пародий, о страстях человеческих.",
     "title_ru": "Муви 43",
     "tmdb_id": 87818,
-    "poster_path": "/7wTrw29KbzOmOQ5TeqA5yOasAxp.jpg"
+    "poster_path": "/7wTrw29KbzOmOQ5TeqA5yOasAxp.jpg",
+    "director": "Стив Карр, Элизабет Бэнкс, Patrik Forsberg, James Duffy, Peter Farrelly, Бретт Ратнер, Гриффин Данн, Steven Brill, Джеймс Ганн, Will Graham, Jonathan van Tulleken, Rusty Cundieff"
   },
   {
     "title": "Soulless",
@@ -24442,7 +25491,8 @@ var movieDB = [
     "why": "Главный герой фильма — 29-летний топ-менеджер крупного международного банка по имени Макс. Он уверен, что жизнь удалась, ведь у него есть то, о чём многие не могут даже и мечтать: дорогая машина, пентхаус и вечеринки. Свою жизнь Максим тратит на зарабатывание денег, а деньги — на ночные клубы, шикар...",
     "title_ru": "Духless",
     "tmdb_id": 132759,
-    "poster_path": "/yxP0iiDXJ7p675pZYcz0MBrHfXc.jpg"
+    "poster_path": "/yxP0iiDXJ7p675pZYcz0MBrHfXc.jpg",
+    "director": "Роман Прыгунов"
   },
   {
     "title": "8 First Dates",
@@ -24461,7 +25511,8 @@ var movieDB = [
     "why": "Вера телезвезда, ее жених Константин — профессиональный теннисист. Они собираются пожениться. Никита врач-ветеринар и красавица-хирург Илона также спешат оформить отношения. Но одно прекрасное утро разрушает все планы. После веселого вечера Вера просыпается в одной постели с Никитой. Решив, что это ...",
     "title_ru": "8 первых свиданий",
     "tmdb_id": 98581,
-    "poster_path": "/zmaNdGIKSPx6NhrTLTE2tSdqJ8N.jpg"
+    "poster_path": "/zmaNdGIKSPx6NhrTLTE2tSdqJ8N.jpg",
+    "director": "David Dodson, Sasha Malarevsky"
   },
   {
     "title": "Mommies",
@@ -24480,7 +25531,8 @@ var movieDB = [
     "why": "Каждый год в день 8-го марта телефонные сети России передают миллионы звонков и смс-сообщений. Трудолюбивые аналитики подсчитали, что абсолютное большинство телефонных звонков адресовано самым главным женщинам в жизни каждого человека - мамам. Мы выросли, и заготовленные заранее аппликации и букеты ...",
     "title_ru": "Мамы",
     "tmdb_id": 99247,
-    "poster_path": "/oMTOcvDv8cKnvCaTJymCgQzsgqR.jpg"
+    "poster_path": "/oMTOcvDv8cKnvCaTJymCgQzsgqR.jpg",
+    "director": "Дмитрий Дюжев, Evgeniy Abyzov, Сарик Андреасян, Алан Бадоев, Ашот Кещян, Kirill Kozlov, Tikhon Kornev, Карен Оганесян, Эльдар Салаватов"
   },
   {
     "title": "Vysotsky: Thank You For Being Alive",
@@ -24496,7 +25548,8 @@ var movieDB = [
     "why": "Действие фильма разворачивается в 1979 году, когда на одном из концертов Высоцкому становится плохо с сердцем. Он переживает клиническую смерть.",
     "title_ru": "Высоцкий. Спасибо, что живой",
     "tmdb_id": 79733,
-    "poster_path": "/xN90uCE8p5vn9Ts784AaYuVi64Z.jpg"
+    "poster_path": "/xN90uCE8p5vn9Ts784AaYuVi64Z.jpg",
+    "director": "Пётр Буслов"
   },
   {
     "title": "Tower Heist",
@@ -24515,7 +25568,8 @@ var movieDB = [
     "why": "Джошу Ковачу не повезло — его поимел злобный финансист, живущий в роскошных аппартаментах на верхнем этаже небоскреба. Чтобы вернуть деньги, Джош с друзьями решается на грандиозную кражу со взломом. Но одним им это не под силу, и они обращаются к матерому преступнику. Дело за малым — шесть новоявлен...",
     "title_ru": "Как украсть небоскреб",
     "tmdb_id": 59108,
-    "poster_path": "/l8L7qibZPtm793hGpooeEv5HttG.jpg"
+    "poster_path": "/l8L7qibZPtm793hGpooeEv5HttG.jpg",
+    "director": "Бретт Ратнер"
   },
   {
     "title": "Paranormal Activity 3",
@@ -24538,7 +25592,8 @@ var movieDB = [
     "why": "Действие фильма разворачивается в 1988 году. В доме, где живет семья с двумя детьми, начинают происходить странные вещи. Кристи, одна из девочек, начинает общаться с невидимым другом Тоби, который поселился в их доме.",
     "title_ru": "Паранормальное явление 3",
     "tmdb_id": 72571,
-    "poster_path": "/nbOOPSsezzvHWuWSEw1j3Ypa67e.jpg"
+    "poster_path": "/nbOOPSsezzvHWuWSEw1j3Ypa67e.jpg",
+    "director": "Ariel Schulman, Henry Joost"
   },
   {
     "title": "Johnny English Reborn",
@@ -24560,7 +25615,8 @@ var movieDB = [
     "why": "Действие фильма разворачивается через 8 лет после событий предшествующего фильма и с тех пор карьера сэра Джонни Инглиша ухудшается. За 5 лет до начала фильма его направили с заданием в Мозамбик, но миссия пошла ужасно плохо. С тех пор он живёт в пещере в горах Тибета, прячась ото всех из-за стыда, ...",
     "title_ru": "Агент Джонни Инглиш: Перезагрузка",
     "tmdb_id": 58233,
-    "poster_path": "/e2LAncTSuVN1jrvO5VB90OtoB1n.jpg"
+    "poster_path": "/e2LAncTSuVN1jrvO5VB90OtoB1n.jpg",
+    "director": "Oliver Parker"
   },
   {
     "title": "Final Destination 5",
@@ -24583,7 +25639,8 @@ var movieDB = [
     "why": "Сюжет в очередной раз вращается вокруг главного героя, который предчувствует несчастный случай, благодаря чему его друзья и некоторые другие люди избегают катастрофы. После этого происходят зловещие события: спасшиеся погибают при, казалось бы, нелепых обстоятельствах.",
     "title_ru": "Пункт назначения 5",
     "tmdb_id": 55779,
-    "poster_path": "/554vHUVuvpQIJMfZHxaZE5x3YUJ.jpg"
+    "poster_path": "/554vHUVuvpQIJMfZHxaZE5x3YUJ.jpg",
+    "director": "Стивен Куэйл"
   },
   {
     "title": "The Tourist",
@@ -24605,7 +25662,8 @@ var movieDB = [
     "why": "Американский турист Фрэнк приезжает в Италию, чтобы залечить душевную рану. В Венеции он знакомится с необычной женщиной по имени Элиза. Израненное сердце, похоже, готово сдаться новой возлюбленной. Однако планы Фрэнка и Элизы грубейшим образом нарушает водоворот интриг и опасностей.",
     "title_ru": "Турист",
     "tmdb_id": 37710,
-    "poster_path": "/r5HJSdkiwV5n5Ht9cm8EL8u21SQ.jpg"
+    "poster_path": "/r5HJSdkiwV5n5Ht9cm8EL8u21SQ.jpg",
+    "director": "Флориан Хенкель фон Доннерсмарк"
   },
   {
     "title": "Paranormal Activity 2",
@@ -24628,7 +25686,8 @@ var movieDB = [
     "why": "После пережитых, как им казалось, серии «взломов» своего жилища, супруги решили установить камеры слежения по всему дому. И только теперь они понимают, что события, которые разворачиваются перед ними, куда более зловещие…",
     "title_ru": "Паранормальное явление 2",
     "tmdb_id": 41436,
-    "poster_path": "/cq35G7cR4NAn9nAndBBbHlKNexE.jpg"
+    "poster_path": "/cq35G7cR4NAn9nAndBBbHlKNexE.jpg",
+    "director": "Tod Williams"
   },
   {
     "title": "What Men Talk About",
@@ -24644,7 +25703,8 @@ var movieDB = [
     "why": "О чем говорят мужчины? Конечно, о женщинах. Нет, еще о работе, о деньгах, о машинах, о футболе... но в основном, все-таки, о женщинах. А уж если у них впереди два дня, которые они, вырвавшись из офисов и семей, уехав от всех забот и обязательств, проведут в дороге — два дня, насыщенные событиями и п...",
     "title_ru": "О чём говорят мужчины",
     "tmdb_id": 35428,
-    "poster_path": "/hMpPLJqOrtVu4eeGiXPXXjZH6Wq.jpg"
+    "poster_path": "/hMpPLJqOrtVu4eeGiXPXXjZH6Wq.jpg",
+    "director": "Дмитрий Дьяченко"
   },
   {
     "title": "Our Russia: Eggs of Destiny",
@@ -24660,7 +25720,8 @@ var movieDB = [
     "why": "Рафшан и Джумшут, гастарбайтеры из Нубарашена, нелегально приезжают в Москву, где бригадир Леонид получил у одного олигарха заказ на супердорогой ремонт. Потеряв в столице \"нацайника\", Рафшан и Джумжуд пытаются найти и спасти его, сея повсюду разрушения и хаос. Но в самой безнадёжной ситуации судьба...",
     "title_ru": "Наша Russia: Яйца Судьбы",
     "tmdb_id": 31059,
-    "poster_path": "/yVzKZwVAYfz9ls1XtTdAm6cRFoQ.jpg"
+    "poster_path": "/yVzKZwVAYfz9ls1XtTdAm6cRFoQ.jpg",
+    "director": "Gleb Orlov"
   },
   {
     "title": "The Final Destination",
@@ -24683,7 +25744,8 @@ var movieDB = [
     "why": "История на этот раз вращается вокруг Ника О`Бэннона, к молодому человеку приходит видение — на автогонках произойдет ужасная трагедия, жертвами которой станут его друзья и он сам. Как и прежде группе счастливчиков, благодаря Нику, удается выжить, но смерть вовсе не спешит вычеркивать их из своего сп...",
     "title_ru": "Пункт назначения 4",
     "tmdb_id": 19912,
-    "poster_path": "/2hG60UUGmG8kxRRq04LJAABIL7A.jpg"
+    "poster_path": "/2hG60UUGmG8kxRRq04LJAABIL7A.jpg",
+    "director": "Дэвид Р. Эллис"
   },
   {
     "title": "Crank: High Voltage",
@@ -24705,7 +25767,8 @@ var movieDB = [
     "why": "Он умер, но обещал вернуться! Не чудом, а благодаря современным медицинским технологиям Чев Челиос получает новое сердце и новый шанс отомстить своим врагам. Теперь для постоянной подзарядки ему требуется электрический разряд мощностью не меньше, чем у автомобильного аккумулятора.",
     "title_ru": "Адреналин 2: Высокое напряжение",
     "tmdb_id": 15092,
-    "poster_path": "/7SQZg1HcQdb9kTwn4nLHdUC0O34.jpg"
+    "poster_path": "/7SQZg1HcQdb9kTwn4nLHdUC0O34.jpg",
+    "director": "Mark Neveldine, Brian Taylor"
   },
   {
     "title": "Love and the City",
@@ -24724,7 +25787,8 @@ var movieDB = [
     "why": "Три друга Артем, Игорь и Оле, работают на чужбине, а в свободное от работы время отрываются: ходят в сауну, в стриптиз-бары, крутят короткие романы. Секс для них давно превратился в забег на короткие дистанции, соблазненные женщины — в трофеи, а триумфальные победы — главная тема обсуждения… Но одна...",
     "title_ru": "Любовь в большом городе",
     "tmdb_id": 24686,
-    "poster_path": "/dADse044ixL47t1q2k42mf2951C.jpg"
+    "poster_path": "/dADse044ixL47t1q2k42mf2951C.jpg",
+    "director": "Марюс Вайсберг"
   },
   {
     "title": "The Girl with the Dragon Tattoo",
@@ -24753,7 +25817,8 @@ var movieDB = [
     ],
     "title_ru": "Девушка с татуировкой дракона",
     "tmdb_id": 15472,
-    "poster_path": "/u3Ob2XLDRk1b2ywurRid9eSUg0T.jpg"
+    "poster_path": "/u3Ob2XLDRk1b2ywurRid9eSUg0T.jpg",
+    "director": "Niels Arden Oplev"
   },
   {
     "title": "The Best Movie 2",
@@ -24769,7 +25834,8 @@ var movieDB = [
     "why": "Четверо закадычных друзей — Моряк, Актер, Мажор и Димати — после долгой разлуки встречаются в московском кафе отметить день рождения Мажора. На сей раз у них есть наличные, чтобы расплатиться с официанткой. И бегать по городу в поисках денег они будут совершенно по другой причине. Мажора похитили и ...",
     "title_ru": "Самый лучший фильм 2",
     "tmdb_id": 62738,
-    "poster_path": "/rA62dXP88Xfvn0hWuvsJ1ahX2cb.jpg"
+    "poster_path": "/rA62dXP88Xfvn0hWuvsJ1ahX2cb.jpg",
+    "director": "Олег Фомин"
   },
   {
     "title": "Lovey-Dovey 2",
@@ -24789,7 +25855,8 @@ var movieDB = [
     "why": "Семейная жизнь супругов Голубевых, менявшихся телами, чтобы испытать на прочность свои чувства, вроде бы наладилась: карьера идет в гору, в семье растут близнецы Глеб и Светочка. Но в суете дней Голубевы стали опять забывать. что такое внимание и любовь. Чтобы вернуть все на свои места, нужно опять ...",
     "title_ru": "Любовь-морковь 2",
     "tmdb_id": 62732,
-    "poster_path": "/ld0lAkm461RRIA9q9DDiTDxOr5u.jpg"
+    "poster_path": "/ld0lAkm461RRIA9q9DDiTDxOr5u.jpg",
+    "director": "Максим Пежемский"
   },
   {
     "title": "Hitler's Kaput!",
@@ -24805,7 +25872,8 @@ var movieDB = [
     "why": "Русский супер-агент - строго засекреченный шпион Шура Осечкин, он же штандартенфюрер СС Олаф Шуренберг, самоотверженно и нахально ведет подрывную деятельность в ставке Гитлера. Войне скоро конец, и это уже понятно всем, кроме фанатичного фюрера и подозрительного Мюллера. Простые труженики Рейха давн...",
     "title_ru": "Гитлер Капут!",
     "tmdb_id": 52891,
-    "poster_path": "/20rOzy4JnPjlEcn14xTne880vEL.jpg"
+    "poster_path": "/20rOzy4JnPjlEcn14xTne880vEL.jpg",
+    "director": "Марюс Вайсберг"
   },
   {
     "title": "Slumdog Millionaire",
@@ -24834,7 +25902,8 @@ var movieDB = [
     ],
     "title_ru": "Миллионер из трущоб",
     "tmdb_id": 12405,
-    "poster_path": "/oShPzAshoE2wFgzAr6n26Q4veSk.jpg"
+    "poster_path": "/oShPzAshoE2wFgzAr6n26Q4veSk.jpg",
+    "director": "Дэнни Бойл"
   },
   {
     "title": "Journey to the Center of the Earth",
@@ -24860,7 +25929,8 @@ var movieDB = [
     "why": "Молодой учёный Тревор Андерсон вместе с племянником Шоном отправляется на поиски разгадки исчезновения своего брата. Следуя загадочным подсказкам, они оказываются в Исландии, где встречают отважную проводницу Ханну. Во время экспедиции герои попадают в удивительный подземный мир, скрытый глубоко под...",
     "title_ru": "Путешествие к центру Земли",
     "tmdb_id": 88751,
-    "poster_path": "/ujGWyX7fckpoxKPl4V2NkFqJuvJ.jpg"
+    "poster_path": "/ujGWyX7fckpoxKPl4V2NkFqJuvJ.jpg",
+    "director": "Эрик Бревиг"
   },
   {
     "title": "The Mummy: Tomb of the Dragon Emperor",
@@ -24882,7 +25952,8 @@ var movieDB = [
     "why": "Заколдованный волшебницей, безжалостный китайский император-дракон должен провести вечность в забвении. Его 10 000 воинов превратились в терракотовых воинов. Однако когда искатель приключений Алекс случайно пробуждает властителя от вечной спячки, он вынужден искать помощи у единственных людей, котор...",
     "title_ru": "Мумия: Гробница Императора Драконов",
     "tmdb_id": 1735,
-    "poster_path": "/6nN4xqBR98IWF6U5k5piBxFIFsn.jpg"
+    "poster_path": "/6nN4xqBR98IWF6U5k5piBxFIFsn.jpg",
+    "director": "Роб Коэн"
   },
   {
     "title": "Superhero Movie",
@@ -24902,7 +25973,8 @@ var movieDB = [
     "why": "Сколько супергероев уже пытались спасти мир? Знакомьтесь с новым: его зовут Рик Райкер! Обычный школьник вдруг, неожиданным способом, обретает суперспособности (кроме умения летать!) Вот если бы еще он знал, как их использовать. Так что берегитесь: Стрекозец спешит на помощь!",
     "title_ru": "Супергеройское кино",
     "tmdb_id": 11918,
-    "poster_path": "/8ESOIpof18CWPBfJBMPinpQsXHA.jpg"
+    "poster_path": "/8ESOIpof18CWPBfJBMPinpQsXHA.jpg",
+    "director": "Крейг Мейзин"
   },
   {
     "title": "Step Up 2: The Streets",
@@ -24924,7 +25996,8 @@ var movieDB = [
     "why": "Уличная танцовщица Энди поступает в Мэрилендскую школу искусств. Занимаясь там, она стремится доказать, что ни в чем не уступает другим студентам. Познакомившись с лучшим учеником школы Чейзом, Энди создает коллектив, который должен выступать в подпольном танцевальном состязании «Улицы». В итоге Энд...",
     "title_ru": "Шаг вперёд 2: Улицы",
     "tmdb_id": 8328,
-    "poster_path": "/lpisd1vshoO4Dff9AaVjIXen7JL.jpg"
+    "poster_path": "/lpisd1vshoO4Dff9AaVjIXen7JL.jpg",
+    "director": "Джон М. Чу"
   },
   {
     "title": "The Best Movie",
@@ -24940,7 +26013,8 @@ var movieDB = [
     "why": "Всего один легкомысленный поступок может привести к тому, что собственную свадьбу придется праздновать на небесах. Вадик даже не догадывался, что, желая сделать праздник веселее, он попадет в Чистилище, где предстанет перед Небесной канцелярией и будет отчитываться за всю свою короткую, но насыщенну...",
     "title_ru": "Самый лучший фильм",
     "tmdb_id": 62737,
-    "poster_path": "/2AHQFjDUgSdNcnGkD3qvtdYLOkf.jpg"
+    "poster_path": "/2AHQFjDUgSdNcnGkD3qvtdYLOkf.jpg",
+    "director": "Кирилл Кузин"
   },
   {
     "title": "We Are from the Future",
@@ -24963,7 +26037,8 @@ var movieDB = [
     "why": "Действие картины разворачивается в двух временных пластах: в наши дни и в годы войны, во время тяжелых оборонительных боев августа 1942-го. Главные герои ленты - четверо «черных следопытов» (людей этой сомнительной профессии называют также «черными копателями») - Борман, Череп, Чуха и Спирт. Они вед...",
     "title_ru": "Мы из будущего",
     "tmdb_id": 40709,
-    "poster_path": "/pHBaRI9dKXExFZLhEHffOHXGy7S.jpg"
+    "poster_path": "/pHBaRI9dKXExFZLhEHffOHXGy7S.jpg",
+    "director": "Андрей Малюков"
   },
   {
     "title": "Ilya Muromets and Sparrow the Robber",
@@ -24988,7 +26063,8 @@ var movieDB = [
     "why": "Славится земля русская богатырями богатырскими да разбойниками разбойничьими... А сверху всего князь княжеский сидит, за всем следит и порядок наводит, если нужно. Да только не всегда выходит у князя так, как нужно — правильно. Вот и сейчас — с богатырём поругался да от Соловья Разбойника урон потер...",
     "title_ru": "Илья Муромец и Соловей Разбойник",
     "tmdb_id": 451172,
-    "poster_path": "/eFdACQL1wauPYZLCCxlKrIv76ed.jpg"
+    "poster_path": "/eFdACQL1wauPYZLCCxlKrIv76ed.jpg",
+    "director": "Vladimir Toropchin"
   },
   {
     "title": "Hitman",
@@ -25010,7 +26086,8 @@ var movieDB = [
     "why": "Хитмэн был обучен, как высоко профессиональный убийца, чье самое мощное оружие — это хладнокровие и безмерная гордость за свою работу. 47 — это две последние цифры на штрих-коде, вытатуированном на его затылке, а также его единственное имя.Но охотник становится добычей, когда 47-й оказывается втянут...",
     "title_ru": "Хитмэн",
     "tmdb_id": 1620,
-    "poster_path": "/lTsM80oIyxQuenwnSa9IRuuzTTn.jpg"
+    "poster_path": "/lTsM80oIyxQuenwnSa9IRuuzTTn.jpg",
+    "director": "Xavier Gens"
   },
   {
     "title": "Mr. Bean's Holiday",
@@ -25029,7 +26106,8 @@ var movieDB = [
     "why": "Мистер Бин отправляется на отдых на юг Франции, оставляя за собой повсюду яркие следы своих приключений. Недотепа и бедолага, мистер Бин снимает о своих неудачах любительский видеофильм, который умудряется даже показать на большом экране Каннского фестиваля.",
     "title_ru": "Мистер Бин на отдыхе",
     "tmdb_id": 1268,
-    "poster_path": "/dO1cOyNrOV4gUP453nENeQ7cJ6I.jpg"
+    "poster_path": "/dO1cOyNrOV4gUP453nENeQ7cJ6I.jpg",
+    "director": "Стив Бенделэк"
   },
   {
     "title": "Lovey-Dovey",
@@ -25049,7 +26127,8 @@ var movieDB = [
     "why": "На свадьбе супруги Голубевы клялись друг другу в вечной любви. Со временем страсть ушла, а ее место заняли карьера, быт, друзья и личные увлечения. Они все больше ругаются по пустякам, все меньше проводят времени вместе… Перед супругами замаячила перспектива развода. Последний шанс спасти семью — ко...",
     "title_ru": "Любовь-морковь",
     "tmdb_id": 62731,
-    "poster_path": "/22TlILLLWmzAwQpv7Y3eS7NDvR9.jpg"
+    "poster_path": "/22TlILLLWmzAwQpv7Y3eS7NDvR9.jpg",
+    "director": "Александр Стриженов"
   },
   {
     "title": "Paragraph 78: Film One",
@@ -25069,7 +26148,8 @@ var movieDB = [
     "why": "В недалеком будущем команда специального назначения получает новое важное задание, которое становится для давно уже отошедших от дел спецназовцев единственной возможностью снова увидеть бывших соратников по опасным миссиям. Тем более, что очень важные вопросы их личных взаимоотношений так и остались...",
     "title_ru": "Параграф 78: Фильм первый",
     "tmdb_id": 53086,
-    "poster_path": "/h1QqfK0cbtfBlJ9sdRcSh6LMMFh.jpg"
+    "poster_path": "/h1QqfK0cbtfBlJ9sdRcSh6LMMFh.jpg",
+    "director": "Михаил Хлебородов"
   },
   {
     "title": "Taxi 4",
@@ -25091,7 +26171,8 @@ var movieDB = [
     "why": "Преступника № 1 транспортируют из Бельгии в Конго. .. через Марсель. Всего несколько часов самый опасный человек в мире, надежно упакованный в скафандр и железную клетку, должен пробыть в полицейском участке комиссара Жибера. Но стеречь преступника доверили Эмильену… Петра внедрится в банду и очаруе...",
     "title_ru": "Такси 4",
     "tmdb_id": 2335,
-    "poster_path": "/t3ZUrXwmTjeLjPWkLWdlH5BVhwj.jpg"
+    "poster_path": "/t3ZUrXwmTjeLjPWkLWdlH5BVhwj.jpg",
+    "director": "Жерар Кравчик"
   },
   {
     "title": "Elections Day",
@@ -25107,7 +26188,8 @@ var movieDB = [
     "why": "Руководитель одной из самых рейтинговых радиостанций страны получает заказ от загадочного клиента. Необходимо «раскрутить» на региональных выборах своего кандидата, отобрать голоса у конкурентов и тем самым повлиять на избрание нового губернатора. За выполнение задачи государственной важности берутс...",
     "title_ru": "День выборов",
     "tmdb_id": 20963,
-    "poster_path": "/gI1mpGM0CNZ3juNUH6CV6SgH7jS.jpg"
+    "poster_path": "/gI1mpGM0CNZ3juNUH6CV6SgH7jS.jpg",
+    "director": "Олег Фомин"
   },
   {
     "title": "The Heat",
@@ -25130,7 +26212,8 @@ var movieDB = [
     "why": "Сандра Буллок и Мелисса МакКарти: агент ФБР и уличный коп против мафии.",
     "title_ru": "Thermos - Share the Heat",
     "tmdb_id": 264429,
-    "poster_path": "/lOdDkSng1iEATZqbO13meniDUBp.jpg"
+    "poster_path": "/lOdDkSng1iEATZqbO13meniDUBp.jpg",
+    "director": "Olivier Pictet"
   },
   {
     "title": "Rocky Balboa",
@@ -25153,7 +26236,8 @@ var movieDB = [
     "why": "Рокки отошел от дел, занявшись ресторанным бизнесом. Он всё ещё тяжело переживает смерть своей жены Эдриан. Пытаясь развеять образовавшуюся пустоту, Бальбоа решает вернуться на ринг для боев местного значения с боксёрами в лёгком весе, а позже соглашается выступить против действующего чемпиона-тяжел...",
     "title_ru": "Рокки Бальбоа",
     "tmdb_id": 1246,
-    "poster_path": "/4tUlA3OJQ1KbkNifAPr1YkWmXVD.jpg"
+    "poster_path": "/4tUlA3OJQ1KbkNifAPr1YkWmXVD.jpg",
+    "director": "Сильвестр Сталлоне"
   },
   {
     "title": "Step Up",
@@ -25178,7 +26262,8 @@ var movieDB = [
     "why": "Тайлер Гейдж — уличный танцор. Безумный и рискованный стиль жизни заставляет его конфликтовать с обществом. После очередного инцидента, Тайлер попадает в школу, в которой будет вынужден отрабатывать наказание в виде исправительных работ. Там он знакомится с девушкой, которая открывает ему глаза на е...",
     "title_ru": "Шаг вперёд",
     "tmdb_id": 9762,
-    "poster_path": "/bcIsEvWYgnrM8VJi165EOCcE5vI.jpg"
+    "poster_path": "/bcIsEvWYgnrM8VJi165EOCcE5vI.jpg",
+    "director": "Anne Fletcher"
   },
   {
     "title": "Khottabych",
@@ -25197,7 +26282,8 @@ var movieDB = [
     "why": "Гена — программист по призванию и хакер по жизни. Он хороший парень. Но у него реальные проблемы. Его бросила любимая девушка, его «пасут» бандиты и выслеживают спецслужбы. Спасти его может только чудо, и оно, конечно же, случается. В жизни Гены появляется Хоттабыч, джин, который отмотал несколько т...",
     "title_ru": "Хоттабыч",
     "tmdb_id": 57775,
-    "poster_path": "/p8cwhs5JTy47f45b5GdqhEatLvr.jpg"
+    "poster_path": "/p8cwhs5JTy47f45b5GdqhEatLvr.jpg",
+    "director": "Pyotr Tochilin"
   },
   {
     "title": "Piranha Hunt",
@@ -25219,7 +26305,8 @@ var movieDB = [
     "why": "Под видом совместного отпуска агент спецподразделения «Пираньи» Кирилл Мазур с коллегой Ольгой направляются на Север с заданием ликвидировать подводный склад секретного оружия. Неожиданно они оказываются в мире, где законы цивилизации забыты, а смертоносное оружие захвачено бандитами под предводител...",
     "title_ru": "Охота на пиранью",
     "tmdb_id": 53085,
-    "poster_path": "/pxP70XjV9h303wxZ16TPKV9SEdP.jpg"
+    "poster_path": "/pxP70XjV9h303wxZ16TPKV9SEdP.jpg",
+    "director": "Андрей Кавун"
   },
   {
     "title": "Bummer 2",
@@ -25238,7 +26325,8 @@ var movieDB = [
     "why": "Константин Огородников (Кот) выходит из колонии, не отсидев положенный срок. После всех событий: гибели друзей, тюрьмы… Кот стал другим человеком. Он хочет начать жизнь с чистого листа. Но прежде в память о погибшем товарище, в гибели которого невольно виноват Кот, он должен отыскать одного человека...",
     "title_ru": "Бумер. Фильм второй",
     "tmdb_id": 61139,
-    "poster_path": "/n7t6XzBKoAmgPeoBVE1GDeymNv1.jpg"
+    "poster_path": "/n7t6XzBKoAmgPeoBVE1GDeymNv1.jpg",
+    "director": "Пётр Буслов"
   },
   {
     "title": "Final Destination 3",
@@ -25261,7 +26349,8 @@ var movieDB = [
     "why": "Главная героиня фильма — старшеклассница Уэнди Крисченсен, у которой однажды возникло предчувствие, что она и ее друзья станут жертвами несчастного случая, который произойдет на «американских горках». Когда же самые страшные опасения Уэнди подтверждаются, то те, кто сумел все-таки обмануть смерть и ...",
     "title_ru": "Пункт назначения 3",
     "tmdb_id": 9286,
-    "poster_path": "/hZwGf3IK42LEQ01ZCZZKRAqTpyC.jpg"
+    "poster_path": "/hZwGf3IK42LEQ01ZCZZKRAqTpyC.jpg",
+    "director": "Джеймс Вон"
   },
   {
     "title": "Day Watch",
@@ -25287,7 +26376,8 @@ var movieDB = [
     "why": "Ночью в подъезде своего дома убита молодая женщина. На теле не обнаружено никаких следов насилия... Зыбкое равновесие между Светлыми и Тёмными нарушено. И чаша весов склоняется в сторону Тёмных. Но убитая — Тёмная иная, а значит подозрение падает на Светлых. Гессер срочно собирает команду: обвинение...",
     "title_ru": "Дневной дозор",
     "tmdb_id": 2269,
-    "poster_path": "/z1oRSYWVFUXMOno4SzI61aztWvO.jpg"
+    "poster_path": "/z1oRSYWVFUXMOno4SzI61aztWvO.jpg",
+    "director": "Тимур Бекмамбетов"
   },
   {
     "title": "Just Friends",
@@ -25307,7 +26397,8 @@ var movieDB = [
     "why": "Лос-анджелесский музыкальный продюсер Крис Брэндер имеет все, что только можно пожелать, — деньги, приятную внешность и замечательную работу. Однако в жизни Криса не всегда все складывалось так гладко. В школе он был очень полным и от этого чересчур застенчивым. Единственное светлое воспоминание он ...",
     "title_ru": "Просто друзья",
     "tmdb_id": 10033,
-    "poster_path": "/lh2EUTVOcESkdEOcsjYEW6qS1U0.jpg"
+    "poster_path": "/lh2EUTVOcESkdEOcsjYEW6qS1U0.jpg",
+    "director": "Roger Kumble"
   },
   {
     "title": "The Legend of Zorro",
@@ -25329,7 +26420,8 @@ var movieDB = [
     "why": "Спустя 10 лет Алехандро обещает Елене и сыну Хоакину расстаться с маской и вечными приключениями, но воплотить эти планы в жизнь не удается, поскольку зреет новый заговор, бороться с которым может лишь всесильный Зорро…",
     "title_ru": "Легенда Зорро",
     "tmdb_id": 1656,
-    "poster_path": "/xIz6xcuUOwGj6iXxVPWHkYUQ1EX.jpg"
+    "poster_path": "/xIz6xcuUOwGj6iXxVPWHkYUQ1EX.jpg",
+    "director": "Мартин Кэмпбелл"
   },
   {
     "title": "The Brothers Grimm",
@@ -25355,7 +26447,8 @@ var movieDB = [
     "why": "Давным-давно, жили-были два брата-авантюриста Уилл и Якоб Гримм, которые впоследствии стали знаменитыми сказочниками. Но до того они путешествовали по деревушкам, занимаясь собиранием фольклора и «прогоняя нечисть» за деньги… Приезжали в деревню, убеждали жителей, что на их мельнице поселилась ведьм...",
     "title_ru": "Братья Гримм",
     "tmdb_id": 4442,
-    "poster_path": "/wTXjGcszlkACKEmiGw1WVKpqy2c.jpg"
+    "poster_path": "/wTXjGcszlkACKEmiGw1WVKpqy2c.jpg",
+    "director": "Терри Гиллиам"
   },
   {
     "title": "Transporter 2",
@@ -25377,7 +26470,8 @@ var movieDB = [
     "why": "Бывший сотрудник спецподразделения Фрэнк Мартин, известный также как Перевозчик, уходит от дел и поселяется в Майами, где устраивается шофером в богатую семью. С маленьким сыном этого семейства у него завязываются дружеские отношения.Когда же мальчика похищают, Мартину приходится использовать свои п...",
     "title_ru": "Перевозчик 2",
     "tmdb_id": 9335,
-    "poster_path": "/thaviKwKK6oA7jYtyud5TBEggV3.jpg"
+    "poster_path": "/thaviKwKK6oA7jYtyud5TBEggV3.jpg",
+    "director": "Луи Летерье"
   },
   {
     "title": "Night Bazaar",
@@ -25417,7 +26511,8 @@ var movieDB = [
     "why": "Фильм основан на романе Бориса Акунина о похождениях Эраста Фандорина «Турецкий Гамбит». Титулярный советник Эраст Фандорин принимает участие в военных действиях в ходе русско-турецкой войны 1877—1878 гг. Будучи сербским волонтером, Эраст Петрович знакомится с очаровательной барышней — Варварой Андр...",
     "title_ru": "Турецкий гамбит",
     "tmdb_id": 53129,
-    "poster_path": "/sgHkvzl6mcgorOQtr3Dt0Ppf18n.jpg"
+    "poster_path": "/sgHkvzl6mcgorOQtr3Dt0Ppf18n.jpg",
+    "director": "Джаник Файзиев"
   },
   {
     "title": "A Driver for Vera",
@@ -25433,7 +26528,8 @@ var movieDB = [
     "why": "СССР, шестидесятые годы… Сержант Виктор молод, статен, смотрит на жизнь просто и прагматично. Он готов на все, чтобы добиться в жизни своей цели — сделать карьеру. Пока удача способствует ему — его, курсанта привилегированной Кремлевской роты, крупный армейский генерал берёт своим личным водителем. ...",
     "title_ru": "Водитель для Веры",
     "tmdb_id": 64483,
-    "poster_path": "/8mDjCHnnZrFSbDXc1ogdzmMZ0h2.jpg"
+    "poster_path": "/8mDjCHnnZrFSbDXc1ogdzmMZ0h2.jpg",
+    "director": "Павел Чухрай"
   },
   {
     "title": "Secret Window",
@@ -25447,7 +26543,8 @@ var movieDB = [
     "why": "Молодой талантливый писатель Морт Рейни переживает не самые лучшие времена в своей жизни. После того как он застал свою жену в постели с другим мужчиной и пережил утомительные формальности развода, Морт решает удалиться от дел, переехать за город и в тишине сельской жизни бороться с творческим кризи...",
     "title_ru": "Тайное окно",
     "tmdb_id": 1586,
-    "poster_path": "/diBN05oonizXuF3VDnrO2F45XIK.jpg"
+    "poster_path": "/diBN05oonizXuF3VDnrO2F45XIK.jpg",
+    "director": "Дэвид Кепп"
   },
   {
     "title": "Agent Cody Banks 2: Destination London",
@@ -25472,7 +26569,8 @@ var movieDB = [
     "why": "Обычный сиэттловский тинейджер Коди Бэнкс, по совместительству младший секретный агент ЦРУ, снова должен спасать родину. На этот раз он отправляется в Лондон. По легенде он — студент, приехавший учиться по обмену.  Однако его главная задача — найти украденное секретное устройство, позволяющее управл...",
     "title_ru": "Агент Коди Бэнкс 2: Пункт назначения – Лондон",
     "tmdb_id": 17047,
-    "poster_path": "/1Muwv3kWEUXyhWxiEDg7qWOBWnT.jpg"
+    "poster_path": "/1Muwv3kWEUXyhWxiEDg7qWOBWnT.jpg",
+    "director": "Kevin Allen"
   },
   {
     "title": "EuroTrip",
@@ -25489,7 +26587,8 @@ var movieDB = [
     "why": "Выпускнику школы Скотту Томасу нужна помощь в изучении немецкого языка, поэтому он знакомится с жителем Германии по имени Майк и начинает с ним дружескую переписку. Причём Скотт абсолютно уверен, что Майк — это парень, и делится с ним своими переживаниями и проблемами, которые возникают у него с дев...",
     "title_ru": "Евротур",
     "tmdb_id": 9352,
-    "poster_path": "/pyNDzXP4UCYz4vDb9ZKaRplumRt.jpg"
+    "poster_path": "/pyNDzXP4UCYz4vDb9ZKaRplumRt.jpg",
+    "director": "Джефф Шеффер, Дэвид Мэндел, Alec Berg"
   },
   {
     "title": "The Passion of the Christ",
@@ -25508,7 +26607,8 @@ var movieDB = [
     ],
     "why": "Гибсон: последние часы Христа. Арамейский и латынь. Невыносимо жестоко и красиво.",
     "tmdb_id": 615,
-    "poster_path": "/zsgY5hAjgJ9Xkx7I8j7WrAoNTxs.jpg"
+    "poster_path": "/zsgY5hAjgJ9Xkx7I8j7WrAoNTxs.jpg",
+    "director": "Мел Гибсон"
   },
   {
     "title": "The Lion King 1½",
@@ -25533,7 +26633,8 @@ var movieDB = [
     "why": "Главными героями мультфильма станут всеобщие любимцы Тимон и Пумба! Вы узнаете об этих закадычных друзьях много нового, например, о том, как они впервые встретились, что за потрясающие приключения вместе прожили и на какие удивительные подвиги их сподвигло знаменитое знакомство с будущем королем сав...",
     "title_ru": "Король Лев 3: Акуна Матата",
     "tmdb_id": 11430,
-    "poster_path": "/wIIVzCF9TPeXG79FBdr6z1Fxbbl.jpg"
+    "poster_path": "/wIIVzCF9TPeXG79FBdr6z1Fxbbl.jpg",
+    "director": "Bradley Raymond"
   },
   {
     "title": "Bimmer",
@@ -25547,7 +26648,8 @@ var movieDB = [
     "why": "По ночным улицам Москвы мчится черный BMW, уходящий от погони. Цепь роковых событий с разборками и стрельбой поставила четырех героев - четырех друзей, вне закона. В жизни без правил им нет пути назад, и черный «бумер» - мощный и надежный, уносит их все дальше от Москвы, в шальную и безжалостную глу...",
     "title_ru": "Бумер",
     "tmdb_id": 62276,
-    "poster_path": "/6LhlvqCBugBOAjypjStzrTx8Qfl.jpg"
+    "poster_path": "/6LhlvqCBugBOAjypjStzrTx8Qfl.jpg",
+    "director": "Пётр Буслов"
   },
   {
     "title": "American Wedding",
@@ -25563,7 +26665,8 @@ var movieDB = [
     "why": "Школа далеко позади, дети повзрослели и теперь готовы принести еще одну жертву: Джим и Мишелль женятся! Стифлер планирует быть \"подружкой невесты\", и, что более важно, быть организатором мальчишника с участием стриптизерш. Финч все еще увлекается различнымы ритуалами, но в этот раз он уже не гоняетс...",
     "title_ru": "Американский пирог 3: Свадьба",
     "tmdb_id": 8273,
-    "poster_path": "/uPRafUWqJ5QPQ6XLZIEBw7h9L5Y.jpg"
+    "poster_path": "/uPRafUWqJ5QPQ6XLZIEBw7h9L5Y.jpg",
+    "director": "Jesse Dylan"
   },
   {
     "title": "Johnny English",
@@ -25578,7 +26681,8 @@ var movieDB = [
     "why": "История самого некомпетентного и недалекого Британского дипломата, которого только можно представить, которого ошибочно принимают за самого знаменитого и опасного шпиона Великобритании, Джонни Инглиша. Из-за этой путаницы герой оказывается вовлеченным в смертельную схватку с авторами очередного дьяв...",
     "title_ru": "Агент Джонни Инглиш",
     "tmdb_id": 9486,
-    "poster_path": "/tJvuF0o6ncGGrpVMBgxI3R8LIPr.jpg"
+    "poster_path": "/tJvuF0o6ncGGrpVMBgxI3R8LIPr.jpg",
+    "director": "Peter Howitt"
   },
   {
     "title": "Final Destination 2",
@@ -25601,7 +26705,8 @@ var movieDB = [
     "why": "Решив провести уикэнд с друзьями подальше от дома, Кимберли Корман становится невольным свидетелем жуткой автокатастрофы! На скоростной магистрали грузовик теряет управление, а вместе с ним и груз, что приводит к серии столкновений автомобилей и множеству жертв, среди которых она сама. Секунду спуст...",
     "title_ru": "Пункт назначения 2",
     "tmdb_id": 9358,
-    "poster_path": "/r7pvTHVybZL49puwhQwwUU33ob5.jpg"
+    "poster_path": "/r7pvTHVybZL49puwhQwwUU33ob5.jpg",
+    "director": "Дэвид Р. Эллис"
   },
   {
     "title": "Taxi 3",
@@ -25623,7 +26728,8 @@ var movieDB = [
     "why": "Банда Санта-Клаусов терроризирует Марсель в канун Рождества, обещая обчистить город до основания. Комиссар полиции уже задумал провести крупномасштабную операцию под кодовым названием \"Снеговик\", в которой главная роль отведена таксисту Даниелю и полицейскому Эмильену. Но как бы наши друзья не натво...",
     "title_ru": "Такси 3",
     "tmdb_id": 2334,
-    "poster_path": "/eK3II8goQMZV2lfyPLPPWVoASUu.jpg"
+    "poster_path": "/eK3II8goQMZV2lfyPLPPWVoASUu.jpg",
+    "director": "Жерар Кравчик"
   },
   {
     "title": "Just Married",
@@ -25642,7 +26748,8 @@ var movieDB = [
     "why": "Том, ведущий местной радиостанции, играя на пляже в американский футбол, неожиданно поражает мячом случайную жертву, которой оказывается Сара. После её падения на пляжный песок между героями происходит продолжительный обмен извинениями, а уже через несколько недель Том и Сара жизни друг без друга пр...",
     "title_ru": "Молодожёны",
     "tmdb_id": 12090,
-    "poster_path": "/xbJWyWfP8u8rVadMsTGMpCfX65y.jpg"
+    "poster_path": "/xbJWyWfP8u8rVadMsTGMpCfX65y.jpg",
+    "director": "Шон Леви"
   },
   {
     "title": "Stuart Little 2",
@@ -25664,7 +26771,8 @@ var movieDB = [
     "why": "Стюарт теперь учится в школе, строит модели самолетов и играет в футбольной команде. Но все меняется, когда судьба сводит его с канарейкой по имени Маргало. Они становятся друзьями, и птица рассказывает Стюарту о злобном Соколе, который терроризирует ее.И вдруг вскоре после этого Маргало исчезает. С...",
     "title_ru": "Стюарт Литтл 2",
     "tmdb_id": 10996,
-    "poster_path": "/rATxDWfVp2TLaP3FBVFLONK7Edu.jpg"
+    "poster_path": "/rATxDWfVp2TLaP3FBVFLONK7Edu.jpg",
+    "director": "Роб Минкофф"
   },
   {
     "title": "Asterix & Obelix: Mission Cleopatra",
@@ -25683,7 +26791,8 @@ var movieDB = [
     "why": "Лучшая экранизация Астерикса. Моника Беллуччи — Клеопатра. Депардье и Клавье.",
     "title_ru": "Astérix et Obélix : Mission Cléopâtre, le comankonafé",
     "tmdb_id": 1094579,
-    "poster_path": "/jdAWJpSjSsROflDE5e7fgxJu2KW.jpg"
+    "poster_path": "/jdAWJpSjSsROflDE5e7fgxJu2KW.jpg",
+    "director": "Ален Шаба"
   },
   {
     "title": "Kate & Leopold",
@@ -25705,7 +26814,8 @@ var movieDB = [
     "why": "Сквозь прореху во времени Лео, герцог Олбанский, попадает в будущее, а точнее — в современный Нью-Йорк. Обаятельный джентльмен XIX столетия неожиданно оказывается в стремительном мире, где успешно завоевывает высоты деловая женщина — Кейт Маккей.Невероятное случилось, и они встретились! Теперь Лео н...",
     "title_ru": "Кейт и Лео",
     "tmdb_id": 11232,
-    "poster_path": "/9HzguOUPxFWJvkNJrxv268CyeBB.jpg"
+    "poster_path": "/9HzguOUPxFWJvkNJrxv268CyeBB.jpg",
+    "director": "Джеймс Мэнголд"
   },
   {
     "title": "Jay and Silent Bob Strike Back",
@@ -25727,7 +26837,8 @@ var movieDB = [
     "why": "Приятели Джей и Молчаливый Боб целыми днями стоят возле стены магазина в Нью-Джерси, пока однажды не узнают, что о них сделали комикс «Пыхарь и Хроник». Комикс будут экранизировать, но выплачивать друзьям гонорар никто не собирается. Неугомонная парочка отправляется на студию Miramax, чтобы восстано...",
     "title_ru": "Джей и молчаливый Боб наносят ответный удар",
     "tmdb_id": 2294,
-    "poster_path": "/nn0zeN8rHiyEqRVOo6BqSSWS8t2.jpg"
+    "poster_path": "/nn0zeN8rHiyEqRVOo6BqSSWS8t2.jpg",
+    "director": "Кевин Смит"
   },
   {
     "title": "Wasabi",
@@ -25749,7 +26860,8 @@ var movieDB = [
     "why": "Юбер Фиорентини — французский полицейский, исполняя последнюю волю когда-то им любимой японской девушки, вынужден отправиться в далёкую Японию, где ему приходится встретиться со старым другом и дочерью, о существовании которой он даже не подозревал. А также получить наследство в 200 млн. долларов, и...",
     "title_ru": "Васаби",
     "tmdb_id": 2110,
-    "poster_path": "/vN6L3aoRdCi25FdF0wpZZdwJXK6.jpg"
+    "poster_path": "/vN6L3aoRdCi25FdF0wpZZdwJXK6.jpg",
+    "director": "Жерар Кравчик"
   },
   {
     "title": "Evolution",
@@ -25764,7 +26876,8 @@ var movieDB = [
     "why": "Готовясь к экзамену в школе пожарных, Уэйн проводит ночь в пустыне и становится свидетелем падения метеорита. На следующий день учитель биологии доктор Айра Кейн и учитель геологии Гарри Блок пробираются в пещеру, к месту падения. Они берут пробу странной голубой жидкости, вытекшей из метеорита. Поз...",
     "title_ru": "Эволюция",
     "tmdb_id": 9397,
-    "poster_path": "/uTo0dQYh2JPfi7v4JFeBFAJjwu1.jpg"
+    "poster_path": "/uTo0dQYh2JPfi7v4JFeBFAJjwu1.jpg",
+    "director": "Ivan Reitman"
   },
   {
     "title": "The Wedding Planner",
@@ -25783,7 +26896,8 @@ var movieDB = [
     "why": "Мало кто так хорошо разбирается в любви и браке, как Мэри Фиоре, ведь она — свадебный церемонимейстер. Однако ее собственная личная жизнь оставляет желать лучшего… Однажды, при весьма необычных обстоятельствах, Мэри знакомится со Стивом Эдисоном. Эта встреча заставила героиню фильма поверить в любов...",
     "title_ru": "Свадебный переполох",
     "tmdb_id": 2018,
-    "poster_path": "/zevfgkO2FZQxjRrkVmrW29TvYGC.jpg"
+    "poster_path": "/zevfgkO2FZQxjRrkVmrW29TvYGC.jpg",
+    "director": "Adam Shankman"
   },
   {
     "title": "Gone in Sixty Seconds",
@@ -25805,7 +26919,8 @@ var movieDB = [
     "why": "Что можно успеть за 60 секунд? Выкурить сигарету или выпить чашку кофе. Но только один профессионал в мире, легендарный вор по кличке Мемфис, может за считанные секунды угнать любой автомобиль. Однако на этот раз ему предстоит сделать невозможное: чтобы спасти своего брата, Мемфис должен за одну ноч...",
     "title_ru": "Угнать за 60 секунд",
     "tmdb_id": 9679,
-    "poster_path": "/4EspizC12yezfnugrXCWgcQLgia.jpg"
+    "poster_path": "/4EspizC12yezfnugrXCWgcQLgia.jpg",
+    "director": "Dominic Sena"
   },
   {
     "title": "Big Momma's House",
@@ -25819,7 +26934,8 @@ var movieDB = [
     "why": "Агент ФБР Малькольм Тернер, мастер перевоплощений. Он умен, обаятелен и не существует такого задания, с которым он бы не справился. Остановить череду жестоких преступлений? Нет проблем.  Малкольм входит в роль пожилого азиата для расследования преступлений. Последнее назначение Малькома приводит его...",
     "title_ru": "Дом большой мамочки",
     "tmdb_id": 9600,
-    "poster_path": "/yiqgHdwvYxxuaoisXm26kLBKfaA.jpg"
+    "poster_path": "/yiqgHdwvYxxuaoisXm26kLBKfaA.jpg",
+    "director": "Раджа Госнелл"
   },
   {
     "title": "Taxi 2",
@@ -25835,7 +26951,8 @@ var movieDB = [
     "why": "Во Францию прибывает министр обороны Японии. Цель его визита — ознакомиться с французским опытом борьбы с терроризмом и подписать «контракт века» о взаимном сотрудничестве.Неожиданно во время показательных выступлений французской полиции министра обороны похищает гангстерская группировка «Якудза», ж...",
     "title_ru": "Такси 2",
     "tmdb_id": 2332,
-    "poster_path": "/a4qIdcdy0xhhAsqBAHckaSYNiVG.jpg"
+    "poster_path": "/a4qIdcdy0xhhAsqBAHckaSYNiVG.jpg",
+    "director": "Жерар Кравчик"
   },
   {
     "title": "Inspector Gadget",
@@ -25860,7 +26977,8 @@ var movieDB = [
     "why": "Неприметный охранник Джон Браун всю жизнь мечтал стать величайшим полицейским в истории. Сама судьба подарила ему этот шанс: после страшного взрыва Джон попадает в секретную научную лабораторию, где ученые превращают непутевого охранника в идеального служителя закона. Он становится инспектором Гадже...",
     "title_ru": "Инспектор Гаджет",
     "tmdb_id": 332,
-    "poster_path": "/5G3yZss5EPXXyLbi76nV7Y8fMkU.jpg"
+    "poster_path": "/5G3yZss5EPXXyLbi76nV7Y8fMkU.jpg",
+    "director": "David Kellogg"
   },
   {
     "title": "Asterix and Obelix vs. Caesar",
@@ -25885,7 +27003,8 @@ var movieDB = [
     "why": "Вся Европа покорена Римской Империей, лишь одна галльская деревня продолжает сопротивляться захватчикам. Узнав об этом, Цезарь решил лично разобраться с ситуацией.",
     "title_ru": "Астерикс и Обеликс против Цезаря",
     "tmdb_id": 9564,
-    "poster_path": "/dgtAej1FaLQ3Xph1SPNZ3Lll4rF.jpg"
+    "poster_path": "/dgtAej1FaLQ3Xph1SPNZ3Lll4rF.jpg",
+    "director": "Claude Zidi"
   },
   {
     "title": "The Lion King II: Simba's Pride",
@@ -25901,7 +27020,8 @@ var movieDB = [
     "vibes": [],
     "why": "Много времени утекло с тех пор, как лев Симба сверг своего злого дядю Шрама и вернул трон короля саванны. У него и королевы Налы уже подрастает дочь — принцесса Киара. Однако порученная легкомысленным заботам наших старых знакомых Тимона и Пумбы, проказливая и непослушная Киара пока никак не похожа ...",
     "tmdb_id": 9732,
-    "poster_path": "/1Q0juLckjyydMglTpsokxL3lafF.jpg"
+    "poster_path": "/1Q0juLckjyydMglTpsokxL3lafF.jpg",
+    "director": "Darrell Rooney"
   },
   {
     "title": "Taxi",
@@ -25916,7 +27036,8 @@ var movieDB = [
     "vibes": [],
     "why": "Молодой таксист Даниэль помешан на быстрой езде. Как ураган проносится он по извилистым улицам Марселя на своем мощном ревущем звере «Пежо», пугая пассажиров и прохожих. Неподкупный полицейский Эмильен вынуждает его помочь в поимке банды грабителей, ускользающих от полиции на своих неуловимых «Мерсе...",
     "tmdb_id": 2330,
-    "poster_path": "/3I83PHvy6iPqtzuItLaI2DdLeHQ.jpg"
+    "poster_path": "/3I83PHvy6iPqtzuItLaI2DdLeHQ.jpg",
+    "director": "Gérard Pirès"
   },
   {
     "title": "George of the Jungle",
@@ -25932,7 +27053,8 @@ var movieDB = [
     "why": "Джордж вырос в самом сердце африканских джунглей. Среди горилл, которые научили его прыгать по деревьям и выживать. Джордж наслаждался своей жизнью, пока не встретил красавицу Урсулу, которая не только очаровала его, но и увезла в большой город Сан-Франциско.",
     "title_ru": "Джордж из джунглей",
     "tmdb_id": 10603,
-    "poster_path": "/uTfP7cXDx4FFwq5fCr6wHplcy9d.jpg"
+    "poster_path": "/uTfP7cXDx4FFwq5fCr6wHplcy9d.jpg",
+    "director": "Сэм Уайзман"
   },
   {
     "title": "Dunno on the Moon",
@@ -25963,7 +27085,8 @@ var movieDB = [
     "why": "Молодой финский специалист по охоте, «финик», уговаривает своего русского друга помочь ему поучаствовать в настоящей русской охоте, дабы познакомиться с нравами и привычками русских охотников. До боли знакомые нам бесконечные застолья с последующими приключениями, насыщенными крепким запахом водки, ...",
     "title_ru": "Особенности национальной охоты",
     "tmdb_id": 451928,
-    "poster_path": "/knfyxxvcXAlDX9K6gqDKMA1v81o.jpg"
+    "poster_path": "/knfyxxvcXAlDX9K6gqDKMA1v81o.jpg",
+    "director": "Александр Рогожкин"
   },
   {
     "title": "Hocus Pocus",
@@ -25978,7 +27101,8 @@ var movieDB = [
     "why": "Согласно легенде, если невинная девушка в ночь Хэллоуина зажжет свечу в доме сестер Сандерсон, то ведьмы встанут из могил и съедят всех детей в городе, чтобы самим стать вечно молодыми. Поскольку коварным сестрицам суждено воскреснуть через 300 лет после казни за колдовство, им придется привыкать к ...",
     "title_ru": "Фокус Покус",
     "tmdb_id": 10439,
-    "poster_path": "/t2FcNQSUdUki3SFMwCpvT9AmQ7B.jpg"
+    "poster_path": "/t2FcNQSUdUki3SFMwCpvT9AmQ7B.jpg",
+    "director": "Kenny Ortega"
   },
   {
     "title": "Teenage Mutant Ninja Turtles",
@@ -26004,7 +27128,8 @@ var movieDB = [
     "why": "Четыре черепашки и крыса в канализационных трубах Нью-Йорка вляпались в радиационные отходы, мутировали и превратились в человеческого роста разумных черепашек, а крыса, которая раньше жила у японского мастера ниндзя-цу, обучила их боевым искусствам.  Черепашки Леонардо, Рафаэль, Микеланджело и Дона...",
     "title_ru": "Черепашки-ниндзя",
     "tmdb_id": 1498,
-    "poster_path": "/mZR1lLdwOp8w8IEHIBAIQLjo1VL.jpg"
+    "poster_path": "/mZR1lLdwOp8w8IEHIBAIQLjo1VL.jpg",
+    "director": "Стив Бэррон"
   },
   {
     "title": "Elvira: Mistress of the Dark",
@@ -26019,7 +27144,8 @@ var movieDB = [
     "why": "На телезвезду Эльвиру неожиданно обрушивается наследство в виде тетушкиного поместья в маленьком городишке. Местное население при виде Эльвиры в сногсшибательном платье со сногсшибательным декольте испытывает настоящий шок. Женская половина обитателей города приходит в негодование, мужская - в восто...",
     "title_ru": "Эльвира: Повелительница тьмы",
     "tmdb_id": 5680,
-    "poster_path": "/ylEokPNr3noDL3gFN1llrhrS5lE.jpg"
+    "poster_path": "/ylEokPNr3noDL3gFN1llrhrS5lE.jpg",
+    "director": "James Signorelli"
   },
   {
     "title": "Mulan",
@@ -26033,7 +27159,8 @@ var movieDB = [
     "vibes": [],
     "why": "История о бесстрашной молодой девушке, которая выдаёт себя за мужчину, чтобы вступить в ряды армии, противостоящей Северным захватчикам, надвигающимся на Китай. Старшая дочь храброго воина Хуа, Мулан — энергичная и решительная девушка. Когда Император издаёт указ о том, что один мужчина из каждой се...",
     "tmdb_id": 337401,
-    "poster_path": "/uxPauLtzjl9oWZtS1Bwp9mCDRFh.jpg"
+    "poster_path": "/uxPauLtzjl9oWZtS1Bwp9mCDRFh.jpg",
+    "director": "Niki Caro"
   },
   {
     "title": "Ip Man 2",
@@ -26051,7 +27178,8 @@ var movieDB = [
     "why": "Вторая Мировая война закончилась, но Китай все еще слаб и беден. Ип Ман открывает свою школу боевых искусств, однако завоевать свое место под солнцем оказывается непросто — чтобы избежать проблем, Ип Ману нужно сначала завоевать уважение представителей других кунгфу-школ, а председательствующему в и...",
     "title_ru": "Ип Ман: Битва кланов",
     "tmdb_id": 37472,
-    "poster_path": "/lawpcjNCX0dhX5KQxw2PrgLCTbn.jpg"
+    "poster_path": "/lawpcjNCX0dhX5KQxw2PrgLCTbn.jpg",
+    "director": "Уилсон Ип"
   },
   {
     "title": "Ip Man 3",
@@ -26073,7 +27201,8 @@ var movieDB = [
     "why": "Мастеру Ип Ману снова приходится использовать вин-чун по прямому назначению, когда бандитская группировка пытается подмять под себя местную школу.",
     "title_ru": "Ип Ман 3",
     "tmdb_id": 365222,
-    "poster_path": "/pgLQ7hEoRYCvo103ZOSXsVjDn5p.jpg"
+    "poster_path": "/pgLQ7hEoRYCvo103ZOSXsVjDn5p.jpg",
+    "director": "Уилсон Ип"
   },
   {
     "title": "Ip Man 4: The Finale",
@@ -26088,7 +27217,8 @@ var movieDB = [
     "why": "1964 год. Уже немолодой Ип Ман узнаёт, что у него рак, а сына отчисляют из школы за очередную драку. Тут как раз Брюс Ли присылает учителю приглашение на чемпионат по карате и билет на самолёт в Штаты. Великий мастер отправляется в Сан-Франциско подыскать школу для сына и заодно посмотреть, как там ...",
     "title_ru": "Ип Ман 4",
     "tmdb_id": 449924,
-    "poster_path": "/FxQckPcdXQJL1yAYG6S7n7bXyR.jpg"
+    "poster_path": "/FxQckPcdXQJL1yAYG6S7n7bXyR.jpg",
+    "director": "Уилсон Ип"
   },
   {
     "title": "Tetris",
@@ -26110,7 +27240,8 @@ var movieDB = [
     "why": "Фильм посвящен реальной истории американского дизайнера игр и предпринимателя Хенка Роджерса, открывшего в 1988 игру «Тетрис». Решив поделиться своей находкой с миром, он попадает в опасную паутину лжи и коррупции за железным занавесом.",
     "title_ru": "Тетрис",
     "tmdb_id": 726759,
-    "poster_path": "/R00Qpo7HTUG30Tjp2pIhikntky.jpg"
+    "poster_path": "/R00Qpo7HTUG30Tjp2pIhikntky.jpg",
+    "director": "Jon S. Baird"
   },
   {
     "title": "The Unbearable Weight of Massive Talent",
@@ -26132,7 +27263,8 @@ var movieDB = [
     "why": "Фильм расскажет о том, как Николас Кейдж, чтобы заработать несколько миллионов долларов, отправляется на вечеринку на острове Мальорке, которую в честь своего дня рождения устроил криминальный авторитет Хави. Он большой фанат Кейджа и хранит у себя восковую фигуру актёра, а когда тот приезжает, обсу...",
     "title_ru": "Невыносимая тяжесть огромного таланта",
     "tmdb_id": 648579,
-    "poster_path": "/8T0K2p2BC3WCV1HWxPZ7nIfodqo.jpg"
+    "poster_path": "/8T0K2p2BC3WCV1HWxPZ7nIfodqo.jpg",
+    "director": "Том Гормикэн"
   },
   {
     "title": "The Northman",
@@ -26154,7 +27286,8 @@ var movieDB = [
     "why": "Конец IX века, небольшой остров в Северной Атлантике. Король Орвандилл с серьёзным ранением возвращается из похода к жене Гудрун и юному сыну Амлету. Мечтая отправиться на очередное сражение и умереть на поле боя, он передаёт трон сыну, но тут же погибает от руки брата Фьолнира — тот отрубает монарх...",
     "title_ru": "Варяг",
     "tmdb_id": 639933,
-    "poster_path": "/9kAGiq6s6X5877rkCggFfdDPfQ7.jpg"
+    "poster_path": "/9kAGiq6s6X5877rkCggFfdDPfQ7.jpg",
+    "director": "Роберт Эггерс"
   },
   {
     "title": "Jurassic World Dominion",
@@ -26175,7 +27308,8 @@ var movieDB = [
     "why": "После уничтожения острова Нублар динозавры вырвались на свободу и заполнили планету. Людям удается поддерживать хрупкое равновесие, определяющее мирное сосуществование на Земле. Но как долго человек сможет сохранять свое господство, живя по соседству с самыми устрашающими существами в истории?",
     "title_ru": "Мир юрского периода: Господство",
     "tmdb_id": 507086,
-    "poster_path": "/6BLMT9T4wRu5QlnqVeQUU5WApLj.jpg"
+    "poster_path": "/6BLMT9T4wRu5QlnqVeQUU5WApLj.jpg",
+    "director": "Колин Треворроу"
   },
   {
     "title": "Prey",
@@ -26195,7 +27329,8 @@ var movieDB = [
     "why": "Север Великих равнин, 1719 год. Девушка Нару из племени команчей больше всего на свете хочет стать достойной охотницей, но близкие не воспринимают её увлечение всерьёз. Когда отряд бывалых охотников идёт в лес на поиски атакованного пумой соплеменника, Нару как опытный следопыт отправляется с ними и...",
     "title_ru": "Добыча",
     "tmdb_id": 766507,
-    "poster_path": "/3spSYER1gUmhFzfFaDHaGxhAaLD.jpg"
+    "poster_path": "/3spSYER1gUmhFzfFaDHaGxhAaLD.jpg",
+    "director": "Дэн Трахтенберг"
   },
   {
     "title": "Guardians of the Galaxy Vol. 3",
@@ -26220,7 +27355,8 @@ var movieDB = [
     "why": "Питер Квилл никак не может смириться с потерей Гаморы и теперь вместе со Стражами Галактики вынужден отправиться на очередную миссию по защите Вселенной.",
     "title_ru": "Стражи Галактики. Часть 3",
     "tmdb_id": 447365,
-    "poster_path": "/mz7lPfNOLOWDKoz625tFgNcSPVi.jpg"
+    "poster_path": "/mz7lPfNOLOWDKoz625tFgNcSPVi.jpg",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "Dungeons & Dragons: Honor Among Thieves",
@@ -26235,7 +27371,8 @@ var movieDB = [
     "why": "Эдгин Дарвис вместе с верной воительницей Хольгой объединяются с рассеянным магом Саймоном, ловкой друидкой Дорик и чопорным паладином Зенком, чтобы вернуть утерянную реликвию, наделенную огромной силой. Однако всё быстро идет наперекосяк, когда на их пути встает злодей Фордж.",
     "title_ru": "Подземелья и драконы: Честь среди воров",
     "tmdb_id": 493529,
-    "poster_path": "/nAbRIxxRJfCP2U9tpVJU1zWb6Ni.jpg"
+    "poster_path": "/nAbRIxxRJfCP2U9tpVJU1zWb6Ni.jpg",
+    "director": "Джон Фрэнсис Дейли, Джонатан Голдштейн"
   },
   {
     "title": "The Guardians of the Galaxy Holiday Special",
@@ -26260,7 +27397,8 @@ var movieDB = [
     "why": "Стражи Галактики отмечают Рождество и отправляются на Землю, чтобы отыскать идеальный подарок для Питера Квилла.",
     "title_ru": "Стражи Галактики: Праздничный Спецвыпуск",
     "tmdb_id": 774752,
-    "poster_path": "/rsAa8nGfFHEB4B2GVqPs2ZCUOex.jpg"
+    "poster_path": "/rsAa8nGfFHEB4B2GVqPs2ZCUOex.jpg",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "Timecop",
@@ -26283,7 +27421,8 @@ var movieDB = [
     "why": "Передвижения во времени породили новый тип преступлений. Можно изменять события прошлого, контролировать финансовые рынки и даже уничтожать целые народы. Правительство США создает специальное полицейское подразделение - патруль времени. Продажный сенатор, рвущийся к президентскому креслу, отправляет...",
     "title_ru": "Патруль времени",
     "tmdb_id": 8831,
-    "poster_path": "/3OUpDNlP4ThB6Ru8SJrFQLZXEu5.jpg"
+    "poster_path": "/3OUpDNlP4ThB6Ru8SJrFQLZXEu5.jpg",
+    "director": "Peter Hyams"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-",
@@ -26305,7 +27444,8 @@ var movieDB = [
     "why": "Тандзиро оказывается лицом к лицу с сильным демоном высшего ранга, Гютаро, и его цель — победить его вместе со всеми его товарищами. Фильм составлен из двух заключительных эпизодов второго сезона аниме с добавлением новых сцен.",
     "title_ru": "Клинок, рассекающий демонов: Собрание высших лун и деревня кузнецов",
     "tmdb_id": 1067282,
-    "poster_path": "/o8DB5825myndApdQQHbf4bv1mzL.jpg"
+    "poster_path": "/o8DB5825myndApdQQHbf4bv1mzL.jpg",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Bulletproof Monk",
@@ -26327,7 +27467,8 @@ var movieDB = [
     "why": "Монах — мастер боевых искусств, который охраняет могущественный древний свиток — таинственный артефакт, содержащий ключ к безграничной власти. Монаху нужно найти следующего хранителя свитка, и поиски приводят его в Америку. Согласно древнему пророчеству и к изумлению Монаха его преемником оказываетс...",
     "title_ru": "Пуленепробиваемый монах",
     "tmdb_id": 11817,
-    "poster_path": "/ndSRdEWLJY9EMHegsC8Dr2ublo4.jpg"
+    "poster_path": "/ndSRdEWLJY9EMHegsC8Dr2ublo4.jpg",
+    "director": "Пол Хантер"
   },
   {
     "title": "The Lion Guard: Return of the Roar",
@@ -26350,7 +27491,8 @@ var movieDB = [
     "why": "Львёнок по имени Кион — второй детёныш Симбы и Налы, младший брат Киары. Пришло время, когда он неожиданно для себя овладел рыком древних — способностью всех вторых детей в королевской семье, благодаря которой они становятся лидерами львиной гвардии. Львиная гвардия — отряд из пяти львов, защищающих...",
     "title_ru": "Хранитель Лев: Герои саванны",
     "tmdb_id": 359983,
-    "poster_path": "/ajqAbZb2GinKl1lfRaaAmtPjoSs.jpg"
+    "poster_path": "/ajqAbZb2GinKl1lfRaaAmtPjoSs.jpg",
+    "director": "Howy Parkins"
   },
   {
     "title": "Guy Ritchie's The Covenant",
@@ -26372,7 +27514,8 @@ var movieDB = [
     "why": "Джон Кинли не помнит, как выжил, попав в окружение врага в Афганистане, но понимает, что обязан жизнью местному переводчику по имени Ахмед. Именно ему удалось отбить раненого Кинли и на себе вытащить через опасную территорию. Теперь чувство долга не даёт Джону покоя и он решает рискнуть всем, чтобы ...",
     "title_ru": "Переводчик",
     "tmdb_id": 882569,
-    "poster_path": "/Acxw9ik5MIodpsmLKTC2t8x5TtC.jpg"
+    "poster_path": "/Acxw9ik5MIodpsmLKTC2t8x5TtC.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
@@ -26399,7 +27542,8 @@ var movieDB = [
     "why": "Майлз Моралес отправляется в приключение по мультивселенной вместе с Гвен Стейси и новой командой Людей-пауков, которым предстоит столкнуться с могущественным злодеем.",
     "title_ru": "Человек-паук: Паутина вселенных",
     "tmdb_id": 569094,
-    "poster_path": "/hsGAxOqbH0UNpIJPMsVRA6dFf85.jpg"
+    "poster_path": "/hsGAxOqbH0UNpIJPMsVRA6dFf85.jpg",
+    "director": "Kemp Powers, Джастин Томпсон, Жоаким Дос Сантос"
   },
   {
     "title": "Shazam! Fury of the Gods",
@@ -26421,7 +27565,8 @@ var movieDB = [
     "why": "17-летний Билли Бэтсон, получивший дар превращаться в супергероя лет сорока, охраняет покой жителей Филадельфии вместе со своими приёмными братьями и сестрами, с которыми он поделился суперспособностями. В силу юности и недостатка дисциплины не всё у них получается идеально, и пресса называет команд...",
     "title_ru": "Шазам! Ярость Богов",
     "tmdb_id": 594767,
-    "poster_path": "/t2Wy2p0lLg6BjOk10pYhrIiYWrL.jpg"
+    "poster_path": "/t2Wy2p0lLg6BjOk10pYhrIiYWrL.jpg",
+    "director": "Дэвид Ф. Сандберг"
   },
   {
     "title": "Air",
@@ -26440,7 +27585,8 @@ var movieDB = [
     "why": "1980-е. Продавец кроссовок из фирмы Nike Сонни Ваккаро и соучредитель Nike Фил Найт пытаются подписать контракт с многообещающим спортсменом Майклом Джорданом.",
     "title_ru": "Air: Большой прыжок",
     "tmdb_id": 964980,
-    "poster_path": "/yPtqBdEGzcFsSuTvzCIoSUtQe6N.jpg"
+    "poster_path": "/yPtqBdEGzcFsSuTvzCIoSUtQe6N.jpg",
+    "director": "Бен Аффлек"
   },
   {
     "title": "The Truman Show",
@@ -26466,7 +27612,8 @@ var movieDB = [
     "why": "Джим Керри: человек живёт в телешоу. Good morning, good evening and good night!",
     "title_ru": "Шоу Трумана",
     "tmdb_id": 37165,
-    "poster_path": "/6DXeXL6WTNptP9HrhfUvZyEhlqD.jpg"
+    "poster_path": "/6DXeXL6WTNptP9HrhfUvZyEhlqD.jpg",
+    "director": "Питер Уир"
   },
   {
     "title": "Lord of War",
@@ -26489,7 +27636,8 @@ var movieDB = [
     "why": "Родители Юрия и Виталия Орловых покинули Украину и обосновались в Америке: у них маленький ресторанчик на Брайтон-Бич. Дети же не стремятся идти по родительским стопам. Юрий начинает торговать оружием и с помощью брата быстро завоевывает свое место под солнцем. Но чем выше он поднимается, тем ближе ...",
     "title_ru": "Оружейный барон",
     "tmdb_id": 1830,
-    "poster_path": "/qHa7QPVn1VNYA8GezSaidJ1kS9H.jpg"
+    "poster_path": "/qHa7QPVn1VNYA8GezSaidJ1kS9H.jpg",
+    "director": "Эндрю Никкол"
   },
   {
     "title": "Beau Is Afraid",
@@ -26511,7 +27659,8 @@ var movieDB = [
     "why": "Бо боится всего на свете и старается не выходить из дома. И правильно делает — мир полон опасностей, а улицы кишат сумасшедшими. Но однажды, несмотря на страхи, он решается на путешествие в родной город. Теперь его ждёт невообразимо странное приключение, выходящее за рамки пространства и времени...",
     "title_ru": "Все страхи Бо",
     "tmdb_id": 798286,
-    "poster_path": "/h0GpAFqMq1mWcKachRxTWRF3doK.jpg"
+    "poster_path": "/h0GpAFqMq1mWcKachRxTWRF3doK.jpg",
+    "director": "Ари Астер"
   },
   {
     "title": "Jeanne du Barry",
@@ -26533,7 +27682,8 @@ var movieDB = [
     "why": "Жанна Вобернье — молодая женщина из рабочего класса, жаждущая культуры и удовольствий, использующая свой интеллект и очарование, чтобы подняться по ступеням социальной лестницы. Она знакомится с королем Людовиком XV и вскоре становится его любимой спутницей. Благодаря их отношениям к королю возвраща...",
     "title_ru": "Жанна Дюбарри",
     "tmdb_id": 921452,
-    "poster_path": "/9INvnOi1dXswIKkmblQ4IGU6g0E.jpg"
+    "poster_path": "/9INvnOi1dXswIKkmblQ4IGU6g0E.jpg",
+    "director": "Maïwenn"
   },
   {
     "title": "Sherlock: The Abominable Bride",
@@ -26559,7 +27709,8 @@ var movieDB = [
     "why": "Нас приглашают побывать в 1895 году, в Лондоне. Теперь за услугами Шерлока обратился новый клиент – Томас Риколетти. Он случайно наткнулся на свою жену, когда она была в старом свадебном платье. Это удивило его. Вскоре ему стало известно, что она свела счеты с жизнью за несколько часов до невероятно...",
     "title_ru": "Шерлок: Безобразная Невеста",
     "tmdb_id": 379170,
-    "poster_path": "/8ahwG8SWusLgmFYYT1xTxbSpEQd.jpg"
+    "poster_path": "/8ahwG8SWusLgmFYYT1xTxbSpEQd.jpg",
+    "director": "Дуглас Маккиннон"
   },
   {
     "title": "Sherlock: The Final Problem",
@@ -26582,7 +27733,8 @@ var movieDB = [
     "why": "Шерлок Холмс вступил в смертельную схватку с главарем английской преступности профессором Мориарти. В сети полиции попали все, кроме главаря, и друзья на время решили укрыться в тихой Швейцарии. Но от гнева Мориарти ещё не ускользал никто.",
     "title_ru": "Приключения Шерлока Холмса и доктора Ватсона: Смертельная схватка",
     "tmdb_id": 126850,
-    "poster_path": "/zHCBBn2asb00aOOfzsThnuCIzun.jpg"
+    "poster_path": "/zHCBBn2asb00aOOfzsThnuCIzun.jpg",
+    "director": "Игорь Масленников"
   },
   {
     "title": "The Current War",
@@ -26602,7 +27754,8 @@ var movieDB = [
     "why": "Америка, конец 19-го века. Два лучших ума современности, Томас Эдисон и Джордж Вестингауз, ведут ожесточенное соперничество за то, чье изобретение осветит страну. Блестящий предприниматель и изобретатель Эдисон идет на любые меры, чтобы одержать реванш. Но на передовой «войны токов» появляется новая...",
     "title_ru": "Война токов",
     "tmdb_id": 418879,
-    "poster_path": "/oD5vaUElVgwwfF2k5aI7pSOVNdJ.jpg"
+    "poster_path": "/oD5vaUElVgwwfF2k5aI7pSOVNdJ.jpg",
+    "director": "Alfonso Gomez-Rejon"
   },
   {
     "title": "Sherlock: A Study in Pink (Unaired Pilot)",
@@ -26635,7 +27788,8 @@ var movieDB = [
     "why": "1955 год, небольшой вымышленный городок, расположенный возле кратера, оставшегося после падения астероида тысячи лет назад. Каждый год в этом месте проводится собрание юных астрономов, в котором участвуют ученики, их семьи, учителя, а также военные. Очередной такой слёт резко прерывается событиями, ...",
     "title_ru": "Город астероидов",
     "tmdb_id": 747188,
-    "poster_path": "/hqPt99xDEcFbFUQAa1dKaDfmPsk.jpg"
+    "poster_path": "/hqPt99xDEcFbFUQAa1dKaDfmPsk.jpg",
+    "director": "Уэс Андерсон"
   },
   {
     "title": "The Walk",
@@ -26657,7 +27811,8 @@ var movieDB = [
     "why": "Вы боитесь высоты? А можете представить себя идущим по натянутому канату на высоте более 400 метров безо всякой страховки? Потоки ветра обдувают вас, а внизу — город и тысячи устремленных вверх взволнованных взглядов. В 1974 году французский канатоходец Филипп Пети отважился совершить немыслимый трю...",
     "title_ru": "Прогулка",
     "tmdb_id": 285783,
-    "poster_path": "/uosoDdJkXtLdXT9Vc9kGDpWaQFK.jpg"
+    "poster_path": "/uosoDdJkXtLdXT9Vc9kGDpWaQFK.jpg",
+    "director": "Роберт Земекис"
   },
   {
     "title": "The Zero Theorem",
@@ -26677,7 +27832,8 @@ var movieDB = [
     "why": "Эксцентричный компьютерный гений Коэн Лет бьется над неразрешимой теоремой. Благодаря костюму для виртуальной реальности, изобретенному мальчиком Бобом, Лету удается совершить путешествие в скрытое пространство и узнать тайну своей души. Эту разгадку ищет не только он сам, но и таинственный Менеджме...",
     "title_ru": "Теорема Зеро",
     "tmdb_id": 157834,
-    "poster_path": "/cjkhkAIheUJbLO2tQErIsR0okML.jpg"
+    "poster_path": "/cjkhkAIheUJbLO2tQErIsR0okML.jpg",
+    "director": "Терри Гиллиам"
   },
   {
     "title": "Barbie",
@@ -26702,7 +27858,8 @@ var movieDB = [
     "why": "Грета Гервиг: Барби и Кен открывают реальный мир. Розовый взрыв и неожиданная глубина.",
     "title_ru": "Барби",
     "tmdb_id": 346698,
-    "poster_path": "/kau707eF6UBvrHX3v5BSYckqSXm.jpg"
+    "poster_path": "/kau707eF6UBvrHX3v5BSYckqSXm.jpg",
+    "director": "Грета Гервиг"
   },
   {
     "title": "Oppenheimer",
@@ -26727,7 +27884,8 @@ var movieDB = [
     "why": "Нолан: Киллиан Мёрфи — создатель атомной бомбы. Ядерный взрыв без CGI.",
     "title_ru": "Оппенгеймер",
     "tmdb_id": 872585,
-    "poster_path": "/8OQzw8keE6sDNH25sOqPRTxhFTO.jpg"
+    "poster_path": "/8OQzw8keE6sDNH25sOqPRTxhFTO.jpg",
+    "director": "Кристофер Нолан"
   },
   {
     "title": "The Flash",
@@ -26747,7 +27905,8 @@ var movieDB = [
     "why": "Физик-ядерщик Барри Аллен в ходе неудачного научного эксперимента подвергается серьёзному облучению ядохимикатами. Но, к собственному удивлению, не погибает, а приобретает новые поразительные способности. Благодаря метаморфозам, произошедшим из-за облучения в его ДНК, герой теперь способен развивать...",
     "title_ru": "Флэш",
     "tmdb_id": 298618,
-    "poster_path": "/gr5PiNwf71moV1NvKXB6E6Z53hM.jpg"
+    "poster_path": "/gr5PiNwf71moV1NvKXB6E6Z53hM.jpg",
+    "director": "Энди Мускетти"
   },
   {
     "title": "The Little Mermaid",
@@ -26772,7 +27931,8 @@ var movieDB = [
     "why": "Русалочка Ариэль из любви к человеческому принцу идёт на сделку с ведьмой Урсулой. Та даёт ей ноги, но взамен забирает голос.",
     "title_ru": "Русалочка",
     "tmdb_id": 447277,
-    "poster_path": "/wSrmqFdRR6qy5qeI4czETtgTgcA.jpg"
+    "poster_path": "/wSrmqFdRR6qy5qeI4czETtgTgcA.jpg",
+    "director": "Роб Маршалл"
   },
   {
     "title": "Bubble Boy",
@@ -26794,7 +27954,8 @@ var movieDB = [
     "why": "Хотя Джимми Ливинсгстон прожил всю жизнь внутри защитного пластикового скафандра под неусыпным присмотром своей сверхбдительной мамочки (Свузи Кёрц), он никогда не думал, что упустил в жизни что-то важное, пока его прекрасная соседка (Марли Шелтон), в которую он влюблен, не сбежала, чтобы выйти заму...",
     "title_ru": "Парень из пузыря",
     "tmdb_id": 9683,
-    "poster_path": "/jFDYZy5k0RaGpmFalYie6jZ5vbC.jpg"
+    "poster_path": "/jFDYZy5k0RaGpmFalYie6jZ5vbC.jpg",
+    "director": "Blair Hayes"
   },
   {
     "title": "Gran Turismo",
@@ -26816,7 +27977,8 @@ var movieDB = [
     "why": "История об исполнении желаний подростка, игравшего в Gran Turismo, чьи игровые навыки позволили выиграть серию соревнований Nissan, чтобы стать настоящим профессиональным гонщиком. Основано на реальной истории.",
     "title_ru": "Гран Туризмо",
     "tmdb_id": 980489,
-    "poster_path": "/zS3cofAvqaKAvdXCPrZjToI3N6H.jpg"
+    "poster_path": "/zS3cofAvqaKAvdXCPrZjToI3N6H.jpg",
+    "director": "Нил Бломкамп"
   },
   {
     "title": "The Killer",
@@ -26836,7 +27998,8 @@ var movieDB = [
     "why": "После рокового промаха наемный убийца борется с клиентами — и с самим собой — в процессе глобальной погони за возмездием, которое, как он утверждает, не является личным.",
     "title_ru": "Убийца",
     "tmdb_id": 800158,
-    "poster_path": "/qGdKveyiqPPa9cOwVyoWRBQ9GwC.jpg"
+    "poster_path": "/qGdKveyiqPPa9cOwVyoWRBQ9GwC.jpg",
+    "director": "Дэвид Финчер"
   },
   {
     "title": "The Marvels",
@@ -26860,7 +28023,8 @@ var movieDB = [
     "why": "Расследуя возникновение аномалии точки перехода, Кэрол Дэнверс и Моника Рамбо независимо друг от друга одновременно касаются её и тем самым спутывают свои силы с Камалой Хан. Теперь девушки меняются местами, когда кто-нибудь из них использует сверхспособности. А в это время предводительница кри с по...",
     "title_ru": "Капитан Марвел 2",
     "tmdb_id": 609681,
-    "poster_path": "/hngFNCqMUxJ6nXykFxLtHblCVP8.jpg"
+    "poster_path": "/hngFNCqMUxJ6nXykFxLtHblCVP8.jpg",
+    "director": "Ниа ДаКоста"
   },
   {
     "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
@@ -26883,7 +28047,8 @@ var movieDB = [
     "why": "За много лет до того, как стать тираническим президентом Панема, 18-летний Кориолан Сноу — последняя надежда своего угасающего рода, некогда гордой семьи, потерявшей благородство в послевоенном Капитолии. С приближением 10-х ежегодных Голодных игр молодой Сноу встревожен, когда его назначают наставн...",
     "title_ru": "Голодные игры: Баллада о змеях и певчих птицах",
     "tmdb_id": 695721,
-    "poster_path": "/6Lp4Aij9meeh9JBaATQuXnNyBJl.jpg"
+    "poster_path": "/6Lp4Aij9meeh9JBaATQuXnNyBJl.jpg",
+    "director": "Фрэнсис Лоуренс"
   },
   {
     "title": "Exodus: Gods and Kings",
@@ -26905,7 +28070,8 @@ var movieDB = [
     "why": "Ветхозаветная история о великом пророке Моисее и освобождении еврейского народа из египетского плена. Моисей появился на свет в те времена, когда фараон приказал убивать всех новорожденных мальчиков еврейского происхождения. Чтобы спасти его, мать положила малыша в корзину из тростника и отправила в...",
     "title_ru": "Исход: Цари и боги",
     "tmdb_id": 147441,
-    "poster_path": "/ts7V954tAXTcvhVWCCZmQV4awIb.jpg"
+    "poster_path": "/ts7V954tAXTcvhVWCCZmQV4awIb.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "G.I. Jane",
@@ -26927,7 +28093,8 @@ var movieDB = [
     "why": "С подачи сенатора Лиллиан ДеХейвен, которая обеспокоена малым количеством женщин в вооружённых силах, лейтенант Джордан О`Нилл становится первой женщиной, направленной для прохождения элитной программы подготовки бойцов спецподразделения ВМС. Сюда отбираются лучшие из лучших, а отсев составляет 60%....",
     "title_ru": "Солдат Джейн",
     "tmdb_id": 4421,
-    "poster_path": "/nOXZXrqfuDKVbwOmuw95H80BSxW.jpg"
+    "poster_path": "/nOXZXrqfuDKVbwOmuw95H80BSxW.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "The Boy and the Heron",
@@ -26949,7 +28116,8 @@ var movieDB = [
     "why": "Через три года после начала Тихоокеанской войны мама мальчика Махито погибла при пожаре в Токио, а ещё через год отец женился на её сестре и отправил сына в фамильное поместье в сельской местности. Глава семьи работает на оборонном заводе и редко бывает дома, поэтому мальчику приходится проводить дн...",
     "title_ru": "Мальчик и птица",
     "tmdb_id": 508883,
-    "poster_path": "/oTmSnrE9MuQMhZkosZRE5bYvstK.jpg"
+    "poster_path": "/oTmSnrE9MuQMhZkosZRE5bYvstK.jpg",
+    "director": "Хаяо Миядзаки"
   },
   {
     "title": "Soulless 2",
@@ -26965,7 +28133,8 @@ var movieDB = [
     "why": "Макс Андреев решил начать жизнь с чистого листа, для чего отправился на остров в Юго-Восточной Азии. Казалось, что теперь его идеальную жизнь ничто не нарушит, но однажды к нему приезжает старый друг из прошлой столичной жизни. Обстоятельства складываются так, что Макс возвращается на родину, где ем...",
     "title_ru": "Духless 2",
     "tmdb_id": 327982,
-    "poster_path": "/9pz90vz9pfT6RCOyS6Aue2243vQ.jpg"
+    "poster_path": "/9pz90vz9pfT6RCOyS6Aue2243vQ.jpg",
+    "director": "Роман Прыгунов"
   },
   {
     "title": "Memoirs of a Geisha",
@@ -26987,7 +28156,8 @@ var movieDB = [
     "why": "Маленькую прелестную девочку из бедной японской семьи отдают в услужение в дом гейш. С годами красавица расцветает и познает все таинства этой профессии. Самые влиятельные мужчины становятся пленниками знаменитой гейши по имени Сайюри, достигшей совершенства в своем искусстве.Но в сердце Сайюри тепл...",
     "title_ru": "Мемуары гейши",
     "tmdb_id": 1904,
-    "poster_path": "/vIVkZy4b2Su5u2YbIpOEr2cdnOV.jpg"
+    "poster_path": "/vIVkZy4b2Su5u2YbIpOEr2cdnOV.jpg",
+    "director": "Роб Маршалл"
   },
   {
     "title": "Filth",
@@ -27009,7 +28179,8 @@ var movieDB = [
     "why": "Главный герой - продажный шотландский полицейский Брюс Робертсон, помешанный на сексе и кокаине. Ему бы надо расследовать убийство, но ему сильно мешают собственные странности, привычка разыгрывать коллег и беготня за девушками. За Робертсоном присматривают его напарник Рэй Леннокс и начальник Боб Т...",
     "title_ru": "Грязь",
     "tmdb_id": 85889,
-    "poster_path": "/hikJQzjhgcQpGIQ18c0AXjDEdF4.jpg"
+    "poster_path": "/hikJQzjhgcQpGIQ18c0AXjDEdF4.jpg",
+    "director": "Jon S. Baird"
   },
   {
     "title": "Lights Out",
@@ -27036,7 +28207,8 @@ var movieDB = [
     "why": "Дэвид Сандберг: вирусная короткометражка. Выключаешь свет — появляется силуэт.",
     "title_ru": "Lights Out",
     "tmdb_id": 1417095,
-    "poster_path": "/gqxtEU06DHhxRV3zGJylk04aFWu.jpg"
+    "poster_path": "/gqxtEU06DHhxRV3zGJylk04aFWu.jpg",
+    "director": "Anne Birk, John Muller, Juliette Viger, Kasper Christensen, Max Jarl Christiansen, Morten D. Andersen, Morten Lund, Sara Holm"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba",
@@ -27061,7 +28233,8 @@ var movieDB = [
     "why": "Эпоха Тайсё. Ещё с древних времён ходят слухи, что в лесу обитают человекоподобные демоны, которые питаются людьми и выискивают по ночам новых жертв. Тандзиро Камадо — старший сын в семье, потерявший отца и взявший на себя заботу о родных. Однажды он уходит в соседний город, чтобы продать древесный ...",
     "title_ru": "Истребитель демонов: Узы брата и сестры",
     "tmdb_id": 820232,
-    "poster_path": "/99cJLZkNoIFmufJ4yap6ZABl4nk.jpg"
+    "poster_path": "/99cJLZkNoIFmufJ4yap6ZABl4nk.jpg",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - Sibling's Bond",
@@ -27086,7 +28259,8 @@ var movieDB = [
     "why": "Эпоха Тайсё. Ещё с древних времён ходят слухи, что в лесу обитают человекоподобные демоны, которые питаются людьми и выискивают по ночам новых жертв. Тандзиро Камадо — старший сын в семье, потерявший отца и взявший на себя заботу о родных. Однажды он уходит в соседний город, чтобы продать древесный ...",
     "title_ru": "Истребитель демонов: Узы брата и сестры",
     "tmdb_id": 820232,
-    "poster_path": "/99cJLZkNoIFmufJ4yap6ZABl4nk.jpg"
+    "poster_path": "/99cJLZkNoIFmufJ4yap6ZABl4nk.jpg",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
@@ -27112,7 +28286,8 @@ var movieDB = [
     "why": "Особняк с меняющимися комнатами. Битва с демоном-барабанщиком. Клинок рассекающий демонов.",
     "title_ru": "鬼滅の刃 鼓屋敷編",
     "tmdb_id": 895006,
-    "poster_path": "/pWiP8NvScmP2nRGYvccAczOghGI.jpg"
+    "poster_path": "/pWiP8NvScmP2nRGYvccAczOghGI.jpg",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
@@ -27138,7 +28313,8 @@ var movieDB = [
     "why": "Тандзиро в Асакуса. Первая встреча с Мудзаном. Начало пути истребителя демонов.",
     "title_ru": "鬼滅の刃 浅草編",
     "tmdb_id": 895003,
-    "poster_path": "/3yQq99MCrULnDSY6W2JiKl6ivyl.jpg"
+    "poster_path": "/3yQq99MCrULnDSY6W2JiKl6ivyl.jpg",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - The Hashira Meeting Arc",
@@ -27160,7 +28336,8 @@ var movieDB = [
     "why": "Танджиро и его сестра Незуко были задержаны Убийцей Демонов Хашира, группой чрезвычайно опытных бойцов на мечах. Танджиро предстает перед судом за нарушение кодекса Убийцы Демонов, в частности, за контрабанду Демона Незуко на гору. Натагумо. Резюме фильма Кимэцу но Яиба, охватывающего 22-26 эпизоды ...",
     "title_ru": "Убийца демонов: Кимэцу но Яиба: Арка встречи с Хашира",
     "tmdb_id": 811948,
-    "poster_path": "/dDclNO4vWBDGBMyamtd1ZAQMISI.jpg"
+    "poster_path": "/dDclNO4vWBDGBMyamtd1ZAQMISI.jpg",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Mt. Natagumo Arc",
@@ -27182,7 +28359,8 @@ var movieDB = [
     "why": "Анимационный фильм, состоящий из серий с 15 по 21. Он транслируется на канале Fuji TV в рамках специальной программы.",
     "title_ru": "Убийца демонов: Кимэцу но Яиба",
     "tmdb_id": 802401,
-    "poster_path": "/gFZ3K5tgFit6PHOXLvSRwzDWacG.jpg"
+    "poster_path": "/gFZ3K5tgFit6PHOXLvSRwzDWacG.jpg",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Piranha II: The Spawning",
@@ -27198,7 +28376,8 @@ var movieDB = [
     "why": "На одном из островов Карибского моря внутри затонувшего судна найдена пара мертвецов. Инструктор по подводному плаванью местного курорта Энн Кимбруг вместе с одним из отдыхающих Тайлером Шерманом проникают в морг с целью выяснить причину смерти одного из аквалангистов, который был другом её сына. Та...",
     "title_ru": "Пираньи 2: Нерест",
     "tmdb_id": 31646,
-    "poster_path": "/5fQwVMwxF49kqzQloVXQ5f9xX1U.jpg"
+    "poster_path": "/5fQwVMwxF49kqzQloVXQ5f9xX1U.jpg",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Jane Eyre",
@@ -27217,7 +28396,8 @@ var movieDB = [
     "why": "Викторианская Англия. После восьми лет, проведенных в пансионе для бедных девочек, сирота Джейн Эйр получает место гувернантки в Торнфилде - вотчине Эдварда Ферфакса Рочестера. Хозяин поместья редко наведывается в родные края, а в его отсутствие Джейн должна присматривать за восьмилетней Адель Варан...",
     "title_ru": "Джейн Эйр",
     "tmdb_id": 38684,
-    "poster_path": "/tS3HBLks3gh7QHKqFtPSCUJzFuQ.jpg"
+    "poster_path": "/tS3HBLks3gh7QHKqFtPSCUJzFuQ.jpg",
+    "director": "Кэри Фукунага"
   },
   {
     "title": "Ms. Marvel",
@@ -27237,7 +28417,8 @@ var movieDB = [
     "why": "Загляните за кулисы на каждом этапе с захватывающими кадрами из процесса создания сериала, а также содержательными интервью на съемочной площадке с актерами и съемочной группой \"Мисс Марвел\", пока мы наблюдаем, как Иман Веллани и ее персонаж Камала Кхан становятся любимыми супергероями фанатов прямо...",
     "title_ru": "Создание сериала Мисс Марвел",
     "tmdb_id": 1001912,
-    "poster_path": "/6m0rG2bS90FOlUaxEq8ZPCTQMei.jpg"
+    "poster_path": "/6m0rG2bS90FOlUaxEq8ZPCTQMei.jpg",
+    "director": "Brad Baruh"
   },
   {
     "title": "RocknRolla",
@@ -27260,7 +28441,8 @@ var movieDB = [
     "why": "Фильм окунет вас в опасный мир коррупции и жизни криминальных отбросов современного Лондона, где недвижимость потеснила такого внушительного лидера торгового рынка, как наркотики, а самыми активными предпринимателями стали преступные группировки. Но каждому, кто захочет проворачивать там свои дела, ...",
     "title_ru": "Рок-н-рольщик",
     "tmdb_id": 13809,
-    "poster_path": "/n9C7YPkBKuz77Xn44xq35mqLTT2.jpg"
+    "poster_path": "/n9C7YPkBKuz77Xn44xq35mqLTT2.jpg",
+    "director": "Гай Ричи"
   },
   {
     "title": "Calm with Horses",
@@ -27279,7 +28461,8 @@ var movieDB = [
     "why": "Чтобы заработать на жизнь, бывший боксер Дуглас Армстронг по прозвищу Арм начинает работать на семью крупных наркоторговцев. Ему предстоит пройти тяжелое испытание на верность семье и сыну и своей новой семье мафиози, когда он должен впервые убить человека.",
     "title_ru": "Стойкая броня",
     "tmdb_id": 574396,
-    "poster_path": "/1Kz4kYGsGpF1wOyg0Efyn1CHUgD.jpg"
+    "poster_path": "/1Kz4kYGsGpF1wOyg0Efyn1CHUgD.jpg",
+    "director": "Nick Rowland"
   },
   {
     "title": "Finch",
@@ -27299,7 +28482,8 @@ var movieDB = [
     "why": "Постапокалипсис. Инженер-робототехник Финч переживает, что никто не сможет позаботиться о его собаке после смерти. Он строит робота и отправляется в путешествие, обучая своего нового компаньона жизни, любви, дружбе и дает ему понять, что значит быть человеком.",
     "title_ru": "Финч",
     "tmdb_id": 522402,
-    "poster_path": "/6u5Yx85VCh4KEU1RjjPPF00qsxa.jpg"
+    "poster_path": "/6u5Yx85VCh4KEU1RjjPPF00qsxa.jpg",
+    "director": "Miguel Sapochnik"
   },
   {
     "title": "The Perks of Being a Wallflower",
@@ -27315,7 +28499,8 @@ var movieDB = [
     "why": "История о Чарли, ученике старшей школы в Питтсбурге, стеснительном и непопулярном. На наших глазах Чарли взрослеет, меняется круг его общения, меняется его мнение о мире.",
     "title_ru": "Хорошо быть тихоней",
     "tmdb_id": 84892,
-    "poster_path": "/oEDH34brpND96IDnzfg4tPZerDq.jpg"
+    "poster_path": "/oEDH34brpND96IDnzfg4tPZerDq.jpg",
+    "director": "Стивен Чбоски"
   },
   {
     "title": "American Animals",
@@ -27337,7 +28522,8 @@ var movieDB = [
     "why": "История четырех молодых людей, которые предпринимают одно из самых дерзких ограблений в истории США.",
     "title_ru": "Американские животные",
     "tmdb_id": 489931,
-    "poster_path": "/tyGSoisCQfcYKptH7ng8kGZAwmd.jpg"
+    "poster_path": "/tyGSoisCQfcYKptH7ng8kGZAwmd.jpg",
+    "director": "Барт Лэйтон"
   },
   {
     "title": "Wonka",
@@ -27359,7 +28545,8 @@ var movieDB = [
     "why": "Мечтая открыть магазин в городе, славящемся своим шоколадом, молодой и бедный Вилли Вонка обнаруживает, что этой индустрией управляет картель жадных шоколатье.",
     "title_ru": "Вонка",
     "tmdb_id": 787699,
-    "poster_path": "/xZuJt8fEugqoawTvxDktt5Qt11X.jpg"
+    "poster_path": "/xZuJt8fEugqoawTvxDktt5Qt11X.jpg",
+    "director": "Пол Кинг"
   },
   {
     "title": "Marmaduke",
@@ -27378,7 +28565,8 @@ var movieDB = [
     "why": "Семья переезжает в новый дом и новым соседям придется привыкнуть к тому, что датский дог по имени Мармадюк вносит постоянный хаос в их жизнь — его хозяева к этому уже давно привыкли.",
     "title_ru": "Мармадюк",
     "tmdb_id": 38579,
-    "poster_path": "/fjxmLxW0Oh9thXMkAqXnG94MKjc.jpg"
+    "poster_path": "/fjxmLxW0Oh9thXMkAqXnG94MKjc.jpg",
+    "director": "Tom Dey"
   },
   {
     "title": "Cats & Dogs",
@@ -27404,7 +28592,8 @@ var movieDB = [
     "why": "Они — хитры. Они — вороваты. Они начинают сверхсекретную войну на высшем технологическом уровне за власть над миром, и все — под нашим носом. Они кошки и собаки! Посмотрите что получится, когда эксцентричный профессор совершит открытие, способное нарушить древний баланс власти четвероногих. Маленьки...",
     "title_ru": "Кошки против собак",
     "tmdb_id": 10992,
-    "poster_path": "/jQghbbraUbG5sAtRC8xstUxnl8n.jpg"
+    "poster_path": "/jQghbbraUbG5sAtRC8xstUxnl8n.jpg",
+    "director": "Lawrence Guterman"
   },
   {
     "title": "The Secret Life of Pets 2",
@@ -27429,7 +28618,8 @@ var movieDB = [
     "why": "Жизнь джек-рассел-терьера Макса переворачивается, когда у его любимой хозяйки рождается сын. Оказывается, забота о ребёнке — это большой стресс даже для самого отважного пса.",
     "title_ru": "Тайная жизнь домашних животных 2",
     "tmdb_id": 412117,
-    "poster_path": "/8k4heBxuvX8ec2B7vAuhe2L9DaW.jpg"
+    "poster_path": "/8k4heBxuvX8ec2B7vAuhe2L9DaW.jpg",
+    "director": "Крис Рено"
   },
   {
     "title": "Good Boy!",
@@ -27449,7 +28639,8 @@ var movieDB = [
     "why": "Родители двенадцатилетнего мальчика Оуэна позволяют ему, наконец, приютить лохматую собачонку, которую он называет Хаббл. Дальше происходит нечто невероятное — однажды Оуэн просыпается и обнаруживает, что понимает каждое слово, которое произносит Хаббл, включая зловещую фразу: «Отведи меня к вашим в...",
     "title_ru": "Лохматый спецназ",
     "tmdb_id": 21765,
-    "poster_path": "/kZDXSPfeKNtai6l8yE4J5LwVQMY.jpg"
+    "poster_path": "/kZDXSPfeKNtai6l8yE4J5LwVQMY.jpg",
+    "director": "Джон Хоффман"
   },
   {
     "title": "DC League of Super-Pets",
@@ -27476,7 +28667,8 @@ var movieDB = [
     "why": "Пес Крипто — лучший друг Супермена, обладающий такими же внеземными способностями, как и его хозяин. Вместе они отважно борются с преступностью в Метрополисе. Но когда Супермена и других членов Лиги справедливости похищают неизвестные злодеи, Крипто приходится подготовить новых помощников, а именно ...",
     "title_ru": "Суперпитомцы",
     "tmdb_id": 539681,
-    "poster_path": "/75jSDcQtHrcVoSflDolT7PC5v82.jpg"
+    "poster_path": "/75jSDcQtHrcVoSflDolT7PC5v82.jpg",
+    "director": "Jared Stern"
   },
   {
     "title": "Elemental",
@@ -27501,7 +28693,8 @@ var movieDB = [
     "why": "В Элемент-Сити обитатели огня, воды, земли и воздуха живут вместе. У сильной и вспыльчивой Эмбер завязывается дружба с расслабленным, плывущим по течению Уэйдом — дружба, которая бросит вызов её представлениям о мире вокруг.",
     "title_ru": "Элементарно",
     "tmdb_id": 976573,
-    "poster_path": "/xpVP0oajb0NQpzCA1EmP8cKXx3I.jpg"
+    "poster_path": "/xpVP0oajb0NQpzCA1EmP8cKXx3I.jpg",
+    "director": "Питер Сон"
   },
   {
     "title": "The Iron Claw",
@@ -27520,7 +28713,8 @@ var movieDB = [
     "why": "Их жизнь — изнурительные тренировки перед грядущим сражением. Каждый раз, выходя на арену, они рискуют остаться здесь навсегда. Толпа приветствует могучих юношей, готовых развлекать их ради мимолетной славы. Но они — не гладиаторы в Древнем Риме. А дети некогда знаменитого бойца, который теперь полн...",
     "title_ru": "Стальная хватка",
     "tmdb_id": 850165,
-    "poster_path": "/xXCqeMxuFdJbv5P51hKakwakzDm.jpg"
+    "poster_path": "/xXCqeMxuFdJbv5P51hKakwakzDm.jpg",
+    "director": "Sean Durkin"
   },
   {
     "title": "Dune: Part Two",
@@ -27544,7 +28738,8 @@ var movieDB = [
     "why": "Вильнёв: Пол Атрейдес ведёт фременов. Черви, песок, Зендая. Эпично и красиво.",
     "title_ru": "Дюна: Часть вторая",
     "tmdb_id": 693134,
-    "poster_path": "/3aLghRkuJc9cs770fxo4a6YWht3.jpg"
+    "poster_path": "/3aLghRkuJc9cs770fxo4a6YWht3.jpg",
+    "director": "Дени Вильнёв"
   },
   {
     "title": "Madame Web",
@@ -27563,7 +28758,8 @@ var movieDB = [
     "why": "История происхождения ясновидящей, известной как мадам Паутина, чьи экстрасенсорные способности позволяют ей видеть в мире пауков.",
     "title_ru": "Мадам Паутина",
     "tmdb_id": 634492,
-    "poster_path": "/8eyCtvA0hqoagcfjsieTrBecQbq.jpg"
+    "poster_path": "/8eyCtvA0hqoagcfjsieTrBecQbq.jpg",
+    "director": "С. Дж. Кларксон"
   },
   {
     "title": "Aquaman and the Lost Kingdom",
@@ -27586,7 +28782,8 @@ var movieDB = [
     "why": "Пока Аквамен пытается совмещать отцовство и работу царём подводного мира, Дэвид Хайд вынашивает план мести. Его исследовательская экспедиция обнаруживает трезубец проклятого и запертого во льдах повелителя потерянного царства — так Дэвид попадает под влияние его злых чар. Чтобы справиться с этой угр...",
     "title_ru": "Аквамен и потерянное царство",
     "tmdb_id": 572802,
-    "poster_path": "/vJoMnbQjLo1e7yOtFPW1LyPL6qR.jpg"
+    "poster_path": "/vJoMnbQjLo1e7yOtFPW1LyPL6qR.jpg",
+    "director": "Джеймс Ван"
   },
   {
     "title": "Only Lovers Left Alive",
@@ -27613,7 +28810,8 @@ var movieDB = [
     "why": "Два вампира-интеллектуала. Самый меланхоличный вампирский фильм в истории. Под винил.",
     "title_ru": "Выживут только любовники",
     "tmdb_id": 152603,
-    "poster_path": "/7rf50ygBCNsSsaziBQIWGloGSuX.jpg"
+    "poster_path": "/7rf50ygBCNsSsaziBQIWGloGSuX.jpg",
+    "director": "Джим Джармуш"
   },
   {
     "title": "The Nice Guys",
@@ -27644,7 +28842,8 @@ var movieDB = [
     ],
     "title_ru": "Славные парни",
     "tmdb_id": 290250,
-    "poster_path": "/4U7u3htE1CxoRYboQVQYfxr0ZoG.jpg"
+    "poster_path": "/4U7u3htE1CxoRYboQVQYfxr0ZoG.jpg",
+    "director": "Шейн Блэк"
   },
   {
     "title": "Last Action Hero",
@@ -27666,7 +28865,8 @@ var movieDB = [
     "why": "Юному киноману Дэнни Мэдигану достается волшебный билет, который переносит его на другую сторону экрана. Мальчик оказывается рядом со своим любимым персонажем, знаменитым полицейским Джеком Слэйтером, и становится полноправным участником всех событий напряженного боевика. Впереди напарников ждет сам...",
     "title_ru": "Последний киногерой",
     "tmdb_id": 9593,
-    "poster_path": "/tuX115qomb1lIouD7wetyC5Iky9.jpg"
+    "poster_path": "/tuX115qomb1lIouD7wetyC5Iky9.jpg",
+    "director": "Джон МакТирнан"
   },
   {
     "title": "The Last Boy Scout",
@@ -27685,7 +28885,8 @@ var movieDB = [
     "why": "Джо был американским героем - человеком, спасшим президента, а теперь он частный детектив, проснувшийся после очередной попойки в своей старенькой машине с больной головой и семейными проблемами. Весьма кстати подворачивается непыльная работенка - охрана звезды захудалого стриптиз-клуба. Однако собы...",
     "title_ru": "Последний бойскаут",
     "tmdb_id": 9319,
-    "poster_path": "/iOHJ2AvLcxMlPMFcNSRYeRFLj0C.jpg"
+    "poster_path": "/iOHJ2AvLcxMlPMFcNSRYeRFLj0C.jpg",
+    "director": "Тони Скотт"
   },
   {
     "title": "Poor Things",
@@ -27711,7 +28912,8 @@ var movieDB = [
     "why": "Йоргос Лантимос: Эмма Стоун — женщина с мозгом младенца. Стим-панк и сексуальное освобождение.",
     "title_ru": "Бедные-несчастные",
     "tmdb_id": 792307,
-    "poster_path": "/uE2QMiofUiPUyBAPagx35jpw9aF.jpg"
+    "poster_path": "/uE2QMiofUiPUyBAPagx35jpw9aF.jpg",
+    "director": "Йоргос Лантимос"
   },
   {
     "title": "Kung Fu Panda 4",
@@ -27738,7 +28940,8 @@ var movieDB = [
     "why": "Легенде кунг-фу По предстоит найти преемника и обучить нового Воина Дракона. Однако планы панды нарушает злая колдунья и пытается вернуть из мира духов злодеев, которых уже одолел По.",
     "title_ru": "Кунг-фу Панда 4",
     "tmdb_id": 1011985,
-    "poster_path": "/7RK9GHFArnQusZERwYwIaMZwRll.jpg"
+    "poster_path": "/7RK9GHFArnQusZERwYwIaMZwRll.jpg",
+    "director": "Майк Митчелл"
   },
   {
     "title": "Godzilla × Kong: The New Empire",
@@ -27763,7 +28966,8 @@ var movieDB = [
     "why": "Однажды человечество узнает о существовании гигантских монстров, наделенных невероятными способностями. Так на мир людей обрушиваются два гиганта - Годзилла и Конг. Чудовища очень скоро вступают в противостояние, грозя миру страшными проблемами. Если ничего не предпринять, то разъяренные гиганты сот...",
     "title_ru": "Годзилла и Конг: Новая Империя",
     "tmdb_id": 823464,
-    "poster_path": "/j73Bs8BrOO8ovkSwIDGLs2NmgcN.jpg"
+    "poster_path": "/j73Bs8BrOO8ovkSwIDGLs2NmgcN.jpg",
+    "director": "Адам Вингард"
   },
   {
     "title": "Ghostbusters: Afterlife",
@@ -27785,7 +28989,8 @@ var movieDB = [
     "why": "Мать-одиночка с двумя детьми-подростками селится на старой ферме в Оклахоме, полученной в наследство от отца, которого она не знала. Дети пытаются больше узнать о своем деде и находят автомобиль Ecto-1, принадлежавший знаменитым охотникам за привидениями.",
     "title_ru": "Охотники за привидениями: Наследники",
     "tmdb_id": 425909,
-    "poster_path": "/wqXTMwkoBVrQ94FSBDAIwhK2ONa.jpg"
+    "poster_path": "/wqXTMwkoBVrQ94FSBDAIwhK2ONa.jpg",
+    "director": "Джейсон Райтман"
   },
   {
     "title": "Godzilla Minus One",
@@ -27809,7 +29014,8 @@ var movieDB = [
     "why": "В последние дни Второй мировой камикадзе Коити Сикисима посадил самолёт на острове Одо, где располагалась ремонтная база императорской армии Японии. В тот же вечер на них напал непонятно откуда взявшийся огромный ящер Годзилла — именно так называли его местные. Коити возвращается в разрушенный бомба...",
     "title_ru": "Годзилла: Минус один",
     "tmdb_id": 940721,
-    "poster_path": "/bSICu9qWyUJVThkffuaqs9dgRV7.jpg"
+    "poster_path": "/bSICu9qWyUJVThkffuaqs9dgRV7.jpg",
+    "director": "Такаси Ямадзаки"
   },
   {
     "title": "Corpus Christi",
@@ -27825,7 +29031,8 @@ var movieDB = [
     "why": "Даниэль мечтает посвятить себя служению богу, однако этому мешает судимость. Воспользовавшись случаем, он выдает себя за выпускника семинарии и занимает место заболевшего пастора в приходе провинциального городка. Импровизируя и заменяя недостаток знаний в литургии искренностью и неподдельной страст...",
     "title_ru": "Тело Христово",
     "tmdb_id": 471707,
-    "poster_path": "/qQS9ShnbFmvDvSRfJTq5NlHOI6r.jpg"
+    "poster_path": "/qQS9ShnbFmvDvSRfJTq5NlHOI6r.jpg",
+    "director": "Ян Комаса"
   },
   {
     "title": "A Quiet Place: Day One",
@@ -27845,7 +29052,8 @@ var movieDB = [
     "why": "Приквел, подробно рассказывающий о происхождении существ из «Тихое место».",
     "title_ru": "Тихое место: День первый",
     "tmdb_id": 762441,
-    "poster_path": "/AU7RSlfndHCkm1YTstrD991Mpg.jpg"
+    "poster_path": "/AU7RSlfndHCkm1YTstrD991Mpg.jpg",
+    "director": "Майкл Сарноски"
   },
   {
     "title": "Manchester by the Sea",
@@ -27875,7 +29083,8 @@ var movieDB = [
     ],
     "title_ru": "Манчестер у моря",
     "tmdb_id": 334541,
-    "poster_path": "/9h22dvN7LYIud5oUAurXXrfGHUS.jpg"
+    "poster_path": "/9h22dvN7LYIud5oUAurXXrfGHUS.jpg",
+    "director": "Кеннет Лонерган"
   },
   {
     "title": "Deadpool & Wolverine",
@@ -27900,7 +29109,8 @@ var movieDB = [
     "why": "Уэйд Уилсон попадает в организацию \"Управление временными изменениями\", что вынуждает его вернуться к своему альтер-эго Дэдпулу и изменить историю с помощью Росомахи.",
     "title_ru": "Дэдпул и Росомаха",
     "tmdb_id": 533535,
-    "poster_path": "/4Li3gy8Ga6q0bAz2odg7ZFoRqLy.jpg"
+    "poster_path": "/4Li3gy8Ga6q0bAz2odg7ZFoRqLy.jpg",
+    "director": "Шон Леви"
   },
   {
     "title": "Road House",
@@ -27922,7 +29132,8 @@ var movieDB = [
     "why": "Ремейк одноимённого фильма 1989 года. Бывший боец UFC Элвуд Далтон переживает не лучшие времена. Он живёт в машине и зарабатывает участием в подпольных боях без правил. Владелица бара «Дом у дороги», который расположен во Флорида-Кис, предлагает Далтону работу вышибалы, поскольку в заведении стабиль...",
     "title_ru": "Дом у дороги",
     "tmdb_id": 359410,
-    "poster_path": "/z8AWDW9BaZ1oQohej87TdACGszm.jpg"
+    "poster_path": "/z8AWDW9BaZ1oQohej87TdACGszm.jpg",
+    "director": "Даг Лайман"
   },
   {
     "title": "Kingdom of Heaven",
@@ -27948,7 +29159,8 @@ var movieDB = [
     "why": "Франция, XII век. Молодой кузнец Бэлиан вынужден бежать со своей родины. Он присоединяется к отряду крестоносцев, во главе которого стоит его отец. В одной из битв тот получает тяжёлое ранение и перед смертью посвящает сына в рыцари.",
     "title_ru": "Царство небесное",
     "tmdb_id": 1495,
-    "poster_path": "/b0TnQ4uVygCDu0h8pbKU2Xgektl.jpg"
+    "poster_path": "/b0TnQ4uVygCDu0h8pbKU2Xgektl.jpg",
+    "director": "Ридли Скотт"
   },
   {
     "title": "Trap",
@@ -27970,7 +29182,8 @@ var movieDB = [
     "why": "Фанаты в предвкушении грядущего события - в их город приезжает знаменитая Леди Рэйвен. Билеты давно распроданы, и счастливчики с нетерпением ждут назначенного дня. Среди них и юная Райли, чей отец Купер, зная о кумире дочери, решает сделать ей подарок и достаёт билеты на концерт. Наступает день шоу....",
     "title_ru": "Ловушка",
     "tmdb_id": 1032823,
-    "poster_path": "/3VmHv2WVdDFpD8xtoV2wfjtS5rl.jpg"
+    "poster_path": "/3VmHv2WVdDFpD8xtoV2wfjtS5rl.jpg",
+    "director": "М. Найт Шьямалан"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training-",
@@ -27995,7 +29208,8 @@ var movieDB = [
     "why": "Инцидент в Деревне кузнецов завершился, и его последствия могут оказаться судьбоносными для Японии. Собравшись на срочное совещание, столпы, обсудив текущую ситуацию, приходят к заключению, что нынешние охотники на демонов слишком слабы, чтобы оказывать достойное сопротивление Молодым лунам. Такое п...",
     "title_ru": "Клинок, рассекающий демонов: Тренировка столпов",
     "tmdb_id": 1216221,
-    "poster_path": "/aQDPNbeYv75qKpD2QBYkOjfnaYE.jpg"
+    "poster_path": "/aQDPNbeYv75qKpD2QBYkOjfnaYE.jpg",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Joker: Folie à Deux",
@@ -28022,7 +29236,8 @@ var movieDB = [
     "why": "Неудачливый комик Артур Флек, находящийся на принудительном лечении в государственной больнице Аркхэм, встречает любовь всей своей жизни, Харли Квинн.",
     "title_ru": "Джокер: Безумие на двоих",
     "tmdb_id": 889737,
-    "poster_path": "/sqHQhhjsfZ0UAu67RiIaUkabZZD.jpg"
+    "poster_path": "/sqHQhhjsfZ0UAu67RiIaUkabZZD.jpg",
+    "director": "Тодд Филлипс"
   },
   {
     "title": "Inside Out 2",
@@ -28047,7 +29262,8 @@ var movieDB = [
     "why": "Головной отдел мозга Райли внезапно подвергается капитальному ремонту в тот момент, когда необходимо освободить место для чего-то совершенно неожиданного: новых эмоций.  Радость, Печаль, Гнев, Страх и Брезгливость, которые уже давно успешно руководят эмоциональными процессами, не знают, что и чувств...",
     "title_ru": "Головоломка 2",
     "tmdb_id": 1022789,
-    "poster_path": "/5fXrqBIvatwSuph7nTuSETBQYxm.jpg"
+    "poster_path": "/5fXrqBIvatwSuph7nTuSETBQYxm.jpg",
+    "director": "Келси Манн"
   },
   {
     "title": "Wolfs",
@@ -28066,7 +29282,8 @@ var movieDB = [
     "why": "Окружной прокурор Маргарет оказывается в весьма щекотливой ситуации: она находится в номере элитного отеля, одежда в крови, в спальне труп молодого человека, с которым она познакомилась нынешним вечером. Судорожно перебирая номера в телефонной книжке, Маргарет находит контакт человека, который «реша...",
     "title_ru": "Одинокие волки",
     "tmdb_id": 877817,
-    "poster_path": "/iiGGMosE5LxP9kFEZLCVF1wnYgm.jpg"
+    "poster_path": "/iiGGMosE5LxP9kFEZLCVF1wnYgm.jpg",
+    "director": "Джон Уоттс"
   },
   {
     "title": "Peter's To-Do List",
@@ -28086,7 +29303,8 @@ var movieDB = [
     "why": "Накануне начала поездки в Европу Питер Паркер сообщает Неду, что у него есть ряд вещей, которые необходимо сделать до отъезда.",
     "title_ru": "Список дел Питера",
     "tmdb_id": 758025,
-    "poster_path": "/2LoW0WMYHwhxXQr1wz6xCVRiX9.jpg"
+    "poster_path": "/2LoW0WMYHwhxXQr1wz6xCVRiX9.jpg",
+    "director": "Джон Уоттс"
   },
   {
     "title": "The Substance",
@@ -28106,7 +29324,8 @@ var movieDB = [
     "why": "Слава голливудской звезды Элизабет Спаркл осталась в прошлом, хотя она всё ещё ведёт фитнес-шоу на телевидении. Когда её передачу собираются перезапустить с ведущей помоложе, от отчаяния Элизабет решает принять инновационный препарат, создатели которого обещают невероятное преображение, но при соблю...",
     "title_ru": "Субстанция",
     "tmdb_id": 933260,
-    "poster_path": "/x3yhBGbTqlAjxM450BANUNCHpOO.jpg"
+    "poster_path": "/x3yhBGbTqlAjxM450BANUNCHpOO.jpg",
+    "director": "Корали Фаржа"
   },
   {
     "title": "Venom: The Last Dance",
@@ -28127,7 +29346,8 @@ var movieDB = [
     "why": "Эдди и Веном вынуждены бежать, ведь теперь их преследует два мира, которые закручивают всё в одну паутину. Поэтому они должны принять судьбоносное решение, которое станет их последним танцем.",
     "title_ru": "Веном: Последний танец",
     "tmdb_id": 912649,
-    "poster_path": "/YFcQ65dRrLpUpMiMFrrRV6rkEs.jpg"
+    "poster_path": "/YFcQ65dRrLpUpMiMFrrRV6rkEs.jpg",
+    "director": "Келли Марсель"
   },
   {
     "title": "Agatha All Along",
@@ -28150,7 +29370,8 @@ var movieDB = [
     "why": "Спин-офф ВандаВижн. Кэтрин Хан — ведьма Агата. Дорога Ведьм.",
     "title_ru": "Marvel Studios Assembled: The Making of Agatha All Along",
     "tmdb_id": 1387507,
-    "poster_path": "/8gJ4SkWVzFDcUfYVJDTWl85HnNU.jpg"
+    "poster_path": "/8gJ4SkWVzFDcUfYVJDTWl85HnNU.jpg",
+    "director": "Brad Baruh"
   },
   {
     "title": "Furiosa: A Mad Max Saga",
@@ -28171,7 +29392,8 @@ var movieDB = [
     "why": "Постапокалиптический боевик австралийского режиссёра Джорджа Миллера, приквел фильма «Безумный Макс: Дорога ярости».  Фильм посвящён истории главной героини картины «Безумный Макс: Дорога ярости» — Фуриосы",
     "title_ru": "Фуриоса: Хроники Безумного Макса",
     "tmdb_id": 786892,
-    "poster_path": "/23oJFM6z4sGPgyIfPyJjcIGMsCz.jpg"
+    "poster_path": "/23oJFM6z4sGPgyIfPyJjcIGMsCz.jpg",
+    "director": "Джордж Миллер"
   },
   {
     "title": "The Fall Guy",
@@ -28193,7 +29415,8 @@ var movieDB = [
     "why": "Потрёпанный жизнью каскадёр Колт нехотя возвращается в профессию, чтобы помочь бывшей девушке Джоди снять первый фильм — блокбастер с многомиллионным бюджетом. Ситуация осложняется пропажей исполнителя главной роли.",
     "title_ru": "Каскадёры",
     "tmdb_id": 746036,
-    "poster_path": "/jHHjtzJiDwmOptwUOU2Np5ovj0X.jpg"
+    "poster_path": "/jHHjtzJiDwmOptwUOU2Np5ovj0X.jpg",
+    "director": "Дэвид Литч"
   },
   {
     "title": "Moana 2",
@@ -28220,7 +29443,8 @@ var movieDB = [
     "why": "Получив вызов от предков-искателей, Моана и Мауи отправляются в далёкие и опасные воды Океании.",
     "title_ru": "Моана 2",
     "tmdb_id": 1241982,
-    "poster_path": "/wrg0C7sw1T1ogXvS8P4kiawY9xv.jpg"
+    "poster_path": "/wrg0C7sw1T1ogXvS8P4kiawY9xv.jpg",
+    "director": "Дэвид Деррик-мл., Джейсон Хэнд, Дана Леду Миллер"
   },
   {
     "title": "Reservoir Dogs",
@@ -28245,7 +29469,8 @@ var movieDB = [
     "why": "Дебыт Тарантино. Мистеры Цвета, разборки после ограбления и стейк в ухо. Stuck in the Middle with You.",
     "title_ru": "Бешеные псы",
     "tmdb_id": 500,
-    "poster_path": "/cMOM0wJ0V30lns5rXb0iclOcyZV.jpg"
+    "poster_path": "/cMOM0wJ0V30lns5rXb0iclOcyZV.jpg",
+    "director": "Квентин Тарантино"
   },
   {
     "title": "Maria",
@@ -28267,7 +29492,8 @@ var movieDB = [
     "why": "Сентябрь 1977 года. Мария Каллас, всемирно известная оперная дива на ранней пенсии, живет в роскошной парижской квартире с двумя пуделями, кухаркой и дворецким. Работа первой, помимо готовки, заключается в том, чтобы говорить Марии комплименты. Второй с утра до ночи передвигает для нее по дому огром...",
     "title_ru": "Мария",
     "tmdb_id": 1038263,
-    "poster_path": "/aMzKiOOAbgSb5F23Zas1rqZ3r40.jpg"
+    "poster_path": "/aMzKiOOAbgSb5F23Zas1rqZ3r40.jpg",
+    "director": "Пабло Ларраин"
   },
   {
     "title": "A Real Pain",
@@ -28286,7 +29512,8 @@ var movieDB = [
     "why": "Двоюродные братья Дэвид и Бенджи, которые не виделись какое-то время, отправляются в тур по Польше, чтобы почтить память любимой бабушки. Однако накопленные за долгие годы обиды и противоречия постепенно дают о себе знать.",
     "title_ru": "Настоящая боль",
     "tmdb_id": 1013850,
-    "poster_path": "/si9dEVjHD2UghBxjJV6SxXFeLEH.jpg"
+    "poster_path": "/si9dEVjHD2UghBxjJV6SxXFeLEH.jpg",
+    "director": "Джесси Айзенберг"
   },
   {
     "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
@@ -28309,7 +29536,8 @@ var movieDB = [
     "why": "После многих лет, проведенных в укрытии от мира людей в канализации Нью-Йорка, четверо братьев-черепах, которые всю свою жизнь изучали ниндзюцу, отправляются на поверхность, чтобы их приняли как нормальных подростков, когда их новая подруга Эйприл О'Нил помогает им справиться с печально известным пр...",
     "title_ru": "Черепашки-ниндзя: Погром мутантов",
     "tmdb_id": 614930,
-    "poster_path": "/lEp6npX8GZFkwXRcZhW2uwdFwbm.jpg"
+    "poster_path": "/lEp6npX8GZFkwXRcZhW2uwdFwbm.jpg",
+    "director": "Jeff Rowe"
   },
   {
     "title": "Nosferatu",
@@ -28328,7 +29556,8 @@ var movieDB = [
     "why": "Вюрцбург, 1838 год. Несмотря на дурное предчувствие жены Эллен, с детства одолеваемой видениями, ради продвижения по службе Томас отправляется на восток Богемии, чтобы закрыть сделку о продаже недвижимости эксцентричному старому князю Орлоку. Мужчина становится пленником коварного князя, который ока...",
     "title_ru": "Носферату",
     "tmdb_id": 426063,
-    "poster_path": "/qIfasOp7pFgcUBGj6gjtaf51Yb0.jpg"
+    "poster_path": "/qIfasOp7pFgcUBGj6gjtaf51Yb0.jpg",
+    "director": "Роберт Эггерс"
   },
   {
     "title": "The Day the Earth Stood Still",
@@ -28348,7 +29577,8 @@ var movieDB = [
     "why": "В разгар холодной войны в Вашингтоне совершает посадку летающая тарелка: в ней прибывают посланник Клаату и его могучий робот Горт, делегированные федерацией планет, чтобы поставить народам Земли ультиматум о прекращении ядерных испытаний.Запаниковавшие военные открывают по космолету огонь и ранят п...",
     "title_ru": "День, когда Земля остановилась",
     "tmdb_id": 10200,
-    "poster_path": "/Ak4b323IiaboF9V2JmtoDZJVlfP.jpg"
+    "poster_path": "/Ak4b323IiaboF9V2JmtoDZJVlfP.jpg",
+    "director": "Скотт Дерриксон"
   },
   {
     "title": "Sonic the Hedgehog 3",
@@ -28371,7 +29601,8 @@ var movieDB = [
     "why": "Соник, Наклз и Тейлз воссоединяются против нового могущественного противника, Ежа Шэдоу, таинственного злодея с силами, не похожими ни на что, с чем они сталкивались раньше. Команда Соника вынуждена создать неожиданный союз в надежде остановить Шэдоу и защитить планету.",
     "title_ru": "Соник 3 в кино",
     "tmdb_id": 939243,
-    "poster_path": "/sj8AqCcpfdILdP5fhFVJLdx2NfF.jpg"
+    "poster_path": "/sj8AqCcpfdILdP5fhFVJLdx2NfF.jpg",
+    "director": "Джефф Фаулер"
   },
   {
     "title": "Perfect Days",
@@ -28400,7 +29631,8 @@ var movieDB = [
     ],
     "title_ru": "Идеальные дни",
     "tmdb_id": 976893,
-    "poster_path": "/sujrVgNoj9wjc8TR9WU3DmdBIR4.jpg"
+    "poster_path": "/sujrVgNoj9wjc8TR9WU3DmdBIR4.jpg",
+    "director": "Вим Вендерс"
   },
   {
     "title": "Conclave",
@@ -28419,7 +29651,8 @@ var movieDB = [
     "why": "После внезапной смерти Папы кардиналы готовятся к конклаву — выбору нового главы католической церкви. Руководить этим сакральным таинством поручено кардиналу Лоуренсу. Но вскоре он понимает, что среди высшего духовенства готовится заговор, и узнаёт тайну, которая может пошатнуть самые основы церкви.",
     "title_ru": "Конклав",
     "tmdb_id": 974576,
-    "poster_path": "/nXItu1of6ewi9pOjybSvxn3UR7H.jpg"
+    "poster_path": "/nXItu1of6ewi9pOjybSvxn3UR7H.jpg",
+    "director": "Эдвард Бергер"
   },
   {
     "title": "Uncut Gems",
@@ -28441,7 +29674,8 @@ var movieDB = [
     "why": "Долги растут, коллекторы преследуют, и говорливому ювелиру из Нью-Йорка приходится рискнуть всем, чтобы остаться на плаву и в живых.",
     "title_ru": "Неогранённые алмазы",
     "tmdb_id": 473033,
-    "poster_path": "/cV5lA9Zc7GQKPrttuQYbyZlVOfO.jpg"
+    "poster_path": "/cV5lA9Zc7GQKPrttuQYbyZlVOfO.jpg",
+    "director": "Бенни Сафди, Джош Сафди"
   },
   {
     "title": "Flow",
@@ -28480,7 +29714,8 @@ var movieDB = [
     "why": "1947-ой год. Венгерский архитектор Ласло Тот и его супруга Эржебет переезжают из послевоенной Европы в США. Там их жизнь стремительно меняется после знакомства с загадочным клиентом.",
     "title_ru": "Бруталист",
     "tmdb_id": 549509,
-    "poster_path": "/cd7k10Ym8kggNoqzpVOCgElfQj3.jpg"
+    "poster_path": "/cd7k10Ym8kggNoqzpVOCgElfQj3.jpg",
+    "director": "Брэди Корбет"
   },
   {
     "title": "Captain America: Brave New World",
@@ -28504,7 +29739,8 @@ var movieDB = [
     "why": "Новый президент США Таддеус Росс решает назначить Капитана Америку на официальную должность. Но в прошлом между ними были разногласия, и Сэм сомневается, что это хорошая идея. Этим же вечером на президента совершается покушение. Уилсон уверен, что предатель скрывается среди ближайшего окружения Росс...",
     "title_ru": "Капитан Америка: Новый мир",
     "tmdb_id": 822119,
-    "poster_path": "/bljRQO5fTGen0qRV7KuPRXIdRGx.jpg"
+    "poster_path": "/bljRQO5fTGen0qRV7KuPRXIdRGx.jpg",
+    "director": "Джулиус Она"
   },
   {
     "title": "Wicked",
@@ -28526,7 +29762,8 @@ var movieDB = [
     "why": "Эльфаба, которая с самого детства подвергалась нападкам из-за своей зелёной кожи, заводит дружбу с популярной Глиндой в университете Шиз страны Оз. Но после встречи с Удивительным волшебником Оз их дружба подвергается испытанию.",
     "title_ru": "Злая: Сказка о ведьме Запада",
     "tmdb_id": 402431,
-    "poster_path": "/sPaDLsXmgIqkRbJxB6ourUD7Ajc.jpg"
+    "poster_path": "/sPaDLsXmgIqkRbJxB6ourUD7Ajc.jpg",
+    "director": "Джон М. Чу"
   },
   {
     "title": "Nosferatu",
@@ -28545,7 +29782,8 @@ var movieDB = [
     "why": "Молодой клерк Хуттер из Бремена первой трети XIX века отправляется за тридевять земель, в карпатские леса, к инфернальному графу Орлоку, владельцу замка, решившему перебраться в крупный город. Гость выясняет, что Орлок, известный и как Носферату, — вампир, и от его заражающего укуса Хуттера спасает ...",
     "title_ru": "Носферату. Симфония ужаса",
     "tmdb_id": 653,
-    "poster_path": "/l09zj7ZRarReFShmFubgXcxRscl.jpg"
+    "poster_path": "/l09zj7ZRarReFShmFubgXcxRscl.jpg",
+    "director": "F. W. Murnau"
   },
   {
     "title": "Captain Hook",
@@ -28567,7 +29805,8 @@ var movieDB = [
     "why": "Гроза морей, капитан Джеймс вступает в неравную схватку с заклятым врагом Сми, который однажды его предал и перешёл на службу к королю. Битва заканчивается сокрушительным поражением Джеймса, потерявшего и команду, и руку. Но ему чудом удаётся избежать казни. Скрываясь от преследования, он набредает ...",
     "title_ru": "Капитан Крюк: Проклятые берега",
     "tmdb_id": 1511789,
-    "poster_path": "/mvnYVD53R2L97Wuz8cZmDKOareM.jpg"
+    "poster_path": "/mvnYVD53R2L97Wuz8cZmDKOareM.jpg",
+    "director": "Lars Janssen"
   },
   {
     "title": "The Good Dinosaur",
@@ -28593,7 +29832,8 @@ var movieDB = [
     "why": "По сюжету динозавры не вымерли, а эволюционировали в разумных существ и живут и здравствуют на Земле. А вот люди остались на довольно примитивной стадии развития. Фильм расскажет историю дружбы динозавра и маленького мальчика.",
     "title_ru": "Хороший динозавр",
     "tmdb_id": 105864,
-    "poster_path": "/w6pTjw0s89xhg7jWRUs54rusAk9.jpg"
+    "poster_path": "/w6pTjw0s89xhg7jWRUs54rusAk9.jpg",
+    "director": "Питер Сон"
   },
   {
     "title": "Devil May Cry",
@@ -28619,7 +29859,8 @@ var movieDB = [
     "why": "",
     "title_ru": "Devil May Cry: Inferno",
     "tmdb_id": 1697520,
-    "poster_path": "/vzYxAo7BECEOAQIuHTyyEeAlC35.jpg"
+    "poster_path": "/vzYxAo7BECEOAQIuHTyyEeAlC35.jpg",
+    "director": "Хан Сын У, Ади Шанкар"
   },
   {
     "title": "A Minecraft Movie",
@@ -28644,7 +29885,8 @@ var movieDB = [
     "why": "Четыре неудачника — Гарретт «Мусорщик» Гаррисон, Генри, Натали и Дон, сталкиваются с обычными проблемами, когда их внезапно затягивает через таинственный портал в Верхний мир: странную кубическую страну чудес, которая процветает благодаря воображению. Чтобы вернуться домой, им придётся освоить этот ...",
     "title_ru": "Minecraft в кино",
     "tmdb_id": 950387,
-    "poster_path": "/3qG3t8UrWZ26N4mFm0K6KMQVYaQ.jpg"
+    "poster_path": "/3qG3t8UrWZ26N4mFm0K6KMQVYaQ.jpg",
+    "director": "Джаред Хесс"
   },
   {
     "title": "Nacho Libre",
@@ -28666,7 +29908,8 @@ var movieDB = [
     "why": "Игнасио по прозвищу Начо был воспитан в мексиканском монастыре, теперь же он работает там поваром. Чтобы спасти родную обитель от финансового краха, Начо решает принять участие в турнире по рестлингу.  Вызвавшись помочь красивой монахине Энкарнасьон, недавно поселившейся в монастыре, а также живущим...",
     "title_ru": "Суперначо",
     "tmdb_id": 9353,
-    "poster_path": "/6EVTpF73nVXo3oy8XDeDWOFLOsA.jpg"
+    "poster_path": "/6EVTpF73nVXo3oy8XDeDWOFLOsA.jpg",
+    "director": "Джаред Хесс"
   },
   {
     "title": "Thunderbolts*",
@@ -28686,7 +29929,8 @@ var movieDB = [
     "why": "Студия Marvel собрала необычную команду антигероев с Еленой Беловой, Баки Барнсом, Красным Стражем, Призраком, Таскмастером и Джоном Уокером. Оказавшись в смертельной ловушке, организованной Валентиной Аллегрой де Фонтейн, эти люди должны отправиться на опасное задание. Они столкнутся с самыми темны...",
     "title_ru": "Громовержцы*",
     "tmdb_id": 986056,
-    "poster_path": "/al0pilxqV5SMOtNSyC4JwK2ZLk0.jpg"
+    "poster_path": "/al0pilxqV5SMOtNSyC4JwK2ZLk0.jpg",
+    "director": "Джейк Шрейер"
   },
   {
     "title": "Mission: Impossible – The Final Reckoning",
@@ -28711,7 +29955,8 @@ var movieDB = [
     "why": "Искусственный интеллект Entity готовится уничтожить человечество, постепенно перехватывая контроль над ядерными арсеналами мировых держав. У Итана Ханта и его команды есть лишь 72 часа, чтобы найти устройство с исходным кодом Entity, которое находится на затонувшей российской подводной лодке «Севаст...",
     "title_ru": "Миссия невыполнима: Финальная расплата",
     "tmdb_id": 575265,
-    "poster_path": "/ypSREV9yyAAs5SwZLiC8G0qhY1a.jpg"
+    "poster_path": "/ypSREV9yyAAs5SwZLiC8G0qhY1a.jpg",
+    "director": "Кристофер МакКуорри"
   },
   {
     "title": "Lilo & Stitch",
@@ -28731,7 +29976,8 @@ var movieDB = [
     "why": "В райском уголке Земли, на берегу бескрайнего голубого океана живет маленькая Лило вместе со своей старшей сестрой Нани. Больше всего на свете Лило хочет завести собаку, и в один прекрасный день Нани соглашается исполнить мечту девочки. В приюте внимание Лило привлекает диковинный синий пес неизвест...",
     "title_ru": "Лило и Стич",
     "tmdb_id": 552524,
-    "poster_path": "/8jZyQNg3CPdR6wMncMJ6BxYzYb7.jpg"
+    "poster_path": "/8jZyQNg3CPdR6wMncMJ6BxYzYb7.jpg",
+    "director": "Дин Флейшер-Кэмп"
   },
   {
     "title": "Mickey 17",
@@ -28751,7 +29997,8 @@ var movieDB = [
     "why": "2050-ые. Спасаясь от кровожадного кредитора, который расчленяет своих должников, Микки Барнс вместе с приятелем записывается в колонисты планеты Нифльхейм. Вот только друг становится пилотом, а сам Микки вынужден стать расходным сотрудником — выполнять смертельные задания, умирать и снова оживать в ...",
     "title_ru": "Микки 17",
     "tmdb_id": 696506,
-    "poster_path": "/884NNRoCyADkpk7pzxpCaSZCzor.jpg"
+    "poster_path": "/884NNRoCyADkpk7pzxpCaSZCzor.jpg",
+    "director": "Пон Джун Хо"
   },
   {
     "title": "Ballerina",
@@ -28773,7 +30020,8 @@ var movieDB = [
     "why": "Когда Ева была маленькой, вооруженные люди во главе с мужчиной по прозвищу Канцлер оставили её сиротой. Так девочка оказалась в криминальной семье «Русска рома» на попечении Директрисы нью-йоркской балетной школы, одновременно служащей академией наёмных убийц. Не добившись успехов в балете, но боевы...",
     "title_ru": "Балерина",
     "tmdb_id": 541671,
-    "poster_path": "/oKD6ggXEN1WGPPDiVAuOfdDLBNv.jpg"
+    "poster_path": "/oKD6ggXEN1WGPPDiVAuOfdDLBNv.jpg",
+    "director": "Лен Уайзман"
   },
   {
     "title": "Carry-On",
@@ -28792,7 +30040,8 @@ var movieDB = [
     "why": "Таинственный путешественник пытается заставить сотрудника службы безопасности аэропорта пропустить опасный предмет на рождественский рейс. Успеет ли тот его перехитрить?",
     "title_ru": "Ручная кладь",
     "tmdb_id": 1005331,
-    "poster_path": "/tzI3kJ9NXDS5DQyIn1TsEcuHzO2.jpg"
+    "poster_path": "/tzI3kJ9NXDS5DQyIn1TsEcuHzO2.jpg",
+    "director": "Жауме Колет-Серра"
   },
   {
     "title": "The Wild Robot",
@@ -28816,7 +30065,8 @@ var movieDB = [
     "why": "После кораблекрушения, умный робот по имени Роз оказывается на необитаемом острове. Чтобы выжить в суровых условиях, Роз налаживает связь с животными острова и заботится об одиноком гусенке-сироте.",
     "title_ru": "Дикий робот",
     "tmdb_id": 1184918,
-    "poster_path": "/sDTumQBxhIyYbZ9acsTtoLfb5ZG.jpg"
+    "poster_path": "/sDTumQBxhIyYbZ9acsTtoLfb5ZG.jpg",
+    "director": "Крис Сандерс"
   },
   {
     "title": "How to Train Your Dragon",
@@ -28843,7 +30093,8 @@ var movieDB = [
     "why": "DreamWorks: викинг и дракон Беззубик. Полёты под Test Drive Джона Пауэлла. Прекрасно.",
     "title_ru": "Как приручить дракона",
     "tmdb_id": 1087192,
-    "poster_path": "/hiLwtS68fCx9rd5GFK0QDqu4uBV.jpg"
+    "poster_path": "/hiLwtS68fCx9rd5GFK0QDqu4uBV.jpg",
+    "director": "Дин ДеБлуа"
   },
   {
     "title": "28 Years Later",
@@ -28863,7 +30114,8 @@ var movieDB = [
     "why": "28 лет в Великобритании бушует вирус, превращающий заражённых в агрессивных плотоядных тварей. В этом ужасном мире маленький мальчик пытается найти врача для умирающей мамы.",
     "title_ru": "28 лет спустя",
     "tmdb_id": 1100988,
-    "poster_path": "/1GPXjQNumrQp5TSfdWxGvIhxYL9.jpg"
+    "poster_path": "/1GPXjQNumrQp5TSfdWxGvIhxYL9.jpg",
+    "director": "Дэнни Бойл"
   },
   {
     "title": "Jurassic World Rebirth",
@@ -28887,7 +30139,8 @@ var movieDB = [
     "why": "Спустя 5 лет после завоевания мира юрского периода, экспедиция отправляется в изолированные экваториальные регионы, чтобы извлечь ДНК из 3-ёх огромных доисторических существ для революционного открытия в медицине.",
     "title_ru": "Мир юрского периода: Возрождение",
     "tmdb_id": 1234821,
-    "poster_path": "/iIk5nWcHuqTMLrz1yrwIWcmwTOM.jpg"
+    "poster_path": "/iIk5nWcHuqTMLrz1yrwIWcmwTOM.jpg",
+    "director": "Гарет Эдвардс"
   },
   {
     "title": "Superman",
@@ -28908,7 +30161,8 @@ var movieDB = [
     "why": "Кларк Кент, родившийся на планете Криптон, но выросший в простой американской семье, считает своим долгом служение человечеству в качестве Супермена. Он предотвращает вторжение сил Боравии в соседнюю страну, чем навлекает на себя гнев Лекса Лютора, который со своими приспешниками проникает в Крепост...",
     "title_ru": "Супермен",
     "tmdb_id": 1061474,
-    "poster_path": "/ikbG08TQtkIWUVRVotHhndf72pL.jpg"
+    "poster_path": "/ikbG08TQtkIWUVRVotHhndf72pL.jpg",
+    "director": "Джеймс Ганн"
   },
   {
     "title": "The Fantastic 4: First Steps",
@@ -28928,7 +30182,8 @@ var movieDB = [
     "why": "Рид Ричардс, Бен Гримм, Сью Сторм и её брат Джонни должны защитить Землю от космического бога Галактуса и его приспешника — Серебряного Сёрфера. И если план Галактуса поглотить всю планету и всех её жителей кажется недостаточно ужасающим, ситуация внезапно становится личной.",
     "title_ru": "Фантастическая четвёрка: Первые шаги",
     "tmdb_id": 617126,
-    "poster_path": "/mFZ01wUqG8ROR9Y9xLreanLqis4.jpg"
+    "poster_path": "/mFZ01wUqG8ROR9Y9xLreanLqis4.jpg",
+    "director": "Мэтт Шекман"
   },
   {
     "title": "Materialists",
@@ -28947,7 +30202,8 @@ var movieDB = [
     "why": "Люси, лучшая сотрудница нью-йоркского брачного агентства, мастерски составляет пары, но сама ни с кем не встречается в уверенности, что выйдет замуж только за очень богатого. Однажды на свадьбе клиентов Люси знакомится с братом жениха, мужчиной во всех отношениях приятным и к тому же миллионером, и ...",
     "title_ru": "Материалистка",
     "tmdb_id": 1136867,
-    "poster_path": "/9i5hJa4OZLWKXv8NOrpy3ogAcRu.jpg"
+    "poster_path": "/9i5hJa4OZLWKXv8NOrpy3ogAcRu.jpg",
+    "director": "Селин Сон"
   },
   {
     "title": "F1",
@@ -28966,7 +30222,8 @@ var movieDB = [
     "why": "Легенду автоспорта Сонни Хейса уговаривают возглавить отстающую команду «Формулы-1» и обучить молодого одаренного гонщика, заодно получая последний шанс на искупление.",
     "title_ru": "F1",
     "tmdb_id": 911430,
-    "poster_path": "/XDDweAK5vyUwCoX1NYbu9HlwFK.jpg"
+    "poster_path": "/XDDweAK5vyUwCoX1NYbu9HlwFK.jpg",
+    "director": "Джозеф Косински"
   },
   {
     "title": "La Haine",
@@ -28983,7 +30240,8 @@ var movieDB = [
     "why": "Середина 90-х, Париж охвачен беспорядками. Из-за жёстких действий полиции арабский подросток Абдель оказывается в больнице. Его друг Винс находит на улице полицейский револьвер и вместе с товарищами Юбером и Саидом отправляется мстить. Друзья проводят один долгий день между Парижем и его пригородами...",
     "title_ru": "Ненависть",
     "tmdb_id": 406,
-    "poster_path": "/p7VJHNgZM12cSAlAnOEhjdUrFKu.jpg"
+    "poster_path": "/p7VJHNgZM12cSAlAnOEhjdUrFKu.jpg",
+    "director": "Матьё Кассовиц"
   },
   {
     "title": "The Godfather",
@@ -29015,7 +30273,8 @@ var movieDB = [
     ],
     "title_ru": "Крёстный отец",
     "tmdb_id": 238,
-    "poster_path": "/hoowzozsn0XQGtgH8nyivAMZfPN.jpg"
+    "poster_path": "/hoowzozsn0XQGtgH8nyivAMZfPN.jpg",
+    "director": "Фрэнсис Форд Коппола"
   },
   {
     "title": "The Godfather Part II",
@@ -29047,7 +30306,8 @@ var movieDB = [
     ],
     "title_ru": "Крёстный отец 2",
     "tmdb_id": 240,
-    "poster_path": "/tOLQ3iRDfbwhVaw3QjDzIOS7zcu.jpg"
+    "poster_path": "/tOLQ3iRDfbwhVaw3QjDzIOS7zcu.jpg",
+    "director": "Фрэнсис Форд Коппола"
   },
   {
     "title": "Amélie",
@@ -29078,7 +30338,8 @@ var movieDB = [
     ],
     "title_ru": "Амели",
     "tmdb_id": 194,
-    "poster_path": "/k6aTGIysigjJIU7X72DBbdFkrWR.jpg"
+    "poster_path": "/k6aTGIysigjJIU7X72DBbdFkrWR.jpg",
+    "director": "Жан-Пьер Жёне"
   },
   {
     "title": "KPop Demon Hunters",
@@ -29103,7 +30364,8 @@ var movieDB = [
     "why": "Между концертами на стадионах суперзвёзды кей-попа Руми, Мира и Зои защищают фанатов от сверхъестественных угроз с помощью своих тайных способностей.",
     "title_ru": "Кейпоп-охотницы на демонов",
     "tmdb_id": 803796,
-    "poster_path": "/vspMmox0F2pdiNr68BTfYLeDNd8.jpg"
+    "poster_path": "/vspMmox0F2pdiNr68BTfYLeDNd8.jpg",
+    "director": "Крис Аппельханс, Maggie Kang"
   },
   {
     "title": "Dracula",
@@ -29126,7 +30388,8 @@ var movieDB = [
     "why": "Конец XV века, Восточная Европа. Принц Влад II живет лишь ради любви к жене, принцессе Елизавете. Когда долг зовёт его на поле боя сдерживать турецкое нашествие, он просит бога лишь об одном — во время войны сохранить жизнь его жене. Но Елизавета гибнет, а разгневанный на бога Влад отрекается от нег...",
     "title_ru": "Дракула",
     "tmdb_id": 1246049,
-    "poster_path": "/uGBzzmT4ao9efhRjjPqPnwt6qpo.jpg"
+    "poster_path": "/uGBzzmT4ao9efhRjjPqPnwt6qpo.jpg",
+    "director": "Люк Бессон"
   },
   {
     "title": "Transformers One",
@@ -29153,7 +30416,8 @@ var movieDB = [
     "why": "Анимационный приквел: Оптимус и Мегатрон до войны. Лучшее про трансформеров.",
     "title_ru": "Трансформеры: Начало",
     "tmdb_id": 698687,
-    "poster_path": "/lcfOnii9C1Qd01BiEb5hhHh9u6e.jpg"
+    "poster_path": "/lcfOnii9C1Qd01BiEb5hhHh9u6e.jpg",
+    "director": "Джош Кули"
   },
   {
     "title": "Juliet of the Spirits",
@@ -29175,7 +30439,8 @@ var movieDB = [
     "why": "Добропорядочная синьора Джульетта и ее не слишком благонравный супруг Джорджио переживают семейный кризис. Он влюблен в прекрасную модель и собирается уехать с ней в романтическое путешествие. Джульетте остается лишь общаться с духами, которые являются ей во сне и наяву.",
     "title_ru": "Джульетта и духи",
     "tmdb_id": 19120,
-    "poster_path": "/pcELMbsaI6tQcPs07JiAvQ233FQ.jpg"
+    "poster_path": "/pcELMbsaI6tQcPs07JiAvQ233FQ.jpg",
+    "director": "Федерико Феллини"
   },
   {
     "title": "Final Fantasy: The Spirits Within",
@@ -29201,7 +30466,8 @@ var movieDB = [
     "why": "Земля, год 2065. Планета в страшной опасности. На родину человечества напали монстры-фантомы из космоса, которым невозможно противостоять. Полупрозрачные чудовища, более похожие на галлюцинации, уже истребили большую часть человечества, и скоро их господство над Землей станет абсолютным.  Судьба мир...",
     "title_ru": "Последняя фантазия",
     "tmdb_id": 2114,
-    "poster_path": "/fskJC3Km8PSLp3nhDWMiifwID6p.jpg"
+    "poster_path": "/fskJC3Km8PSLp3nhDWMiifwID6p.jpg",
+    "director": "Hironobu Sakaguchi"
   },
   {
     "title": "Final Fantasy VII: Advent Children",
@@ -29227,7 +30493,8 @@ var movieDB = [
     "why": "Прошло два года с тех пор, как команда супербойцов под предводительством Клауда Страйфа спасла мир от кошмарного злодея Сефирота. Настал мир, и могучий Клауд удалился от дел, поселившись в сиротском приюте, чтобы среди детей забыть о кровавых битвах прошлого.Но покой герою только снится: жителей пла...",
     "title_ru": "Последняя фантазия 7: Дети пришествия",
     "tmdb_id": 647,
-    "poster_path": "/v5g8v2sjUxUaxEUvngYnwSA19uq.jpg"
+    "poster_path": "/v5g8v2sjUxUaxEUvngYnwSA19uq.jpg",
+    "director": "野村哲也"
   },
   {
     "title": "One Battle After Another",
@@ -29250,7 +30517,8 @@ var movieDB = [
     "why": "В 2000-х Пэт Калхун вместе со своей девушкой состоял в леворадикальной экстремистской группировке, и когда во время одного из их налётов произошло убийство, боевые товарищи были вынуждены порознь пуститься в бега. 16 лет спустя мужчина живёт в Южной Калифорнии под именем Боб Фергюсон и воспитывает д...",
     "title_ru": "Битва за битвой",
     "tmdb_id": 1054867,
-    "poster_path": "/53RdThZ1nCkFEU22tbb3d0Lq9sv.jpg"
+    "poster_path": "/53RdThZ1nCkFEU22tbb3d0Lq9sv.jpg",
+    "director": "Пол Томас Андерсон"
   },
   {
     "title": "Zootopia 2",
@@ -29277,7 +30545,8 @@ var movieDB = [
     "why": "Джуди и Ник теперь полноценная команда в полиции. Но их спокойная служба резко меняется, когда в городе появляется загадочный преступник-рептилия, способный ставить под угрозу весь порядок в Зверополисе. Чтобы разобраться в деле, героям приходится углубиться в новые районы города, куда обычным жител...",
     "title_ru": "Зверополис 2",
     "tmdb_id": 1084242,
-    "poster_path": "/j29hoRvpGshWDaOBVIogkRpi6JS.jpg"
+    "poster_path": "/j29hoRvpGshWDaOBVIogkRpi6JS.jpg",
+    "director": "Джаред Буш, Байрон Ховард"
   },
   {
     "title": "The Greatest Beer Run Ever",
@@ -29299,7 +30568,8 @@ var movieDB = [
     "why": "Чики, чтобы морально поддержать друзей, воюющих во Вьетнаме, решает самолично угостить их американским пивом. Поездка, начавшаяся как спонтанная авантюра, в корне меняет его взгляды на жизнь и войну.",
     "title_ru": "За пивом!",
     "tmdb_id": 597922,
-    "poster_path": "/7SMF6SOSPDAkWYzyNCO0JPm52Fj.jpg"
+    "poster_path": "/7SMF6SOSPDAkWYzyNCO0JPm52Fj.jpg",
+    "director": "Peter Farrelly"
   },
   {
     "title": "Stranger Things 5: The Finale",
@@ -29331,7 +30601,8 @@ var movieDB = [
     "why": "1985 год. Торговец углем и семьянин Билл Ферлонг готовится к самому напряженному сезону в своей работе. За несколько недель до Рождества он доставляет заказ в местный монастырь и невольно становится свидетелем шокирующей истории, которая происходит за его стенами. Билл узнает, что на самом деле скры...",
     "title_ru": "Мелочи жизни",
     "tmdb_id": 1102493,
-    "poster_path": "/kFYpPeUkSXu4k9pHdkpGZQTUrKg.jpg"
+    "poster_path": "/kFYpPeUkSXu4k9pHdkpGZQTUrKg.jpg",
+    "director": "Тим Милантс"
   },
   {
     "title": "Pride and Glory",
@@ -29358,7 +30629,8 @@ var movieDB = [
     "why": "Эдвард Нортон и Колин Фаррелл — братья-копы. Полицейская династия и коррупция.",
     "title_ru": "Гордость и слава",
     "tmdb_id": 13150,
-    "poster_path": "/2Qk1LAhi90ahViB6Bz9DDjcuwXq.jpg"
+    "poster_path": "/2Qk1LAhi90ahViB6Bz9DDjcuwXq.jpg",
+    "director": "Гэвин О'Коннор"
   },
   {
     "title": "The Devil's Advocate",
@@ -29385,7 +30657,8 @@ var movieDB = [
     "why": "Аль Пачино — дьявол, Киану Ривз — адвокат. Vanity, definitely my favorite sin.",
     "title_ru": "Адвокат дьявола",
     "tmdb_id": 1813,
-    "poster_path": "/4qgwqxnNjSISzA03t1BXXEp9Nf6.jpg"
+    "poster_path": "/4qgwqxnNjSISzA03t1BXXEp9Nf6.jpg",
+    "director": "Taylor Hackford"
   },
   {
     "title": "Chungking Express",
@@ -29415,7 +30688,8 @@ var movieDB = [
     ],
     "title_ru": "Чунгкингский экспресс",
     "tmdb_id": 11104,
-    "poster_path": "/xQ02QSKvdGTPNw3ajISszssTiRU.jpg"
+    "poster_path": "/xQ02QSKvdGTPNw3ajISszssTiRU.jpg",
+    "director": "Вон Ка-Вай"
   },
   {
     "title": "Император",
@@ -29431,7 +30705,8 @@ var movieDB = [
     "why": "Подросток Василёк поступает в новую школу, в которой набирает популярность игра в «сотки». Он знакомится с замкнутым парнем Рыжим, и вместе они строят подпольную игровую империю, где фишки становятся новой валютой, а их обладатели занимают верхние места в школьной иерархии. Но скоро ребята наживают ...",
     "title_ru": "Император",
     "tmdb_id": 1634362,
-    "poster_path": "/qhltO1FhaBEva9yWDmcfiMIaZUB.jpg"
+    "poster_path": "/qhltO1FhaBEva9yWDmcfiMIaZUB.jpg",
+    "director": "Хахуза Дмитрий"
   },
   {
     "title": "Chainsaw Man – The Movie: Reze Arc",
@@ -29458,7 +30733,8 @@ var movieDB = [
     "why": "Молодой охотник на демонов Дэндзи, который ждал свидания со своей возлюбленной Макимой, попадает под ливень. Укрывшись от дождя, он случайно встречает девушку по имени Резе, работающую в соседнем кафе. Та добродушно ему улыбается, и разговор становится более непринужденным. После этой встречи повсед...",
     "title_ru": "Человек-бензопила. Фильм: История Резе",
     "tmdb_id": 1218925,
-    "poster_path": "/f4Bv4JWv85zHSisuq7SD2WeuJGr.jpg"
+    "poster_path": "/f4Bv4JWv85zHSisuq7SD2WeuJGr.jpg",
+    "director": "Тацуя Ёсихара"
   },
   {
     "title": "Predator: Badlands",
@@ -29478,7 +30754,8 @@ var movieDB = [
     "why": "Изгнанный из клана хищник Дек отправляется на опасную планету Генна. Он стремится доказать своему отцу и всему племени, что достоин быть частью клана. Дек встречает загадочную девушку-андроида Тию и объединяется с ней, чтобы отправиться на поиски сверххищника Калиска, наиболее грозного противника на...",
     "title_ru": "Хищник: Планета смерти",
     "tmdb_id": 1242898,
-    "poster_path": "/pu5Aj7nyx9ISKMcmWvUjZv68GLs.jpg"
+    "poster_path": "/pu5Aj7nyx9ISKMcmWvUjZv68GLs.jpg",
+    "director": "Дэн Трахтенберг"
   },
   {
     "title": "The Housemaid",
@@ -29497,7 +30774,8 @@ var movieDB = [
     "why": "Милли устраивается прислугой с проживанием к состоятельной семье Винчестер, живущей в загородном особняке. Девушка только что вышла по УДО, и ей необходима эта работа, но находить общий язык с хозяйкой Ниной становится всё сложнее: та заметно не в себе и регулярно к ней цепляется. Зато её супруг Энд...",
     "title_ru": "Горничная",
     "tmdb_id": 1368166,
-    "poster_path": "/l9G0cHotnQRYJNJSBNdMjfwb5Fd.jpg"
+    "poster_path": "/l9G0cHotnQRYJNJSBNdMjfwb5Fd.jpg",
+    "director": "Пол Фиг"
   },
   {
     "title": "Hoppers",
@@ -29523,7 +30801,8 @@ var movieDB = [
     "why": "Любительница животных Мейбл использует умную новуютехнологию, предназначенную для «перескакивания» человеческого сознанияв реалистичных роботизированных животных, чтобы общаться с бобрами, раскрывая тайны животного мира, которые она даже не могла себе представить.",
     "title_ru": "Прыгуны",
     "tmdb_id": 1327819,
-    "poster_path": "/4eqr5LZH122BiU9hboXHZxX8bBl.jpg"
+    "poster_path": "/4eqr5LZH122BiU9hboXHZxX8bBl.jpg",
+    "director": "Дэниел Чонг"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
@@ -29545,7 +30824,8 @@ var movieDB = [
     "why": "Во время подготовки к решающему сражению с демонами члены Корпуса и столпы проходят изнурительную программу — Тренировку Хашира. Но внезапно сам Музан Кибуцудзи появляется в особняке Убуяшики. Когда глава Корпуса оказывается в смертельной опасности, Танджиро и Хашира спешат на помощь, но Музан втяги...",
     "title_ru": "Истребитель демонов: Бесконечный замок",
     "tmdb_id": 1311031,
-    "poster_path": "/rz1jMKpu4rq2wiKMyILF06aiSwP.jpg"
+    "poster_path": "/rz1jMKpu4rq2wiKMyILF06aiSwP.jpg",
+    "director": "Харуо Сотодзаки"
   },
   {
     "title": "Sinners",
@@ -29567,7 +30847,8 @@ var movieDB = [
     "why": "1932 год. После долгих лет отсутствия близнецы Смок и Стэк возвращаются в родной городок в дельте Миссисипи. Они успели повоевать в траншеях Первой мировой, а потом стали гангстерами в Чикаго. Братья выкупают у белого расиста территорию с хозяйственными постройками, чтобы открыть там музыкальный бар...",
     "title_ru": "Грешники",
     "tmdb_id": 1233413,
-    "poster_path": "/ZpqkD0DOd6bpLpcV9oBY8YGcRj.jpg"
+    "poster_path": "/ZpqkD0DOd6bpLpcV9oBY8YGcRj.jpg",
+    "director": "Райан Куглер"
   },
   {
     "title": "Avatar: Fire and Ash",
@@ -29587,7 +30868,8 @@ var movieDB = [
     "why": "Джейк Салли, Нейтири и их дети переживают смерть Нетейама. Противостояние с корпорацией RDA обостряется, и теперь семье предстоит столкнуться с враждебным племенем На`ви во главе с Варанг.",
     "title_ru": "Аватар: Пламя и пепел",
     "tmdb_id": 83533,
-    "poster_path": "/kpxYvaCnbRi7btNnpLCJrehy77e.jpg"
+    "poster_path": "/kpxYvaCnbRi7btNnpLCJrehy77e.jpg",
+    "director": "Джеймс Кэмерон"
   },
   {
     "title": "Marty Supreme",
@@ -29606,7 +30888,8 @@ var movieDB = [
     "why": "Молодой амбициозный парень Марти Маузер готов пойти на всё ради осуществления своей мечты, чтобы доказать всему миру, что для него нет ничего невозможного.",
     "title_ru": "Марти Великолепный",
     "tmdb_id": 1317288,
-    "poster_path": "/xvAZbVxTqT3MFBcGcay1ErVdR6k.jpg"
+    "poster_path": "/xvAZbVxTqT3MFBcGcay1ErVdR6k.jpg",
+    "director": "Джош Сафди"
   },
   {
     "title": "Peaky Blinders: The Immortal Man",
@@ -29625,7 +30908,8 @@ var movieDB = [
     "why": "Когда отдалившийся сын гангстера Томми Шелби попадает в нацистский заговор, отцу приходится вернуться в Бирмингем, чтобы спасти свою семью и страну.",
     "title_ru": "Острые козырьки: бессмертный",
     "tmdb_id": 875828,
-    "poster_path": "/2Dv246IRJ9D9uKKkXGGkpZq7LPJ.jpg"
+    "poster_path": "/2Dv246IRJ9D9uKKkXGGkpZq7LPJ.jpg",
+    "director": "Том Харпер"
   },
   {
     "title": "Jujutsu Kaisen 0",
@@ -29648,7 +30932,8 @@ var movieDB = [
     "why": "Юту Оккоцу преследует призрак его подруги детства, которая погибла в ДТП. Однако она вовсе не та милая девушка, какой была Рика до смерти, а чудовищное и могущественное существо. Не в силах контролировать агрессивное поведение Рики, Юта бессилен остановить кровопролитие, которое следует за ее жесток...",
     "title_ru": "Магическая битва 0. Фильм",
     "tmdb_id": 810693,
-    "poster_path": "/rzi4VAYuT3bQDDUtomXQsxE71db.jpg"
+    "poster_path": "/rzi4VAYuT3bQDDUtomXQsxE71db.jpg",
+    "director": "Пак Сон Ху"
   },
   {
     "title": "Frankenstein",
@@ -29670,7 +30955,8 @@ var movieDB = [
     "why": "1857 год. Команда застрявшего в северных льдах датского корабля спасает раненого мужчину от похожего на человека чудовища, которое невозможно убить. Тот рассказывает капитану свою историю: его зовут Виктор Франкенштейн, он сын знаменитого врача, и с самого детства вынашивал идею оживить мёртвую плот...",
     "title_ru": "Франкенштейн",
     "tmdb_id": 1062722,
-    "poster_path": "/oCxLbnBBEmUCeRcmsBrmF9jEcHd.jpg"
+    "poster_path": "/oCxLbnBBEmUCeRcmsBrmF9jEcHd.jpg",
+    "director": "Гильермо дель Торо"
   },
   {
     "title": "Avatar Aang: The Last Airbender",
@@ -29695,7 +30981,8 @@ var movieDB = [
     "why": "Аанг, аватар и последний маг воздуха, узнаёт о древней силе, которая может спасти его культуру от исчезновения. Вместе с давними друзьями Аанг отправляется в далёкое путешествие, чтобы отыскать силу и опередить тех, кто хочет использовать её в злых целях.",
     "title_ru": "Легенда об Аанге: Последний маг воздуха",
     "tmdb_id": 980431,
-    "poster_path": "/cypsdXImFEVN3NOlckf9ZVrBY6M.jpg"
+    "poster_path": "/cypsdXImFEVN3NOlckf9ZVrBY6M.jpg",
+    "director": "Лорен Монтгомери"
   },
   {
     "title": "The Drama",
@@ -29717,7 +31004,8 @@ var movieDB = [
     "why": "Чарли и Эмма познакомились в кафе два года назад, а через неделю должны пожениться. Они активно готовятся к торжеству: репетируют свадебный танец, общаются с диджеем и фотографом и выбирают напитки на праздничный стол. Однажды за ужином с друзьями Эмма раскрывает неожиданный секрет своего прошлого, ...",
     "title_ru": "Вот это драма!",
     "tmdb_id": 1325734,
-    "poster_path": "/mayjUmmXGM1n5E5AJnOfylig10W.jpg"
+    "poster_path": "/mayjUmmXGM1n5E5AJnOfylig10W.jpg",
+    "director": "Кристоффер Боргли"
   },
   {
     "title": "Project Hail Mary",
@@ -29735,7 +31023,8 @@ var movieDB = [
     "why": "Астронавт Райленд Грейс просыпается на космическом корабле, не помня ни себя, ни свою миссию. Постепенно мужчина приходит к выводу, что он — единственный выживший из экипажа, отправленного в звёздную систему Тау Кита в поисках спасения от катастрофы на Земле. Райленду предстоит положиться на свои об...",
     "title_ru": "Проект «Конец света»",
     "tmdb_id": 687163,
-    "poster_path": "/jucD9FzLjVsFfBiFcSdoLa6rPOl.jpg"
+    "poster_path": "/jucD9FzLjVsFfBiFcSdoLa6rPOl.jpg",
+    "director": "Фил Лорд, Крис Миллер"
   },
   {
     "title": "Backrooms",
@@ -29755,7 +31044,8 @@ var movieDB = [
     "why": "Когда неудачливый продавец мебели Кларк обнаруживает скрытый портал в другое измерение в подвале своего магазина, он оказывается в бесконечном лабиринте извилистых жёлтых коридоров. В этом мире время и пространство не подчиняются логике, а нечто жуткое может скрываться за каждым углом.",
     "title_ru": "Закулисье реальности",
     "tmdb_id": 1083381,
-    "poster_path": "/oBY8IQb9NpzbkCo0xzpz7Q1DCu.jpg"
+    "poster_path": "/oBY8IQb9NpzbkCo0xzpz7Q1DCu.jpg",
+    "director": "Кейн Парсонс"
   },
   {
     "title": "The Ministry of Ungentlemanly Warfare",
@@ -29778,6 +31068,7 @@ var movieDB = [
     "why": "1942 год, Великобритания. Они - лучшие из лучших. Отпетые авантюристы и первоклассные спецы, привыкшие действовать в одиночку. Но когда на кону стоит судьба всего мира, им приходится объединиться в сверхсекретное боевое подразделение и отправиться на выполнение дерзкой миссии против нацистов. Теперь...",
     "title_ru": "Министерство неджентльменских дел",
     "tmdb_id": 799583,
-    "poster_path": "/fxLCzo1HzlcvNIXmb1lLTkAJsfV.jpg"
+    "poster_path": "/fxLCzo1HzlcvNIXmb1lLTkAJsfV.jpg",
+    "director": "Гай Ричи"
   }
 ];
