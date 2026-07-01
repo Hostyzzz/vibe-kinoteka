@@ -421,12 +421,19 @@ function findMovie() {
       });
 
       var pool = dirFilms.length >= 2 ? dirFilms : movieDB.filter(function(f) { return f.rating; });
-      pool.sort(function(a, b) { return isWorst ? a.rating - b.rating : b.rating - a.rating; });
-      scored = pool.map(function(m) { return { movie: m, score: matchScore(m, query) }; });
-      scored.sort(function(a, b) { return b.score - a.score; });
-      var topBest = scored.filter(function(s) { return s.score > 0; }).slice(0, 3);
-      topBest.sort(function(a, b) { return isWorst ? a.movie.rating - b.movie.rating : b.movie.rating - a.movie.rating; });
-      scored = topBest.length > 0 ? topBest : scored.slice(0, 1);
+      if (dirFilms.length >= 2) {
+        // Director match: score + sort by rating
+        pool.sort(function(a, b) { return isWorst ? a.rating - b.rating : b.rating - a.rating; });
+        scored = pool.map(function(m) { return { movie: m, score: matchScore(m, query) }; });
+        scored.sort(function(a, b) { return b.score - a.score; });
+        var topBest = scored.filter(function(s) { return s.score > 0; }).slice(0, 3);
+        topBest.sort(function(a, b) { return isWorst ? a.movie.rating - b.movie.rating : b.movie.rating - a.movie.rating; });
+        scored = topBest.length > 0 ? topBest : scored.slice(0, 1);
+      } else {
+        // No director: pure rating sort, no matchScore filter
+        pool.sort(function(a, b) { return isWorst ? a.rating - b.rating : b.rating - a.rating; });
+        scored = pool.slice(0, 3).map(function(m) { return { movie: m, score: 1 }; });
+      }
     } else {
       scored = movieDB.map(m => ({ movie: m, score: matchScore(m, query) }));
       scored.sort((a, b) => b.score - a.score);
