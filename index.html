@@ -392,8 +392,35 @@ function findMovie() {
   wrap.innerHTML = '<div class="thinking">Ищу твой вайб<span class="dots"></span></div>';
 
   setTimeout(() => {
-    const scored = movieDB.map(m => ({ movie: m, score: matchScore(m, query) }));
-    scored.sort((a, b) => b.score - a.score);
+    const lower = query.toLowerCase();
+    const isBest = /\u043B\u0443\u0447\u0448|best|top|\u0442\u043E\u043F/.test(lower);
+    const isWorst = /\u0445\u0443\u0434\u0448|worst/.test(lower);
+
+    let scored;
+
+    // Best/worst + director search
+    if ((isBest || isWorst) && movieDB.some(f => f.director && f.rating)) {
+      const dirFilms = movieDB.filter(f => {
+        return f.director && f.rating && f.director.toLowerCase().split(', ').some(d =>
+          lower.includes(d.toLowerCase())
+        );
+      });
+      if (dirFilms.length >= 2) {
+        dirFilms.sort((a, b) => isWorst ? a.rating - b.rating : b.rating - a.rating);
+        // Score them and return top 3
+        scored = dirFilms.map(m => ({ movie: m, score: matchScore(m, query) }));
+        scored.sort((a, b) => b.score - a.score);
+        var topBest = scored.filter(s => s.score > 0).slice(0, 3);
+        topBest.sort((a, b) => isWorst ? a.movie.rating - b.movie.rating : b.movie.rating - a.movie.rating);
+        scored = topBest.concat(scored.filter(s => !topBest.includes(s) && s.score > 0).slice(0, 4));
+      } else {
+        scored = movieDB.map(m => ({ movie: m, score: matchScore(m, query) }));
+        scored.sort((a, b) => b.score - a.score);
+      }
+    } else {
+      scored = movieDB.map(m => ({ movie: m, score: matchScore(m, query) }));
+      scored.sort((a, b) => b.score - a.score);
+    }
 
     const top = scored[0];
     const alternatives = scored.slice(1, 4).filter(s => s.score > 0).map(s => s.movie);
