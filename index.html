@@ -413,9 +413,9 @@ function findMovie() {
       wrap.innerHTML = `
         <div class="movie-card">
           <div class="movie-header">
-            <div class="movie-poster">${m.poster}</div>
+            <div class="movie-poster">${m.poster && m.poster.startsWith('http') ? '<img src="' + m.poster + '" alt="" style="width:100%;height:100%;object-fit:cover;border-radius:10px" loading="lazy">' : m.poster}</div>
             <div class="movie-info">
-              <h2>${m.title}</h2>
+              <h2>${m.title_ru && m.title_ru !== 'N/A' ? m.title_ru : m.title}${m.title_ru && m.title_ru !== 'N/A' && m.title_ru !== m.title ? ' <small style="color:#888;font-size:14px">(' + m.title + ')</small>' : ''}</h2>
               <div class="year">${m.year}</div>
               ${m.tags && m.tags.length ? `
               <div class="tags">${m.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>` : ''}
