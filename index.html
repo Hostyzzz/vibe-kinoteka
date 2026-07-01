@@ -368,14 +368,18 @@ function matchScore(movie, query) {
     }
   }
 
-  // Director bonus (only if word NOT in title — prevent "скотт" matching Ridley Scott over Scott Pilgrim)
+  // Director bonus (only if word NOT in ANY film title)
   if (movie.director) {
     const dirLow = movie.director.toLowerCase();
-    const titleLow = movie.title.toLowerCase() + ' ' + (movie.title_ru || '').toLowerCase();
     const dirParts = dirLow.split(', ').join(' ').split(' ');
     for (const w of qWords) {
       if (w.length < 3) continue;
-      if (titleLow.includes(w)) continue; // word is in title, don't use for director
+      // Check if this word appears in ANY film title
+      const inAnyTitle = movieDB.some(f => {
+        const t = (f.title + ' ' + (f.title_ru || '')).toLowerCase();
+        return t.includes(w);
+      });
+      if (inAnyTitle) continue;
       if (dirParts.some(dp => dp.length >= 4 && (w.startsWith(dp) || dp.startsWith(w)))) {
         score += 15; matchedWords++;
       }
@@ -475,6 +479,7 @@ function findMovie() {
             <div class="movie-info">
               <h2>${m.title_ru && m.title_ru !== 'N/A' ? m.title_ru : m.title}${m.title_ru && m.title_ru !== 'N/A' && m.title_ru !== m.title ? ' <small style="color:#888;font-size:14px">(' + m.title + ')</small>' : ''}</h2>
               <div class="year">${m.year}${isLegend ? ' <span style="color:#f0a500;font-weight:700">⭐ 11/10</span>' : (m.rating ? ' <span style="color:#f0a500">⭐ ' + m.rating + '</span>' : '')}</div>
+              ${m.director ? '<div style="color:#aaa;font-size:13px;margin-top:2px">🎬 ' + m.director + '</div>' : ''}
               ${m.tags && m.tags.length ? `
               <div class="tags">${m.tags.map(t => `<span class="tag${isLegend ? ' gold' : ''}">${t}</span>`).join('')}</div>` : ''}
               ${locHTML}
