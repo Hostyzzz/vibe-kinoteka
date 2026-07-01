@@ -404,9 +404,11 @@ function findMovie() {
     // Best/worst + director search
     if ((isBest || isWorst) && movieDB.some(f => f.director && f.rating)) {
       const dirFilms = movieDB.filter(f => {
-        return f.director && f.rating && f.director.toLowerCase().split(', ').some(d =>
-          lower.includes(d.toLowerCase())
-        );
+        return f.director && f.rating && f.director.toLowerCase().split(', ').some(d => {
+          return d.toLowerCase().split(' ').some(part =>
+            part.length > 3 && lower.includes(part)
+          );
+        });
       });
       if (dirFilms.length >= 2) {
         dirFilms.sort((a, b) => isWorst ? a.rating - b.rating : b.rating - a.rating);
