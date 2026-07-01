@@ -368,13 +368,17 @@ function matchScore(movie, query) {
     }
   }
 
-  // Director bonus
+  // Director bonus (handles cases like нолана → нолан)
   if (movie.director) {
     const dirLow = movie.director.toLowerCase();
+    const dirParts = dirLow.split(', ').join(' ').split(' ');
     for (const w of qWords) {
-      if (w.length > 2 && dirLow.includes(w)) { score += 15; matchedWords++; }
+      if (w.length < 3) continue;
+      if (dirParts.some(dp => dp.length >= 4 && (w.startsWith(dp) || dp.startsWith(w)))) {
+        score += 15; matchedWords++;
+      }
     }
-    if (dirLow.includes(q.replace(/\s+/g, ''))) score += 10;
+    if (dirParts.some(dp => dp.length >= 4 && q.replace(/\s+/g, '').includes(dp))) score += 10;
   }
 
   return score;
@@ -405,9 +409,13 @@ function findMovie() {
     if ((isBest || isWorst) && movieDB.some(f => f.director && f.rating)) {
       const dirFilms = movieDB.filter(f => {
         return f.director && f.rating && f.director.toLowerCase().split(', ').some(d => {
-          return d.toLowerCase().split(' ').some(part =>
-            part.length > 3 && lower.includes(part)
-          );
+          return d.toLowerCase().split(' ').some(part => {
+            if (part.length < 4) return false;
+            if (lower.includes(part)) return true;
+            return lower.split(/[\s,]+/).some(qw =>
+              qw.length >= part.length - 1 && qw.startsWith(part)
+            );
+          });
         });
       });
       if (dirFilms.length >= 2) {
